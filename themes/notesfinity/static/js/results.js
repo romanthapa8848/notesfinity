@@ -1,5 +1,5 @@
-import { nebSubjects } from "/js/neb.js"; // Adjust the path if necessary
-import { ioeSubjects } from "/js/ioe.js"; // Adjust the path if necessary
+import { nebSubjects } from "js/neb.js"; // Adjust the path if necessary
+import { ioeSubjects } from "js/ioe.js"; // Adjust the path if necessary
 
 // Combine subjects from both NEB and IOE
 const subjects = [...nebSubjects, ...ioeSubjects];
