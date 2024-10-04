@@ -6,33 +6,6 @@ main {
   font-family: Arial, sans-serif; /* Use Arial font */
 }
 
-/* Headings */
-h1 {
-  font-size: 2rem; /* Size for main headings */
-  margin-bottom: 1rem; /* Space below the heading */
-  color: #007bff; /* Custom color for headings */
-  font-family: Arial, sans-serif; /* Use Arial font */
-}
-
-h2 {
-  font-size: 1.75rem; /* Size for secondary headings */
-  margin-bottom: 0.75rem; /* Space below the heading */
-  font-family: Arial, sans-serif; /* Use Arial font */
-}
-
-h3 {
-  font-size: 1.5rem; /* Size for tertiary headings */
-  margin-bottom: 0.5rem; /* Space below the heading */
-  font-family: Arial, sans-serif; /* Use Arial font */
-}
-
-/* Paragraphs */
-p {
-  margin-bottom: 1rem; /* Space below paragraphs */
-  line-height: 1.6; /* Improved readability */
-  font-family: Arial, sans-serif; /* Use Arial font */
-}
-
 /* Links */
 a {
   color: #007bff; /* Link color */
