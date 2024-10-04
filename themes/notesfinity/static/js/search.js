@@ -17,7 +17,7 @@ document.addEventListener("DOMContentLoaded", () => {
 
     if (query && !isError) {
       // Redirect to results page with query parameter
-      window.location.href = `/html/results?query=${encodeURIComponent(query)}`;
+      window.location.href = `/results?query=${encodeURIComponent(query)}`;
     } else if (!query) {
       // Show error message in red
       isError = true; // Set error state
