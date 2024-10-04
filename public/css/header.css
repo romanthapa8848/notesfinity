@@ -30,7 +30,7 @@ header.sticky {
 /* Search container styling */
 .search-container {
   width: 100%;
-  max-width: 500px;
+  max-width: 400px;
   position: relative;
   margin: 0;
   padding: 10px;
