@@ -1,4 +1,7 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://romanthapa8848.github.io/notesfinity-hugo/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Notesfinity'
 theme = 'notesfinity'
+
+[params]
+  githubURL = "https://github.com/romanthapa8848/notesfinity-hugo"
