@@ -1,16 +1,17 @@
 /* Main Content Styles */
+body {
+  font-family: Arial, sans-serif; /* Use Arial font */
+}
 main {
   padding: 0 300px; /* Space around the main content */
   background-color: #fff; /* Light background for contrast */
   color: #333; /* Default text color */
-  font-family: Arial, sans-serif; /* Use Arial font */
 }
 
 /* Links */
 a {
   color: #007bff; /* Link color */
   text-decoration: none; /* Remove underline */
-  font-family: Arial, sans-serif; /* Use Arial font */
 }
 
 a:hover {
@@ -25,7 +26,6 @@ ol {
 
 li {
   margin-bottom: 0.5rem; /* Space between list items */
-  font-family: Arial, sans-serif; /* Use Arial font */
 }
 
 /* Images */
@@ -41,7 +41,6 @@ blockquote {
   margin: 1rem 0; /* Space above and below blockquotes */
   background-color: #f0f8ff; /* Light background for emphasis */
   font-style: italic; /* Italic text */
-  font-family: Arial, sans-serif; /* Use Arial font */
 }
 
 /* Responsive styles */
