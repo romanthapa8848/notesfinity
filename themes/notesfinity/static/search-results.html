@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Search Results - Notesfinity</title>
+    <meta
+      name="description"
+      content="Search results for your query on Notesfinity."
+    />
+    <meta
+      name="keywords"
+      content="search results, notes, SEE, NEB, CTEVT, IOE, education"
+    />
+    <!-- CSS -->
+    <link rel="stylesheet" href="/css/results.css" />
+    <link rel="stylesheet" href="/css/header.css" />
+    <link rel="stylesheet" href="/css/footer.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <!-- Google AdSense Script -->
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1728488366569054"
+      crossorigin="anonymous"
+    ></script>
+    <!-- JS -->
+    <script type="module" src="/js/results.js" defer></script>
+    <script type="module" src="/js/search.js" defer></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <script src="https://unpkg.com/lunr/lunr.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/lunr.js/2.3.9/lunr.min.js"></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <!-- Header section -->
+      <header>
+        <a href="/index">
+          <img id="logo" src="/logo.png" alt="Logo" />
+        </a>
+        <div class="search-container">
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Enter your subject name or code"
+          />
+          <button id="search-button"><i class="fas fa-search"></i></button>
+        </div>
+      </header>
+      <main>
+        <h1>Search Results for: <span id="search-query"></span></h1>
+        <div id="results-container"></div>
+      </main>
+      <!-- Footer section -->
+      <footer>
+        <div class="footer-row">
+          <ul class="footer-links">
+            <li><a href="/html/about">About</a></li>
+            <li><a href="/html/contact">Contact</a></li>
+            <li><a href="/html/privacy">Privacy</a></li>
+            <li><a href="/html/terms">Terms</a></li>
+          </ul>
+        </div>
+        <div class="footer-row copyright">
+          <p>&copy; Notesfinity.com</p>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
