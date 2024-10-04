@@ -1,5 +1,4 @@
-baseURL = 'https://romanthapa8848.github.io/'
+baseURL = 'https://romanthapa8848.github.io/notesfinity-hugo/'
 languageCode = 'en-us'
 title = 'Notesfinity'
 theme = 'notesfinity'
-
