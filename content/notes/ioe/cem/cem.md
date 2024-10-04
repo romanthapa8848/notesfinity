@@ -66,54 +66,34 @@ This course provides a detailed understanding of the materials used in civil eng
 Here are 10 common calculus formulas used in engineering applications:
 
 1. **Derivative of a Function**:  
-   \[
-   \frac{d}{dx} [f(x)] = f'(x)
-   \]
+   $ \frac{d}{dx} [f(x)] = f'(x) $
 
 2. **Integral of a Function**:  
-   \[
-   \int f(x) dx = F(x) + C
-   \]
+   $ \int f(x) dx = F(x) + C $
 
 3. **Power Rule**:  
-   \[
-   \frac{d}{dx} [x^n] = nx^{n-1}
-   \]
+   $ \frac{d}{dx} [x^n] = nx^{n-1} $
 
 4. **Chain Rule**:  
-   \[
-   \frac{d}{dx} [f(g(x))] = f'(g(x)) \cdot g'(x)
-   \]
+   $ \frac{d}{dx} [f(g(x))] = f'(g(x)) \cdot g'(x) $
 
 5. **Product Rule**:  
-   \[
-   \frac{d}{dx} [f(x) \cdot g(x)] = f'(x) \cdot g(x) + f(x) \cdot g'(x)
-   \]
+   $ \frac{d}{dx} [f(x) \cdot g(x)] = f'(x) \cdot g(x) + f(x) \cdot g'(x) $
 
 6. **Quotient Rule**:  
-   \[
-   \frac{d}{dx} \left[\frac{f(x)}{g(x)}\right] = \frac{f'(x)g(x) - f(x)g'(x)}{g(x)^2}
-   \]
+   $ \frac{d}{dx} \left[\frac{f(x)}{g(x)}\right] = \frac{f'(x)g(x) - f(x)g'(x)}{g(x)^2} $
 
 7. **Second Derivative**:  
-   \[
-   \frac{d^2}{dx^2} [f(x)] = f''(x)
-   \]
+   $ \frac{d^2}{dx^2} [f(x)] = f''(x) $
 
 8. **Fundamental Theorem of Calculus**:  
-   \[
-   \int_a^b f'(x) dx = f(b) - f(a)
-   \]
+   $ \int_a^b f'(x) dx = f(b) - f(a) $
 
 9. **Integration by Parts**:  
-   \[
-   \int u dv = uv - \int v du
-   \]
+   $ \int u dv = uv - \int v du $
 
 10. **Taylor Series Expansion**:  
-    \[
-    f(x) = f(a) + f'(a)(x - a) + \frac{f''(a)}{2!}(x - a)^2 + \cdots
-    \]
+    $ f(x) = f(a) + f'(a)(x - a) + \frac{f''(a)}{2!}(x - a)^2 + \cdots $
 
 ---
 
