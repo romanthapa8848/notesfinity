@@ -1,0 +1,76 @@
+/* Make sure HTML and body take full height */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Wrapper for flexbox layout */
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Main content should take up all available space */
+main {
+  flex: 1;
+}
+
+/* Footer styles */
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0 0 0; /* Top padding of 40px, no bottom padding */
+  background-color: #f4f4f4; /* Optional: Add background color for visibility */
+}
+
+/* Footer links styling */
+.footer-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+.footer-links li {
+  margin: 0 8px; /* Reduce horizontal spacing between the links */
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Hover effect on footer links */
+.footer-links a:hover {
+  color: #3498db; /* Change this to any color you want */
+  text-decoration: underline; /* Optional: underline on hover */
+}
+
+/* Copyright styling */
+.copyright {
+  text-align: center;
+  margin-top: 5px; /* Reduce spacing above copyright */
+}
+
+/* Ensure everything is vertically aligned and centered */
+.footer-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0; /* Remove default margin */
+}
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+  .footer-links {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}

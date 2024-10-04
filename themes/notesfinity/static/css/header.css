@@ -1,0 +1,128 @@
+/* Header section */
+header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: #fff;
+  min-height: 60px; /* Set a minimum height for the header */
+  padding: 5px 0; /* Minimal padding to reduce space around elements */
+  position: sticky; /* Make header sticky */
+  top: 0; /* Stick to the top */
+  z-index: 1000; /* Ensure it's above other content */
+  border-bottom: 1px solid #e0e0e0; /* Thin line at the bottom */
+}
+
+header.sticky {
+  position: fixed; /* Sticky position */
+  top: 0;
+  left: 0;
+  right: 0;
+  background-color: #fff; /* Maintain background color */
+}
+
+/* Logo styling */
+#logo {
+  max-width: 150px; /* Ensures the logo size stays at 150px */
+  padding-top: 15px;
+}
+
+/* Search container styling */
+.search-container {
+  width: 100%;
+  max-width: 500px;
+  position: relative;
+  margin: 0;
+  padding: 10px;
+}
+
+/* Search input styling */
+#search-input {
+  width: 100%;
+  padding: 8px 15px; /* Minimal padding for smaller height */
+  padding-right: 45px; /* Space for the button */
+  border-radius: 20px;
+  border: none;
+  outline: none;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+  font-size: 16px;
+  box-sizing: border-box;
+  background-color: #fff;
+  height: 35px; /* Fixed height */
+  margin-top: 0px; /* Remove space between logo and search bar */
+}
+
+/* Error state styles */
+#search-input.error {
+  border: 1px solid red; /* Red border for error state */
+}
+
+/* Search button (icon) styling */
+#search-button {
+  position: absolute;
+  right: 15px;
+  top: 50%;
+  transform: translateY(-50%);
+  background: transparent;
+  border: none;
+  outline: none;
+  color: #007bff;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#search-button:hover {
+  color: #0056b3;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .search-container {
+    max-width: 90%;
+  }
+
+  #search-input {
+    padding-right: 40px;
+    font-size: 15px;
+  }
+
+  #search-button {
+    right: 15px;
+    width: 35px;
+    height: 35px;
+    font-size: 18px;
+  }
+
+  #logo {
+    max-width: 150px;
+    padding-top: 10px;
+  }
+}
+
+@media (max-width: 480px) {
+  .search-container {
+    max-width: 90%;
+  }
+
+  #search-input {
+    padding-right: 35px;
+    font-size: 14px;
+  }
+
+  #search-button {
+    right: 15px;
+    width: 30px;
+    height: 30px;
+    font-size: 16px;
+  }
+
+  #logo {
+    max-width: 150px;
+    padding-top: 10px;
+  }
+}
