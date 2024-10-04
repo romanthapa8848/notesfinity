@@ -106,7 +106,7 @@ header.sticky {
 
 @media (max-width: 480px) {
   .search-container {
-    max-width: 60%;
+    max-width: 80%;
   }
 
   #search-input {
