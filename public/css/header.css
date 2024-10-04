@@ -83,7 +83,7 @@ header.sticky {
 /* Mobile responsiveness */
 @media (max-width: 768px) {
   .search-container {
-    max-width: 90%;
+    max-width: 80%;
   }
 
   #search-input {
@@ -106,7 +106,7 @@ header.sticky {
 
 @media (max-width: 480px) {
   .search-container {
-    max-width: 90%;
+    max-width: 80%;
   }
 
   #search-input {
