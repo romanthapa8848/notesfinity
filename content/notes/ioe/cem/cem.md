@@ -1,5 +1,5 @@
 ---
-title: "Civil Engineering Materials Syllabus"
+title: "Civil Engineering Materials"
 description: "Explore the comprehensive syllabus for Civil Engineering Materials, including properties, types, testing, sustainability, and emerging trends."
 keywords:
   [
