@@ -1,24 +1,25 @@
 ---
+
 title: "Civil Engineering Materials Syllabus"
 description: "Explore the comprehensive syllabus for Civil Engineering Materials, including properties, types, testing, sustainability, and emerging trends."
 keywords:
-  [
-    "Civil Engineering Materials",
-    "Construction Materials",
-    "Engineering Materials",
-    "Properties of Materials",
-    "Sustainable Materials",
-    "Testing Materials",
-    "Concrete",
-    "Steel",
-    "Wood",
-    "Asphalt",
-  ]
+[
+"Civil Engineering Materials",
+"Construction Materials",
+"Engineering Materials",
+"Properties of Materials",
+"Sustainable Materials",
+"Testing Materials",
+"Concrete",
+"Steel",
+"Wood",
+"Asphalt",
+]
 author: "Roman Thapa"
 date: 2024-10-04
 draft: false
 layout: "non_math_mode"
----
+---s
 
 # Civil Engineering Materials
 
