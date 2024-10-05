@@ -22,15 +22,19 @@ layout: "non_math_mode"
 
 # Civil Engineering Materials
 
+---
+
 | Course Code | CE 506                                                        |
 | ----------- | ------------------------------------------------------------- |
 | Theory      | Assessment Mark: 10; Final Exam: 40 Marks (Duration: 3 Hours) |
 | Practical   | Assessment Mark: 25; Final Exam: 0 Marks                      |
 | Total Marks | 75 Marks                                                      |
 
+---
+
 ## Course Objectives
 
-To provide concepts and knowledge of a wide range of materials (composition, manufacturing, properties, uses, etc.) that can be used in the construction and maintenance of civil engineering structures.
+## To provide concepts and knowledge of a wide range of materials (composition, manufacturing, properties, uses, etc.) that can be used in the construction and maintenance of civil engineering structures.
 
 ## 1. Introduction to Civil Engineering Materials
 
@@ -38,6 +42,8 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 - [1.2 Selection Criteria of Construction Material](./introduction-to-civil-engineering-materials/selection-criteria.html)
 - [1.3 Classification of Civil Engineering Material](./introduction-to-civil-engineering-materials/classification-material.html)
 - [1.4 Properties of Civil Engineering Material](./introduction-to-civil-engineering-materials/properties-material.html)
+
+---
 
 ## 2. Building Stones
 
@@ -47,6 +53,8 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 - [2.4 Deterioration and preservation of stone](./building-stones/deterioration-preservation-stone.html)
 - [2.5 Natural bed of stone](./building-stones/natural-bed-stone.html)
 - [2.6 Dressing of stone](./building-stones/dressing-stone.html)
+
+---
 
 ## 3. Clay Products
 
@@ -59,11 +67,15 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 - [3.7 Tiles and their types](./clay-products/tiles-types.html)
 - [3.8 Earthenware and Glazing](./clay-products/earthenware-glazing.html)
 
+---
+
 ## 4. Lime
 
 - [4.1 Introduction](./lime/introduction.html)
 - [4.2 Types, Properties and Uses of Lime](./lime/types-properties-uses.html)
 - [4.3 Properties and Uses of Pozzolanic Material](./lime/properties-uses-pozzolanic-material.html)
+
+---
 
 ## 5. Cement
 
@@ -76,12 +88,16 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 - [5.7 Cement Water Proofers](./cement/cement-water-proofers.html)
 - [5.8 Admixtures](./cement/admixtures.html)
 
+---
+
 ## 6. Mortar
 
 - [6.1 Introduction](./mortar/introduction.html)
 - [6.2 Classification of Mortar](./mortar/classification.html)
 - [6.3 Function of Mortar](./mortar/function.html)
 - [6.4 Selection of Mortar for Civil Engineering Works](./mortar/selection.html)
+
+---
 
 ## 7. Timber
 
@@ -94,6 +110,8 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 - [7.7 Deterioration and Preservation of Timber](./timber/deterioration-preservation.html)
 - [7.8 Commercial Products of Timber](./timber/commercial-products.html)
 
+---
+
 ## 8. Metals and Alloys
 
 - [8.1 Introduction](./metals-and-alloys/introduction.html)
@@ -104,18 +122,22 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 - [8.6 Non-ferrous Metals](./metals-and-alloys/non-ferrous-metals.html)
 - [8.7 Commercial Products of Metals](./metals-and-alloys/commercial-products.html)
 
+---
+
 ## 9. Paints and Varnishes
 
 - [9.1 Function, Ingredients, Types, and Uses of Paints and Varnishes](./paints-and-varnishes/function-ingredients-types.html)
 - [9.2 Distemper](./paints-and-varnishes/distemper.html)
 - [9.3 Anti-termite Treatment](./paints-and-varnishes/anti-termite-treatment.html)
 
+---
+
 ## 10. Asphalt, Bitumen, Tar and Miscellaneous Materials
 
 - [10.1 Types, Properties and Uses of Asphalt, Bitumen, and Tar](./asphalt-bitumen-tar/types-properties-uses.html)
 - [10.2 Types, Properties and Uses of Glass](./asphalt-bitumen-tar/types-properties-uses-glass.html)
 - [10.3 Plastic Materials](./asphalt-bitumen-tar/plastic-materials.html)
-- [10.4 Insulating Materials](./asphalt-bitumen-tar/insulating-materials.html)
+- ## [10.4 Insulating Materials](./asphalt-bitumen-tar/insulating-materials.html)
 
 ## Practical Tests
 
@@ -125,6 +147,8 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 4. **Setting Time Test of Cement (Initial and Final)**
 5. **Fineness and Soundness Test of Cement**
 6. **Compressive Strength of Cement**
+
+---
 
 ## References
 
