@@ -61,3 +61,13 @@ blockquote {
     font-size: 1.25rem; /* Adjust heading size */
   }
 }
+
+.qr-code-placeholder {
+  text-align: center; /* Center the QR code */
+  margin: 20px 0; /* Add some margin */
+}
+
+.qr-code-placeholder img {
+  width: 200px; /* Adjust the size as needed */
+  height: auto; /* Maintain aspect ratio */
+}
