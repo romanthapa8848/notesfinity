@@ -2,17 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/notes/ioe/cem/cem/</loc>
+    <loc>https://notesfinity.com/notes/ioe/cem/cem/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/</loc>
+    <loc>https://notesfinity.com/notes/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://notesfinity.com/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://notesfinity.com/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://notesfinity.com/tags/</loc>
   </url>
 </urlset>
