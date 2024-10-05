@@ -53,9 +53,20 @@
         <h1>Search Results for: <span id="search-query"></span></h1>
         <div id="results-container"></div>
       </main>
-      <!-- Footer -->
-      {{ partial "footer.html" . }}
-      <!-- Include the footer partial here -->
+      <!-- Footer section -->
+      <footer>
+        <div class="footer-row">
+          <ul class="footer-links">
+            <li><a href="/html/about">About</a></li>
+            <li><a href="/html/contact">Contact</a></li>
+            <li><a href="/html/privacy">Privacy</a></li>
+            <li><a href="/html/terms">Terms</a></li>
+          </ul>
+        </div>
+        <div class="footer-row copyright">
+          <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
+        </div>
+      </footer>
     </div>
   </body>
 </html>

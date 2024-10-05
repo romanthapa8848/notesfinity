@@ -50,9 +50,20 @@
           offering valuable resources for their academic success.
         </p>
       </main>
-      <!-- Footer -->
-      {{ partial "footer.html" . }}
-      <!-- Include the footer partial here -->
+      <!-- footer.html -->
+      <footer>
+        <div class="footer-row">
+          <ul class="footer-links">
+            <li><a href="/about">About</a></li>
+            <li><a href="/contact">Contact</a></li>
+            <li><a href="/privacy">Privacy</a></li>
+            <li><a href="/terms">Terms</a></li>
+          </ul>
+        </div>
+        <div class="footer-row copyright">
+          <p>&copy; {{ now.Year }} {{ .Site.Title }}</p>
+        </div>
+      </footer>
     </div>
   </body>
 </html>
