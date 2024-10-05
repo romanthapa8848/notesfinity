@@ -1,0 +1,290 @@
+/* Basic styling for the body element */
+body {
+  font-family: Arial, sans-serif; /* Font style for the entire page */
+  margin: 0; /* Remove default margin */
+  padding: 0; /* Remove default padding */
+  text-align: center; /* Center-align text */
+  background-color: #fff; /* Set background color for the body */
+}
+
+/* Search container styling */
+
+.search-container {
+  margin: 20px auto;
+  max-width: 600px; /* Adjust width as needed */
+  position: relative;
+  padding: 0 20px; /* Add padding to container for better spacing */
+}
+
+#search-input {
+  width: 100%;
+  padding: 20px;
+  padding-right: 70px; /* Increase space for the button */
+  border-radius: 30px; /* Radius for input field */
+  border: none;
+  outline: none;
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.1);
+  font-size: 16px;
+  box-sizing: border-box; /* Include padding and border in the element's total width and height */
+  background-color: #fff; /* Ensure background color matches the input field */
+}
+
+/* Error state styles */
+#search-input.error {
+  border: 1px solid red; /* Red border for error state */
+}
+
+#search-button {
+  position: absolute;
+  right: 20px; /* Move the button slightly to the left */
+  top: 50%;
+  transform: translateY(-50%); /* Center button vertically */
+  background: transparent; /* Remove background */
+  border: none; /* Remove border */
+  outline: none; /* Remove outline */
+  color: #007bff; /* Color of the icon */
+  border-radius: 25px; /* Match the input field radius */
+  width: 50px;
+  height: 50px;
+  cursor: pointer;
+  font-size: 20px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: none; /* Remove box shadow */
+  transition: color 0.3s, transform 0.3s;
+  /* Ensure it blends with the input field */
+}
+
+#search-button:hover {
+  color: #0056b3; /* Change icon color on hover */
+}
+
+#search-button i {
+  margin: 0;
+}
+
+#logo {
+  max-width: 500px; /* Increased size of the logo */
+  padding-top: 80px;
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  #search-input {
+    padding-right: 60px; /* Adjust space for button */
+    font-size: 15px; /* Slightly smaller font size for better fit */
+  }
+
+  #search-input::placeholder {
+    font-size: 14px; /* Smaller font size for placeholder on mobile screens */
+  }
+
+  #search-button {
+    right: 25px; /* Move the button slightly to the left */
+    width: 45px;
+    height: 45px;
+    font-size: 18px;
+  }
+
+  #logo {
+    max-width: 300px; /* Adjust logo size for smaller screens */
+  }
+}
+
+@media (max-width: 480px) {
+  .search-container {
+    padding: 0 15px; /* Add padding to container for better spacing */
+  }
+
+  #search-input {
+    padding-right: 55px; /* Adjust space for button */
+    font-size: 14px; /* Further reduce font size for better fit */
+  }
+
+  #search-input::placeholder {
+    font-size: 12px; /* Even smaller font size for placeholder on very small screens */
+  }
+
+  #search-button {
+    right: 25px; /* Move the button slightly more to the left */
+    width: 40px;
+    height: 40px;
+    font-size: 16px;
+  }
+
+  #logo {
+    max-width: 300px; /* Adjust logo size for smaller screens */
+  }
+}
+
+/* Trending Notes Section */
+.trending {
+  margin: 10px auto; /* Center-align the section and add top margin */
+  padding: 0 20px; /* Add horizontal padding for better spacing */
+  text-align: center; /* Center-align text */
+  max-width: 600px; /* Adjust width as needed */
+}
+
+.trending h1 {
+  font-size: 2em; /* Adjust font size */
+  display: inline-block; /* Adjust display for better control */
+  position: relative; /* Position for absolute child */
+  overflow: hidden; /* Hide overflow */
+  white-space: nowrap; /* Prevent text wrapping */
+}
+
+.trending h1 span {
+  display: inline-block; /* Keep each letter in inline block */
+  opacity: 0; /* Initially hide each letter */
+  animation: fadeIn 2s forwards; /* Apply fade-in animation */
+}
+
+.trending ul {
+  list-style-type: none;
+  padding: 0;
+  margin-top: 0px; /* Reduce the space between h1 and ul */
+}
+
+.trending li {
+  margin-bottom: 10px;
+}
+
+.trending a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.trending a:hover {
+  text-decoration: underline;
+}
+
+/* Apply fade-in effect with infinite loop */
+@keyframes writingEffect {
+  0% {
+    opacity: 0;
+  }
+  100% {
+    opacity: 1;
+  }
+}
+
+.trending h1 {
+  animation: writingEffect 4s infinite; /* Apply infinite loop animation */
+}
+
+.trending h1 span {
+  animation: fadeIn 1.5s forwards; /* Each letter fades in sequentially */
+}
+
+/* Mobile responsiveness */
+@media (max-width: 768px) {
+  .trending {
+    padding: 0 15px; /* Add padding to container for better spacing */
+  }
+}
+
+@media (max-width: 480px) {
+  .trending {
+    padding: 0 10px; /* Add padding for very small screens */
+  }
+}
+
+/* Donate button styles */
+#donate-button {
+  background-color: #ff69b4; /* Pink background */
+  color: white; /* White text for better contrast */
+  border: none; /* No border */
+  padding: 12px 24px; /* Padding for size */
+  font-size: 16px; /* Text size */
+  margin-top: 15px; /* Space between search bar and button */
+  cursor: pointer; /* Pointer on hover */
+  border-radius: 20px; /* Rounded edges */
+  display: inline-block; /* Alignment */
+  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+}
+
+#donate-button:hover {
+  background-color: #ff1493; /* Darker pink on hover */
+}
+
+#donate-button:active {
+  background-color: #ff007f; /* Even darker pink when clicked */
+}
+
+/* Make sure HTML and body take full height */
+html,
+body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+/* Wrapper for flexbox layout */
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh;
+}
+
+/* Main content should take up all available space */
+main {
+  flex: 1;
+}
+
+/* Footer styles */
+footer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 20px 0 0 0; /* Top padding of 40px, no bottom padding */
+  background-color: #f4f4f4; /* Optional: Add background color for visibility */
+}
+
+/* Footer links styling */
+.footer-links {
+  list-style: none;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  margin: 0;
+}
+
+.footer-links li {
+  margin: 0 8px; /* Reduce horizontal spacing between the links */
+}
+
+.footer-links a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Hover effect on footer links */
+.footer-links a:hover {
+  color: #3498db; /* Change this to any color you want */
+  text-decoration: underline; /* Optional: underline on hover */
+}
+
+/* Copyright styling */
+.copyright {
+  text-align: center;
+  margin-top: 5px; /* Reduce spacing above copyright */
+}
+
+/* Ensure everything is vertically aligned and centered */
+.footer-row {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  margin: 0; /* Remove default margin */
+}
+
+/* Mobile responsiveness */
+@media (max-width: 600px) {
+  .footer-links {
+    flex-wrap: wrap;
+    justify-content: center;
+  }
+}

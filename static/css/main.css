@@ -1,0 +1,132 @@
+/* Main Content Styles */
+body {
+  font-family: Arial, sans-serif; /* Use Arial font */
+}
+main {
+  padding: 0 300px; /* Space around the main content */
+  background-color: #fff; /* Light background for contrast */
+  color: #333; /* Default text color */
+}
+
+/* Links */
+a {
+  color: #007bff; /* Link color */
+  text-decoration: none; /* Remove underline */
+}
+
+a:hover {
+  text-decoration: underline; /* Underline on hover */
+}
+
+/* Lists */
+ul,
+ol {
+  margin-bottom: 1rem; /* Space below lists */
+}
+
+li {
+  margin-bottom: 0.5rem; /* Space between list items */
+}
+
+/* Images */
+img {
+  max-width: 100%; /* Responsive images */
+  height: auto; /* Maintain aspect ratio */
+}
+
+/* Blockquotes */
+blockquote {
+  border-left: 4px solid #007bff; /* Custom style for blockquotes */
+  padding: 1rem; /* Padding inside blockquotes */
+  margin: 1rem 0; /* Space above and below blockquotes */
+  background-color: #f0f8ff; /* Light background for emphasis */
+  font-style: italic; /* Italic text */
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+  main {
+    padding: 1rem; /* Reduce padding on smaller screens */
+  }
+
+  h1 {
+    font-size: 1.5rem; /* Adjust heading size */
+  }
+
+  h2 {
+    font-size: 1.5rem; /* Adjust heading size */
+  }
+
+  h3 {
+    font-size: 1.25rem; /* Adjust heading size */
+  }
+}
+
+.qr-code-placeholder {
+  text-align: center; /* Center the QR code */
+  margin: 20px 0; /* Add some margin */
+}
+
+.qr-code-placeholder img {
+  width: 300px; /* Adjust the size as needed */
+  height: auto; /* Maintain aspect ratio */
+}
+
+/* Share Buttons Styles */
+.share-buttons {
+  margin-top: 2rem;
+  padding: 1rem 0;
+  border-top: 1px solid #ccc;
+  text-align: center;
+}
+
+.share-buttons p {
+  font-size: 1rem;
+  margin-bottom: 1rem;
+  color: #333;
+}
+
+.share-buttons a {
+  display: inline-block;
+  margin: 0 10px;
+  text-decoration: none;
+  color: #fff;
+  /* Removed the circular background properties */
+  transition: transform 0.3s, opacity 0.3s;
+}
+
+.share-buttons a i {
+  font-size: 24px; /* Adjust icon size as needed */
+  vertical-align: middle;
+}
+
+/* Specific button colors */
+.share-buttons a.facebook {
+  color: #3b5998; /* Facebook */
+}
+
+.share-buttons a.twitter {
+  color: #1da1f2; /* X (formerly Twitter) */
+}
+
+.share-buttons a.linkedin {
+  color: #0077b5; /* LinkedIn */
+}
+
+.share-buttons a.whatsapp {
+  color: #25d366; /* WhatsApp */
+}
+
+.share-buttons a.messenger {
+  color: #0084ff; /* Messenger */
+}
+
+.share-buttons a.reddit {
+  color: #ff4500; /* Reddit */
+}
+
+/* Hover effects */
+.share-buttons a:hover {
+  transform: scale(1.1);
+  opacity: 0.8;
+}
