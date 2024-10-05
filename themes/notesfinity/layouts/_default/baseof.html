@@ -87,7 +87,10 @@
 
       <!-- Main Content Area -->
       <main>
-        {{ block "main" . }}{{ end }} {{ partial "social-share.html" . }}
+        {{ block "main" . }}{{ end }}
+        <!-- This will render the content from single.html -->
+        {{ partial "social-share.html" . }}
+        <!-- Social share buttons are added here -->
       </main>
 
       <!-- Footer -->
