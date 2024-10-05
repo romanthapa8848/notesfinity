@@ -1,40 +1,26 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Home on Notesfinity</title>
+    <title>Notesfinity</title>
     <link>https://notesfinity.com/</link>
-    <description>Recent content in Home on Notesfinity</description>
+    <description>Recent content on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 04 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 05 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://notesfinity.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Physics</title>
+      <link>https://notesfinity.com/notes/ioe/cem/physics/</link>
+      <pubDate>Sat, 05 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/notes/ioe/cem/physics/</guid>
+      <description>&lt;h1 id=&#34;physics-content&#34;&gt;Physics Content&lt;/h1&gt;&#xA;&lt;p&gt;Your content goes here&amp;hellip;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Civil Engineering Materials Syllabus</title>
       <link>https://notesfinity.com/notes/ioe/cem/cem/</link>
       <pubDate>Fri, 04 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://notesfinity.com/notes/ioe/cem/cem/</guid>
       <description>&lt;h1 id=&#34;civil-engineering-materials-syllabus&#34;&gt;Civil Engineering Materials Syllabus&lt;/h1&gt;&#xA;&lt;p&gt;Welcome to the comprehensive syllabus for the course on Civil Engineering Materials. This course covers a wide range of materials used in construction, their properties, applications, and sustainability. Below is the syllabus, where each topic leads to a detailed page.&lt;/p&gt;&#xA;&lt;h2 id=&#34;table-of-contents&#34;&gt;Table of Contents&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./introduction.md&#34;&gt;Introduction to Civil Engineering Materials&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./properties-of-materials.md&#34;&gt;Properties of Materials&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./physical-properties.md&#34;&gt;Physical Properties&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./mechanical-properties.md&#34;&gt;Mechanical Properties&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./types-of-materials.md&#34;&gt;Types of Civil Engineering Materials&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./concrete.md&#34;&gt;Concrete&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./steel.md&#34;&gt;Steel&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./wood.md&#34;&gt;Wood&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./bricks-and-masonry.md&#34;&gt;Bricks and Masonry&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./asphalt.md&#34;&gt;Asphalt&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./polymer-materials.md&#34;&gt;Polymer-based Materials&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./testing-of-materials.md&#34;&gt;Testing of Materials&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./destructive-testing.md&#34;&gt;Destructive Testing&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./non-destructive-testing.md&#34;&gt;Non-destructive Testing&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./durability.md&#34;&gt;Durability and Deterioration of Materials&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./concrete-deterioration.md&#34;&gt;Concrete Deterioration&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./steel-corrosion.md&#34;&gt;Steel Corrosion&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./wood-decay.md&#34;&gt;Wood Decay&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./sustainability.md&#34;&gt;Sustainability in Material Usage&lt;/a&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./recycled-materials.md&#34;&gt;Recycled Materials&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./eco-friendly-materials.md&#34;&gt;Eco-friendly Materials&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./emerging-trends.md&#34;&gt;Emerging Trends in Civil Engineering Materials&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#calculus-in-engineering&#34;&gt;Calculus in Engineering&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#php-program-example&#34;&gt;PHP Program Example&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;#difference-between-cement-and-concrete&#34;&gt;Difference Between Cement and Concrete&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;course-objective&#34;&gt;Course Objective&lt;/h3&gt;&#xA;&lt;p&gt;This course provides a detailed understanding of the materials used in civil engineering projects, focusing on their properties, performance, sustainability, and future trends. By the end of this course, you will have the knowledge to choose appropriate materials for different civil engineering applications.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Post 3</title>
-      <link>https://notesfinity.com/posts/post-3/</link>
-      <pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate>
-      <guid>https://notesfinity.com/posts/post-3/</guid>
-      <description>&lt;p&gt;Occaecat aliqua consequat laborum ut ex aute aliqua culpa quis irure esse magna dolore quis. Proident fugiat labore eu laboris officia Lorem enim. Ipsum occaecat cillum ut tempor id sint aliqua incididunt nisi incididunt reprehenderit. Voluptate ad minim sint est aute aliquip esse occaecat tempor officia qui sunt. Aute ex ipsum id ut in est velit est laborum incididunt. Aliqua qui id do esse sunt eiusmod id deserunt eu nostrud aute sit ipsum. Deserunt esse cillum Lorem non magna adipisicing mollit amet consequat.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Post 2</title>
-      <link>https://notesfinity.com/posts/post-2/</link>
-      <pubDate>Wed, 15 Feb 2023 10:00:00 -0700</pubDate>
-      <guid>https://notesfinity.com/posts/post-2/</guid>
-      <description>&lt;p&gt;Anim eiusmod irure incididunt sint cupidatat. Incididunt irure irure irure nisi ipsum do ut quis fugiat consectetur proident cupidatat incididunt cillum. Dolore voluptate occaecat qui mollit laborum ullamco et. Ipsum laboris officia anim laboris culpa eiusmod ex magna ex cupidatat anim ipsum aute. Mollit aliquip occaecat qui sunt velit ut cupidatat reprehenderit enim sunt laborum. Velit veniam in officia nulla adipisicing ut duis officia.&lt;/p&gt;&#xA;&lt;p&gt;Exercitation voluptate irure in irure tempor mollit Lorem nostrud ad officia. Velit id fugiat occaecat do tempor. Sit officia Lorem aliquip eu deserunt consectetur. Aute proident deserunt in nulla aliquip dolore ipsum Lorem ut cupidatat consectetur sit sint laborum. Esse cupidatat sit sint sunt tempor exercitation deserunt. Labore dolor duis laborum est do nisi ut veniam dolor et nostrud nostrud.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Post 1</title>
-      <link>https://notesfinity.com/posts/post-1/</link>
-      <pubDate>Sun, 15 Jan 2023 09:00:00 -0700</pubDate>
-      <guid>https://notesfinity.com/posts/post-1/</guid>
-      <description>&lt;p&gt;Tempor proident minim aliquip reprehenderit dolor et ad anim Lorem duis sint eiusmod. Labore ut ea duis dolor. Incididunt consectetur proident qui occaecat incididunt do nisi Lorem. Tempor do laborum elit laboris excepteur eiusmod do. Eiusmod nisi excepteur ut amet pariatur adipisicing Lorem.&lt;/p&gt;&#xA;&lt;p&gt;Occaecat nulla excepteur dolore excepteur duis eiusmod ullamco officia anim in voluptate ea occaecat officia. Cillum sint esse velit ea officia minim fugiat. Elit ea esse id aliquip pariatur cupidatat id duis minim incididunt ea ea. Anim ut duis sunt nisi. Culpa cillum sit voluptate voluptate eiusmod dolor. Enim nisi Lorem ipsum irure est excepteur voluptate eu in enim nisi. Nostrud ipsum Lorem anim sint labore consequat do.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

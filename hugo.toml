@@ -3,3 +3,5 @@ languageCode = 'en-us'
 title = 'Notesfinity'
 theme = 'notesfinity'
 uglyURLs = false
+[permalinks]
+posts = "/:slug/"
