@@ -17,6 +17,7 @@ keywords:
 author: "Roman Thapa"
 date: 2024-10-04
 draft: false
+layout: "single_non_math"
 ---
 
 # Civil Engineering Materials Syllabus
