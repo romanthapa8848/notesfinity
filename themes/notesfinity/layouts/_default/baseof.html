@@ -86,7 +86,38 @@
       </header>
 
       <!-- Main Content Area -->
-      <main>{{ block "main" . }}{{ end }}</main>
+      <main>
+        {{ block "main" . }}{{ end }}
+
+        <!-- Social Share Buttons -->
+        <div class="share-buttons">
+          <p>Share this page:</p>
+          <a
+            href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"
+            target="_blank"
+          >
+            <i class="fab fa-facebook"></i> Facebook
+          </a>
+          <a
+            href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}"
+            target="_blank"
+          >
+            <i class="fab fa-twitter"></i> Twitter
+          </a>
+          <a
+            href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink }}"
+            target="_blank"
+          >
+            <i class="fab fa-linkedin"></i> LinkedIn
+          </a>
+          <a
+            href="https://wa.me/?text={{ .Title }}%20{{ .Permalink }}"
+            target="_blank"
+          >
+            <i class="fab fa-whatsapp"></i> WhatsApp
+          </a>
+        </div>
+      </main>
 
       <!-- Footer -->
       {{ partial "footer.html" . }}
