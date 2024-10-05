@@ -86,7 +86,9 @@
       </header>
 
       <!-- Main Content Area -->
-      <main>{{ block "main" . }}{{ end }}</main>
+      <main>
+        {{ block "main" . }}{{ end }} {{ partial "social-share.html" . }}
+      </main>
 
       <!-- Footer -->
       {{ partial "footer.html" . }}
