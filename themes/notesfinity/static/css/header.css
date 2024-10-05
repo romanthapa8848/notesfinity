@@ -13,14 +13,6 @@ header {
   border-bottom: 1px solid #e0e0e0; /* Thin line at the bottom */
 }
 
-header.sticky {
-  position: fixed; /* Sticky position */
-  top: 0;
-  left: 0;
-  right: 0;
-  background-color: #fff; /* Maintain background color */
-}
-
 /* Logo styling */
 #logo {
   max-width: 150px; /* Ensures the logo size stays at 150px */
@@ -83,7 +75,7 @@ header.sticky {
 /* Mobile responsiveness */
 @media (max-width: 768px) {
   .search-container {
-    max-width: 80%;
+    max-width: 70%;
   }
 
   #search-input {
@@ -106,7 +98,7 @@ header.sticky {
 
 @media (max-width: 480px) {
   .search-container {
-    max-width: 80%;
+    max-width: 70%;
   }
 
   #search-input {
