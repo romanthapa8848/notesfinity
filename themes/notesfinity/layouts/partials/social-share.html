@@ -9,12 +9,13 @@
     <i class="fab fa-facebook-f"></i>
   </a>
   <a
-    class="twitter"
+    class="x"
     href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}"
     target="_blank"
-    aria-label="Share on Twitter"
+    aria-label="Share on X (formerly Twitter)"
   >
-    <i class="fab fa-twitter"></i>
+    <i class="fab fa-x"></i>
+    <!-- Update to the appropriate X icon -->
   </a>
   <a
     class="linkedin"
@@ -39,5 +40,13 @@
     aria-label="Share on Messenger"
   >
     <i class="fab fa-facebook-messenger"></i>
+  </a>
+  <a
+    class="reddit"
+    href="https://www.reddit.com/submit?url={{ .Permalink }}&title={{ .Title }}"
+    target="_blank"
+    aria-label="Share on Reddit"
+  >
+    <i class="fab fa-reddit"></i>
   </a>
 </div>
