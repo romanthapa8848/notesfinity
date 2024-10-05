@@ -1,0 +1,13 @@
+{{ define "main" }}
+<article>
+  <h1>{{ .Title }}</h1>
+  <div class="math-content">{{ .Content | safeHTML }}</div>
+  <!-- Render content with MathJax -->
+</article>
+
+<!-- Include MathJax script -->
+<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.7/MathJax.js?config=TeX-AMS_HTML"></script>
+<script>
+  MathJax.Hub.Queue(["Typeset", MathJax.Hub]); // Render MathJax content
+</script>
+{{ end }}
