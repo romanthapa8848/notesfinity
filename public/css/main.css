@@ -130,3 +130,35 @@ blockquote {
   transform: scale(1.1);
   opacity: 0.8;
 }
+
+/* Table Styles */
+table {
+  width: 100%; /* Full width */
+  border-collapse: collapse; /* Remove space between borders */
+  margin: 20px 0; /* Space above and below the table */
+  font-size: 16px; /* Font size */
+  text-align: left; /* Align text to the left */
+}
+
+/* Table Header Styles */
+th {
+  background-color: #4caf50; /* Green background */
+  color: white; /* White text */
+  padding: 12px; /* Padding around the text */
+}
+
+/* Table Cell Styles */
+td {
+  padding: 10px; /* Padding around the text */
+  border: 1px solid #ddd; /* Light gray border */
+}
+
+/* Alternating Row Colors */
+tr:nth-child(even) {
+  background-color: #f2f2f2; /* Light gray for even rows */
+}
+
+/* Hover Effect */
+tr:hover {
+  background-color: #ddd; /* Darker gray on hover */
+}

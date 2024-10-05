@@ -17,93 +17,117 @@ keywords:
 author: "Roman Thapa"
 date: 2024-10-04
 draft: false
-layout: "math_mode"
+layout: "non_math_mode"
 ---
 
-# Civil Engineering Materials Syllabus
+# Civil Engineering Materials
 
-Welcome to the comprehensive syllabus for the course on Civil Engineering Materials. This course covers a wide range of materials used in construction, their properties, applications, and sustainability. Below is the syllabus, where each topic leads to a detailed page.
+| Course Code | CE 506                                                            |
+| ----------- | ----------------------------------------------------------------- |
+| Theory      | Assessment Mark: 10<br />Final Exam: 40 Marks (Duration: 3 Hours) |
+| Practical   | Assessment Mark: 25<br />Final Exam: 0 Marks                      |
+| Total Marks | 75 Marks                                                          |
 
-## Table of Contents
+## Course Objectives
 
-1. [Introduction to Civil Engineering Materials](./introduction.md)
-2. [Properties of Materials](./properties-of-materials.md)
-   - [Physical Properties](./physical-properties.md)
-   - [Mechanical Properties](./mechanical-properties.md)
-3. [Types of Civil Engineering Materials](./types-of-materials.md)
-   - [Concrete](./concrete.md)
-   - [Steel](./steel.md)
-   - [Wood](./wood.md)
-   - [Bricks and Masonry](./bricks-and-masonry.md)
-   - [Asphalt](./asphalt.md)
-   - [Polymer-based Materials](./polymer-materials.md)
-4. [Testing of Materials](./testing-of-materials.md)
-   - [Destructive Testing](./destructive-testing.md)
-   - [Non-destructive Testing](./non-destructive-testing.md)
-5. [Durability and Deterioration of Materials](./durability.md)
-   - [Concrete Deterioration](./concrete-deterioration.md)
-   - [Steel Corrosion](./steel-corrosion.md)
-   - [Wood Decay](./wood-decay.md)
-6. [Sustainability in Material Usage](./sustainability.md)
-   - [Recycled Materials](./recycled-materials.md)
-   - [Eco-friendly Materials](./eco-friendly-materials.md)
-7. [Emerging Trends in Civil Engineering Materials](./emerging-trends.md)
-8. [Calculus in Engineering](#calculus-in-engineering)
-9. [PHP Program Example](#php-program-example)
-10. [Difference Between Cement and Concrete](#difference-between-cement-and-concrete)
+To provide concepts and knowledge of a wide range of materials (composition, manufacturing, properties, uses, etc.) that can be used in the construction and maintenance of civil engineering structures.
 
----
+## 1. Introduction to Civil Engineering Materials
 
-### Course Objective
+- [1.1 Scope of the Subject](./introduction-to-civil-engineering-materials/scope-of-subject.html)
+- [1.2 Selection Criteria of Construction Material](./introduction-to-civil-engineering-materials/selection-criteria.html)
+- [1.3 Classification of Civil Engineering Material](./introduction-to-civil-engineering-materials/classification-material.html)
+- [1.4 Properties of Civil Engineering Material](./introduction-to-civil-engineering-materials/properties-material.html)
 
-This course provides a detailed understanding of the materials used in civil engineering projects, focusing on their properties, performance, sustainability, and future trends. By the end of this course, you will have the knowledge to choose appropriate materials for different civil engineering applications.
+## 2. Building Stones
 
-[Start the Course](./introduction.md)
+- [2.1 Introduction](./building-stones/introduction.html)
+- [2.2 Characteristics of good building stones](./building-stones/characteristics-good-stones.html)
+- [2.3 Selection and use of stone](./building-stones/selection-use-stone.html)
+- [2.4 Deterioration and preservation of stone](./building-stones/deterioration-preservation-stone.html)
+- [2.5 Natural bed of stone](./building-stones/natural-bed-stone.html)
+- [2.6 Dressing of stone](./building-stones/dressing-stone.html)
 
----
+## 3. Clay Products
 
-## Calculus in Engineering
+- [3.1 Introduction](./clay-products/introduction.html)
+- [3.2 Constituents of brick earth](./clay-products/constituents-brick-earth.html)
+- [3.3 Manufacture of bricks](./clay-products/manufacture-bricks.html)
+- [3.4 Good qualities of bricks](./clay-products/good-qualities-bricks.html)
+- [3.5 Classification of bricks](./clay-products/classification-bricks.html)
+- [3.6 Standard test for bricks](./clay-products/standard-test-bricks.html)
+- [3.7 Tiles and their types](./clay-products/tiles-types.html)
+- [3.8 Earthenware and Glazing](./clay-products/earthenware-glazing.html)
 
-Here are 10 common calculus formulas used in engineering applications:
+## 4. Lime
 
-1. **Derivative of a Function**:  
-   $ \frac{d}{dx} [f(x)] = f'(x) $
+- [4.1 Introduction](./lime/introduction.html)
+- [4.2 Types, Properties and Uses of Lime](./lime/types-properties-uses.html)
+- [4.3 Properties and Uses of Pozzolanic Material](./lime/properties-uses-pozzolanic-material.html)
 
-2. **Integral of a Function**:  
-   $ \int f(x) dx = F(x) + C $
+## 5. Cement
 
-3. **Power Rule**:  
-   $ \frac{d}{dx} [x^n] = nx^{n-1} $
+- [5.1 Introduction](./cement/introduction.html)
+- [5.2 Types, Properties and Uses of Cement](./cement/types-properties-uses.html)
+- [5.3 Ingredients of Cement](./cement/ingredients.html)
+- [5.4 Manufacture of Cement (Flow Diagram)](./cement/manufacture.html)
+- [5.5 Composition and Function of Cement Clinker](./cement/composition-function-clinker.html)
+- [5.6 Standard Test of Cement](./cement/standard-test.html)
+- [5.7 Cement Water Proofers](./cement/cement-water-proofers.html)
+- [5.8 Admixtures](./cement/admixtures.html)
 
-4. **Chain Rule**:  
-   $ \frac{d}{dx} [f(g(x))] = f'(g(x)) \cdot g'(x) $
+## 6. Mortar
 
-5. **Product Rule**:  
-   $ \frac{d}{dx} [f(x) \cdot g(x)] = f'(x) \cdot g(x) + f(x) \cdot g'(x) $
+- [6.1 Introduction](./mortar/introduction.html)
+- [6.2 Classification of Mortar](./mortar/classification.html)
+- [6.3 Function of Mortar](./mortar/function.html)
+- [6.4 Selection of Mortar for Civil Engineering Works](./mortar/selection.html)
 
-6. **Quotient Rule**:  
-   $ \frac{d}{dx} \left[\frac{f(x)}{g(x)}\right] = \frac{f'(x)g(x) - f(x)g'(x)}{g(x)^2} $
+## 7. Timber
 
-7. **Second Derivative**:  
-   $ \frac{d^2}{dx^2} [f(x)] = f''(x) $
+- [7.1 Introduction](./timber/introduction.html)
+- [7.2 Growth and Structure of Tree](./timber/growth-structure.html)
+- [7.3 Classification of Tree](./timber/classification.html)
+- [7.4 Characteristics of Good Timber](./timber/characteristics-good.html)
+- [7.5 Defects of Timber](./timber/defects.html)
+- [7.6 Seasoning of Timber](./timber/seasoning.html)
+- [7.7 Deterioration and Preservation of Timber](./timber/deterioration-preservation.html)
+- [7.8 Commercial Products of Timber](./timber/commercial-products.html)
 
-8. **Fundamental Theorem of Calculus**:  
-   $ \int_a^b f'(x) dx = f(b) - f(a) $
+## 8. Metals and Alloys
 
-9. **Integration by Parts**:  
-   $ \int u dv = uv - \int v du $
+- [8.1 Introduction](./metals-and-alloys/introduction.html)
+- [8.2 Types, Properties and Uses of Iron](./metals-and-alloys/types-properties-iron.html)
+- [8.3 Composition and Properties of Steel](./metals-and-alloys/composition-properties-steel.html)
+- [8.4 Heat Treatment Process](./metals-and-alloys/heat-treatment.html)
+- [8.5 Alloy of Steel](./metals-and-alloys/alloy-of-steel.html)
+- [8.6 Non-ferrous Metals](./metals-and-alloys/non-ferrous-metals.html)
+- [8.7 Commercial Products of Metals](./metals-and-alloys/commercial-products.html)
 
-10. **Taylor Series Expansion**:  
-    $ f(x) = f(a) + f'(a)(x - a) + \frac{f''(a)}{2!}(x - a)^2 + \cdots $
+## 9. Paints and Varnishes
 
----
+- [9.1 Function, Ingredients, Types, and Uses of Paints and Varnishes](./paints-and-varnishes/function-ingredients-types.html)
+- [9.2 Distemper](./paints-and-varnishes/distemper.html)
+- [9.3 Anti-termite Treatment](./paints-and-varnishes/anti-termite-treatment.html)
 
-## PHP Program Example
+## 10. Asphalt, Bitumen, Tar and Miscellaneous Materials
 
-Here’s a simple PHP program that outputs "Hello, World!":
+- [10.1 Types, Properties and Uses of Asphalt, Bitumen, and Tar](./asphalt-bitumen-tar/types-properties-uses.html)
+- [10.2 Types, Properties and Uses of Glass](./asphalt-bitumen-tar/types-properties-uses-glass.html)
+- [10.3 Plastic Materials](./asphalt-bitumen-tar/plastic-materials.html)
+- [10.4 Insulating Materials](./asphalt-bitumen-tar/insulating-materials.html)
 
-```php
-<?php
-  echo "Hello, World!";
-?>
-```
+## Practical Tests
+
+1. **Water Absorption Test and Bulk Specific Gravity Test on Brick Sample**
+2. **Compressive Strength Test of Brick and Stone**
+3. **Consistency Test of Cement**
+4. **Setting Time Test of Cement (Initial and Final)**
+5. **Fineness and Soundness Test of Cement**
+6. **Compressive Strength of Cement**
+
+## References
+
+1. Peter A. Thornton and Vito J. Colangela, _Fundamentals of Engineering Materials_, Prentice Hall Publishing Company.
+2. Parbin Singh, _Civil Engineering Materials_, Katson Books.
+3. R.K. Rajput, _Engineering Materials_, S. Chand & Company Ltd.
