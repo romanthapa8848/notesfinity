@@ -141,12 +141,12 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ## Practical Tests
 
-1. **Water Absorption Test and Bulk Specific Gravity Test on Brick Sample**
-2. **Compressive Strength Test of Brick and Stone**
-3. **Consistency Test of Cement**
-4. **Setting Time Test of Cement (Initial and Final)**
-5. **Fineness and Soundness Test of Cement**
-6. **Compressive Strength of Cement**
+1. [Water Absorption Test and Bulk Specific Gravity Test on Brick Sample](./practical-tests/water-absorption-test)
+2. [Compressive Strength Test of Brick and Stone](./practical-tests/compressive-strength-test)
+3. [Consistency Test of Cement](./practical-tests/consistency-test)
+4. [Setting Time Test of Cement (Initial and Final)](./practical-tests/setting-time-test)
+5. [Fineness and Soundness Test of Cement](./practical-tests/fineness-soundness-test)
+6. [Compressive Strength of Cement](./practical-tests/compressive-strength-cement)
 
 ---
 
