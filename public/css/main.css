@@ -133,10 +133,10 @@ blockquote {
 
 /* Table Styles */
 table {
-  width: 100%; /* Full width */
+  width: 100%; /* Full width of the container */
   border-collapse: collapse; /* Remove space between borders */
   margin: 20px 0; /* Space above and below the table */
-  font-size: 16px; /* Font size */
+  font-size: 16px; /* Base font size */
   text-align: left; /* Align text to the left */
 }
 
@@ -145,6 +145,7 @@ th {
   background-color: #4caf50; /* Green background */
   color: white; /* White text */
   padding: 12px; /* Padding around the text */
+  border: 1px solid #ddd; /* Light gray border */
 }
 
 /* Table Cell Styles */
@@ -161,4 +162,16 @@ tr:nth-child(even) {
 /* Hover Effect */
 tr:hover {
   background-color: #ddd; /* Darker gray on hover */
+}
+
+/* Responsive Table Styles */
+@media (max-width: 600px) {
+  table {
+    font-size: 14px; /* Smaller font size on mobile */
+  }
+
+  th,
+  td {
+    padding: 8px; /* Reduced padding for smaller screens */
+  }
 }

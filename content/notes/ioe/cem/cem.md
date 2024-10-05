@@ -1,33 +1,32 @@
 ---
-
 title: "Civil Engineering Materials Syllabus"
 description: "Explore the comprehensive syllabus for Civil Engineering Materials, including properties, types, testing, sustainability, and emerging trends."
 keywords:
-[
-"Civil Engineering Materials",
-"Construction Materials",
-"Engineering Materials",
-"Properties of Materials",
-"Sustainable Materials",
-"Testing Materials",
-"Concrete",
-"Steel",
-"Wood",
-"Asphalt",
-]
+  [
+    "Civil Engineering Materials",
+    "Construction Materials",
+    "Engineering Materials",
+    "Properties of Materials",
+    "Sustainable Materials",
+    "Testing Materials",
+    "Concrete",
+    "Steel",
+    "Wood",
+    "Asphalt",
+  ]
 author: "Roman Thapa"
 date: 2024-10-04
 draft: false
 layout: "non_math_mode"
----s
+---
 
 # Civil Engineering Materials
 
-| Course Code | CE 506                                                            |
-| ----------- | ----------------------------------------------------------------- |
-| Theory      | Assessment Mark: 10<br />Final Exam: 40 Marks (Duration: 3 Hours) |
-| Practical   | Assessment Mark: 25<br />Final Exam: 0 Marks                      |
-| Total Marks | 75 Marks                                                          |
+| Course Code | CE 506                                                        |
+| ----------- | ------------------------------------------------------------- |
+| Theory      | Assessment Mark: 10; Final Exam: 40 Marks (Duration: 3 Hours) |
+| Practical   | Assessment Mark: 25; Final Exam: 0 Marks                      |
+| Total Marks | 75 Marks                                                      |
 
 ## Course Objectives
 
