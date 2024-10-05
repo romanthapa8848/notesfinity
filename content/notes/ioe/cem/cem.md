@@ -34,7 +34,7 @@ layout: "non_math_mode"
 
 ## Course Objectives
 
-## To provide concepts and knowledge of a wide range of materials (composition, manufacturing, properties, uses, etc.) that can be used in the construction and maintenance of civil engineering structures.
+To provide concepts and knowledge of a wide range of materials (composition, manufacturing, properties, uses, etc.) that can be used in the construction and maintenance of civil engineering structures.
 
 ## 1. Introduction to Civil Engineering Materials
 
@@ -137,7 +137,7 @@ layout: "non_math_mode"
 - [10.1 Types, Properties and Uses of Asphalt, Bitumen, and Tar](./asphalt-bitumen-tar/types-properties-uses.html)
 - [10.2 Types, Properties and Uses of Glass](./asphalt-bitumen-tar/types-properties-uses-glass.html)
 - [10.3 Plastic Materials](./asphalt-bitumen-tar/plastic-materials.html)
-- ## [10.4 Insulating Materials](./asphalt-bitumen-tar/insulating-materials.html)
+- [10.4 Insulating Materials](./asphalt-bitumen-tar/insulating-materials.html)
 
 ## Practical Tests
 
