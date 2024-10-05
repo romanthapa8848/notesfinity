@@ -1,10 +1,8 @@
-
-
 <div class="share-buttons">
   <p>Share this page:</p>
   <a
     class="facebook"
-    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fnotesfinity.com%2fnotes%2fioe%2fcem%2fcem%2f"
+    href="https://www.facebook.com/sharer/sharer.php?u={{ .Permalink }}"
     target="_blank"
     aria-label="Share on Facebook"
   >
@@ -12,7 +10,7 @@
   </a>
   <a
     class="twitter"
-    href="https://twitter.com/intent/tweet?url=https%3a%2f%2fnotesfinity.com%2fnotes%2fioe%2fcem%2fcem%2f&text=Civil%20Engineering%20Materials%20Syllabus"
+    href="https://twitter.com/intent/tweet?url={{ .Permalink }}&text={{ .Title }}"
     target="_blank"
     aria-label="Share on Twitter"
   >
@@ -20,7 +18,7 @@
   </a>
   <a
     class="linkedin"
-    href="https://www.linkedin.com/sharing/share-offsite/?url=https%3a%2f%2fnotesfinity.com%2fnotes%2fioe%2fcem%2fcem%2f"
+    href="https://www.linkedin.com/sharing/share-offsite/?url={{ .Permalink }}"
     target="_blank"
     aria-label="Share on LinkedIn"
   >
@@ -28,7 +26,7 @@
   </a>
   <a
     class="whatsapp"
-    href="https://wa.me/?text=Civil%20Engineering%20Materials%20Syllabus%20https%3a%2f%2fnotesfinity.com%2fnotes%2fioe%2fcem%2fcem%2f"
+    href="https://wa.me/?text={{ .Title }}%20{{ .Permalink }}"
     target="_blank"
     aria-label="Share on WhatsApp"
   >
@@ -36,11 +34,10 @@
   </a>
   <a
     class="messenger"
-    href="fb-messenger://share?link=https%3a%2f%2fnotesfinity.com%2fnotes%2fioe%2fcem%2fcem%2f"
+    href="fb-messenger://share?link={{ .Permalink }}"
     target="_blank"
     aria-label="Share on Messenger"
   >
     <i class="fab fa-facebook-messenger"></i>
   </a>
 </div>
-
