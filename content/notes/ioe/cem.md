@@ -18,6 +18,7 @@ author: "Roman Thapa"
 date: 2024-10-04
 draft: false
 layout: "non_math_mode"
+slug: "cem"
 ---
 
 # Civil Engineering Materials
@@ -38,7 +39,7 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ---
 
-## [1. Introduction to Civil Engineering Materials](./introduction-to-civil-engineering-materials/introduction.md)
+## [1. Introduction to Civil Engineering Materials](./intro/intro.md)
 
 - [1.1 Scope of the Subject](./introduction-to-civil-engineering-materials/scope-of-subject.md)
 - [1.2 Selection Criteria of Construction Material](./introduction-to-civil-engineering-materials/selection-criteria.md)

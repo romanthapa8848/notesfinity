@@ -66,9 +66,9 @@ export const ioeSubjects = [
     keywords: ["electrical engineering", "EE451", "ioe"],
   },
   {
-    name: "IOE Civil Engineering Materials",
+    name: "Civil Engineering Materials",
     code: "CE506",
-    url: "/notes/ioe/cem/cem/index.html",
+    url: "/notes/ioe/cem/index.html",
     keywords: ["civil engineering", "materials", "CE506", "ioe", "cem"],
   },
   {
