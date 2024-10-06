@@ -38,7 +38,7 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ---
 
-## [1. Introduction to Civil Engineering Materials](/public/notes/ioe/cem/intro/index.html)
+## [1. Introduction to Civil Engineering Materials](/notes/ioe/cem/intro/index.html)
 
 - [1.1 Scope of the Subject](./introduction-to-civil-engineering-materials/scope-of-subject.md)
 - [1.2 Selection Criteria of Construction Material](./introduction-to-civil-engineering-materials/selection-criteria.md)
