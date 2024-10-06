@@ -51,20 +51,7 @@
 
       
       <main>
-        
-
-<link
-  rel="stylesheet"
-  href="https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.css"
-/>
-
-
-<script type="module">
-  import mermaid from "https://cdn.jsdelivr.net/npm/mermaid/dist/mermaid.esm.min.mjs";
-  mermaid.initialize({ startOnLoad: true });
-</script>
-
-<h1 id="manufacture-of-bricks">Manufacture of Bricks</h1>
+         <h1 id="manufacture-of-bricks">Manufacture of Bricks</h1>
 <p>The manufacture of bricks involves a systematic process that transforms raw materials into durable building units. Understanding this process is essential for producing high-quality bricks that meet construction standards and sustainability goals.</p>
 <hr>
 <h2 id="1-raw-materials-for-brick-manufacture">1. Raw Materials for Brick Manufacture</h2>
@@ -313,6 +300,40 @@
 </div>
 
         
+        <div class="report-mistake">
+  <button id="reportMistakeButton" class="btn" onclick="openReportForm()">
+    Report Mistake(s)
+  </button>
+</div>
+
+<style>
+  .report-mistake {
+    display: flex;
+    justify-content: center;  
+    margin: 20px 0;  
+  }
+  .btn {
+    background-color: #ff4d4d;  
+    color: white;
+    padding: 12px 20px;  
+    border: none;
+    border-radius: 20px;  
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;  
+  }
+  .btn:hover {
+    background-color: #cc0000;  
+  }
+</style>
+
+<script>
+  function openReportForm() {
+    
+    window.location.href = "/report.html";
+  }
+</script>
+
       </main>
 
       

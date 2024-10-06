@@ -24,7 +24,7 @@ keywords:
     "Sustainable brick production",
   ]
 
-layout: "chart_mode"
+layout: "non_math_mode"
 ---
 
 # Manufacture of Bricks
