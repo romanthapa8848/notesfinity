@@ -105,24 +105,24 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 - [7.1 Introduction](/notes/ioe/cem/timber/intro/index.html)
 - [7.2 Growth and Structure of Tree](/notes/ioe/cem/timber/growth-structure/index.html)
-- [7.3 Classification of Tree](./timber/classification.md)
-- [7.4 Characteristics of Good Timber](./timber/characteristics-good.md)
-- [7.5 Defects of Timber](./timber/defects.md)
-- [7.6 Seasoning of Timber](./timber/seasoning.md)
-- [7.7 Deterioration and Preservation of Timber](./timber/deterioration-preservation.md)
-- [7.8 Commercial Products of Timber](./timber/commercial-products.md)
+- [7.3 Classification of Tree](/notes/ioe/cem/timber/classification/index.html)
+- [7.4 Characteristics of Good Timber](/notes/ioe/cem/timber/characteristics-good/index.html)
+- [7.5 Defects of Timber](/notes/ioe/cem/timber/defects/index.html)
+- [7.6 Seasoning of Timber](/notes/ioe/cem/timber/seasoning/index.html)
+- [7.7 Deterioration and Preservation of Timber](/notes/ioe/cem/timber/deterioration-preservation/index.html)
+- [7.8 Commercial Products of Timber](/notes/ioe/cem/timber/commercial-products/index.html)
 
 ---
 
 ## 8. Metals and Alloys
 
-- [8.1 Introduction](./metals-and-alloys/introduction.md)
-- [8.2 Types, Properties and Uses of Iron](./metals-and-alloys/types-properties-iron.md)
-- [8.3 Composition and Properties of Steel](./metals-and-alloys/composition-properties-steel.md)
-- [8.4 Heat Treatment Process](./metals-and-alloys/heat-treatment.md)
-- [8.5 Alloy of Steel](./metals-and-alloys/alloy-of-steel.md)
-- [8.6 Non-ferrous Metals](./metals-and-alloys/non-ferrous-metals.md)
-- [8.7 Commercial Products of Metals](./metals-and-alloys/commercial-products.md)
+- [8.1 Introduction](/notes/ioe/cem/metals-and-alloys/intro/index.html)
+- [8.2 Types, Properties and Uses of Iron](/notes/ioe/cem/metals-and-alloys/types-properties-iron/index.html)
+- [8.3 Composition and Properties of Steel](/notes/ioe/cem/metals-and-alloys/composition-properties-steel/index.html)
+- [8.4 Heat Treatment Process](/notes/ioe/cem/metals-and-alloys/heat-treatment/index.html)
+- [8.5 Alloy of Steel](/notes/ioe/cem/metals-and-alloys/alloy-of-steel/index.html)
+- [8.6 Non-ferrous Metals](/notes/ioe/cem/metals-and-alloys/non-ferrous-metals/index.html)
+- [8.7 Commercial Products of Metals](/notes/ioe/cem/metals-and-alloys/commercial-products./index.html)
 
 ---
 

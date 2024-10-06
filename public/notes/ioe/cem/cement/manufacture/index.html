@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>
@@ -149,7 +149,7 @@
   <p>Share this page:</p>
   <a
     class="facebook"
-    href="https://www.facebook.com/sharer/sharer.php?u=http%3a%2f%2flocalhost%3a1313%2fnotes%2fioe%2fcem%2fcement%2fmanufacture%2f"
+    href="https://www.facebook.com/sharer/sharer.php?u=https%3a%2f%2fnotesfinity.com%2fnotes%2fioe%2fcem%2fcement%2fmanufacture%2f"
     target="_blank"
     aria-label="Share on Facebook"
   >
@@ -157,7 +157,7 @@
   </a>
   <a
     class="twitter"
-    href="https://twitter.com/intent/tweet?url=http%3a%2f%2flocalhost%3a1313%2fnotes%2fioe%2fcem%2fcement%2fmanufacture%2f&text=Manufacture%20of%20Cement"
+    href="https://twitter.com/intent/tweet?url=https%3a%2f%2fnotesfinity.com%2fnotes%2fioe%2fcem%2fcement%2fmanufacture%2f&text=Manufacture%20of%20Cement"
     target="_blank"
     aria-label="Share on Twitter"
   >
@@ -165,7 +165,7 @@
   </a>
   <a
     class="linkedin"
-    href="https://www.linkedin.com/sharing/share-offsite/?url=http%3a%2f%2flocalhost%3a1313%2fnotes%2fioe%2fcem%2fcement%2fmanufacture%2f"
+    href="https://www.linkedin.com/sharing/share-offsite/?url=https%3a%2f%2fnotesfinity.com%2fnotes%2fioe%2fcem%2fcement%2fmanufacture%2f"
     target="_blank"
     aria-label="Share on LinkedIn"
   >
@@ -173,7 +173,7 @@
   </a>
   <a
     class="whatsapp"
-    href="https://wa.me/?text=Manufacture%20of%20Cement%20http%3a%2f%2flocalhost%3a1313%2fnotes%2fioe%2fcem%2fcement%2fmanufacture%2f"
+    href="https://wa.me/?text=Manufacture%20of%20Cement%20https%3a%2f%2fnotesfinity.com%2fnotes%2fioe%2fcem%2fcement%2fmanufacture%2f"
     target="_blank"
     aria-label="Share on WhatsApp"
   >
@@ -181,7 +181,7 @@
   </a>
   <a
     class="messenger"
-    href="fb-messenger://share?link=http%3a%2f%2flocalhost%3a1313%2fnotes%2fioe%2fcem%2fcement%2fmanufacture%2f"
+    href="fb-messenger://share?link=https%3a%2f%2fnotesfinity.com%2fnotes%2fioe%2fcem%2fcement%2fmanufacture%2f"
     target="_blank"
     aria-label="Share on Messenger"
   >
@@ -189,7 +189,7 @@
   </a>
   <a
     class="reddit"
-    href="https://www.reddit.com/submit?url=http%3a%2f%2flocalhost%3a1313%2fnotes%2fioe%2fcem%2fcement%2fmanufacture%2f&title=Manufacture%20of%20Cement"
+    href="https://www.reddit.com/submit?url=https%3a%2f%2fnotesfinity.com%2fnotes%2fioe%2fcem%2fcement%2fmanufacture%2f&title=Manufacture%20of%20Cement"
     target="_blank"
     aria-label="Share on Reddit"
   >
@@ -198,6 +198,40 @@
 </div>
 
         
+        <div class="report-mistake">
+  <button id="reportMistakeButton" class="btn" onclick="openReportForm()">
+    Report Mistake(s)
+  </button>
+</div>
+
+<style>
+  .report-mistake {
+    display: flex;
+    justify-content: center;  
+    margin: 20px 0;  
+  }
+  .btn {
+    background-color: #ff4d4d;  
+    color: white;
+    padding: 12px 20px;  
+    border: none;
+    border-radius: 20px;  
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;  
+  }
+  .btn:hover {
+    background-color: #cc0000;  
+  }
+</style>
+
+<script>
+  function openReportForm() {
+    
+    window.location.href = "/report.html";
+  }
+</script>
+
       </main>
 
       
