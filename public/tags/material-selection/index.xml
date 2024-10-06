@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Material Selection on Notesfinity</title>
+    <link>http://localhost:1313/tags/material-selection/</link>
+    <description>Recent content in Material Selection on Notesfinity</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/material-selection/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Selection Criteria of Construction Material</title>
+      <link>http://localhost:1313/notes/ioe/cem/intro/selection-criteria/</link>
+      <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/ioe/cem/intro/selection-criteria/</guid>
+      <description>&lt;h1 id=&#34;selection-criteria-of-construction-material&#34;&gt;Selection Criteria of Construction Material&lt;/h1&gt;&#xA;&lt;p&gt;Selecting appropriate construction materials is crucial for the successful completion of any civil engineering project. The choice of materials directly affects the structure&amp;rsquo;s performance, longevity, and sustainability. This document outlines the essential criteria for selecting construction materials.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;The selection of construction materials is influenced by various factors, including mechanical properties, durability, cost, and environmental impact. By assessing these criteria, engineers can make informed decisions that align with project goals, ensuring that the chosen materials contribute to the overall safety, efficiency, and sustainability of the infrastructure.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

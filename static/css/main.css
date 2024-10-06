@@ -28,12 +28,6 @@ li {
   margin-bottom: 0.5rem; /* Space between list items */
 }
 
-/* Images */
-img {
-  max-width: 100%; /* Responsive images */
-  height: auto; /* Maintain aspect ratio */
-}
-
 /* Blockquotes */
 blockquote {
   border-left: 4px solid #007bff; /* Custom style for blockquotes */
@@ -172,11 +166,11 @@ td {
 /* Responsive Table Styles */
 @media (max-width: 600px) {
   table {
-    font-size: 14px; /* Smaller font size on mobile */
+    font-size: 10px; /* Smaller font size on mobile */
   }
 
   th,
   td {
-    padding: 8px; /* Reduced padding for smaller screens */
+    padding: 5px; /* Reduced padding for smaller screens */
   }
 }

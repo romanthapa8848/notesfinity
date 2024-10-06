@@ -40,40 +40,40 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ## 1. Introduction to Civil Engineering Materials
 
-- [1.1 Scope of the Subject](/notes/ioe/cem/intro/index.html##11-scope-of-the-subject)
-- [1.2 Selection Criteria of Construction Material](./introduction-to-civil-engineering-materials/selection-criteria.md)
-- [1.3 Classification of Civil Engineering Material](./introduction-to-civil-engineering-materials/classification-material.md)
-- [1.4 Properties of Civil Engineering Material](./introduction-to-civil-engineering-materials/properties-material.md)
+- [1.1 Scope of the Subject](/notes/ioe/cem/intro/scope-of-cem/index.html)
+- [1.2 Selection Criteria of Construction Material](/notes/ioe/cem/intro/selection-criteria/index.html)
+- [1.3 Classification of Civil Engineering Material](/notes/ioe/cem/intro/classification/index.html)
+- [1.4 Properties of Civil Engineering Material](/notes/ioe/cem/intro/properties/index.html)
 
 ---
 
 ## 2. Building Stones
 
-- [2.1 Introduction](./building-stones/introduction.md)
-- [2.2 Characteristics of good building stones](./building-stones/characteristics-good-stones.md)
-- [2.3 Selection and use of stone](./building-stones/selection-use-stone.md)
-- [2.4 Deterioration and preservation of stone](./building-stones/deterioration-preservation-stone.md)
-- [2.5 Natural bed of stone](./building-stones/natural-bed-stone.md)
-- [2.6 Dressing of stone](./building-stones/dressing-stone.md)
+- [2.1 Introduction](/notes/ioe/cem/building-stones/intro/index.html)
+- [2.2 Characteristics of good building stones](/notes/ioe/cem/building-stones/characteristics/index.html)
+- [2.3 Selection and use of stone](/notes/ioe/cem/building-stones/selection-use/index.html)
+- [2.4 Deterioration and preservation of stone](/notes/ioe/cem/building-stones/deterioration-preservation/index.html)
+- [2.5 Natural bed of stone](/notes/ioe/cem/building-stones/natural-bed/index.html)
+- [2.6 Dressing of stone](/notes/ioe/cem/building-stones/dressing/index.html)
 
 ---
 
 ## 3. Clay Products
 
-- [3.1 Introduction](./clay-products/introduction.md)
-- [3.2 Constituents of brick earth](./clay-products/constituents-brick-earth.md)
-- [3.3 Manufacture of bricks](./clay-products/manufacture-bricks.md)
-- [3.4 Good qualities of bricks](./clay-products/good-qualities-bricks.md)
-- [3.5 Classification of bricks](./clay-products/classification-bricks.md)
-- [3.6 Standard test for bricks](./clay-products/standard-test-bricks.md)
-- [3.7 Tiles and their types](./clay-products/tiles-types.md)
-- [3.8 Earthenware and Glazing](./clay-products/earthenware-glazing.md)
+- [3.1 Introduction](/notes/ioe/cem/clay-products/intro/index.html)
+- [3.2 Constituents of brick earth](/notes/ioe/cem/clay-products/brick-earth/index.html)
+- [3.3 Manufacture of bricks](/notes/ioe/cem/clay-products/manufacture-bricks/index.html)
+- [3.4 Good qualities of bricks](/notes/ioe/cem/clay-products/good-qualities-bricks/index.html)
+- [3.5 Classification of bricks](/notes/ioe/cem/clay-products/classification-bricks/index.html)
+- [3.6 Standard test for bricks](/notes/ioe/cem/clay-products/standard-test-bricks/index.html)
+- [3.7 Tiles and their types](/notes/ioe/cem/clay-products/tiles-types/index.html)
+- [3.8 Earthenware and Glazing](/notes/ioe/cem/clay-products/earthenware-glazing/index.html)
 
 ---
 
 ## 4. Lime
 
-- [4.1 Introduction](./lime/introduction.md)
+- [4.1 Introduction](/notes/ioe/cem/lime/intro/index.html)
 - [4.2 Types, Properties and Uses of Lime](./lime/types-properties-uses.md)
 - [4.3 Properties and Uses of Pozzolanic Material](./lime/properties-uses-pozzolanic-material.md)
 
