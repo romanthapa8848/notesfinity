@@ -104,7 +104,7 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 ## 7. Timber
 
 - [7.1 Introduction](/notes/ioe/cem/timber/intro/index.html)
-- [7.2 Growth and Structure of Tree](./timber/growth-structure.md)
+- [7.2 Growth and Structure of Tree](/notes/ioe/cem/timber/growth-structure/index.html)
 - [7.3 Classification of Tree](./timber/classification.md)
 - [7.4 Characteristics of Good Timber](./timber/characteristics-good.md)
 - [7.5 Defects of Timber](./timber/defects.md)

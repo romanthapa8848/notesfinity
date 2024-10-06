@@ -1,0 +1,33 @@
+<div class="report-mistake">
+  <button id="reportMistakeButton" class="btn" onclick="openReportForm()">
+    Report Mistake(s)
+  </button>
+</div>
+
+<style>
+  .report-mistake {
+    display: flex;
+    justify-content: center; /* Horizontally centers the button */
+    margin: 20px 0; /* Add margin for spacing */
+  }
+  .btn {
+    background-color: #ff4d4d; /* Red color for the button */
+    color: white;
+    padding: 12px 20px; /* Increased padding */
+    border: none;
+    border-radius: 20px; /* More curvy button */
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s; /* Smooth transition */
+  }
+  .btn:hover {
+    background-color: #cc0000; /* Darker red on hover */
+  }
+</style>
+
+<script>
+  function openReportForm() {
+    // Redirect to report-mistake.html
+    window.location.href = "/report.html";
+  }
+</script>
