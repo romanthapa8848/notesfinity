@@ -1,5 +1,7 @@
 ---
 title: "Civil Engineering Materials"
+author: "Roman Thapa"
+date: "2024-10-04"
 description: "Explore the comprehensive syllabus for Civil Engineering Materials, including properties, types, testing, sustainability, and emerging trends."
 keywords:
   [
@@ -14,9 +16,7 @@ keywords:
     "Wood",
     "Asphalt",
   ]
-author: "Roman Thapa"
-date: 2024-10-04
-draft: false
+
 layout: "non_math_mode"
 ---
 
@@ -85,25 +85,25 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 - [5.2 Types, Properties and Uses of Cement](/notes/ioe/cem/cement/types-properties-uses/index.html)
 - [5.3 Ingredients of Cement](/notes/ioe/cem/cement/ingredients/index.html)
 - [5.4 Manufacture of Cement (Flow Diagram)](/notes/ioe/cem/cement/manufacture/index.html)
-- [5.5 Composition and Function of Cement Clinker](./cement/composition-function-clinker.md)
-- [5.6 Standard Test of Cement](./cement/standard-test.md)
-- [5.7 Cement Water Proofers](./cement/cement-water-proofers.md)
-- [5.8 Admixtures](./cement/admixtures.md)
+- [5.5 Composition and Function of Cement Clinker](/notes/ioe/cem/cement/composition-function-clinker/index.html)
+- [5.6 Standard Test of Cement](/notes/ioe/cem/cement/standard-test/index.html)
+- [5.7 Cement Water Proofers](/notes/ioe/cem/cement/cement-water-proofers/index.html)
+- [5.8 Admixtures](/notes/ioe/cem/cement/admixtures/index.html)
 
 ---
 
 ## 6. Mortar
 
-- [6.1 Introduction](./mortar/introduction.md)
-- [6.2 Classification of Mortar](./mortar/classification.md)
-- [6.3 Function of Mortar](./mortar/function.md)
-- [6.4 Selection of Mortar for Civil Engineering Works](./mortar/selection.md)
+- [6.1 Introduction](/notes/ioe/cem/mortar/intro/index.html)
+- [6.2 Classification of Mortar](/notes/ioe/cem/mortar/classification/index.html)
+- [6.3 Function of Mortar](/notes/ioe/cem/mortar/function/index.html)
+- [6.4 Selection of Mortar for Civil Engineering Works](/notes/ioe/cem/mortar/selection/index.html)
 
 ---
 
 ## 7. Timber
 
-- [7.1 Introduction](./timber/introduction.md)
+- [7.1 Introduction](/notes/ioe/cem/timber/intro/index.html)
 - [7.2 Growth and Structure of Tree](./timber/growth-structure.md)
 - [7.3 Classification of Tree](./timber/classification.md)
 - [7.4 Characteristics of Good Timber](./timber/characteristics-good.md)

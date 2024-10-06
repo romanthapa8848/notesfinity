@@ -25,7 +25,7 @@ keywords:
     "Lime in construction",
   ]
 
-layout: "non_math_mode"
+layout: "math_mode"
 ---
 
 # Types, Properties, and Uses of Lime
@@ -41,20 +41,30 @@ Lime can be classified into several categories based on its production process a
 ### a. Quicklime (Calcium Oxide)
 
 - **Description:** Quicklime is produced by heating limestone (calcium carbonate) in a kiln to high temperatures (around 900°C to 1,000°C), resulting in a white, powdery substance.
-- **Chemical Formula:** CaO
+- **Chemical Formula:** $CaO$
 - **Characteristics:** Highly reactive; generates heat when mixed with water, leading to a significant increase in temperature.
 
 ### b. Hydrated Lime (Calcium Hydroxide)
 
 - **Description:** Hydrated lime is created by adding water to quicklime. This process results in a fine powder that is less reactive than quicklime.
-- **Chemical Formula:** Ca(OH)₂
+- **Chemical Formula:** $Ca(OH)_2$
 - **Characteristics:** It is safe to handle and is commonly used in various applications, including soil stabilization and as a binding agent in mortars.
 
 ### c. Agricultural Lime (Calcium Carbonate)
 
 - **Description:** This form of lime is essentially ground limestone, used primarily to improve soil quality and pH balance in agricultural applications.
-- **Chemical Formula:** CaCO₃
+- **Chemical Formula:** $CaCO_3$
 - **Characteristics:** Less reactive compared to quicklime and hydrated lime, making it suitable for use in soil amendment.
+
+---
+
+## Comparison Table of Lime Types
+
+| **Type of Lime**      | **Chemical Formula** | **Production Process**                                | **Primary Uses**                              |
+| --------------------- | -------------------- | ----------------------------------------------------- | --------------------------------------------- |
+| **Quicklime**         | $CaO$                | Produced by heating limestone in a kiln.              | Used in construction, chemical manufacturing. |
+| **Hydrated Lime**     | $Ca(OH)_2$           | Formed by adding water to quicklime.                  | Soil stabilization, mortars, water treatment. |
+| **Agricultural Lime** | $CaCO_3$             | Ground limestone used directly for soil applications. | Used in agriculture to improve soil quality.  |
 
 ---
 
