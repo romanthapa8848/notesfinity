@@ -36,108 +36,110 @@ layout: "non_math_mode"
 
 To provide concepts and knowledge of a wide range of materials (composition, manufacturing, properties, uses, etc.) that can be used in the construction and maintenance of civil engineering structures.
 
-## 1. Introduction to Civil Engineering Materials
+## [1. Introduction to Civil Engineering Materials](./introduction-to-civil-engineering-materials/introduction.md)
 
-- [1.1 Scope of the Subject](./introduction-to-civil-engineering-materials/scope-of-subject.html)
-- [1.2 Selection Criteria of Construction Material](./introduction-to-civil-engineering-materials/selection-criteria.html)
-- [1.3 Classification of Civil Engineering Material](./introduction-to-civil-engineering-materials/classification-material.html)
-- [1.4 Properties of Civil Engineering Material](./introduction-to-civil-engineering-materials/properties-material.html)
-
----
-
-## 2. Building Stones
-
-- [2.1 Introduction](./building-stones/introduction.html)
-- [2.2 Characteristics of good building stones](./building-stones/characteristics-good-stones.html)
-- [2.3 Selection and use of stone](./building-stones/selection-use-stone.html)
-- [2.4 Deterioration and preservation of stone](./building-stones/deterioration-preservation-stone.html)
-- [2.5 Natural bed of stone](./building-stones/natural-bed-stone.html)
-- [2.6 Dressing of stone](./building-stones/dressing-stone.html)
+- [1.1 Scope of the Subject](./introduction-to-civil-engineering-materials/scope-of-subject.md)
+- [1.2 Selection Criteria of Construction Material](./introduction-to-civil-engineering-materials/selection-criteria.md)
+- [1.3 Classification of Civil Engineering Material](./introduction-to-civil-engineering-materials/classification-material.md)
+- [1.4 Properties of Civil Engineering Material](./introduction-to-civil-engineering-materials/properties-material.md)
 
 ---
 
-## 3. Clay Products
+## [2. Building Stones](./building-stones/building-stones.md)
 
-- [3.1 Introduction](./clay-products/introduction.html)
-- [3.2 Constituents of brick earth](./clay-products/constituents-brick-earth.html)
-- [3.3 Manufacture of bricks](./clay-products/manufacture-bricks.html)
-- [3.4 Good qualities of bricks](./clay-products/good-qualities-bricks.html)
-- [3.5 Classification of bricks](./clay-products/classification-bricks.html)
-- [3.6 Standard test for bricks](./clay-products/standard-test-bricks.html)
-- [3.7 Tiles and their types](./clay-products/tiles-types.html)
-- [3.8 Earthenware and Glazing](./clay-products/earthenware-glazing.html)
+- [2.1 Introduction](./building-stones/introduction.md)
+- [2.2 Characteristics of good building stones](./building-stones/characteristics-good-stones.md)
+- [2.3 Selection and use of stone](./building-stones/selection-use-stone.md)
+- [2.4 Deterioration and preservation of stone](./building-stones/deterioration-preservation-stone.md)
+- [2.5 Natural bed of stone](./building-stones/natural-bed-stone.md)
+- [2.6 Dressing of stone](./building-stones/dressing-stone.md)
 
 ---
 
-## 4. Lime
+## [3. Clay Products](./clay-products/clay-products.md)
 
-- [4.1 Introduction](./lime/introduction.html)
-- [4.2 Types, Properties and Uses of Lime](./lime/types-properties-uses.html)
-- [4.3 Properties and Uses of Pozzolanic Material](./lime/properties-uses-pozzolanic-material.html)
-
----
-
-## 5. Cement
-
-- [5.1 Introduction](./cement/introduction.html)
-- [5.2 Types, Properties and Uses of Cement](./cement/types-properties-uses.html)
-- [5.3 Ingredients of Cement](./cement/ingredients.html)
-- [5.4 Manufacture of Cement (Flow Diagram)](./cement/manufacture.html)
-- [5.5 Composition and Function of Cement Clinker](./cement/composition-function-clinker.html)
-- [5.6 Standard Test of Cement](./cement/standard-test.html)
-- [5.7 Cement Water Proofers](./cement/cement-water-proofers.html)
-- [5.8 Admixtures](./cement/admixtures.html)
+- [3.1 Introduction](./clay-products/introduction.md)
+- [3.2 Constituents of brick earth](./clay-products/constituents-brick-earth.md)
+- [3.3 Manufacture of bricks](./clay-products/manufacture-bricks.md)
+- [3.4 Good qualities of bricks](./clay-products/good-qualities-bricks.md)
+- [3.5 Classification of bricks](./clay-products/classification-bricks.md)
+- [3.6 Standard test for bricks](./clay-products/standard-test-bricks.md)
+- [3.7 Tiles and their types](./clay-products/tiles-types.md)
+- [3.8 Earthenware and Glazing](./clay-products/earthenware-glazing.md)
 
 ---
 
-## 6. Mortar
+## [4. Lime](./lime/lime.md)
 
-- [6.1 Introduction](./mortar/introduction.html)
-- [6.2 Classification of Mortar](./mortar/classification.html)
-- [6.3 Function of Mortar](./mortar/function.html)
-- [6.4 Selection of Mortar for Civil Engineering Works](./mortar/selection.html)
-
----
-
-## 7. Timber
-
-- [7.1 Introduction](./timber/introduction.html)
-- [7.2 Growth and Structure of Tree](./timber/growth-structure.html)
-- [7.3 Classification of Tree](./timber/classification.html)
-- [7.4 Characteristics of Good Timber](./timber/characteristics-good.html)
-- [7.5 Defects of Timber](./timber/defects.html)
-- [7.6 Seasoning of Timber](./timber/seasoning.html)
-- [7.7 Deterioration and Preservation of Timber](./timber/deterioration-preservation.html)
-- [7.8 Commercial Products of Timber](./timber/commercial-products.html)
+- [4.1 Introduction](./lime/introduction.md)
+- [4.2 Types, Properties and Uses of Lime](./lime/types-properties-uses.md)
+- [4.3 Properties and Uses of Pozzolanic Material](./lime/properties-uses-pozzolanic-material.md)
 
 ---
 
-## 8. Metals and Alloys
+## [5. Cement](./cement/cement.md)
 
-- [8.1 Introduction](./metals-and-alloys/introduction.html)
-- [8.2 Types, Properties and Uses of Iron](./metals-and-alloys/types-properties-iron.html)
-- [8.3 Composition and Properties of Steel](./metals-and-alloys/composition-properties-steel.html)
-- [8.4 Heat Treatment Process](./metals-and-alloys/heat-treatment.html)
-- [8.5 Alloy of Steel](./metals-and-alloys/alloy-of-steel.html)
-- [8.6 Non-ferrous Metals](./metals-and-alloys/non-ferrous-metals.html)
-- [8.7 Commercial Products of Metals](./metals-and-alloys/commercial-products.html)
-
----
-
-## 9. Paints and Varnishes
-
-- [9.1 Function, Ingredients, Types, and Uses of Paints and Varnishes](./paints-and-varnishes/function-ingredients-types.html)
-- [9.2 Distemper](./paints-and-varnishes/distemper.html)
-- [9.3 Anti-termite Treatment](./paints-and-varnishes/anti-termite-treatment.html)
+- [5.1 Introduction](./cement/introduction.md)
+- [5.2 Types, Properties and Uses of Cement](./cement/types-properties-uses.md)
+- [5.3 Ingredients of Cement](./cement/ingredients.md)
+- [5.4 Manufacture of Cement (Flow Diagram)](./cement/manufacture.md)
+- [5.5 Composition and Function of Cement Clinker](./cement/composition-function-clinker.md)
+- [5.6 Standard Test of Cement](./cement/standard-test.md)
+- [5.7 Cement Water Proofers](./cement/cement-water-proofers.md)
+- [5.8 Admixtures](./cement/admixtures.md)
 
 ---
 
-## 10. Asphalt, Bitumen, Tar and Miscellaneous Materials
+## [6. Mortar](./mortar/mortar.md)
 
-- [10.1 Types, Properties and Uses of Asphalt, Bitumen, and Tar](./asphalt-bitumen-tar/types-properties-uses.html)
-- [10.2 Types, Properties and Uses of Glass](./asphalt-bitumen-tar/types-properties-uses-glass.html)
-- [10.3 Plastic Materials](./asphalt-bitumen-tar/plastic-materials.html)
-- [10.4 Insulating Materials](./asphalt-bitumen-tar/insulating-materials.html)
+- [6.1 Introduction](./mortar/introduction.md)
+- [6.2 Classification of Mortar](./mortar/classification.md)
+- [6.3 Function of Mortar](./mortar/function.md)
+- [6.4 Selection of Mortar for Civil Engineering Works](./mortar/selection.md)
+
+---
+
+## [7. Timber](./timber/timber.md)
+
+- [7.1 Introduction](./timber/introduction.md)
+- [7.2 Growth and Structure of Tree](./timber/growth-structure.md)
+- [7.3 Classification of Tree](./timber/classification.md)
+- [7.4 Characteristics of Good Timber](./timber/characteristics-good.md)
+- [7.5 Defects of Timber](./timber/defects.md)
+- [7.6 Seasoning of Timber](./timber/seasoning.md)
+- [7.7 Deterioration and Preservation of Timber](./timber/deterioration-preservation.md)
+- [7.8 Commercial Products of Timber](./timber/commercial-products.md)
+
+---
+
+## [8. Metals and Alloys](./metals-and-alloys/metals-and-alloys.md)
+
+- [8.1 Introduction](./metals-and-alloys/introduction.md)
+- [8.2 Types, Properties and Uses of Iron](./metals-and-alloys/types-properties-iron.md)
+- [8.3 Composition and Properties of Steel](./metals-and-alloys/composition-properties-steel.md)
+- [8.4 Heat Treatment Process](./metals-and-alloys/heat-treatment.md)
+- [8.5 Alloy of Steel](./metals-and-alloys/alloy-of-steel.md)
+- [8.6 Non-ferrous Metals](./metals-and-alloys/non-ferrous-metals.md)
+- [8.7 Commercial Products of Metals](./metals-and-alloys/commercial-products.md)
+
+---
+
+## [9. Paints and Varnishes](./paints-and-varnishes/paints-and-varnishes.md)
+
+- [9.1 Function, Ingredients, Types, and Uses of Paints and Varnishes](./paints-and-varnishes/function-ingredients-types.md)
+- [9.2 Distemper](./paints-and-varnishes/distemper.md)
+- [9.3 Anti-termite Treatment](./paints-and-varnishes/anti-termite-treatment.md)
+
+---
+
+## [10. Asphalt, Bitumen, Tar and Miscellaneous Materials](./asphalt-bitumen-tar/asphalt-bitumen-tar.md)
+
+- [10.1 Types, Properties and Uses of Asphalt, Bitumen, and Tar](./asphalt-bitumen-tar/types-properties-uses.md)
+- [10.2 Types, Properties and Uses of Glass](./asphalt-bitumen-tar/types-properties-uses-glass.md)
+- [10.3 Plastic Materials](./asphalt-bitumen-tar/plastic-materials.md)
+- [10.4 Insulating Materials](./asphalt-bitumen-tar/insulating-materials.md)
+
+---
 
 ## Practical Tests
 

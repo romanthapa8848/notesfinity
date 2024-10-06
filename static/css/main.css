@@ -43,22 +43,37 @@ blockquote {
   font-style: italic; /* Italic text */
 }
 
-/* Responsive styles */
+/* Responsive styles for screens less than or equal to 768px */
 @media (max-width: 768px) {
   main {
     padding: 1rem; /* Reduce padding on smaller screens */
   }
 
   h1 {
-    font-size: 1.5rem; /* Adjust heading size */
+    font-size: 1.25rem; /* Adjust heading size */
   }
 
   h2 {
-    font-size: 1.5rem; /* Adjust heading size */
+    font-size: 1.25rem; /* Adjust heading size */
   }
 
   h3 {
-    font-size: 1.25rem; /* Adjust heading size */
+    font-size: 1rem; /* Adjust heading size */
+  }
+}
+
+/* Responsive styles for screens less than or equal to 480px */
+@media (max-width: 480px) {
+  h1 {
+    font-size: 1rem; /* Smaller heading size */
+  }
+
+  h2 {
+    font-size: 1rem; /* Smaller heading size */
+  }
+
+  h3 {
+    font-size: 0.875rem; /* Smaller heading size */
   }
 }
 
@@ -152,16 +167,6 @@ th {
 td {
   padding: 10px; /* Padding around the text */
   border: 1px solid #ddd; /* Light gray border */
-}
-
-/* Alternating Row Colors */
-tr:nth-child(even) {
-  background-color: #f2f2f2; /* Light gray for even rows */
-}
-
-/* Hover Effect */
-tr:hover {
-  background-color: #ddd; /* Darker gray on hover */
 }
 
 /* Responsive Table Styles */
