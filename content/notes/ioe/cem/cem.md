@@ -36,6 +36,8 @@ layout: "non_math_mode"
 
 To provide concepts and knowledge of a wide range of materials (composition, manufacturing, properties, uses, etc.) that can be used in the construction and maintenance of civil engineering structures.
 
+---
+
 ## [1. Introduction to Civil Engineering Materials](./introduction-to-civil-engineering-materials/introduction.md)
 
 - [1.1 Scope of the Subject](./introduction-to-civil-engineering-materials/scope-of-subject.md)
