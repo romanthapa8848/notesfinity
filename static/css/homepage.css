@@ -190,26 +190,48 @@ body {
   }
 }
 
+/* Reset styles for anchor tags */
+a {
+  text-decoration: none; /* Remove underline from links */
+  margin: 0; /* Reset any default margin */
+  padding: 0; /* Reset any default padding */
+}
+
 /* Donate button styles */
 #donate-button {
-  background-color: #ff69b4; /* Pink background */
-  color: white; /* White text for better contrast */
-  border: none; /* No border */
+  background-color: #f4f4f4; /* Light gray background */
+  color: black; /* Black text for contrast */
+  border: 1px solid #ccc; /* Light gray border */
   padding: 12px 24px; /* Padding for size */
   font-size: 16px; /* Text size */
-  margin-top: 15px; /* Space between search bar and button */
+  margin-top: 15px; /* Space between buttons */
   cursor: pointer; /* Pointer on hover */
-  border-radius: 20px; /* Rounded edges */
+  border-radius: 25px; /* More rounded edges */
   display: inline-block; /* Alignment */
-  box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1); /* Subtle shadow */
+  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
 }
 
 #donate-button:hover {
-  background-color: #ff1493; /* Darker pink on hover */
+  background-color: #e0e0e0; /* Slightly darker gray on hover */
 }
 
-#donate-button:active {
-  background-color: #ff007f; /* Even darker pink when clicked */
+/* Blog button styles */
+#blog-button {
+  background-color: #f4f4f4; /* Light gray background */
+  color: black; /* Black text for contrast */
+  border: 1px solid #ccc; /* Light gray border */
+  padding: 12px 24px; /* Padding for size */
+  font-size: 16px; /* Text size */
+  margin-top: 15px; /* Space between buttons */
+  margin-right: 10px; /* Space between Blog and Donate buttons */
+  cursor: pointer; /* Pointer on hover */
+  border-radius: 25px; /* More rounded edges */
+  display: inline-block; /* Alignment */
+  transition: background-color 0.3s ease; /* Smooth transition for hover effect */
+}
+
+#blog-button:hover {
+  background-color: #e0e0e0; /* Slightly darker gray on hover */
 }
 
 /* Make sure HTML and body take full height */

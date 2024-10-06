@@ -38,16 +38,16 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ---
 
-## [1. Introduction to Civil Engineering Materials](/notes/ioe/cem/intro/index.html)
+## 1. Introduction to Civil Engineering Materials
 
-- [1.1 Scope of the Subject](./introduction-to-civil-engineering-materials/scope-of-subject.md)
+- [1.1 Scope of the Subject](/notes/ioe/cem/intro/index.html##11-scope-of-the-subject)
 - [1.2 Selection Criteria of Construction Material](./introduction-to-civil-engineering-materials/selection-criteria.md)
 - [1.3 Classification of Civil Engineering Material](./introduction-to-civil-engineering-materials/classification-material.md)
 - [1.4 Properties of Civil Engineering Material](./introduction-to-civil-engineering-materials/properties-material.md)
 
 ---
 
-## [2. Building Stones](./building-stones/building-stones.md)
+## 2. Building Stones
 
 - [2.1 Introduction](./building-stones/introduction.md)
 - [2.2 Characteristics of good building stones](./building-stones/characteristics-good-stones.md)
@@ -58,7 +58,7 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ---
 
-## [3. Clay Products](./clay-products/clay-products.md)
+## 3. Clay Products
 
 - [3.1 Introduction](./clay-products/introduction.md)
 - [3.2 Constituents of brick earth](./clay-products/constituents-brick-earth.md)
@@ -71,7 +71,7 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ---
 
-## [4. Lime](./lime/lime.md)
+## 4. Lime
 
 - [4.1 Introduction](./lime/introduction.md)
 - [4.2 Types, Properties and Uses of Lime](./lime/types-properties-uses.md)
@@ -79,7 +79,7 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ---
 
-## [5. Cement](./cement/cement.md)
+## 5. Cement
 
 - [5.1 Introduction](./cement/introduction.md)
 - [5.2 Types, Properties and Uses of Cement](./cement/types-properties-uses.md)
@@ -92,7 +92,7 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ---
 
-## [6. Mortar](./mortar/mortar.md)
+## 6. Mortar
 
 - [6.1 Introduction](./mortar/introduction.md)
 - [6.2 Classification of Mortar](./mortar/classification.md)
@@ -101,7 +101,7 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ---
 
-## [7. Timber](./timber/timber.md)
+## 7. Timber
 
 - [7.1 Introduction](./timber/introduction.md)
 - [7.2 Growth and Structure of Tree](./timber/growth-structure.md)
@@ -114,7 +114,7 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ---
 
-## [8. Metals and Alloys](./metals-and-alloys/metals-and-alloys.md)
+## 8. Metals and Alloys
 
 - [8.1 Introduction](./metals-and-alloys/introduction.md)
 - [8.2 Types, Properties and Uses of Iron](./metals-and-alloys/types-properties-iron.md)
@@ -126,7 +126,7 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ---
 
-## [9. Paints and Varnishes](./paints-and-varnishes/paints-and-varnishes.md)
+## 9. Paints and Varnishes
 
 - [9.1 Function, Ingredients, Types, and Uses of Paints and Varnishes](./paints-and-varnishes/function-ingredients-types.md)
 - [9.2 Distemper](./paints-and-varnishes/distemper.md)
@@ -134,7 +134,7 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ---
 
-## [10. Asphalt, Bitumen, Tar and Miscellaneous Materials](./asphalt-bitumen-tar/asphalt-bitumen-tar.md)
+## 10. Asphalt, Bitumen, Tar and Miscellaneous Materials
 
 - [10.1 Types, Properties and Uses of Asphalt, Bitumen, and Tar](./asphalt-bitumen-tar/types-properties-uses.md)
 - [10.2 Types, Properties and Uses of Glass](./asphalt-bitumen-tar/types-properties-uses-glass.md)

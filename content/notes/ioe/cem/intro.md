@@ -19,10 +19,10 @@ layout: "non_math_mode"
 
 Civil engineering materials play a pivotal role in the construction, maintenance, and management of infrastructures such as roads, bridges, buildings, and more. The selection, understanding, and application of these materials are fundamental to achieving durability, safety, and sustainability in civil engineering projects. This article explores the scope, selection criteria, classification, and properties of civil engineering materials.
 
-- [1.1 Scope of the Subject](#scope-of-the-subject)
-- [1.2 Selection Criteria of Construction Material](#selection-criteria-of-construction-material)
-- [1.3 Classification of Civil Engineering Material](#classification-of-civil-engineering-material)
-- [1.4 Properties of Civil Engineering Material](#properties-of-civil-engineering-material)
+- [1.1 Scope of the Subject](#11-scope-of-the-subject)
+- [1.2 Selection Criteria of Construction Material](#12-selection-criteria-of-construction-material)
+- [1.3 Classification of Civil Engineering Material](#13-classification-of-civil-engineering-material)
+- [1.4 Properties of Civil Engineering Material](#14-properties-of-civil-engineering-material)
 
 ---
 
