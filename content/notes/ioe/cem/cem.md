@@ -141,7 +141,7 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ---
 
-## Practical Tests
+## Practical:
 
 1. [Water Absorption Test and Bulk Specific Gravity Test on Brick Sample](./practical-tests/water-absorption-test)
 2. [Compressive Strength Test of Brick and Stone](./practical-tests/compressive-strength-test)
@@ -152,8 +152,8 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ---
 
-## References
+## References:
 
-1. Peter A. Thornton and Vito J. Colangela, _Fundamentals of Engineering Materials_, Prentice Hall Publishing Company.
-2. Parbin Singh, _Civil Engineering Materials_, Katson Books.
-3. R.K. Rajput, _Engineering Materials_, S. Chand & Company Ltd.
+1. Peter A. Thornton and Vito J. Colangela, _"Fundamentals of Engineering Materials"_, Prentice Hall Publishing Company.
+2. Parbin Singh, _"Civil Engineering Materials"_, Katson Books.
+3. R.K. Rajput, _"Engineering Materials"_, S. Chand & Company Ltd.
