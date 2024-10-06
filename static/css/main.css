@@ -147,6 +147,8 @@ table {
   margin: 20px 0; /* Space above and below the table */
   font-size: 16px; /* Base font size */
   text-align: left; /* Align text to the left */
+  table-layout: auto; /* Adjust table layout to fit the container */
+  overflow-x: auto; /* Allow horizontal scrolling if necessary */
 }
 
 /* Table Header Styles */
@@ -161,6 +163,8 @@ th {
 td {
   padding: 10px; /* Padding around the text */
   border: 1px solid #ddd; /* Light gray border */
+  word-wrap: break-word; /* Allow breaking long words to prevent overflow */
+  overflow-wrap: break-word; /* Break words if necessary */
 }
 
 /* Responsive Table Styles */

@@ -81,10 +81,10 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 
 ## 5. Cement
 
-- [5.1 Introduction](./cement/introduction.md)
-- [5.2 Types, Properties and Uses of Cement](./cement/types-properties-uses.md)
-- [5.3 Ingredients of Cement](./cement/ingredients.md)
-- [5.4 Manufacture of Cement (Flow Diagram)](./cement/manufacture.md)
+- [5.1 Introduction](/notes/ioe/cem/cement/intro/index.html)
+- [5.2 Types, Properties and Uses of Cement](/notes/ioe/cem/cement/types-properties-uses/index.html)
+- [5.3 Ingredients of Cement](/notes/ioe/cem/cement/ingredients/index.html)
+- [5.4 Manufacture of Cement (Flow Diagram)](/notes/ioe/cem/cement/manufacture/index.html)
 - [5.5 Composition and Function of Cement Clinker](./cement/composition-function-clinker.md)
 - [5.6 Standard Test of Cement](./cement/standard-test.md)
 - [5.7 Cement Water Proofers](./cement/cement-water-proofers.md)
