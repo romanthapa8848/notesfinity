@@ -74,8 +74,8 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 ## 4. Lime
 
 - [4.1 Introduction](/notes/ioe/cem/lime/intro/index.html)
-- [4.2 Types, Properties and Uses of Lime](./lime/types-properties-uses.md)
-- [4.3 Properties and Uses of Pozzolanic Material](./lime/properties-uses-pozzolanic-material.md)
+- [4.2 Types, Properties and Uses of Lime](/notes/ioe/cem/lime/types-properties-uses/index.html)
+- [4.3 Properties and Uses of Pozzolanic Material](/notes/ioe/cem/lime/pozzolanic-material/index.html)
 
 ---
 
