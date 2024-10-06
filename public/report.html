@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Report a Mistake | Notesfinity</title>
+    <meta
+      name="description"
+      content="Report any mistakes or issues in our notes on Notesfinity."
+    />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/header.css" />
+    <link rel="stylesheet" href="/css/footer.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="/css/main.css" />
+    <!-- Linking JavaScript files -->
+    <script type="module" src="/js/results.js" defer></script>
+    <script type="module" src="/js/search.js" defer></script>
+    <script src="/js/main.js"></script>
+    <!-- jQuery Library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+  </head>
+  <body>
+    <div class="wrapper">
+      <!-- header.html -->
+      <header>
+        <a href="/index.html">
+          <img id="logo" src="/logo.png" alt="Logo" />
+        </a>
+        <div class="search-container">
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Enter your subject name or code"
+          />
+          <button id="search-button"><i class="fas fa-search"></i></button>
+        </div>
+      </header>
+
+      <div class="wrapper">
+        <!-- Report section -->
+        <main class="content">
+          <h1>Report a Mistake</h1>
+          <p>
+            If you find any mistakes or issues in our notes, please let us know
+            by filling out the form below. Your feedback is invaluable to us!
+          </p>
+
+          <!-- Embed Google Form -->
+          <iframe
+            src="https://docs.google.com/forms/d/e/1FAIpQLSdMVpjbYuCAEnEojAeXvgH8C6l7iXbbPcFIWEd6Z5svUl7lWg/viewform?embedded=true"
+            width="640"
+            height="1026"
+            frameborder="0"
+            marginheight="0"
+            marginwidth="0"
+            >Loading…</iframe
+          >
+        </main>
+      </div>
+
+      <!-- footer.html -->
+      <footer>
+        <div class="footer-row">
+          <ul class="footer-links">
+            <li><a href="/about.html">About</a></li>
+            <li><a href="/contact.html">Contact</a></li>
+            <li><a href="/privacy.html">Privacy</a></li>
+            <li><a href="/terms.html">Terms</a></li>
+          </ul>
+        </div>
+        <div class="footer-row copyright">
+          <p>&copy; Notesfinity</p>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>
