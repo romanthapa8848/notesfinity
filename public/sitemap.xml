@@ -2,6 +2,144 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/acoustic-insulation/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/anti-termite-treatment/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/cem/paints-and-varnishes/anti-termite-treatment/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/architectural-glass/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/asphalt/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bitumen/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/brick-testing/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/building-materials/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/building-protection/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bulk-specific-gravity-test/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/cement-testing/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/civil-engineering/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/cem/practical/compressive-strength-cement/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/compressive-strength-test/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/cem/practical/compressive-strength-test/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/consistency-test/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/cem/practical/consistency-test/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/construction/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/construction-materials/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/cem/practical/fineness-soundness-test/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/fineness-test/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/glass/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/insulating-materials/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/material-testing/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pavement-materials/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pest-control/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/plastic-materials/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/polymers/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/road-construction/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/setting-time-test/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/cem/practical/setting-time-test/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/soundness-test/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/stone-testing/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/tar/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/termite-prevention/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/thermal-insulation/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/cem/asphalt-bitumen-tar/types-properties-uses/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/cem/asphalt-bitumen-tar/types-properties-uses-glass/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/cem/asphalt-bitumen-tar/insulating-materials/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/cem/asphalt-bitumen-tar/plastic-materials/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/water-absorption-test/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/cem/practical/water-absorption-test/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/windows-and-glazing/</loc>
+    <lastmod>2024-10-07T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/admixtures/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,13 +170,10 @@
     <loc>http://localhost:1313/tags/brick-manufacturing/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/brick-testing/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/bricks/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/building-materials/</loc>
+    <loc>http://localhost:1313/tags/building-finishes/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/building-stones/</loc>
@@ -68,9 +203,6 @@
     <loc>http://localhost:1313/tags/cement-standards/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/cement-testing/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/cement-waterproofers/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -87,9 +219,6 @@
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/cem/timber/characteristics-good/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/civil-engineering/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/cem/clay-products/classification-bricks/</loc>
@@ -134,12 +263,6 @@
     <loc>http://localhost:1313/notes/ioe/cem/clay-products/brick-earth/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/construction/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/construction-materials/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/construction-techniques/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -156,6 +279,12 @@
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/cem/timber/deterioration-preservation/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/distemper/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/cem/paints-and-varnishes/distemper/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/cem/building-stones/dressing/</loc>
@@ -183,6 +312,9 @@
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/cem/mortar/function/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/cem/paints-and-varnishes/function-ingredients-types/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/furniture-manufacturing/</loc>
@@ -219,6 +351,9 @@
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/interior-design/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/interior-finishes/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/iron/</loc>
@@ -299,10 +434,7 @@
     <loc>http://localhost:1313/notes/ioe/cem/metals-and-alloys/non-ferrous-metals/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/tags/paints/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/plant-biology/</loc>
@@ -380,6 +512,12 @@
     <loc>http://localhost:1313/tags/structural-engineering/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/surface-coatings/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/surface-finishing/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/sustainability/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
@@ -396,9 +534,6 @@
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sustainable-forestry/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/tiles/</loc>
@@ -447,6 +582,9 @@
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/cem/lime/types-properties-uses/</loc>
+    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/varnishes/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/wall-coverings/</loc>

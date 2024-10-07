@@ -122,35 +122,35 @@ To provide concepts and knowledge of a wide range of materials (composition, man
 - [8.4 Heat Treatment Process](/notes/ioe/cem/metals-and-alloys/heat-treatment/index.html)
 - [8.5 Alloy of Steel](/notes/ioe/cem/metals-and-alloys/alloy-of-steel/index.html)
 - [8.6 Non-ferrous Metals](/notes/ioe/cem/metals-and-alloys/non-ferrous-metals/index.html)
-- [8.7 Commercial Products of Metals](/notes/ioe/cem/metals-and-alloys/commercial-products./index.html)
+- [8.7 Commercial Products of Metals](/notes/ioe/cem/metals-and-alloys/commercial-products/index.html)
 
 ---
 
 ## 9. Paints and Varnishes
 
-- [9.1 Function, Ingredients, Types, and Uses of Paints and Varnishes](./paints-and-varnishes/function-ingredients-types.md)
-- [9.2 Distemper](./paints-and-varnishes/distemper.md)
-- [9.3 Anti-termite Treatment](./paints-and-varnishes/anti-termite-treatment.md)
+- [9.1 Function, Ingredients, Types, and Uses of Paints and Varnishes](/notes/ioe/cem/paints-and-varnishes/function-ingredients-types/index.html)
+- [9.2 Distemper](/notes/ioe/cem/paints-and-varnishes/distemper/index.html)
+- [9.3 Anti-termite Treatment](/notes/ioe/cem/paints-and-varnishes/anti-termite-treatment/index.html)
 
 ---
 
 ## 10. Asphalt, Bitumen, Tar and Miscellaneous Materials
 
-- [10.1 Types, Properties and Uses of Asphalt, Bitumen, and Tar](./asphalt-bitumen-tar/types-properties-uses.md)
-- [10.2 Types, Properties and Uses of Glass](./asphalt-bitumen-tar/types-properties-uses-glass.md)
-- [10.3 Plastic Materials](./asphalt-bitumen-tar/plastic-materials.md)
-- [10.4 Insulating Materials](./asphalt-bitumen-tar/insulating-materials.md)
+- [10.1 Types, Properties and Uses of Asphalt, Bitumen, and Tar](/notes/ioe/cem/asphalt-bitumen-tar/types-properties-uses/index.html)
+- [10.2 Types, Properties and Uses of Glass](/notes/ioe/cem/asphalt-bitumen-tar/types-properties-uses-glass/index.html)
+- [10.3 Plastic Materials](/notes/ioe/cem/asphalt-bitumen-tar/plastic-materials/index.html)
+- [10.4 Insulating Materials](/notes/ioe/cem/asphalt-bitumen-tar/insulating-materials/index.html)
 
 ---
 
 ## Practical:
 
-1. [Water Absorption Test and Bulk Specific Gravity Test on Brick Sample](./practical-tests/water-absorption-test)
-2. [Compressive Strength Test of Brick and Stone](./practical-tests/compressive-strength-test)
-3. [Consistency Test of Cement](./practical-tests/consistency-test)
-4. [Setting Time Test of Cement (Initial and Final)](./practical-tests/setting-time-test)
-5. [Fineness and Soundness Test of Cement](./practical-tests/fineness-soundness-test)
-6. [Compressive Strength of Cement](./practical-tests/compressive-strength-cement)
+1. [Water Absorption Test and Bulk Specific Gravity Test on Brick Sample](/notes/ioe/cem/practical/water-absorption-test/index.html)
+2. [Compressive Strength Test of Brick and Stone](/notes/ioe/cem/practical/compressive-strength-test/index.html)
+3. [Consistency Test of Cement](/notes/ioe/cem/practical/consistency-test/index.html)
+4. [Setting Time Test of Cement (Initial and Final)](/notes/ioe/cem/practical/setting-time-test/index.html)
+5. [Fineness and Soundness Test of Cement](/notes/ioe/cem/practical/fineness-soundness-test/index.html)
+6. [Compressive Strength of Cement](/notes/ioe/cem/practical/compressive-strength-cement/index.html)
 
 ---
 

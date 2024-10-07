@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Material Testing on Notesfinity</title>
+    <link>http://localhost:1313/tags/material-testing/</link>
+    <description>Recent content in Material Testing on Notesfinity</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/material-testing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Compressive Strength of Cement</title>
+      <link>http://localhost:1313/notes/ioe/cem/practical/compressive-strength-cement/</link>
+      <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/ioe/cem/practical/compressive-strength-cement/</guid>
+      <description>&lt;h1 id=&#34;compressive-strength-of-cement&#34;&gt;Compressive Strength of Cement&lt;/h1&gt;&#xA;&lt;p&gt;The compressive strength test of cement is a vital procedure used to assess the quality and performance of cement in construction applications. This test evaluates the ability of cement to withstand axial loads, providing crucial information for structural design and safety.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Cement&amp;rsquo;s compressive strength is a key property that indicates its capacity to withstand loads without failure. Understanding this property is essential for engineers and builders to ensure the safety and durability of concrete structures.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
