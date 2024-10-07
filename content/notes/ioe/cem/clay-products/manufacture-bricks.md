@@ -132,9 +132,10 @@ The manufacture of bricks involves a systematic process that transforms raw mate
 
 4. **Final Inspection:**
    - Once the brickwork is completed, a final inspection ensures that everything meets the required standards. This may include checks for structural integrity and aesthetics.
-     <img src="https://i.imgur.com/QbFN6vK.png" alt="Brick Manufacturing Process" style="max-width: 50%; height: auto; display: block; margin: 0 auto;">
 
----
+### Brick Manufacturing Process Flowchart
+
+{{< figure src="https://i.imgur.com/QbFN6vK.png" alt="Brick Manufacturing Process" caption="Brick Manufacturing Process" class="fig" >}}
 
 ## 3. Quality Control in Brick Manufacturing
 
