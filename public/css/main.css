@@ -179,24 +179,6 @@ td {
   }
 }
 
-/* Responsive iframe */
-.content iframe {
-  width: 100%; /* Full width of the container */
-  max-width: 640px; /* Max width for larger screens */
-  height: calc(
-    100vh - 200px
-  ); /* Dynamic height calculation to fit the viewport */
-  border: none; /* Remove border */
-  margin-top: 20px; /* Space above the iframe */
-}
-
-/* Media query for smaller screens */
-@media (max-width: 768px) {
-  .content iframe {
-    height: 70vh; /* Adjust height for mobile, if needed */
-  }
-}
-
 /* Styling for the figure containing the image */
 .fig {
   max-width: 100%; /* Ensure the figure does not exceed the container width */
