@@ -2,1032 +2,1158 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Notesfinity</title>
-    <link>http://localhost:1313/tags/</link>
+    <link>https://notesfinity.com/tags/</link>
     <description>Recent content in Tags on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biochemistry</title>
-      <link>http://localhost:1313/tags/biochemistry/</link>
+      <link>https://notesfinity.com/tags/biochemistry/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/biochemistry/</guid>
+      <guid>https://notesfinity.com/tags/biochemistry/</guid>
       <description></description>
     </item>
     <item>
       <title>Biological Molecules</title>
-      <link>http://localhost:1313/tags/biological-molecules/</link>
+      <link>https://notesfinity.com/tags/biological-molecules/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/biological-molecules/</guid>
+      <guid>https://notesfinity.com/tags/biological-molecules/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biology</title>
+      <link>https://notesfinity.com/tags/biology/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/biology/</guid>
       <description></description>
     </item>
     <item>
       <title>Carbohydrates</title>
-      <link>http://localhost:1313/tags/carbohydrates/</link>
+      <link>https://notesfinity.com/tags/carbohydrates/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/carbohydrates/</guid>
+      <guid>https://notesfinity.com/tags/carbohydrates/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Catalysis</title>
+      <link>https://notesfinity.com/tags/catalysis/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/catalysis/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cell Biology</title>
+      <link>https://notesfinity.com/tags/cell-biology/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/cell-biology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Cells</title>
+      <link>https://notesfinity.com/tags/cells/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/cells/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Enzymes</title>
+      <link>https://notesfinity.com/tags/enzymes/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/enzymes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Eukaryotic Cells</title>
+      <link>https://notesfinity.com/tags/eukaryotic-cells/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/eukaryotic-cells/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Genetics</title>
+      <link>https://notesfinity.com/tags/genetics/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/genetics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Health Sciences</title>
+      <link>https://notesfinity.com/tags/health-sciences/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/health-sciences/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hydration</title>
+      <link>https://notesfinity.com/tags/hydration/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/hydration/</guid>
       <description></description>
     </item>
     <item>
       <title>Lipids</title>
-      <link>http://localhost:1313/tags/lipids/</link>
+      <link>https://notesfinity.com/tags/lipids/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lipids/</guid>
+      <guid>https://notesfinity.com/tags/lipids/</guid>
       <description></description>
     </item>
     <item>
       <title>Macromolecules</title>
-      <link>http://localhost:1313/tags/macromolecules/</link>
+      <link>https://notesfinity.com/tags/macromolecules/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/macromolecules/</guid>
+      <guid>https://notesfinity.com/tags/macromolecules/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Metabolism</title>
+      <link>https://notesfinity.com/tags/metabolism/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/metabolism/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Microscopy</title>
+      <link>https://notesfinity.com/tags/microscopy/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/microscopy/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Minerals</title>
+      <link>https://notesfinity.com/tags/minerals/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/minerals/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Molecular Biology</title>
+      <link>https://notesfinity.com/tags/molecular-biology/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/molecular-biology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nucleic Acids</title>
+      <link>https://notesfinity.com/tags/nucleic-acids/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/nucleic-acids/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nutrition</title>
+      <link>https://notesfinity.com/tags/nutrition/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/nutrition/</guid>
       <description></description>
     </item>
     <item>
       <title>Organic Chemistry</title>
-      <link>http://localhost:1313/tags/organic-chemistry/</link>
+      <link>https://notesfinity.com/tags/organic-chemistry/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/organic-chemistry/</guid>
+      <guid>https://notesfinity.com/tags/organic-chemistry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Organisms</title>
+      <link>https://notesfinity.com/tags/organisms/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/organisms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Prokaryotic Cells</title>
+      <link>https://notesfinity.com/tags/prokaryotic-cells/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/prokaryotic-cells/</guid>
       <description></description>
     </item>
     <item>
       <title>Proteins</title>
-      <link>http://localhost:1313/tags/proteins/</link>
+      <link>https://notesfinity.com/tags/proteins/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/proteins/</guid>
+      <guid>https://notesfinity.com/tags/proteins/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Water</title>
+      <link>https://notesfinity.com/tags/water/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/tags/water/</guid>
       <description></description>
     </item>
     <item>
       <title>Acoustic Insulation</title>
-      <link>http://localhost:1313/tags/acoustic-insulation/</link>
+      <link>https://notesfinity.com/tags/acoustic-insulation/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/acoustic-insulation/</guid>
+      <guid>https://notesfinity.com/tags/acoustic-insulation/</guid>
       <description></description>
     </item>
     <item>
       <title>Anti-Termite Treatment</title>
-      <link>http://localhost:1313/tags/anti-termite-treatment/</link>
+      <link>https://notesfinity.com/tags/anti-termite-treatment/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/anti-termite-treatment/</guid>
+      <guid>https://notesfinity.com/tags/anti-termite-treatment/</guid>
       <description></description>
     </item>
     <item>
       <title>Architectural Glass</title>
-      <link>http://localhost:1313/tags/architectural-glass/</link>
+      <link>https://notesfinity.com/tags/architectural-glass/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/architectural-glass/</guid>
+      <guid>https://notesfinity.com/tags/architectural-glass/</guid>
       <description></description>
     </item>
     <item>
       <title>Asphalt</title>
-      <link>http://localhost:1313/tags/asphalt/</link>
+      <link>https://notesfinity.com/tags/asphalt/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/asphalt/</guid>
+      <guid>https://notesfinity.com/tags/asphalt/</guid>
       <description></description>
     </item>
     <item>
       <title>Bitumen</title>
-      <link>http://localhost:1313/tags/bitumen/</link>
+      <link>https://notesfinity.com/tags/bitumen/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bitumen/</guid>
+      <guid>https://notesfinity.com/tags/bitumen/</guid>
       <description></description>
     </item>
     <item>
       <title>Brick Testing</title>
-      <link>http://localhost:1313/tags/brick-testing/</link>
+      <link>https://notesfinity.com/tags/brick-testing/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/brick-testing/</guid>
+      <guid>https://notesfinity.com/tags/brick-testing/</guid>
       <description></description>
     </item>
     <item>
       <title>Building Materials</title>
-      <link>http://localhost:1313/tags/building-materials/</link>
+      <link>https://notesfinity.com/tags/building-materials/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/building-materials/</guid>
+      <guid>https://notesfinity.com/tags/building-materials/</guid>
       <description></description>
     </item>
     <item>
       <title>Building Protection</title>
-      <link>http://localhost:1313/tags/building-protection/</link>
+      <link>https://notesfinity.com/tags/building-protection/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/building-protection/</guid>
+      <guid>https://notesfinity.com/tags/building-protection/</guid>
       <description></description>
     </item>
     <item>
       <title>Bulk Specific Gravity Test</title>
-      <link>http://localhost:1313/tags/bulk-specific-gravity-test/</link>
+      <link>https://notesfinity.com/tags/bulk-specific-gravity-test/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bulk-specific-gravity-test/</guid>
+      <guid>https://notesfinity.com/tags/bulk-specific-gravity-test/</guid>
       <description></description>
     </item>
     <item>
       <title>Cement Testing</title>
-      <link>http://localhost:1313/tags/cement-testing/</link>
+      <link>https://notesfinity.com/tags/cement-testing/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cement-testing/</guid>
+      <guid>https://notesfinity.com/tags/cement-testing/</guid>
       <description></description>
     </item>
     <item>
       <title>Civil Engineering</title>
-      <link>http://localhost:1313/tags/civil-engineering/</link>
+      <link>https://notesfinity.com/tags/civil-engineering/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/civil-engineering/</guid>
+      <guid>https://notesfinity.com/tags/civil-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Compressive Strength Test</title>
-      <link>http://localhost:1313/tags/compressive-strength-test/</link>
+      <link>https://notesfinity.com/tags/compressive-strength-test/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/compressive-strength-test/</guid>
+      <guid>https://notesfinity.com/tags/compressive-strength-test/</guid>
       <description></description>
     </item>
     <item>
       <title>Consistency Test</title>
-      <link>http://localhost:1313/tags/consistency-test/</link>
+      <link>https://notesfinity.com/tags/consistency-test/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/consistency-test/</guid>
+      <guid>https://notesfinity.com/tags/consistency-test/</guid>
       <description></description>
     </item>
     <item>
       <title>Construction</title>
-      <link>http://localhost:1313/tags/construction/</link>
+      <link>https://notesfinity.com/tags/construction/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/construction/</guid>
+      <guid>https://notesfinity.com/tags/construction/</guid>
       <description></description>
     </item>
     <item>
       <title>Construction Materials</title>
-      <link>http://localhost:1313/tags/construction-materials/</link>
+      <link>https://notesfinity.com/tags/construction-materials/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/construction-materials/</guid>
+      <guid>https://notesfinity.com/tags/construction-materials/</guid>
       <description></description>
     </item>
     <item>
       <title>Fineness Test</title>
-      <link>http://localhost:1313/tags/fineness-test/</link>
+      <link>https://notesfinity.com/tags/fineness-test/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/fineness-test/</guid>
+      <guid>https://notesfinity.com/tags/fineness-test/</guid>
       <description></description>
     </item>
     <item>
       <title>Glass</title>
-      <link>http://localhost:1313/tags/glass/</link>
+      <link>https://notesfinity.com/tags/glass/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/glass/</guid>
+      <guid>https://notesfinity.com/tags/glass/</guid>
       <description></description>
     </item>
     <item>
       <title>Insulating Materials</title>
-      <link>http://localhost:1313/tags/insulating-materials/</link>
+      <link>https://notesfinity.com/tags/insulating-materials/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/insulating-materials/</guid>
+      <guid>https://notesfinity.com/tags/insulating-materials/</guid>
       <description></description>
     </item>
     <item>
       <title>Material Testing</title>
-      <link>http://localhost:1313/tags/material-testing/</link>
+      <link>https://notesfinity.com/tags/material-testing/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/material-testing/</guid>
+      <guid>https://notesfinity.com/tags/material-testing/</guid>
       <description></description>
     </item>
     <item>
       <title>Pavement Materials</title>
-      <link>http://localhost:1313/tags/pavement-materials/</link>
+      <link>https://notesfinity.com/tags/pavement-materials/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pavement-materials/</guid>
+      <guid>https://notesfinity.com/tags/pavement-materials/</guid>
       <description></description>
     </item>
     <item>
       <title>Pest Control</title>
-      <link>http://localhost:1313/tags/pest-control/</link>
+      <link>https://notesfinity.com/tags/pest-control/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pest-control/</guid>
+      <guid>https://notesfinity.com/tags/pest-control/</guid>
       <description></description>
     </item>
     <item>
       <title>Plastic Materials</title>
-      <link>http://localhost:1313/tags/plastic-materials/</link>
+      <link>https://notesfinity.com/tags/plastic-materials/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/plastic-materials/</guid>
+      <guid>https://notesfinity.com/tags/plastic-materials/</guid>
       <description></description>
     </item>
     <item>
       <title>Polymers</title>
-      <link>http://localhost:1313/tags/polymers/</link>
+      <link>https://notesfinity.com/tags/polymers/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/polymers/</guid>
+      <guid>https://notesfinity.com/tags/polymers/</guid>
       <description></description>
     </item>
     <item>
       <title>Road Construction</title>
-      <link>http://localhost:1313/tags/road-construction/</link>
+      <link>https://notesfinity.com/tags/road-construction/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/road-construction/</guid>
+      <guid>https://notesfinity.com/tags/road-construction/</guid>
       <description></description>
     </item>
     <item>
       <title>Setting Time Test</title>
-      <link>http://localhost:1313/tags/setting-time-test/</link>
+      <link>https://notesfinity.com/tags/setting-time-test/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/setting-time-test/</guid>
+      <guid>https://notesfinity.com/tags/setting-time-test/</guid>
       <description></description>
     </item>
     <item>
       <title>Soundness Test</title>
-      <link>http://localhost:1313/tags/soundness-test/</link>
+      <link>https://notesfinity.com/tags/soundness-test/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/soundness-test/</guid>
+      <guid>https://notesfinity.com/tags/soundness-test/</guid>
       <description></description>
     </item>
     <item>
       <title>Stone Testing</title>
-      <link>http://localhost:1313/tags/stone-testing/</link>
+      <link>https://notesfinity.com/tags/stone-testing/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stone-testing/</guid>
+      <guid>https://notesfinity.com/tags/stone-testing/</guid>
       <description></description>
     </item>
     <item>
       <title>Tar</title>
-      <link>http://localhost:1313/tags/tar/</link>
+      <link>https://notesfinity.com/tags/tar/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tar/</guid>
+      <guid>https://notesfinity.com/tags/tar/</guid>
       <description></description>
     </item>
     <item>
       <title>Termite Prevention</title>
-      <link>http://localhost:1313/tags/termite-prevention/</link>
+      <link>https://notesfinity.com/tags/termite-prevention/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/termite-prevention/</guid>
+      <guid>https://notesfinity.com/tags/termite-prevention/</guid>
       <description></description>
     </item>
     <item>
       <title>Thermal Insulation</title>
-      <link>http://localhost:1313/tags/thermal-insulation/</link>
+      <link>https://notesfinity.com/tags/thermal-insulation/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/thermal-insulation/</guid>
+      <guid>https://notesfinity.com/tags/thermal-insulation/</guid>
       <description></description>
     </item>
     <item>
       <title>Water Absorption Test</title>
-      <link>http://localhost:1313/tags/water-absorption-test/</link>
+      <link>https://notesfinity.com/tags/water-absorption-test/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/water-absorption-test/</guid>
+      <guid>https://notesfinity.com/tags/water-absorption-test/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows and Glazing</title>
-      <link>http://localhost:1313/tags/windows-and-glazing/</link>
+      <link>https://notesfinity.com/tags/windows-and-glazing/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/windows-and-glazing/</guid>
+      <guid>https://notesfinity.com/tags/windows-and-glazing/</guid>
       <description></description>
     </item>
     <item>
       <title>Admixtures</title>
-      <link>http://localhost:1313/tags/admixtures/</link>
+      <link>https://notesfinity.com/tags/admixtures/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/admixtures/</guid>
+      <guid>https://notesfinity.com/tags/admixtures/</guid>
       <description></description>
     </item>
     <item>
       <title>Advanced Materials</title>
-      <link>http://localhost:1313/tags/advanced-materials/</link>
+      <link>https://notesfinity.com/tags/advanced-materials/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/advanced-materials/</guid>
+      <guid>https://notesfinity.com/tags/advanced-materials/</guid>
       <description></description>
     </item>
     <item>
       <title>Alloys</title>
-      <link>http://localhost:1313/tags/alloys/</link>
+      <link>https://notesfinity.com/tags/alloys/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/alloys/</guid>
+      <guid>https://notesfinity.com/tags/alloys/</guid>
       <description></description>
     </item>
     <item>
       <title>Architectural Design</title>
-      <link>http://localhost:1313/tags/architectural-design/</link>
+      <link>https://notesfinity.com/tags/architectural-design/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/architectural-design/</guid>
+      <guid>https://notesfinity.com/tags/architectural-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Botany</title>
-      <link>http://localhost:1313/tags/botany/</link>
+      <link>https://notesfinity.com/tags/botany/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/botany/</guid>
+      <guid>https://notesfinity.com/tags/botany/</guid>
       <description></description>
     </item>
     <item>
       <title>Brick Classification</title>
-      <link>http://localhost:1313/tags/brick-classification/</link>
+      <link>https://notesfinity.com/tags/brick-classification/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/brick-classification/</guid>
+      <guid>https://notesfinity.com/tags/brick-classification/</guid>
       <description></description>
     </item>
     <item>
       <title>Brick Earth</title>
-      <link>http://localhost:1313/tags/brick-earth/</link>
+      <link>https://notesfinity.com/tags/brick-earth/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/brick-earth/</guid>
+      <guid>https://notesfinity.com/tags/brick-earth/</guid>
       <description></description>
     </item>
     <item>
       <title>Brick Manufacturing</title>
-      <link>http://localhost:1313/tags/brick-manufacturing/</link>
+      <link>https://notesfinity.com/tags/brick-manufacturing/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/brick-manufacturing/</guid>
+      <guid>https://notesfinity.com/tags/brick-manufacturing/</guid>
       <description></description>
     </item>
     <item>
       <title>Bricks</title>
-      <link>http://localhost:1313/tags/bricks/</link>
+      <link>https://notesfinity.com/tags/bricks/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/bricks/</guid>
+      <guid>https://notesfinity.com/tags/bricks/</guid>
       <description></description>
     </item>
     <item>
       <title>Building Finishes</title>
-      <link>http://localhost:1313/tags/building-finishes/</link>
+      <link>https://notesfinity.com/tags/building-finishes/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/building-finishes/</guid>
+      <guid>https://notesfinity.com/tags/building-finishes/</guid>
       <description></description>
     </item>
     <item>
       <title>Building Stones</title>
-      <link>http://localhost:1313/tags/building-stones/</link>
+      <link>https://notesfinity.com/tags/building-stones/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/building-stones/</guid>
+      <guid>https://notesfinity.com/tags/building-stones/</guid>
       <description></description>
     </item>
     <item>
       <title>Cement</title>
-      <link>http://localhost:1313/tags/cement/</link>
+      <link>https://notesfinity.com/tags/cement/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cement/</guid>
+      <guid>https://notesfinity.com/tags/cement/</guid>
       <description></description>
     </item>
     <item>
       <title>Cement Chemistry</title>
-      <link>http://localhost:1313/tags/cement-chemistry/</link>
+      <link>https://notesfinity.com/tags/cement-chemistry/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cement-chemistry/</guid>
+      <guid>https://notesfinity.com/tags/cement-chemistry/</guid>
       <description></description>
     </item>
     <item>
       <title>Cement Clinker</title>
-      <link>http://localhost:1313/tags/cement-clinker/</link>
+      <link>https://notesfinity.com/tags/cement-clinker/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cement-clinker/</guid>
+      <guid>https://notesfinity.com/tags/cement-clinker/</guid>
       <description></description>
     </item>
     <item>
       <title>Cement Ingredients</title>
-      <link>http://localhost:1313/tags/cement-ingredients/</link>
+      <link>https://notesfinity.com/tags/cement-ingredients/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cement-ingredients/</guid>
+      <guid>https://notesfinity.com/tags/cement-ingredients/</guid>
       <description></description>
     </item>
     <item>
       <title>Cement Manufacturing</title>
-      <link>http://localhost:1313/tags/cement-manufacturing/</link>
+      <link>https://notesfinity.com/tags/cement-manufacturing/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cement-manufacturing/</guid>
+      <guid>https://notesfinity.com/tags/cement-manufacturing/</guid>
       <description></description>
     </item>
     <item>
       <title>Cement Quality Control</title>
-      <link>http://localhost:1313/tags/cement-quality-control/</link>
+      <link>https://notesfinity.com/tags/cement-quality-control/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cement-quality-control/</guid>
+      <guid>https://notesfinity.com/tags/cement-quality-control/</guid>
       <description></description>
     </item>
     <item>
       <title>Cement Standards</title>
-      <link>http://localhost:1313/tags/cement-standards/</link>
+      <link>https://notesfinity.com/tags/cement-standards/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cement-standards/</guid>
+      <guid>https://notesfinity.com/tags/cement-standards/</guid>
       <description></description>
     </item>
     <item>
       <title>Cement Waterproofers</title>
-      <link>http://localhost:1313/tags/cement-waterproofers/</link>
+      <link>https://notesfinity.com/tags/cement-waterproofers/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/cement-waterproofers/</guid>
+      <guid>https://notesfinity.com/tags/cement-waterproofers/</guid>
       <description></description>
     </item>
     <item>
       <title>Ceramics</title>
-      <link>http://localhost:1313/tags/ceramics/</link>
+      <link>https://notesfinity.com/tags/ceramics/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ceramics/</guid>
+      <guid>https://notesfinity.com/tags/ceramics/</guid>
       <description></description>
     </item>
     <item>
       <title>Clay Products</title>
-      <link>http://localhost:1313/tags/clay-products/</link>
+      <link>https://notesfinity.com/tags/clay-products/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/clay-products/</guid>
+      <guid>https://notesfinity.com/tags/clay-products/</guid>
       <description></description>
     </item>
     <item>
       <title>Commercial Products</title>
-      <link>http://localhost:1313/tags/commercial-products/</link>
+      <link>https://notesfinity.com/tags/commercial-products/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/commercial-products/</guid>
+      <guid>https://notesfinity.com/tags/commercial-products/</guid>
       <description></description>
     </item>
     <item>
       <title>Concrete Technology</title>
-      <link>http://localhost:1313/tags/concrete-technology/</link>
+      <link>https://notesfinity.com/tags/concrete-technology/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/concrete-technology/</guid>
+      <guid>https://notesfinity.com/tags/concrete-technology/</guid>
       <description></description>
     </item>
     <item>
       <title>Conservation Techniques</title>
-      <link>http://localhost:1313/tags/conservation-techniques/</link>
+      <link>https://notesfinity.com/tags/conservation-techniques/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/conservation-techniques/</guid>
+      <guid>https://notesfinity.com/tags/conservation-techniques/</guid>
       <description></description>
     </item>
     <item>
       <title>Construction Techniques</title>
-      <link>http://localhost:1313/tags/construction-techniques/</link>
+      <link>https://notesfinity.com/tags/construction-techniques/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/construction-techniques/</guid>
+      <guid>https://notesfinity.com/tags/construction-techniques/</guid>
       <description></description>
     </item>
     <item>
       <title>Craftsmanship</title>
-      <link>http://localhost:1313/tags/craftsmanship/</link>
+      <link>https://notesfinity.com/tags/craftsmanship/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/craftsmanship/</guid>
+      <guid>https://notesfinity.com/tags/craftsmanship/</guid>
       <description></description>
     </item>
     <item>
       <title>Dendrology</title>
-      <link>http://localhost:1313/tags/dendrology/</link>
+      <link>https://notesfinity.com/tags/dendrology/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/dendrology/</guid>
+      <guid>https://notesfinity.com/tags/dendrology/</guid>
       <description></description>
     </item>
     <item>
       <title>Distemper</title>
-      <link>http://localhost:1313/tags/distemper/</link>
+      <link>https://notesfinity.com/tags/distemper/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/distemper/</guid>
+      <guid>https://notesfinity.com/tags/distemper/</guid>
       <description></description>
     </item>
     <item>
       <title>Earthenware</title>
-      <link>http://localhost:1313/tags/earthenware/</link>
+      <link>https://notesfinity.com/tags/earthenware/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/earthenware/</guid>
+      <guid>https://notesfinity.com/tags/earthenware/</guid>
       <description></description>
     </item>
     <item>
       <title>Ecosystem</title>
-      <link>http://localhost:1313/tags/ecosystem/</link>
+      <link>https://notesfinity.com/tags/ecosystem/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/ecosystem/</guid>
+      <guid>https://notesfinity.com/tags/ecosystem/</guid>
       <description></description>
     </item>
     <item>
       <title>Engineering</title>
-      <link>http://localhost:1313/tags/engineering/</link>
+      <link>https://notesfinity.com/tags/engineering/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/engineering/</guid>
+      <guid>https://notesfinity.com/tags/engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Engineering Materials</title>
-      <link>http://localhost:1313/tags/engineering-materials/</link>
+      <link>https://notesfinity.com/tags/engineering-materials/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/engineering-materials/</guid>
+      <guid>https://notesfinity.com/tags/engineering-materials/</guid>
       <description></description>
     </item>
     <item>
       <title>Engineering Processes</title>
-      <link>http://localhost:1313/tags/engineering-processes/</link>
+      <link>https://notesfinity.com/tags/engineering-processes/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/engineering-processes/</guid>
+      <guid>https://notesfinity.com/tags/engineering-processes/</guid>
       <description></description>
     </item>
     <item>
       <title>Flooring</title>
-      <link>http://localhost:1313/tags/flooring/</link>
+      <link>https://notesfinity.com/tags/flooring/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/flooring/</guid>
+      <guid>https://notesfinity.com/tags/flooring/</guid>
       <description></description>
     </item>
     <item>
       <title>Furniture Manufacturing</title>
-      <link>http://localhost:1313/tags/furniture-manufacturing/</link>
+      <link>https://notesfinity.com/tags/furniture-manufacturing/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/furniture-manufacturing/</guid>
+      <guid>https://notesfinity.com/tags/furniture-manufacturing/</guid>
       <description></description>
     </item>
     <item>
       <title>Geology</title>
-      <link>http://localhost:1313/tags/geology/</link>
+      <link>https://notesfinity.com/tags/geology/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/geology/</guid>
+      <guid>https://notesfinity.com/tags/geology/</guid>
       <description></description>
     </item>
     <item>
       <title>Geotechnical Engineering</title>
-      <link>http://localhost:1313/tags/geotechnical-engineering/</link>
+      <link>https://notesfinity.com/tags/geotechnical-engineering/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/geotechnical-engineering/</guid>
+      <guid>https://notesfinity.com/tags/geotechnical-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Glazing</title>
-      <link>http://localhost:1313/tags/glazing/</link>
+      <link>https://notesfinity.com/tags/glazing/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/glazing/</guid>
+      <guid>https://notesfinity.com/tags/glazing/</guid>
       <description></description>
     </item>
     <item>
       <title>Heat Treatment</title>
-      <link>http://localhost:1313/tags/heat-treatment/</link>
+      <link>https://notesfinity.com/tags/heat-treatment/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/heat-treatment/</guid>
+      <guid>https://notesfinity.com/tags/heat-treatment/</guid>
       <description></description>
     </item>
     <item>
       <title>Heritage Conservation</title>
-      <link>http://localhost:1313/tags/heritage-conservation/</link>
+      <link>https://notesfinity.com/tags/heritage-conservation/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/heritage-conservation/</guid>
+      <guid>https://notesfinity.com/tags/heritage-conservation/</guid>
       <description></description>
     </item>
     <item>
       <title>Home Improvement</title>
-      <link>http://localhost:1313/tags/home-improvement/</link>
+      <link>https://notesfinity.com/tags/home-improvement/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/home-improvement/</guid>
+      <guid>https://notesfinity.com/tags/home-improvement/</guid>
       <description></description>
     </item>
     <item>
       <title>Interior Design</title>
-      <link>http://localhost:1313/tags/interior-design/</link>
+      <link>https://notesfinity.com/tags/interior-design/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/interior-design/</guid>
+      <guid>https://notesfinity.com/tags/interior-design/</guid>
       <description></description>
     </item>
     <item>
       <title>Interior Finishes</title>
-      <link>http://localhost:1313/tags/interior-finishes/</link>
+      <link>https://notesfinity.com/tags/interior-finishes/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/interior-finishes/</guid>
+      <guid>https://notesfinity.com/tags/interior-finishes/</guid>
       <description></description>
     </item>
     <item>
       <title>Iron</title>
-      <link>http://localhost:1313/tags/iron/</link>
+      <link>https://notesfinity.com/tags/iron/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/iron/</guid>
+      <guid>https://notesfinity.com/tags/iron/</guid>
       <description></description>
     </item>
     <item>
       <title>Lime</title>
-      <link>http://localhost:1313/tags/lime/</link>
+      <link>https://notesfinity.com/tags/lime/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lime/</guid>
+      <guid>https://notesfinity.com/tags/lime/</guid>
       <description></description>
     </item>
     <item>
       <title>Lime Applications</title>
-      <link>http://localhost:1313/tags/lime-applications/</link>
+      <link>https://notesfinity.com/tags/lime-applications/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lime-applications/</guid>
+      <guid>https://notesfinity.com/tags/lime-applications/</guid>
       <description></description>
     </item>
     <item>
       <title>Lime Production</title>
-      <link>http://localhost:1313/tags/lime-production/</link>
+      <link>https://notesfinity.com/tags/lime-production/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lime-production/</guid>
+      <guid>https://notesfinity.com/tags/lime-production/</guid>
       <description></description>
     </item>
     <item>
       <title>Lime Properties</title>
-      <link>http://localhost:1313/tags/lime-properties/</link>
+      <link>https://notesfinity.com/tags/lime-properties/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/lime-properties/</guid>
+      <guid>https://notesfinity.com/tags/lime-properties/</guid>
       <description></description>
     </item>
     <item>
       <title>Manufacturing</title>
-      <link>http://localhost:1313/tags/manufacturing/</link>
+      <link>https://notesfinity.com/tags/manufacturing/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/manufacturing/</guid>
+      <guid>https://notesfinity.com/tags/manufacturing/</guid>
       <description></description>
     </item>
     <item>
       <title>Masonry</title>
-      <link>http://localhost:1313/tags/masonry/</link>
+      <link>https://notesfinity.com/tags/masonry/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/masonry/</guid>
+      <guid>https://notesfinity.com/tags/masonry/</guid>
       <description></description>
     </item>
     <item>
       <title>Material Properties</title>
-      <link>http://localhost:1313/tags/material-properties/</link>
+      <link>https://notesfinity.com/tags/material-properties/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/material-properties/</guid>
+      <guid>https://notesfinity.com/tags/material-properties/</guid>
       <description></description>
     </item>
     <item>
       <title>Material Selection</title>
-      <link>http://localhost:1313/tags/material-selection/</link>
+      <link>https://notesfinity.com/tags/material-selection/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/material-selection/</guid>
+      <guid>https://notesfinity.com/tags/material-selection/</guid>
       <description></description>
     </item>
     <item>
       <title>Materials Classification</title>
-      <link>http://localhost:1313/tags/materials-classification/</link>
+      <link>https://notesfinity.com/tags/materials-classification/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/materials-classification/</guid>
+      <guid>https://notesfinity.com/tags/materials-classification/</guid>
       <description></description>
     </item>
     <item>
       <title>Materials Science</title>
-      <link>http://localhost:1313/tags/materials-science/</link>
+      <link>https://notesfinity.com/tags/materials-science/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/materials-science/</guid>
+      <guid>https://notesfinity.com/tags/materials-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Metal Industry</title>
-      <link>http://localhost:1313/tags/metal-industry/</link>
+      <link>https://notesfinity.com/tags/metal-industry/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/metal-industry/</guid>
+      <guid>https://notesfinity.com/tags/metal-industry/</guid>
       <description></description>
     </item>
     <item>
       <title>Metallurgy</title>
-      <link>http://localhost:1313/tags/metallurgy/</link>
+      <link>https://notesfinity.com/tags/metallurgy/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/metallurgy/</guid>
+      <guid>https://notesfinity.com/tags/metallurgy/</guid>
       <description></description>
     </item>
     <item>
       <title>Metals</title>
-      <link>http://localhost:1313/tags/metals/</link>
+      <link>https://notesfinity.com/tags/metals/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/metals/</guid>
+      <guid>https://notesfinity.com/tags/metals/</guid>
       <description></description>
     </item>
     <item>
       <title>Metalworking</title>
-      <link>http://localhost:1313/tags/metalworking/</link>
+      <link>https://notesfinity.com/tags/metalworking/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/metalworking/</guid>
+      <guid>https://notesfinity.com/tags/metalworking/</guid>
       <description></description>
     </item>
     <item>
       <title>Mortar</title>
-      <link>http://localhost:1313/tags/mortar/</link>
+      <link>https://notesfinity.com/tags/mortar/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/mortar/</guid>
+      <guid>https://notesfinity.com/tags/mortar/</guid>
       <description></description>
     </item>
     <item>
       <title>Natural Resources</title>
-      <link>http://localhost:1313/tags/natural-resources/</link>
+      <link>https://notesfinity.com/tags/natural-resources/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/natural-resources/</guid>
+      <guid>https://notesfinity.com/tags/natural-resources/</guid>
       <description></description>
     </item>
     <item>
       <title>Natural Stone</title>
-      <link>http://localhost:1313/tags/natural-stone/</link>
+      <link>https://notesfinity.com/tags/natural-stone/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/natural-stone/</guid>
+      <guid>https://notesfinity.com/tags/natural-stone/</guid>
       <description></description>
     </item>
     <item>
       <title>Non-Ferrous Metals</title>
-      <link>http://localhost:1313/tags/non-ferrous-metals/</link>
+      <link>https://notesfinity.com/tags/non-ferrous-metals/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/non-ferrous-metals/</guid>
+      <guid>https://notesfinity.com/tags/non-ferrous-metals/</guid>
       <description></description>
     </item>
     <item>
       <title>Paints</title>
-      <link>http://localhost:1313/tags/paints/</link>
+      <link>https://notesfinity.com/tags/paints/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/paints/</guid>
+      <guid>https://notesfinity.com/tags/paints/</guid>
       <description></description>
     </item>
     <item>
       <title>Plant Biology</title>
-      <link>http://localhost:1313/tags/plant-biology/</link>
+      <link>https://notesfinity.com/tags/plant-biology/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/plant-biology/</guid>
+      <guid>https://notesfinity.com/tags/plant-biology/</guid>
       <description></description>
     </item>
     <item>
       <title>Plant Classification</title>
-      <link>http://localhost:1313/tags/plant-classification/</link>
+      <link>https://notesfinity.com/tags/plant-classification/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/plant-classification/</guid>
+      <guid>https://notesfinity.com/tags/plant-classification/</guid>
       <description></description>
     </item>
     <item>
       <title>Pottery</title>
-      <link>http://localhost:1313/tags/pottery/</link>
+      <link>https://notesfinity.com/tags/pottery/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pottery/</guid>
+      <guid>https://notesfinity.com/tags/pottery/</guid>
       <description></description>
     </item>
     <item>
       <title>Pozzolanic Materials</title>
-      <link>http://localhost:1313/tags/pozzolanic-materials/</link>
+      <link>https://notesfinity.com/tags/pozzolanic-materials/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/pozzolanic-materials/</guid>
+      <guid>https://notesfinity.com/tags/pozzolanic-materials/</guid>
       <description></description>
     </item>
     <item>
       <title>Quality Control</title>
-      <link>http://localhost:1313/tags/quality-control/</link>
+      <link>https://notesfinity.com/tags/quality-control/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/quality-control/</guid>
+      <guid>https://notesfinity.com/tags/quality-control/</guid>
       <description></description>
     </item>
     <item>
       <title>Soil Science</title>
-      <link>http://localhost:1313/tags/soil-science/</link>
+      <link>https://notesfinity.com/tags/soil-science/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/soil-science/</guid>
+      <guid>https://notesfinity.com/tags/soil-science/</guid>
       <description></description>
     </item>
     <item>
       <title>Steel</title>
-      <link>http://localhost:1313/tags/steel/</link>
+      <link>https://notesfinity.com/tags/steel/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/steel/</guid>
+      <guid>https://notesfinity.com/tags/steel/</guid>
       <description></description>
     </item>
     <item>
       <title>Steel Alloys</title>
-      <link>http://localhost:1313/tags/steel-alloys/</link>
+      <link>https://notesfinity.com/tags/steel-alloys/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/steel-alloys/</guid>
+      <guid>https://notesfinity.com/tags/steel-alloys/</guid>
       <description></description>
     </item>
     <item>
       <title>Stone Beds</title>
-      <link>http://localhost:1313/tags/stone-beds/</link>
+      <link>https://notesfinity.com/tags/stone-beds/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stone-beds/</guid>
+      <guid>https://notesfinity.com/tags/stone-beds/</guid>
       <description></description>
     </item>
     <item>
       <title>Stone Cutting</title>
-      <link>http://localhost:1313/tags/stone-cutting/</link>
+      <link>https://notesfinity.com/tags/stone-cutting/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stone-cutting/</guid>
+      <guid>https://notesfinity.com/tags/stone-cutting/</guid>
       <description></description>
     </item>
     <item>
       <title>Stone Deterioration</title>
-      <link>http://localhost:1313/tags/stone-deterioration/</link>
+      <link>https://notesfinity.com/tags/stone-deterioration/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stone-deterioration/</guid>
+      <guid>https://notesfinity.com/tags/stone-deterioration/</guid>
       <description></description>
     </item>
     <item>
       <title>Stone Dressing</title>
-      <link>http://localhost:1313/tags/stone-dressing/</link>
+      <link>https://notesfinity.com/tags/stone-dressing/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stone-dressing/</guid>
+      <guid>https://notesfinity.com/tags/stone-dressing/</guid>
       <description></description>
     </item>
     <item>
       <title>Stone Preservation</title>
-      <link>http://localhost:1313/tags/stone-preservation/</link>
+      <link>https://notesfinity.com/tags/stone-preservation/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stone-preservation/</guid>
+      <guid>https://notesfinity.com/tags/stone-preservation/</guid>
       <description></description>
     </item>
     <item>
       <title>Stone Properties</title>
-      <link>http://localhost:1313/tags/stone-properties/</link>
+      <link>https://notesfinity.com/tags/stone-properties/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stone-properties/</guid>
+      <guid>https://notesfinity.com/tags/stone-properties/</guid>
       <description></description>
     </item>
     <item>
       <title>Stone Selection</title>
-      <link>http://localhost:1313/tags/stone-selection/</link>
+      <link>https://notesfinity.com/tags/stone-selection/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/stone-selection/</guid>
+      <guid>https://notesfinity.com/tags/stone-selection/</guid>
       <description></description>
     </item>
     <item>
       <title>Structural Engineering</title>
-      <link>http://localhost:1313/tags/structural-engineering/</link>
+      <link>https://notesfinity.com/tags/structural-engineering/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/structural-engineering/</guid>
+      <guid>https://notesfinity.com/tags/structural-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Surface Coatings</title>
-      <link>http://localhost:1313/tags/surface-coatings/</link>
+      <link>https://notesfinity.com/tags/surface-coatings/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/surface-coatings/</guid>
+      <guid>https://notesfinity.com/tags/surface-coatings/</guid>
       <description></description>
     </item>
     <item>
       <title>Surface Finishing</title>
-      <link>http://localhost:1313/tags/surface-finishing/</link>
+      <link>https://notesfinity.com/tags/surface-finishing/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/surface-finishing/</guid>
+      <guid>https://notesfinity.com/tags/surface-finishing/</guid>
       <description></description>
     </item>
     <item>
       <title>Sustainability</title>
-      <link>http://localhost:1313/tags/sustainability/</link>
+      <link>https://notesfinity.com/tags/sustainability/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sustainability/</guid>
+      <guid>https://notesfinity.com/tags/sustainability/</guid>
       <description></description>
     </item>
     <item>
       <title>Sustainability in Construction</title>
-      <link>http://localhost:1313/tags/sustainability-in-construction/</link>
+      <link>https://notesfinity.com/tags/sustainability-in-construction/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sustainability-in-construction/</guid>
+      <guid>https://notesfinity.com/tags/sustainability-in-construction/</guid>
       <description></description>
     </item>
     <item>
       <title>Sustainable Building</title>
-      <link>http://localhost:1313/tags/sustainable-building/</link>
+      <link>https://notesfinity.com/tags/sustainable-building/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sustainable-building/</guid>
+      <guid>https://notesfinity.com/tags/sustainable-building/</guid>
       <description></description>
     </item>
     <item>
       <title>Sustainable Construction</title>
-      <link>http://localhost:1313/tags/sustainable-construction/</link>
+      <link>https://notesfinity.com/tags/sustainable-construction/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sustainable-construction/</guid>
+      <guid>https://notesfinity.com/tags/sustainable-construction/</guid>
       <description></description>
     </item>
     <item>
       <title>Sustainable Engineering</title>
-      <link>http://localhost:1313/tags/sustainable-engineering/</link>
+      <link>https://notesfinity.com/tags/sustainable-engineering/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sustainable-engineering/</guid>
+      <guid>https://notesfinity.com/tags/sustainable-engineering/</guid>
       <description></description>
     </item>
     <item>
       <title>Sustainable Forestry</title>
-      <link>http://localhost:1313/tags/sustainable-forestry/</link>
+      <link>https://notesfinity.com/tags/sustainable-forestry/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/sustainable-forestry/</guid>
+      <guid>https://notesfinity.com/tags/sustainable-forestry/</guid>
       <description></description>
     </item>
     <item>
       <title>Tiles</title>
-      <link>http://localhost:1313/tags/tiles/</link>
+      <link>https://notesfinity.com/tags/tiles/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tiles/</guid>
+      <guid>https://notesfinity.com/tags/tiles/</guid>
       <description></description>
     </item>
     <item>
       <title>Timber</title>
-      <link>http://localhost:1313/tags/timber/</link>
+      <link>https://notesfinity.com/tags/timber/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/timber/</guid>
+      <guid>https://notesfinity.com/tags/timber/</guid>
       <description></description>
     </item>
     <item>
       <title>Timber Defects</title>
-      <link>http://localhost:1313/tags/timber-defects/</link>
+      <link>https://notesfinity.com/tags/timber-defects/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/timber-defects/</guid>
+      <guid>https://notesfinity.com/tags/timber-defects/</guid>
       <description></description>
     </item>
     <item>
       <title>Timber Preservation</title>
-      <link>http://localhost:1313/tags/timber-preservation/</link>
+      <link>https://notesfinity.com/tags/timber-preservation/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/timber-preservation/</guid>
+      <guid>https://notesfinity.com/tags/timber-preservation/</guid>
       <description></description>
     </item>
     <item>
       <title>Timber Products</title>
-      <link>http://localhost:1313/tags/timber-products/</link>
+      <link>https://notesfinity.com/tags/timber-products/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/timber-products/</guid>
+      <guid>https://notesfinity.com/tags/timber-products/</guid>
       <description></description>
     </item>
     <item>
       <title>Timber Quality</title>
-      <link>http://localhost:1313/tags/timber-quality/</link>
+      <link>https://notesfinity.com/tags/timber-quality/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/timber-quality/</guid>
+      <guid>https://notesfinity.com/tags/timber-quality/</guid>
       <description></description>
     </item>
     <item>
       <title>Timber Seasoning</title>
-      <link>http://localhost:1313/tags/timber-seasoning/</link>
+      <link>https://notesfinity.com/tags/timber-seasoning/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/timber-seasoning/</guid>
+      <guid>https://notesfinity.com/tags/timber-seasoning/</guid>
       <description></description>
     </item>
     <item>
       <title>Timber Selection</title>
-      <link>http://localhost:1313/tags/timber-selection/</link>
+      <link>https://notesfinity.com/tags/timber-selection/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/timber-selection/</guid>
+      <guid>https://notesfinity.com/tags/timber-selection/</guid>
       <description></description>
     </item>
     <item>
       <title>Tree Biology</title>
-      <link>http://localhost:1313/tags/tree-biology/</link>
+      <link>https://notesfinity.com/tags/tree-biology/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tree-biology/</guid>
+      <guid>https://notesfinity.com/tags/tree-biology/</guid>
       <description></description>
     </item>
     <item>
       <title>Tree Structure</title>
-      <link>http://localhost:1313/tags/tree-structure/</link>
+      <link>https://notesfinity.com/tags/tree-structure/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/tree-structure/</guid>
+      <guid>https://notesfinity.com/tags/tree-structure/</guid>
       <description></description>
     </item>
     <item>
       <title>Trees</title>
-      <link>http://localhost:1313/tags/trees/</link>
+      <link>https://notesfinity.com/tags/trees/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/trees/</guid>
+      <guid>https://notesfinity.com/tags/trees/</guid>
       <description></description>
     </item>
     <item>
       <title>Varnishes</title>
-      <link>http://localhost:1313/tags/varnishes/</link>
+      <link>https://notesfinity.com/tags/varnishes/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/varnishes/</guid>
+      <guid>https://notesfinity.com/tags/varnishes/</guid>
       <description></description>
     </item>
     <item>
       <title>Wall Coverings</title>
-      <link>http://localhost:1313/tags/wall-coverings/</link>
+      <link>https://notesfinity.com/tags/wall-coverings/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wall-coverings/</guid>
+      <guid>https://notesfinity.com/tags/wall-coverings/</guid>
       <description></description>
     </item>
     <item>
       <title>Waterproofing</title>
-      <link>http://localhost:1313/tags/waterproofing/</link>
+      <link>https://notesfinity.com/tags/waterproofing/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/waterproofing/</guid>
+      <guid>https://notesfinity.com/tags/waterproofing/</guid>
       <description></description>
     </item>
     <item>
       <title>Wood</title>
-      <link>http://localhost:1313/tags/wood/</link>
+      <link>https://notesfinity.com/tags/wood/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wood/</guid>
+      <guid>https://notesfinity.com/tags/wood/</guid>
       <description></description>
     </item>
     <item>
       <title>Wood Deterioration</title>
-      <link>http://localhost:1313/tags/wood-deterioration/</link>
+      <link>https://notesfinity.com/tags/wood-deterioration/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wood-deterioration/</guid>
+      <guid>https://notesfinity.com/tags/wood-deterioration/</guid>
       <description></description>
     </item>
     <item>
       <title>Wood Drying</title>
-      <link>http://localhost:1313/tags/wood-drying/</link>
+      <link>https://notesfinity.com/tags/wood-drying/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wood-drying/</guid>
+      <guid>https://notesfinity.com/tags/wood-drying/</guid>
       <description></description>
     </item>
     <item>
       <title>Wood Industry</title>
-      <link>http://localhost:1313/tags/wood-industry/</link>
+      <link>https://notesfinity.com/tags/wood-industry/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wood-industry/</guid>
+      <guid>https://notesfinity.com/tags/wood-industry/</guid>
       <description></description>
     </item>
     <item>
       <title>Wood Quality</title>
-      <link>http://localhost:1313/tags/wood-quality/</link>
+      <link>https://notesfinity.com/tags/wood-quality/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/wood-quality/</guid>
+      <guid>https://notesfinity.com/tags/wood-quality/</guid>
       <description></description>
     </item>
     <item>
       <title>Woodworking</title>
-      <link>http://localhost:1313/tags/woodworking/</link>
+      <link>https://notesfinity.com/tags/woodworking/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/woodworking/</guid>
+      <guid>https://notesfinity.com/tags/woodworking/</guid>
       <description></description>
     </item>
   </channel>

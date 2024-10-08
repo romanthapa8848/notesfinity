@@ -44,13 +44,13 @@ layout: "non_math_mode"
 - [1.1.3 Lipids](/notes/neb/bio11/botany/biomolecules-cell/lipids/index.html)
 - [1.1.4 Nucleic Acids](/notes/neb/bio11/botany/biomolecules-cell/nucleic-acids/index.html)
 - [1.1.5 Minerals](/notes/neb/bio11/botany/biomolecules-cell/minerals/index.html)
-- [1.1.6 Enzymes](./botany/biomolecules-cell-biology/biomolecules/enzymes.html)
-- [1.1.7 Water](./botany/biomolecules-cell-biology/biomolecules/water.html)
+- [1.1.6 Enzymes](/notes/neb/bio11/botany/biomolecules-cell/enzymes/index.html)
+- [1.1.7 Water](/notes/neb/bio11/botany/biomolecules-cell/water/index.html)
 
 #### 1.2 Cell: Introduction of cell, concepts of prokaryotic and eukaryotic cells, detail structure of eukaryotic cells (composition, structure and functions of cell wall, cell membrane, mitochondria, plastids, endoplasmic reticulum, golgi bodies, lysosomes, ribosomes, nucleus, chromosomes, cilia, flagella and cell inclusions).
 
-- [1.2.1 Introduction of Cell](./botany/biomolecules-cell-biology/cell/introduction-of-cell.html)
-- [1.2.2 Concepts of Prokaryotic and Eukaryotic Cells](./botany/biomolecules-cell-biology/cell/prokaryotic-eukaryotic.html)
+- [1.2.1 Introduction of Cell](/notes/neb/bio11/botany/cell/introduction-of-cell/index.html)
+- [1.2.2 Concepts of Prokaryotic and Eukaryotic Cells](/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/index.html)
 - [1.2.3 Detailed Structure of Eukaryotic Cells](./botany/biomolecules-cell-biology/cell/detailed-structure-eukaryotic-cells.html)
 
   - [1.2.3.1 Composition, Structure, and Functions of Cell Wall](./botany/biomolecules-cell-biology/cell/eukaryotic/cell-wall.html)
