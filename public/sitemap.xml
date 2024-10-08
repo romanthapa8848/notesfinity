@@ -32,6 +32,9 @@
     <loc>http://localhost:1313/tags/cell-membrane/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/cell-nucleus/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/cell-physiology/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -50,10 +53,16 @@
     <loc>http://localhost:1313/tags/chromoplasts/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/chromosomes/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/cell-membrane/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/cell-wall/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/chromosomes/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/endoplasmic-reticulum/</loc>
@@ -68,6 +77,9 @@
     <loc>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/mitochondria/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/nucleus/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/plastids/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -75,6 +87,9 @@
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/dna/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/endoplasmic-reticulum/</loc>
@@ -90,6 +105,9 @@
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/fungal-cells/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/genetic-material/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/genetics/</loc>
@@ -165,6 +183,9 @@
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/nucleic-acids/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/nucleus/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/nutrition/</loc>

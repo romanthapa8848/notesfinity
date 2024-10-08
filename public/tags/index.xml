@@ -79,6 +79,13 @@
       <description></description>
     </item>
     <item>
+      <title>Cell Nucleus</title>
+      <link>http://localhost:1313/tags/cell-nucleus/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/cell-nucleus/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Cell Physiology</title>
       <link>http://localhost:1313/tags/cell-physiology/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -121,6 +128,20 @@
       <description></description>
     </item>
     <item>
+      <title>Chromosomes</title>
+      <link>http://localhost:1313/tags/chromosomes/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/chromosomes/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>DNA</title>
+      <link>http://localhost:1313/tags/dna/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/dna/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Endoplasmic Reticulum</title>
       <link>http://localhost:1313/tags/endoplasmic-reticulum/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -153,6 +174,13 @@
       <link>http://localhost:1313/tags/fungal-cells/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/fungal-cells/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Genetic Material</title>
+      <link>http://localhost:1313/tags/genetic-material/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/genetic-material/</guid>
       <description></description>
     </item>
     <item>
@@ -258,6 +286,13 @@
       <link>http://localhost:1313/tags/nucleic-acids/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/nucleic-acids/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Nucleus</title>
+      <link>http://localhost:1313/tags/nucleus/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nucleus/</guid>
       <description></description>
     </item>
     <item>
