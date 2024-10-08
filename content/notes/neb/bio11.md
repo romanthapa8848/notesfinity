@@ -53,8 +53,8 @@ layout: "non_math_mode"
 - [1.2.2 Concepts of Prokaryotic and Eukaryotic Cells](/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/index.html)
 - [1.2.3 Detailed Structure of Eukaryotic Cells](./botany/biomolecules-cell-biology/cell/detailed-structure-eukaryotic-cells.html)
 
-  - [1.2.3.1 Composition, Structure, and Functions of Cell Wall](./botany/biomolecules-cell-biology/cell/eukaryotic/cell-wall.html)
-  - [1.2.3.2 Composition, Structure, and Functions of Cell Membrane](./botany/biomolecules-cell-biology/cell/eukaryotic/cell-membrane.html)
+  - [1.2.3.1 Composition, Structure, and Functions of Cell Wall](/notes/neb/bio11/botany/cell/eukaryotic/cell-wall/index.html)
+  - [1.2.3.2 Composition, Structure, and Functions of Cell Membrane](/notes/neb/bio11/botany/cell/eukaryotic/cell-membrane/index.html)
   - [1.2.3.3 Composition, Structure, and Functions of Mitochondria](./botany/biomolecules-cell-biology/cell/eukaryotic/mitochondria.html)
   - [1.2.3.4 Composition, Structure, and Functions of Plastids](./botany/biomolecules-cell-biology/cell/eukaryotic/plastids.html)
   - [1.2.3.5 Composition, Structure, and Functions of Endoplasmic Reticulum](./botany/biomolecules-cell-biology/cell/eukaryotic/endoplasmic-reticulum.html)
