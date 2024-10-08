@@ -55,8 +55,8 @@ layout: "non_math_mode"
 
   - [1.2.3.1 Composition, Structure, and Functions of Cell Wall](/notes/neb/bio11/botany/cell/eukaryotic/cell-wall/index.html)
   - [1.2.3.2 Composition, Structure, and Functions of Cell Membrane](/notes/neb/bio11/botany/cell/eukaryotic/cell-membrane/index.html)
-  - [1.2.3.3 Composition, Structure, and Functions of Mitochondria](./botany/biomolecules-cell-biology/cell/eukaryotic/mitochondria.html)
-  - [1.2.3.4 Composition, Structure, and Functions of Plastids](./botany/biomolecules-cell-biology/cell/eukaryotic/plastids.html)
+  - [1.2.3.3 Composition, Structure, and Functions of Mitochondria](/notes/neb/bio11/botany/cell/eukaryotic/mitochondria/index.html)
+  - [1.2.3.4 Composition, Structure, and Functions of Plastids](/notes/neb/bio11/botany/cell/eukaryotic/plastids/index.html)
   - [1.2.3.5 Composition, Structure, and Functions of Endoplasmic Reticulum](./botany/biomolecules-cell-biology/cell/eukaryotic/endoplasmic-reticulum.html)
   - [1.2.3.6 Composition, Structure, and Functions of Golgi Bodies](./botany/biomolecules-cell-biology/cell/eukaryotic/golgi-bodies.html)
   - [1.2.3.7 Composition, Structure, and Functions of Lysosomes](./botany/biomolecules-cell-biology/cell/eukaryotic/lysosomes.html)
