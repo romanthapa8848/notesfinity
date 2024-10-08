@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Eukaryotic Cells on Notesfinity</title>
-    <link>http://localhost:1313/tags/eukaryotic-cells/</link>
-    <description>Recent content in Eukaryotic Cells on Notesfinity</description>
+    <title>Organelle Functions on Notesfinity</title>
+    <link>http://localhost:1313/tags/organelle-functions/</link>
+    <description>Recent content in Organelle Functions on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/eukaryotic-cells/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/organelle-functions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Composition, Structure, and Functions of Endoplasmic Reticulum</title>
       <link>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/endoplasmic-reticulum/</link>
@@ -28,20 +28,6 @@
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/lysosomes/</guid>
       <description>&lt;h1 id=&#34;composition-structure-and-functions-of-lysosomes&#34;&gt;Composition, Structure, and Functions of Lysosomes&lt;/h1&gt;&#xA;&lt;p&gt;Lysosomes are membrane-bound organelles found in eukaryotic cells, often referred to as the cell&amp;rsquo;s &amp;ldquo;digestive system.&amp;rdquo; They contain a variety of hydrolytic enzymes that are critical for breaking down waste materials, cellular debris, and macromolecules. This process plays a vital role in maintaining cellular homeostasis and recycling components within the cell.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-composition-of-lysosomes&#34;&gt;1. Composition of Lysosomes&lt;/h2&gt;&#xA;&lt;p&gt;Lysosomes are membrane-bound organelles that play a crucial role in the cellular degradation and recycling of macromolecules. Their unique composition is vital for their function in maintaining cellular homeostasis.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Composition, Structure, and Functions of Ribosomes</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/ribosomes/</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/ribosomes/</guid>
-      <description>&lt;h1 id=&#34;composition-structure-and-functions-of-ribosomes&#34;&gt;Composition, Structure, and Functions of Ribosomes&lt;/h1&gt;&#xA;&lt;p&gt;Ribosomes are essential macromolecular machines found in all living cells, responsible for synthesizing proteins by translating messenger RNA (mRNA) into polypeptide chains. They play a crucial role in the cellular machinery, linking amino acids together in the order specified by the genetic code.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-composition-of-ribosomes&#34;&gt;1. Composition of Ribosomes&lt;/h2&gt;&#xA;&lt;p&gt;Ribosomes are essential cellular structures responsible for protein synthesis, composed of ribosomal RNA (rRNA) and ribosomal proteins. Their unique composition enables them to carry out the intricate process of translating mRNA into polypeptides.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>Concepts of Prokaryotic and Eukaryotic Cells</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/</link>
-      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/</guid>
-      <description>&lt;h1 id=&#34;concepts-of-prokaryotic-and-eukaryotic-cells&#34;&gt;Concepts of Prokaryotic and Eukaryotic Cells&lt;/h1&gt;&#xA;&lt;p&gt;Cells are the fundamental units of life, and they can be classified into two main categories: prokaryotic and eukaryotic cells. Understanding the differences and similarities between these two cell types is essential for grasping the complexity of biological systems. This document outlines their key characteristics, functions, and implications in the study of life sciences.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;overview-of-prokaryotic-cells&#34;&gt;Overview of Prokaryotic Cells&lt;/h1&gt;&#xA;&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;&#xA;&lt;p&gt;Prokaryotic cells are simple, unicellular organisms characterized by the absence of a defined nucleus and membrane-bound organelles. They are typically smaller than eukaryotic cells, with diameters ranging from 0.1 to 5.0 micrometers. Prokaryotic cells represent one of the earliest forms of life on Earth, appearing around 3.5 billion years ago, and they play crucial roles in various ecosystems, including nutrient cycling, decomposition, and symbiotic relationships.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

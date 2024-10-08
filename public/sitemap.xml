@@ -41,6 +41,9 @@
     <loc>http://localhost:1313/tags/cells/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/cellular-digestion/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/chloroplasts/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -53,13 +56,28 @@
     <loc>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/cell-wall/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/endoplasmic-reticulum/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/golgi-bodies/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/lysosomes/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/mitochondria/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/plastids/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/ribosomes/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/endoplasmic-reticulum/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/energy-production/</loc>
@@ -75,6 +93,9 @@
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/genetics/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/golgi-bodies/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/health-sciences/</loc>
@@ -113,6 +134,9 @@
     <loc>http://localhost:1313/tags/lipids/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/lysosomes/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/macromolecules/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -146,6 +170,9 @@
     <loc>http://localhost:1313/tags/nutrition/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/organelle-functions/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/organelle-structure/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -164,7 +191,16 @@
     <loc>http://localhost:1313/tags/prokaryotic-cells/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/protein-processing/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/protein-synthesis/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/proteins/</loc>
+    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ribosomes/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
