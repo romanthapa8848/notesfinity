@@ -169,10 +169,6 @@ td {
 
 /* Responsive Table Styles */
 @media (max-width: 600px) {
-  table {
-    font-size: 10px; /* Smaller font size on mobile */
-  }
-
   th,
   td {
     padding: 5px; /* Reduced padding for smaller screens */
