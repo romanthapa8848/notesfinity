@@ -42,8 +42,8 @@ layout: "non_math_mode"
 - [1.1.1 Carbohydrates](/notes/neb/bio11/botany/biomolecules-cell/carbohydrates/index.html)
 - [1.1.2 Proteins](/notes/neb/bio11/botany/biomolecules-cell/proteins/index.html)
 - [1.1.3 Lipids](/notes/neb/bio11/botany/biomolecules-cell/lipids/index.html)
-- [1.1.4 Nucleic Acids](./botany/biomolecules-cell-biology/biomolecules/nucleic-acids.html)
-- [1.1.5 Minerals](./botany/biomolecules-cell-biology/biomolecules/minerals.html)
+- [1.1.4 Nucleic Acids](/notes/neb/bio11/botany/biomolecules-cell/nucleic-acids/index.html)
+- [1.1.5 Minerals](/notes/neb/bio11/botany/biomolecules-cell/minerals/index.html)
 - [1.1.6 Enzymes](./botany/biomolecules-cell-biology/biomolecules/enzymes.html)
 - [1.1.7 Water](./botany/biomolecules-cell-biology/biomolecules/water.html)
 
