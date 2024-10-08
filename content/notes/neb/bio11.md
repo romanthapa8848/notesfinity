@@ -39,7 +39,7 @@ layout: "non_math_mode"
 
 #### 1.1 Biomolecules: Introduction and functions of carbohydrates, proteins, lipids, nucleic acids, minerals, enzymes and water.
 
-- [1.1.1 Carbohydrates](./botany/biomolecules-cell-biology/biomolecules/carbohydrates.html)
+- [1.1.1 Carbohydrates](/notes/neb/bio11/botany/biomolecules-cell/carbohydrates/index.html)
 - [1.1.2 Proteins](./botany/biomolecules-cell-biology/biomolecules/proteins.html)
 - [1.1.3 Lipids](./botany/biomolecules-cell-biology/biomolecules/lipids.html)
 - [1.1.4 Nucleic Acids](./botany/biomolecules-cell-biology/biomolecules/nucleic-acids.html)
