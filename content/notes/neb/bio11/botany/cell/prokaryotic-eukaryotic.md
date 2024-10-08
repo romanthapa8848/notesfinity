@@ -40,8 +40,8 @@ Prokaryotic cells are simple, unicellular organisms that lack a defined nucleus 
 
 {{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Prokaryote_cell.svg/800px-Prokaryote_cell.svg.png" alt="Prokaryotic Cell Structure" caption="Diagram of a typical prokaryotic cell" class="fig" >}}
 
-<figure style="text-align: center;">
-  <video controls width="600">
+<figure style="text-align: center; max-width: 100%; margin: 0 auto;">
+  <video controls style="max-width: 80%; height: auto;">
     <source src="https://upload.wikimedia.org/wikipedia/commons/transcoded/f/fc/C%C3%A9lula_Procariota.ogv/C%C3%A9lula_Procariota.ogv.720p.vp9.webm" type="video/webm">
     Your browser does not support the video tag.
   </video>

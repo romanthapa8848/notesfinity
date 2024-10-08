@@ -190,21 +190,52 @@ td {
   overflow: hidden; /* Prevent any content from overflowing the figure */
 }
 
+/* Styling for the figure containing the image */
+.fig {
+  width: 300px; /* Set a fixed width for the figure to make it larger */
+  height: auto; /* Allow height to adjust automatically */
+  border: 2px solid #ccc; /* Add a border for visual separation */
+  margin: 20px auto; /* Center the figure with auto margins */
+  text-align: center; /* Center-align the caption text */
+  padding: 10px; /* Add padding for aesthetic spacing */
+  overflow: hidden; /* Prevent any content from overflowing the figure */
+}
+
 /* Styling for the image inside the figure */
 .fig img {
-  max-width: 100%; /* Scale the image to fit within the figure's width */
-  max-height: auto; /* Set a maximum height for the image */
+  width: 100%; /* Scale the image to fit within the figure's width */
   height: auto; /* Maintain the image's aspect ratio */
-  width: auto; /* Maintain the image's aspect ratio */
-  object-fit: contain; /* Scale the image to fit within the figure without distortion */
+  object-fit: cover; /* Scale the image to cover the figure without distortion */
 }
 
 /* Media Query for smaller devices (mobile) */
 @media (max-width: 768px) {
   .fig {
     border: 1px solid #999; /* Adjust border for smaller screens */
-    margin: 10px 0; /* Reduce margin for smaller screens */
+    margin: 10px auto; /* Center the figure with auto margins */
     padding: 5px; /* Adjust padding for smaller screens */
-    width: 100px; /* Keep figure width fixed for mobile */
+    width: 300px; /* Keep figure width fixed for mobile */
+  }
+}
+
+figure {
+  max-width: 100%; /* Ensures the figure does not exceed the container */
+  margin: 0 auto; /* Centers the figure */
+}
+
+video {
+  max-width: 80%; /* Adjusts the size of the video */
+  height: auto; /* Maintains aspect ratio */
+}
+
+@media (max-width: 768px) {
+  figure {
+    width: 90%; /* Ensures the figure takes the full width on small screens */
+    margin: 0; /* Adjust margins if needed */
+  }
+
+  video {
+    max-width: 100%; /* Make the video smaller on mobile */
+    height: auto; /* Maintain aspect ratio */
   }
 }

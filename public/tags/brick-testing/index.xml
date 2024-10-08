@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Brick Testing on Notesfinity</title>
-    <link>https://notesfinity.com/tags/brick-testing/</link>
+    <link>http://localhost:1313/tags/brick-testing/</link>
     <description>Recent content in Brick Testing on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/brick-testing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/brick-testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Compressive Strength Test of Brick and Stone</title>
-      <link>https://notesfinity.com/notes/ioe/cem/practical/compressive-strength-test/</link>
+      <link>http://localhost:1313/notes/ioe/cem/practical/compressive-strength-test/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/ioe/cem/practical/compressive-strength-test/</guid>
+      <guid>http://localhost:1313/notes/ioe/cem/practical/compressive-strength-test/</guid>
       <description>&lt;h1 id=&#34;compressive-strength-test-of-brick-and-stone&#34;&gt;Compressive Strength Test of Brick and Stone&lt;/h1&gt;&#xA;&lt;p&gt;The compressive strength test is crucial for evaluating the load-bearing capacity of brick and stone samples. This test determines how much axial load a material can withstand before failing, which is essential for structural design and safety.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Compressive strength is a key property of construction materials, indicating their ability to resist axial loads without failure. Understanding the compressive strength of bricks and stones is vital for ensuring the safety and durability of structures.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Water Absorption Test and Bulk Specific Gravity Test on Brick Sample</title>
-      <link>https://notesfinity.com/notes/ioe/cem/practical/water-absorption-test/</link>
+      <link>http://localhost:1313/notes/ioe/cem/practical/water-absorption-test/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/ioe/cem/practical/water-absorption-test/</guid>
+      <guid>http://localhost:1313/notes/ioe/cem/practical/water-absorption-test/</guid>
       <description>&lt;h1 id=&#34;water-absorption-test-and-bulk-specific-gravity-test-on-brick-sample&#34;&gt;Water Absorption Test and Bulk Specific Gravity Test on Brick Sample&lt;/h1&gt;&#xA;&lt;p&gt;The Water Absorption Test and Bulk Specific Gravity Test are essential procedures for assessing the physical properties of brick samples. These tests help determine the durability and suitability of bricks for construction purposes.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Bricks are one of the most widely used building materials in construction. Understanding their physical properties, such as water absorption and specific gravity, is crucial for ensuring quality and durability in masonry applications. The Water Absorption Test measures the porosity of bricks, while the Bulk Specific Gravity Test evaluates their density.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Standard Tests for Bricks</title>
-      <link>https://notesfinity.com/notes/ioe/cem/clay-products/standard-test-bricks/</link>
+      <link>http://localhost:1313/notes/ioe/cem/clay-products/standard-test-bricks/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/ioe/cem/clay-products/standard-test-bricks/</guid>
+      <guid>http://localhost:1313/notes/ioe/cem/clay-products/standard-test-bricks/</guid>
       <description>&lt;h1 id=&#34;standard-tests-for-bricks&#34;&gt;Standard Tests for Bricks&lt;/h1&gt;&#xA;&lt;p&gt;Bricks are essential materials in construction, and their quality directly impacts the safety and durability of structures. Standard testing ensures that bricks meet specified requirements for strength, durability, and performance. This document outlines the key standard tests for evaluating bricks.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-compressive-strength-test&#34;&gt;1. Compressive Strength Test&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-purpose&#34;&gt;a. Purpose&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;To determine the maximum load a brick can withstand before failure, indicating its structural capability. This test is crucial as it assesses the brick&amp;rsquo;s ability to support loads in construction.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;b-procedure&#34;&gt;b. Procedure&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Sample Selection:&lt;/strong&gt; Choose a representative sample of bricks from a batch.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Testing Setup:&lt;/strong&gt; Use a compressive testing machine (such as a hydraulic press) calibrated according to relevant standards.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Loading:&lt;/strong&gt; Place the brick in the testing machine and apply a uniform load at a controlled rate.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Failure Measurement:&lt;/strong&gt; Continue applying load until the brick fails. Record the maximum load at which the brick fails.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;c-standards&#34;&gt;c. Standards&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;The compressive strength should generally meet or exceed 3.5 MPa for common burnt clay bricks, but higher strengths are often specified for load-bearing applications.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-water-absorption-test&#34;&gt;2. Water Absorption Test&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-purpose-1&#34;&gt;a. Purpose&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;To assess the porosity of bricks and their ability to absorb water, which affects durability, resistance to freeze-thaw cycles, and overall performance.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;b-procedure-1&#34;&gt;b. Procedure&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Dry Weight Measurement:&lt;/strong&gt; Weigh a dry brick $(W_{1})$ accurately.&lt;/p&gt;</description>
     </item>
   </channel>
