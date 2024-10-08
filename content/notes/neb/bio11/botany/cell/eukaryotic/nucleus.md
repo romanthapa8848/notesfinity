@@ -250,5 +250,5 @@ The nucleus communicates with the cytoplasm by exporting mRNA and ribosomal subu
 
 - A) Types of ribosomes
 - B) Types of RNA
-- C) **Forms of chromatin, where euchromatin is active, and heterochromatin is inactive** (✓)
+- C) **Forms of chromatin, where euchromatin is active, and heterochromatin is inactive (✓)**
 - D) Types of enzymes
