@@ -63,7 +63,7 @@ layout: "non_math_mode"
   - [1.2.3.8 Composition, Structure, and Functions of Ribosomes](/notes/neb/bio11/botany/cell/eukaryotic/ribosomes/index.html)
   - [1.2.3.9 Composition, Structure, and Functions of Nucleus](/notes/neb/bio11/botany/cell/eukaryotic/nucleus/index.html)
   - [1.2.3.10 Composition, Structure, and Functions of Chromosomes](/notes/neb/bio11/botany/cell/eukaryotic/chromosomes/index.html)
-  - [1.2.3.11 Composition, Structure, and Functions of Cilia](./botany/biomolecules-cell-biology/cell/eukaryotic/cilia.html)
+  - [1.2.3.11 Composition, Structure, and Functions of Cilia](/notes/neb/bio11/botany/cell/eukaryotic/cilia/index.html)
   - [1.2.3.12 Composition, Structure, and Functions of Flagella](./botany/biomolecules-cell-biology/cell/eukaryotic/flagella.html)
   - [1.2.3.13 Composition, Structure, and Functions of Cell Inclusions](./botany/biomolecules-cell-biology/cell/eukaryotic/cell-inclusions.html)
 
