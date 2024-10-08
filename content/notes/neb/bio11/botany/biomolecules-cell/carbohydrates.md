@@ -148,71 +148,72 @@ Carbohydrates are used in the production of biofuels, biodegradable plastics, an
 
 ## MCQs
 
-1. What is the simplest form of carbohydrates?
+### 1. What is the simplest form of carbohydrates?
 
-   - A) Disaccharides
-   - B) Polysaccharides
-   - C) Monosaccharides (✓)
-   - D) Oligosaccharides
+- A) Disaccharides
+- B) Polysaccharides
+- C) **Monosaccharides (✓)**
+- D) Oligosaccharides
 
-2. Which carbohydrate is known for its role in energy storage in plants?
+### 2. Which carbohydrate is known for its role in energy storage in plants?
 
-   - A) Cellulose
-   - B) Glycogen
-   - C) Starch (✓)
-   - D) Sucrose
+- A) Cellulose
+- B) Glycogen
+- C) **Starch (✓)**
+- D) Sucrose
 
-3. What is the primary function of carbohydrates in the human body?
+### 3. What is the primary function of carbohydrates in the human body?
 
-   - A) Structural support
-   - B) Energy source (✓)
-   - C) Hormone production
-   - D) Enzyme activity
+- A) Structural support
+- B) **Energy source (✓)**
+- C) Hormone production
+- D) Enzyme activity
 
-4. Which of the following is a disaccharide?
+### 4. Which of the following is a disaccharide?
 
-   - A) Glucose
-   - B) Fructose
-   - C) Sucrose (✓)
-   - D) Cellulose
+- A) Glucose
+- B) Fructose
+- C) **Sucrose (✓)**
+- D) Cellulose
 
-5. Which type of carbohydrate cannot be digested by humans?
+### 5. Which type of carbohydrate cannot be digested by humans?
 
-   - A) Starch
-   - B) Cellulose (✓)
-   - C) Glycogen
-   - D) Sucrose
+- A) Starch
+- B) **Cellulose (✓)**
+- C) Glycogen
+- D) Sucrose
 
-6. Hydrolysis of carbohydrates involves the addition of:
+### 6. Hydrolysis of carbohydrates involves the addition of:
 
-   - A) Heat
-   - B) Acids
-   - C) Water (✓)
-   - D) Alcohol
+- A) Heat
+- B) Acids
+- C) **Water (✓)**
+- D) Alcohol
 
-7. What is the primary storage form of carbohydrates in animals?
+### 7. What is the primary storage form of carbohydrates in animals?
 
-   - A) Cellulose
-   - B) Glycogen (✓)
-   - C) Starch
-   - D) Fructose
+- A) Cellulose
+- B) **Glycogen (✓)**
+- C) Starch
+- D) Fructose
 
-8. Which carbohydrate is known for its sweetness?
+### 8. Which carbohydrate is known for its sweetness?
 
-   - A) Starch
-   - B) Cellulose
-   - C) Fructose (✓)
-   - D) Glycogen
+- A) Starch
+- B) Cellulose
+- C) **Fructose (✓)**
+- D) Glycogen
 
-9. Which of the following is not a function of carbohydrates?
+### 9. Which of the following is not a function of carbohydrates?
 
-   - A) Energy storage
-   - B) Structural support
-   - C) Hormone production (✓)
-   - D) Cell signaling
+- A) Energy storage
+- B) Structural support
+- C) **Hormone production (✓)**
+- D) Cell signaling
 
-10. Which carbohydrate is derived from plant sources and commonly used in food?
-    - A) Glycogen
-    - B) Starch (✓)
-    - C) Chitin
-    - D) Cellulose
+### 10. Which carbohydrate is derived from plant sources and commonly used in food?
+
+- A) Glycogen
+- B) **Starch (✓)**
+- C) Chitin
+- D) Cellulose
