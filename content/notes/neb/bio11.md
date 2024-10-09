@@ -135,7 +135,7 @@ layout: "non_math_mode"
 - [2.8.4 Taxonomic Description of the Family Brassicaceae (or Cruciferae) with economic importance](/notes/neb/bio11/botany/floral-diversity/angiosperm/brassicaceae/index.html)
 - [2.8.5 Taxonomic Description of the Family Fabaceae (or Leguminosae) with economic importance](/notes/neb/bio11/botany/floral-diversity/angiosperm/fabaceae/index.html)
 - [2.8.6 Taxonomic Description of the Family Solanaceae with economic importance](/notes/neb/bio11/botany/floral-diversity/angiosperm/solanaceae/index.html)
-- [2.8.7 Taxonomic Description of the Family Liliaceae with economic importance](./botany/floral-diversity/angiosperm/liliaceae.html)
+- [2.8.7 Taxonomic Description of the Family Liliaceae with economic importance](/notes/neb/bio11/botany/floral-diversity/angiosperm/liliaceae/index.html)
 
 ## 3. Introductory Microbiology
 
