@@ -192,7 +192,7 @@ td {
 
 /* Styling for the figure containing the image */
 .fig {
-  width: 600px; /* Set a fixed width for the figure to make it larger */
+  width: 500px; /* Set a fixed width for the figure to make it larger */
   height: auto; /* Allow height to adjust automatically */
   border: 2px solid #ccc; /* Add a border for visual separation */
   margin: 20px auto; /* Center the figure with auto margins */
@@ -214,7 +214,7 @@ td {
     border: 1px solid #999; /* Adjust border for smaller screens */
     margin: 10px auto; /* Center the figure with auto margins */
     padding: 5px; /* Adjust padding for smaller screens */
-    width: 450px; /* Keep figure width fixed for mobile */
+    width: 400px; /* Keep figure width fixed for mobile */
   }
 }
 
