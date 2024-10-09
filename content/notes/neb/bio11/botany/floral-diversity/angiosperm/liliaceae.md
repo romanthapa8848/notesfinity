@@ -25,8 +25,6 @@ In addition to their ornamental significance, many Liliaceae species possess med
 
 Moreover, comprehending the taxonomy of the Liliaceae family is essential for the effective identification and classification of these plants, which facilitates better horticultural practices, conservation efforts, and agricultural sustainability.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Lilium_candidum_-_Botanical_Illustration.jpg/800px-Lilium_candidum_-_Botanical_Illustration.jpg" alt="Illustration of Lilium candidum" caption="Illustration of *Lilium candidum*. 1. flower; 2. bulb; 3. leaf; 4. fruit." class="fig" >}}
-
 ---
 
 ## 1. Taxonomic Classification
