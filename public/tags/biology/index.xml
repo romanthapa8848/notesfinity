@@ -2,24 +2,38 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biology on Notesfinity</title>
-    <link>http://localhost:1313/tags/biology/</link>
+    <link>https://notesfinity.com/tags/biology/</link>
     <description>Recent content in Biology on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/biology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://notesfinity.com/tags/biology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Classification Systems (Artificial, Natural, and Phylogenetic) of Angiosperms</title>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/angiosperm/classification-angiosperm/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/angiosperm/classification-angiosperm/</guid>
+      <description>&lt;h1 id=&#34;classification-systems-artificial-natural-and-phylogenetic-of-angiosperms&#34;&gt;Classification Systems (Artificial, Natural, and Phylogenetic) of Angiosperms&lt;/h1&gt;&#xA;&lt;p&gt;Angiosperms, commonly known as flowering plants, represent a vast and diverse group of plants distinguished primarily by their unique reproductive structures, including flowers and fruits. This group encompasses an estimated 250,000 species, making angiosperms the most diverse category of plants on Earth. Their ability to produce flowers facilitates pollination, while the formation of fruits aids in seed dispersal, contributing to their widespread distribution across various habitats.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Taxonomic Study: Definition and Taxonomic Hierarchy</title>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/angiosperm/taxonomic-study/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/angiosperm/taxonomic-study/</guid>
+      <description>&lt;h1 id=&#34;taxonomic-study-definition-and-taxonomic-hierarchy&#34;&gt;Taxonomic Study: Definition and Taxonomic Hierarchy&lt;/h1&gt;&#xA;&lt;p&gt;Taxonomy is a crucial field in biology that encompasses the classification, naming, and identification of living organisms. It serves as the foundation for understanding the immense diversity of life on Earth, organizing organisms into hierarchical categories based on shared characteristics and evolutionary relationships. By providing a systematic framework, taxonomy enables scientists to categorize organisms into groups, such as kingdoms, phyla, classes, orders, families, genera, and species, reflecting their natural relationships.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Concepts of Prokaryotic and Eukaryotic Cells</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/</guid>
       <description>&lt;h1 id=&#34;concepts-of-prokaryotic-and-eukaryotic-cells&#34;&gt;Concepts of Prokaryotic and Eukaryotic Cells&lt;/h1&gt;&#xA;&lt;p&gt;Cells are the fundamental units of life, and they can be classified into two main categories: prokaryotic and eukaryotic cells. Understanding the differences and similarities between these two cell types is essential for grasping the complexity of biological systems. This document outlines their key characteristics, functions, and implications in the study of life sciences.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;overview-of-prokaryotic-cells&#34;&gt;Overview of Prokaryotic Cells&lt;/h1&gt;&#xA;&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;&#xA;&lt;p&gt;Prokaryotic cells are simple, unicellular organisms characterized by the absence of a defined nucleus and membrane-bound organelles. They are typically smaller than eukaryotic cells, with diameters ranging from 0.1 to 5.0 micrometers. Prokaryotic cells represent one of the earliest forms of life on Earth, appearing around 3.5 billion years ago, and they play crucial roles in various ecosystems, including nutrient cycling, decomposition, and symbiotic relationships.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction of Cells</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/cell/introduction-of-cell/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/cell/introduction-of-cell/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/cell/introduction-of-cell/</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/cell/introduction-of-cell/</guid>
       <description>&lt;h1 id=&#34;introduction-of-cells&#34;&gt;Introduction of Cells&lt;/h1&gt;&#xA;&lt;p&gt;Cells are the fundamental units of life, serving as the building blocks for all living organisms. Each cell operates as an independent entity, carrying out various functions necessary for the survival and reproduction of the organism. Cells can be classified into two main types: prokaryotic and eukaryotic, which differ in structure and complexity. Understanding cells is essential for comprehending the basic principles of biology and the processes that sustain life.&lt;/p&gt;</description>
     </item>
   </channel>
