@@ -86,7 +86,7 @@ Lichens exhibit a stunning diversity of colors, textures, and forms, which enhan
 
 - **Form and Structure:** Lichens can be classified into three main morphological types: crustose, foliose, and fruticose. Crustose lichens form thin, crusty layers tightly adhered to surfaces, while foliose lichens have leaf-like structures that are loosely attached, allowing for greater air circulation. Fruticose lichens, on the other hand, exhibit a bushy or branching growth form, often hanging from trees or growing upright. This diversity in morphology allows lichens to exploit different habitats, contributing to their ecological roles in nutrient cycling and soil formation.
 
-{{< figure src="https://microbenotes.com/wp-content/uploads/2024/07/Lichen-Cross-Section.jpeg" alt="Lichen Cross Section" caption="Lichen Cross Section" class="fig" >}}
+{{< figure src="https://microbenotes.com/wp-content/uploads/2024/07/Lichen-Cross-Section.jpeg" alt="Lichen Cross Section" caption="Lichen Cross Sectional View" class="fig" >}}
 
 In summary, the characteristic features of lichens—including their symbiotic relationships, tolerance to extreme conditions, and unique morphology—highlight their ecological importance and adaptability. These traits enable lichens to thrive in diverse environments, contributing to ecosystem health and functioning.
 
