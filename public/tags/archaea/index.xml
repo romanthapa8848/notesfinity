@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Archaea on Notesfinity</title>
+    <link>http://localhost:1313/tags/archaea/</link>
+    <description>Recent content in Archaea on Notesfinity</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/archaea/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Three Domains of Life</title>
+      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/introduction/three-domains-of-life/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/introduction/three-domains-of-life/</guid>
+      <description>&lt;h1 id=&#34;three-domains-of-life&#34;&gt;Three Domains of Life&lt;/h1&gt;&#xA;&lt;p&gt;The classification of life on Earth is organized into three primary domains: Archaea, Bacteria, and Eukarya. This classification is based on genetic and biochemical differences, providing insights into the diversity of life forms. Understanding these domains helps us appreciate the evolutionary relationships between different organisms and the environments they inhabit.&lt;/p&gt;&#xA;&lt;figure class=&#34;fig&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Phylogenetic_tree_of_life_1990_LUCA.svg/1024px-Phylogenetic_tree_of_life_1990_LUCA.svg.png&#34;&#xA;    alt=&#34;Phylogenetic Tree of Life&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;A phylogenetic tree based on rRNA data, emphasizing the separation of bacteria, archaea, and eukarya as proposed by Carl Woese et al. in 1990, with the hypothetical last universal common ancestor.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

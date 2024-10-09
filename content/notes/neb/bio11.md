@@ -76,15 +76,22 @@ layout: "non_math_mode"
   - [1.3.2.2 Mitosis](/notes/neb/bio11/botany/cell-division/types-of-cell-division/mitosis/index.html)
   - [1.3.2.3 Meiosis](/notes/neb/bio11/botany/cell-division/types-of-cell-division/meiosis/index.html)
 
-- [1.3.3 Significances of Cell Division](./botany/biomolecules-cell-biology/cell-division/significance.html)
+- [1.3.3 Significances of Cell Division](/notes/neb/bio11/botany/cell-division/significance/index.html)
 
 ## 2. Floral Diversity
 
 #### 2.1 Introduction: Three domains of life, binomial nomenclature, five kingdom classification system (Monera, Protista, Fungi, Plantae and Animalia); status of flora in Nepal and world representation.
 
-- [2.1.1 Three Domains of Life](./botany/floral-diversity/introduction/three-domains-of-life.html)
-- [2.1.2 Binomial Nomenclature](./botany/floral-diversity/introduction/binomial-nomenclature.html)
+- [2.1.1 Three Domains of Life](/notes/neb/bio11/botany/floral-diversity/introduction/three-domains-of-life/index.html)
+- [2.1.2 Binomial Nomenclature](/notes/neb/bio11/botany/floral-diversity/introduction/binomial-nomenclature/index.html)
 - [2.1.3 Five Kingdom Classification System](./botany/floral-diversity/introduction/five-kingdom-classification.html)
+
+  - [2.1.3.1 Monera](./botany/floral-diversity/introduction/five-kingdom-classification.html)
+  - [2.1.3.2 Protista](./botany/floral-diversity/introduction/five-kingdom-classification.html)
+  - [2.1.3.3 Fungi](./botany/floral-diversity/introduction/five-kingdom-classification.html)
+  - [2.1.3.4 Plantae](./botany/floral-diversity/introduction/five-kingdom-classification.html)
+  - [2.1.3.5 Animalia](./botany/floral-diversity/introduction/five-kingdom-classification.html)
+
 - [2.1.4 Status of Flora in Nepal and World Representation](./botany/floral-diversity/introduction/status-of-flora.html)
 
 #### 2.2 Fungi: General introduction and characteristic features of phycomycetes, ascomycetes, basidiomycetes and deuteromycetes; structure and reproduction of Mucor and Yeast, introduction of Mushrooms, poisonous and non-poisonous mushrooms, economic importance of fungi.
