@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Genetic Variation on Notesfinity</title>
+    <link>http://localhost:1313/tags/genetic-variation/</link>
+    <description>Recent content in Genetic Variation on Notesfinity</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/genetic-variation/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Meiosis</title>
+      <link>http://localhost:1313/notes/neb/bio11/botany/cell-division/types-of-cell-division/meiosis/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/cell-division/types-of-cell-division/meiosis/</guid>
+      <description>&lt;h1 id=&#34;meiosis&#34;&gt;Meiosis&lt;/h1&gt;&#xA;&lt;p&gt;Meiosis is a specialized form of cell division that occurs in eukaryotic organisms, resulting in the formation of gametes (sperm and eggs) with half the chromosome number of the parent cell. This process is crucial for sexual reproduction and contributes to genetic diversity among offspring.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-definition-of-meiosis&#34;&gt;1. Definition of Meiosis&lt;/h2&gt;&#xA;&lt;p&gt;Meiosis is defined as a two-stage cell division process that reduces the chromosome number by half through two successive divisions: meiosis I and meiosis II. Each stage consists of distinct phases that ensure the proper segregation of chromosomes.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
