@@ -23,6 +23,22 @@
     <script src="/js/main.js"></script>
     <!-- jQuery Library -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+    <style>
+      /* Only style for the iframe */
+      iframe {
+        width: 100%; /* Full width to fit mobile screens */
+        height: 1026px; /* Fixed height for desktop */
+        border: none; /* Remove iframe border */
+        overflow: hidden; /* Prevent overflow within the iframe */
+      }
+
+      @media (max-width: 768px) {
+        iframe {
+          height: auto; /* Allow the height to adjust on smaller screens */
+          min-height: 1126px; /* Set a minimum height */
+        }
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
@@ -53,11 +69,8 @@
           <!-- Embed Google Form -->
           <iframe
             src="https://docs.google.com/forms/d/e/1FAIpQLSdMVpjbYuCAEnEojAeXvgH8C6l7iXbbPcFIWEd6Z5svUl7lWg/viewform?embedded=true"
-            width="640"
-            height="1026"
-            frameborder="0"
-            marginheight="0"
-            marginwidth="0"
+            loading="lazy"
+            scrolling="yes"
             >Loading…</iframe
           >
         </main>
