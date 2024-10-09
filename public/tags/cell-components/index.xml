@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cell Components on Notesfinity</title>
-    <link>https://notesfinity.com/tags/cell-components/</link>
+    <link>http://localhost:1313/tags/cell-components/</link>
     <description>Recent content in Cell Components on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/cell-components/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/cell-components/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Composition, Structure, and Functions of Cell Inclusions</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/cell/eukaryotic/cell-inclusions/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/cell-inclusions/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/cell/eukaryotic/cell-inclusions/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/cell-inclusions/</guid>
       <description>&lt;h1 id=&#34;composition-structure-and-functions-of-cell-inclusions&#34;&gt;Composition, Structure, and Functions of Cell Inclusions&lt;/h1&gt;&#xA;&lt;p&gt;Cell inclusions are non-living substances found within the cytoplasm of cells. They play essential roles in various cellular processes, including storage and metabolic functions. Unlike organelles, which are membrane-bound and vital for cell function, inclusions are typically not bound by membranes and can vary significantly in composition and purpose.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;1-composition-of-cell-inclusions&#34;&gt;1. Composition of Cell Inclusions&lt;/h1&gt;&#xA;&lt;p&gt;Cell inclusions are non-living components within the cytoplasm of cells that perform various functions. They can vary in composition, size, and structure, depending on the specific needs of the cell. The following sections provide an overview of the primary types of cell inclusions, their structures, and functions.&lt;/p&gt;</description>
     </item>
   </channel>

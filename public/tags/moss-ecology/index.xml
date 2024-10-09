@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Moss Ecology on Notesfinity</title>
-    <link>https://notesfinity.com/tags/moss-ecology/</link>
+    <link>http://localhost:1313/tags/moss-ecology/</link>
     <description>Recent content in Moss Ecology on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/moss-ecology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/moss-ecology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>General Introduction and Characteristic Features of Moss</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/bryophyta/moss/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/bryophyta/moss/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/bryophyta/moss/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/bryophyta/moss/</guid>
       <description>&lt;h1 id=&#34;general-introduction-and-characteristic-features-of-moss&#34;&gt;General Introduction and Characteristic Features of Moss&lt;/h1&gt;&#xA;&lt;p&gt;Mosses are small, non-vascular plants belonging to the division Bryophyta. They typically grow in dense green clumps or mats in moist, shaded environments. Mosses play a vital role in many ecosystems, contributing to soil formation, water retention, and providing habitat for various organisms.&lt;/p&gt;&#xA;&lt;figure class=&#34;fig&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Lifecycle_moss_svg_diagram.svg/800px-Lifecycle_moss_svg_diagram.svg.png&#34;&#xA;    alt=&#34;Life Cycle of a Typical Moss&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Life cycle of a typical moss (Polytrichum commune).&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-overview-of-moss&#34;&gt;1. Overview of Moss&lt;/h2&gt;&#xA;&lt;p&gt;Mosses are fascinating plants that exhibit unique morphological and ecological characteristics. Their adaptations to a variety of environments make them essential components of many ecosystems.&lt;/p&gt;</description>
     </item>
   </channel>
