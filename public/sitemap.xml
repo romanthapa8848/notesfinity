@@ -2,22 +2,52 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/agriculture/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/algae/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/algal-structure/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/aquaculture/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/biofuel/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/botany/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/brown-algae/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/bryophytes/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/chlorophyta/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/ecology/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/economic-importance/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/algae/economic-importance/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/algae/green-brown-red-algae/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/bryophyta/liverworts/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/green-algae/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/liverworts/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/</loc>
@@ -26,10 +56,16 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/pharmaceuticals/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/phycology/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/plant-biology/</loc>
+    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/plant-characteristics/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/red-algae/</loc>
@@ -46,9 +82,6 @@
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/agriculture/</loc>
-    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/amitosis/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
@@ -240,12 +273,6 @@
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ecological-role/</loc>
-    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ecology/</loc>
-    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/economic-importance/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/fungi/economic-importance/</loc>
@@ -693,9 +720,6 @@
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/architectural-design/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/botany/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/brick-classification/</loc>
