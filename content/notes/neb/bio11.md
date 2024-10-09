@@ -103,8 +103,8 @@ layout: "non_math_mode"
 
 #### 2.4 Algae: General introduction and characteristic feature of green, brown and red algae; structure and reproduction of Spirogyra. Economic importance of algae.
 
-- [2.4.1 General Introduction and Characteristic Features of Green, Brown, and Red Algae](./botany/floral-diversity/algae/green-brown-red-algae.html)
-- [2.4.2 Structure and Reproduction of Spirogyra](./botany/floral-diversity/algae/spirogyra.html)
+- [2.4.1 General Introduction and Characteristic Features of Green, Brown, and Red Algae](/notes/neb/bio11/botany/floral-diversity/algae/green-brown-red-algae/index.html)
+- [2.4.2 Structure and Reproduction of Spirogyra](/notes/neb/bio11/botany/floral-diversity/algae/spirogyra/index.html)
 - [2.4.3 Economic Importance of Algae](./botany/floral-diversity/algae/economic-importance.html)
 
 #### 2.5 Bryophyta: General introduction and characteristic features of liverworts, hornworts and moss; morphological structure and reproduction of Marchantia. Economic importance of bryophytes.

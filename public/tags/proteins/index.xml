@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Proteins on Notesfinity</title>
-    <link>http://localhost:1313/tags/proteins/</link>
+    <link>https://notesfinity.com/tags/proteins/</link>
     <description>Recent content in Proteins on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/proteins/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/proteins/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction and Functions of Proteins</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/proteins/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/biomolecules-cell/proteins/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/proteins/</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/biomolecules-cell/proteins/</guid>
       <description>&lt;h1 id=&#34;introduction-and-functions-of-proteins&#34;&gt;Introduction and Functions of Proteins&lt;/h1&gt;&#xA;&lt;p&gt;Proteins are essential macromolecules composed of amino acids, which are linked together by peptide bonds. They play a crucial role in virtually every biological process, acting as enzymes, structural components, and signaling molecules. Proteins are involved in cell structure, function, and regulation of the body&amp;rsquo;s tissues and organs, making them vital for life.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-functions-of-proteins&#34;&gt;1. Functions of Proteins&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-enzymatic-activity&#34;&gt;a. Enzymatic Activity&lt;/h3&gt;&#xA;&lt;p&gt;Proteins function as enzymes, catalyzing biochemical reactions that are essential for metabolic processes. Enzymes lower the activation energy required for reactions, increasing the rate at which they occur.&lt;/p&gt;</description>
     </item>
   </channel>
