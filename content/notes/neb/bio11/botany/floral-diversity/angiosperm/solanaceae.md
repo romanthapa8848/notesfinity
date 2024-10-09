@@ -25,6 +25,8 @@ In addition to their importance in agriculture, many species within the Solanace
 
 Moreover, the understanding of the Solanaceae family’s taxonomy is essential for effective identification and classification of these plants, facilitating better agricultural practices, pest management strategies, and conservation efforts. This knowledge supports horticulture by guiding plant breeding programs aimed at enhancing crop yields and improving resistance to diseases and environmental stresses.
 
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Illustration_Solanum_dulcamara0_clean.png/800px-Illustration_Solanum_dulcamara0_clean.png" alt="Illustration of Solanum dulcamara" caption="Illustration of Solanum dulcamara. 1. flower; 2. flower in longitudinal section, without the petals; 3. androecium; 4. ovary, in transverse section; 5. seed viewed from above; 6. seed in transverse section – note the curved embryo surrounding the endosperm; A. branch with leaves and flowers; B. stem with immature and mature fruit." class="fig" >}}
+
 ---
 
 ## 1. Taxonomic Classification
@@ -70,6 +72,8 @@ The Solanaceae family exhibits several defining characteristics that distinguish
 - **Ecological Role**:
   - Solanaceae plants play important roles in ecosystems as food sources for various pollinators, herbivores, and predators.
   - Some species, like tomatoes and peppers, are integral to agricultural systems, while others serve as wild relatives that contribute to biodiversity and ecological stability.
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Diagramme_floral_Solanum_tuberosum-tag.svg/800px-Diagramme_floral_Solanum_tuberosum-tag.svg.png" alt="Floral Diagram of Solanum tuberosum" caption="Floral diagram of the potato (Solanum tuberosum). Legend: 1 = sepals, 2 = petals, 3 = stamens, 4 = superior ovary." class="fig" >}}
 
 ---
 
