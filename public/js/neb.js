@@ -52,7 +52,7 @@ export const nebSubjects = [
   },
   {
     name: "NEB Class 12 Biology",
-    code: "BIO 202",
+    code: "BIO 302",
     url: "/notes/neb/biology/class12/class12-biology.html",
     keywords: ["biology", "class 12", "neb", "bio 302"],
   },
