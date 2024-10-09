@@ -72,8 +72,8 @@ layout: "non_math_mode"
 - [1.3.1 Concept of Cell Cycle](/notes/neb/bio11/botany/cell-division/concept-of-cell-cycle/index.html)
 - [1.3.2 Types of Cell Division](./botany/biomolecules-cell-biology/cell-division/types-of-cell-division.html)
 
-  - [1.3.2.1 Amitosis](./botany/biomolecules-cell-biology/cell-division/types/amitosis.html)
-  - [1.3.2.2 Mitosis](./botany/biomolecules-cell-biology/cell-division/types/mitosis.html)
+  - [1.3.2.1 Amitosis](/notes/neb/bio11/botany/cell-division/types-of-cell-division/amitosis/index.html)
+  - [1.3.2.2 Mitosis](/notes/neb/bio11/botany/cell-division/types-of-cell-division/mitosis/index.html)
   - [1.3.2.3 Meiosis](./botany/biomolecules-cell-biology/cell-division/types/meiosis.html)
 
 - [1.3.3 Significances of Cell Division](./botany/biomolecules-cell-biology/cell-division/significance.html)
