@@ -129,12 +129,13 @@ layout: "non_math_mode"
 
 #### 2.8 Angiosperm: Morphology (root, stem, leaves, inflorescences, flowers and fruit); Taxonomic study: Definition, taxonomic hierarchy, classification systems (artificial, natural and phylogenetic) of angiosperms, taxonomic description of the families – Brassicaceae, Fabaceae, Solanaceae, and Liliaceae with economic importance.
 
-- [2.8.1 Morphology (Root, Stem, Leaves, Inflorescences, Flowers, and Fruit)](./botany/floral-diversity/angiosperm/morphology.html)
-- [2.8.2 Taxonomic study: Definition, taxonomic hierarchy, classification systems (artificial, natural and phylogenetic) of angiosperms](./botany/floral-diversity/angiosperm/taxonomic-study.html)
-- [2.8.3 Taxonomic Description of the Family Brassicaceae with economic importance](./botany/floral-diversity/angiosperm/brassicaceae.html)
-- [2.8.4 Taxonomic Description of the Family Fabaceae with economic importance](./botany/floral-diversity/angiosperm/fabaceae.html)
-- [2.8.5 Taxonomic Description of the Family Solanaceae with economic importance](./botany/floral-diversity/angiosperm/solanaceae.html)
-- [2.8.6 Taxonomic Description of the Family Liliaceae with economic importance](./botany/floral-diversity/angiosperm/liliaceae.html)
+- [2.8.1 Morphology (Root, Stem, Leaves, Inflorescences, Flowers, and Fruit)](/notes/neb/bio11/botany/floral-diversity/angiosperm/morphology/index.html)
+- [2.8.2 Taxonomic study: Definition, taxonomic hierarchy](/notes/neb/bio11/botany/floral-diversity/angiosperm/taxonomic-study/index.html)
+- [2.8.3 Classification systems (artificial, natural and phylogenetic) of angiosperms](/notes/neb/bio11/botany/floral-diversity/angiosperm/classification-angiosperm/index.html)
+- [2.8.4 Taxonomic Description of the Family Brassicaceae (or Cruciferae) with economic importance](/notes/neb/bio11/botany/floral-diversity/angiosperm/brassicaceae/index.html)
+- [2.8.5 Taxonomic Description of the Family Fabaceae (or Leguminosae) with economic importance](/notes/neb/bio11/botany/floral-diversity/angiosperm/fabaceae/index.html)
+- [2.8.6 Taxonomic Description of the Family Solanaceae with economic importance](/notes/neb/bio11/botany/floral-diversity/angiosperm/solanaceae/index.html)
+- [2.8.7 Taxonomic Description of the Family Liliaceae with economic importance](./botany/floral-diversity/angiosperm/liliaceae.html)
 
 ## 3. Introductory Microbiology
 

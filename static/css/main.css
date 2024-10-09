@@ -223,6 +223,7 @@ figure {
   margin: 0 auto; /* Centers the figure */
 }
 
+/* Styling for videos */
 video {
   max-width: 80%; /* Adjusts the size of the video */
   height: auto; /* Maintains aspect ratio */
