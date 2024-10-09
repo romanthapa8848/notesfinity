@@ -110,15 +110,15 @@ layout: "non_math_mode"
 #### 2.5 Bryophyta: General introduction and characteristic features of liverworts, hornworts and moss; morphological structure and reproduction of Marchantia. Economic importance of bryophytes.
 
 - [2.5.1 General Introduction and Characteristic Features of Liverworts](/notes/neb/bio11/botany/floral-diversity/bryophyta/liverworts/index.html)
-- [2.5.2 General Introduction and Characteristic Features of Hornworts](./botany/floral-diversity/bryophyta/hornworts.html)
-- [2.5.3 General Introduction and Characteristic Features of Moss](./botany/floral-diversity/bryophyta/moss.html)
-- [2.5.4 Morphological Structure and Reproduction of Marchantia](./botany/floral-diversity/bryophyta/marchantia.html)
-- [2.5.5 Economic Importance of Bryophytes](./botany/floral-diversity/bryophyta/economic-importance.html)
+- [2.5.2 General Introduction and Characteristic Features of Hornworts](/notes/neb/bio11/botany/floral-diversity/bryophyta/hornworts/index.html)
+- [2.5.3 General Introduction and Characteristic Features of Moss](/notes/neb/bio11/botany/floral-diversity/bryophyta/moss/index.html)
+- [2.5.4 Morphological Structure and Reproduction of Marchantia](/notes/neb/bio11/botany/floral-diversity/bryophyta/marchantia/index.html)
+- [2.5.5 Economic Importance of Bryophytes](/notes/neb/bio11/botany/floral-diversity/bryophyta/economic-importance/index.html)
 
 #### 2.6 Pteridophyta: General introduction and characteristic features of pteridophytes; morphological structure and reproduction of Dryopteris. Economic importance of pteridophytes.
 
-- [2.6.1 General Introduction and Characteristic Features of Pteridophytes](./botany/floral-diversity/pteridophyta/general-introduction.html)
-- [2.6.2 Morphological Structure and Reproduction of Dryopteris](./botany/floral-diversity/pteridophyta/dryopteris.html)
+- [2.6.1 General Introduction and Characteristic Features of Pteridophytes](/notes/neb/bio11/botany/floral-diversity/pteridophyta/introduction/index.html)
+- [2.6.2 Morphological Structure and Reproduction of Dryopteris](/notes/neb/bio11/botany/floral-diversity/pteridophyta/dryopteris/index.html)
 - [2.6.3 Economic Importance of Pteridophytes](./botany/floral-diversity/pteridophyta/economic-importance.html)
 
 #### 2.7 Gymnosperm: General introduction and characteristic features of Gymnosperms; morphology and reproduction of Pinus. Economic importance of gymnosperm.
