@@ -192,7 +192,7 @@ td {
 
 /* Styling for the figure containing the image */
 .fig {
-  width: 300px; /* Set a fixed width for the figure to make it larger */
+  width: 600px; /* Set a fixed width for the figure to make it larger */
   height: auto; /* Allow height to adjust automatically */
   border: 2px solid #ccc; /* Add a border for visual separation */
   margin: 20px auto; /* Center the figure with auto margins */

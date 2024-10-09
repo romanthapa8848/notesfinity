@@ -94,12 +94,12 @@ layout: "non_math_mode"
 - [2.2.2 Ascomycetes: General Introduction and Characteristic Features](/notes/neb/bio11/botany/floral-diversity/fungi/ascomycetes/index.html)
 - [2.2.3 Basidiomycetes: General Introduction and Characteristic Features](/notes/neb/bio11/botany/floral-diversity/fungi/ascomycetes/index.html)
 - [2.2.4 Deuteromycetes: General Introduction and Characteristic Features](/notes/neb/bio11/botany/floral-diversity/fungi/deuteromycetes/index.html)
-- [2.2.5 Structure and Reproduction of Mucor](./botany/floral-diversity/fungi/mucor-structure-reproduction.html)
-- [2.2.6 Structure and Reproduction of Yeast](./botany/floral-diversity/fungi/yeast-structure-reproduction.html)
-- [2.2.7 Introduction of Mushrooms and Poisonous & Non-Poisonous Mushrooms](./botany/floral-diversity/fungi/mushrooms.html)
-- [2.2.8 Economic Importance of Fungi](./botany/floral-diversity/fungi/economic-importance.html)
+- [2.2.5 Structure and Reproduction of Mucor](/notes/neb/bio11/botany/floral-diversity/fungi/mucor-structure-reproduction/index.html)
+- [2.2.6 Structure and Reproduction of Yeast](/notes/neb/bio11/botany/floral-diversity/fungi/yeast-structure-reproduction/index.html)
+- [2.2.7 Introduction of Mushrooms and Poisonous & Non-Poisonous Mushrooms](/notes/neb/bio11/botany/floral-diversity/fungi/mushrooms/index.html)
+- [2.2.8 Economic Importance of Fungi](/notes/neb/bio11/botany/floral-diversity/fungi/economic-importance/index.html)
 
-- [2.3 Lichen: General introduction, characteristic features and economic importance of lichen.](./botany/floral-diversity/lichen.html)
+#### [2.3 Lichen: General introduction, characteristic features and economic importance of lichen](/notes/neb/bio11/botany/floral-diversity/lichen/index.html)
 
 #### 2.4 Algae: General introduction and characteristic feature of green, brown and red algae; structure and reproduction of Spirogyra. Economic importance of algae.
 

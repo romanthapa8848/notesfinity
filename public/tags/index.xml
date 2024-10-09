@@ -9,6 +9,13 @@
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Agriculture</title>
+      <link>http://localhost:1313/tags/agriculture/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/agriculture/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Amitosis</title>
       <link>http://localhost:1313/tags/amitosis/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -20,6 +27,13 @@
       <link>http://localhost:1313/tags/archaea/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/archaea/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ascomycetes</title>
+      <link>http://localhost:1313/tags/ascomycetes/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ascomycetes/</guid>
       <description></description>
     </item>
     <item>
@@ -44,6 +58,13 @@
       <description></description>
     </item>
     <item>
+      <title>Basidiomycetes</title>
+      <link>http://localhost:1313/tags/basidiomycetes/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/basidiomycetes/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Binomial Nomenclature</title>
       <link>http://localhost:1313/tags/binomial-nomenclature/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -55,6 +76,13 @@
       <link>http://localhost:1313/tags/biochemistry/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/biochemistry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biodiversity</title>
+      <link>http://localhost:1313/tags/biodiversity/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/biodiversity/</guid>
       <description></description>
     </item>
     <item>
@@ -90,6 +118,13 @@
       <link>http://localhost:1313/tags/biology/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/biology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Biotechnology</title>
+      <link>http://localhost:1313/tags/biotechnology/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/biotechnology/</guid>
       <description></description>
     </item>
     <item>
@@ -219,6 +254,13 @@
       <description></description>
     </item>
     <item>
+      <title>Characteristics</title>
+      <link>http://localhost:1313/tags/characteristics/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/characteristics/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Chloroplasts</title>
       <link>http://localhost:1313/tags/chloroplasts/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -247,6 +289,20 @@
       <description></description>
     </item>
     <item>
+      <title>Classification</title>
+      <link>http://localhost:1313/tags/classification/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/classification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Deuteromycetes</title>
+      <link>http://localhost:1313/tags/deuteromycetes/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/deuteromycetes/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>DNA</title>
       <link>http://localhost:1313/tags/dna/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -261,6 +317,48 @@
       <description></description>
     </item>
     <item>
+      <title>Ecological Role</title>
+      <link>http://localhost:1313/tags/ecological-role/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ecological-role/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ecology</title>
+      <link>http://localhost:1313/tags/ecology/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ecology/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Economic Importance</title>
+      <link>http://localhost:1313/tags/economic-importance/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/economic-importance/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Economics</title>
+      <link>http://localhost:1313/tags/economics/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/economics/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Ecosystem Role</title>
+      <link>http://localhost:1313/tags/ecosystem-role/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/ecosystem-role/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Edible Mushrooms</title>
+      <link>http://localhost:1313/tags/edible-mushrooms/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/edible-mushrooms/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Endoplasmic Reticulum</title>
       <link>http://localhost:1313/tags/endoplasmic-reticulum/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -272,6 +370,13 @@
       <link>http://localhost:1313/tags/energy-production/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/energy-production/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Environmental Conservation</title>
+      <link>http://localhost:1313/tags/environmental-conservation/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/environmental-conservation/</guid>
       <description></description>
     </item>
     <item>
@@ -310,6 +415,13 @@
       <description></description>
     </item>
     <item>
+      <title>Fermentation</title>
+      <link>http://localhost:1313/tags/fermentation/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fermentation/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Five Kingdoms</title>
       <link>http://localhost:1313/tags/five-kingdoms/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -324,10 +436,45 @@
       <description></description>
     </item>
     <item>
+      <title>Flora of Nepal</title>
+      <link>http://localhost:1313/tags/flora-of-nepal/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/flora-of-nepal/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Floral Diversity</title>
+      <link>http://localhost:1313/tags/floral-diversity/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/floral-diversity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Food Production</title>
+      <link>http://localhost:1313/tags/food-production/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/food-production/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Fungal Cells</title>
       <link>http://localhost:1313/tags/fungal-cells/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/fungal-cells/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fungal Classification</title>
+      <link>http://localhost:1313/tags/fungal-classification/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fungal-classification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Fungi</title>
+      <link>http://localhost:1313/tags/fungi/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/fungi/</guid>
       <description></description>
     </item>
     <item>
@@ -429,6 +576,13 @@
       <description></description>
     </item>
     <item>
+      <title>Lichens</title>
+      <link>http://localhost:1313/tags/lichens/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/lichens/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Lipids</title>
       <link>http://localhost:1313/tags/lipids/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -447,6 +601,13 @@
       <link>http://localhost:1313/tags/macromolecules/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/macromolecules/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Medicinal Fungi</title>
+      <link>http://localhost:1313/tags/medicinal-fungi/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/medicinal-fungi/</guid>
       <description></description>
     </item>
     <item>
@@ -513,6 +674,27 @@
       <description></description>
     </item>
     <item>
+      <title>Mucor</title>
+      <link>http://localhost:1313/tags/mucor/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mucor/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mushrooms</title>
+      <link>http://localhost:1313/tags/mushrooms/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mushrooms/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Mycology</title>
+      <link>http://localhost:1313/tags/mycology/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/mycology/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Non-Living Cell Structures</title>
       <link>http://localhost:1313/tags/non-living-cell-structures/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -576,6 +758,13 @@
       <description></description>
     </item>
     <item>
+      <title>Phycomycetes</title>
+      <link>http://localhost:1313/tags/phycomycetes/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/phycomycetes/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Plant Cells</title>
       <link>http://localhost:1313/tags/plant-cells/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -583,10 +772,24 @@
       <description></description>
     </item>
     <item>
+      <title>Plant Conservation</title>
+      <link>http://localhost:1313/tags/plant-conservation/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/plant-conservation/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Plastids</title>
       <link>http://localhost:1313/tags/plastids/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/plastids/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Poisonous Mushrooms</title>
+      <link>http://localhost:1313/tags/poisonous-mushrooms/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/poisonous-mushrooms/</guid>
       <description></description>
     </item>
     <item>
@@ -660,6 +863,20 @@
       <description></description>
     </item>
     <item>
+      <title>Structure</title>
+      <link>http://localhost:1313/tags/structure/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/structure/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Symbiosis</title>
+      <link>http://localhost:1313/tags/symbiosis/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/symbiosis/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Taxonomy</title>
       <link>http://localhost:1313/tags/taxonomy/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -671,6 +888,20 @@
       <link>http://localhost:1313/tags/water/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/water/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Yeast</title>
+      <link>http://localhost:1313/tags/yeast/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/yeast/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Zygomycetes</title>
+      <link>http://localhost:1313/tags/zygomycetes/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/zygomycetes/</guid>
       <description></description>
     </item>
     <item>
