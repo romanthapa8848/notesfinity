@@ -27,7 +27,7 @@ layout: "non_math_mode"
 
 The classification of life on Earth is organized into three primary domains: Archaea, Bacteria, and Eukarya. This classification is based on genetic and biochemical differences, providing insights into the diversity of life forms. Understanding these domains helps us appreciate the evolutionary relationships between different organisms and the environments they inhabit.
 
-{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Phylogenetic_tree_of_life_1990_LUCA.svg/1024px-Phylogenetic_tree_of_life_1990_LUCA.svg.png" alt="Phylogenetic Tree of Life" caption="A phylogenetic tree based on rRNA data, emphasizing the separation of bacteria, archaea, and eukarya as proposed by Carl Woese et al. in 1990, with the hypothetical last universal common ancestor." class="fig" >}}
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Phylogenetic_tree.svg/440px-Phylogenetic_tree.svg.png" alt="Phylogenetic Tree of Life" caption="A phylogenetic tree based on rRNA data, emphasizing the separation of bacteria, archaea, and eukarya as proposed by Carl Woese et al. in 1990, with the hypothetical last universal common ancestor." class="fig" >}}
 
 ---
 

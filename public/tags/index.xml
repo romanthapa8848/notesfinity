@@ -58,6 +58,13 @@
       <description></description>
     </item>
     <item>
+      <title>Biological Classification</title>
+      <link>http://localhost:1313/tags/biological-classification/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/biological-classification/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Biological Membranes</title>
       <link>http://localhost:1313/tags/biological-membranes/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -303,6 +310,13 @@
       <description></description>
     </item>
     <item>
+      <title>Five Kingdoms</title>
+      <link>http://localhost:1313/tags/five-kingdoms/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/five-kingdoms/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Flagella</title>
       <link>http://localhost:1313/tags/flagella/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
@@ -370,6 +384,41 @@
       <link>http://localhost:1313/tags/hydration/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/hydration/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kingdom Animalia</title>
+      <link>http://localhost:1313/tags/kingdom-animalia/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kingdom-animalia/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kingdom Fungi</title>
+      <link>http://localhost:1313/tags/kingdom-fungi/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kingdom-fungi/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kingdom Monera</title>
+      <link>http://localhost:1313/tags/kingdom-monera/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kingdom-monera/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kingdom Plantae</title>
+      <link>http://localhost:1313/tags/kingdom-plantae/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kingdom-plantae/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Kingdom Protista</title>
+      <link>http://localhost:1313/tags/kingdom-protista/</link>
+      <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/kingdom-protista/</guid>
       <description></description>
     </item>
     <item>

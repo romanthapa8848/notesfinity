@@ -84,22 +84,16 @@ layout: "non_math_mode"
 
 - [2.1.1 Three Domains of Life](/notes/neb/bio11/botany/floral-diversity/introduction/three-domains-of-life/index.html)
 - [2.1.2 Binomial Nomenclature](/notes/neb/bio11/botany/floral-diversity/introduction/binomial-nomenclature/index.html)
-- [2.1.3 Five Kingdom Classification System](./botany/floral-diversity/introduction/five-kingdom-classification.html)
+- [2.1.3 Five Kingdom Classification System](/notes/neb/bio11/botany/floral-diversity/introduction/five-kingdom-classification/index.html)
 
-  - [2.1.3.1 Monera](./botany/floral-diversity/introduction/five-kingdom-classification.html)
-  - [2.1.3.2 Protista](./botany/floral-diversity/introduction/five-kingdom-classification.html)
-  - [2.1.3.3 Fungi](./botany/floral-diversity/introduction/five-kingdom-classification.html)
-  - [2.1.3.4 Plantae](./botany/floral-diversity/introduction/five-kingdom-classification.html)
-  - [2.1.3.5 Animalia](./botany/floral-diversity/introduction/five-kingdom-classification.html)
-
-- [2.1.4 Status of Flora in Nepal and World Representation](./botany/floral-diversity/introduction/status-of-flora.html)
+- [2.1.4 Status of Flora in Nepal and World Representation](/notes/neb/bio11/botany/floral-diversity/introduction/status-of-flora/index.html)
 
 #### 2.2 Fungi: General introduction and characteristic features of phycomycetes, ascomycetes, basidiomycetes and deuteromycetes; structure and reproduction of Mucor and Yeast, introduction of Mushrooms, poisonous and non-poisonous mushrooms, economic importance of fungi.
 
-- [2.2.1 Phycomycetes: General Introduction and Characteristic Features](./botany/floral-diversity/fungi/phycomycetes.html)
-- [2.2.2 Ascomycetes: General Introduction and Characteristic Features](./botany/floral-diversity/fungi/ascomycetes.html)
-- [2.2.3 Basidiomycetes: General Introduction and Characteristic Features](./botany/floral-diversity/fungi/basidiomycetes.html)
-- [2.2.4 Deuteromycetes: General Introduction and Characteristic Features](./botany/floral-diversity/fungi/deuteromycetes.html)
+- [2.2.1 Phycomycetes: General Introduction and Characteristic Features](/notes/neb/bio11/botany/floral-diversity/fungi/phycomycetes/index.html)
+- [2.2.2 Ascomycetes: General Introduction and Characteristic Features](/notes/neb/bio11/botany/floral-diversity/fungi/ascomycetes/index.html)
+- [2.2.3 Basidiomycetes: General Introduction and Characteristic Features](/notes/neb/bio11/botany/floral-diversity/fungi/ascomycetes/index.html)
+- [2.2.4 Deuteromycetes: General Introduction and Characteristic Features](/notes/neb/bio11/botany/floral-diversity/fungi/deuteromycetes/index.html)
 - [2.2.5 Structure and Reproduction of Mucor](./botany/floral-diversity/fungi/mucor-structure-reproduction.html)
 - [2.2.6 Structure and Reproduction of Yeast](./botany/floral-diversity/fungi/yeast-structure-reproduction.html)
 - [2.2.7 Introduction of Mushrooms and Poisonous & Non-Poisonous Mushrooms](./botany/floral-diversity/fungi/mushrooms.html)
