@@ -2,18 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Morphology on Notesfinity</title>
-    <link>http://localhost:1313/tags/morphology/</link>
+    <link>https://notesfinity.com/tags/morphology/</link>
     <description>Recent content in Morphology on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/morphology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/morphology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Morphological Structure and Reproduction of Dryopteris</title>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/pteridophyta/dryopteris/</link>
+      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/pteridophyta/dryopteris/</guid>
+      <description>&lt;h2 id=&#34;1-morphological-structure-of-dryopteris&#34;&gt;1. Morphological Structure of Dryopteris&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-fronds&#34;&gt;a. Fronds&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Structure:&lt;/strong&gt;&lt;br&gt;&#xA;The fronds of Dryopteris are typically large and pinnate (feather-like), growing up to several feet in length. Each frond consists of a central stalk called the stipe, which supports numerous leaflets known as pinnae. The pinnae are themselves often subdivided into smaller segments called pinnules, enhancing the overall complexity and texture of the frond.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Arrangement:&lt;/strong&gt;&lt;br&gt;&#xA;The leaflets are arranged alternately along the stipe, giving the fronds a lush, bushy appearance. This arrangement maximizes light interception for photosynthesis while allowing for efficient water drainage. The edges of the leaflets are often serrated or lobed, contributing to the ornamental quality of the fronds.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Morphological Structure and Reproduction of Marchantia</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/bryophyta/marchantia/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/bryophyta/marchantia/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/bryophyta/marchantia/</guid>
-      <description>&lt;h1 id=&#34;morphological-structure-and-reproduction-of-marchantia&#34;&gt;Morphological Structure and Reproduction of Marchantia&lt;/h1&gt;&#xA;&lt;p&gt;Marchantia is a genus of liverworts known for its unique morphological features and reproductive strategies. These non-vascular plants are essential components of many ecosystems, often found in damp, shaded environments.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Marchantia_polymorpha_MHNT.jpg/1024px-Marchantia_polymorpha_MHNT.jpg&#34; alt=&#34;Marchantia in its natural habitat&#34;&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-morphological-structure-of-marchantia&#34;&gt;1. Morphological Structure of Marchantia&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-thallus-structure&#34;&gt;a. Thallus Structure&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Thallus:&lt;/strong&gt; The primary body of Marchantia is flat, lobed, and green, resembling a leaf-like structure. It is typically about 1-2 mm thick and can grow several centimeters in diameter.&lt;/p&gt;</description>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/bryophyta/marchantia/</guid>
+      <description>&lt;h1 id=&#34;morphological-structure-and-reproduction-of-marchantia&#34;&gt;Morphological Structure and Reproduction of Marchantia&lt;/h1&gt;&#xA;&lt;p&gt;Marchantia is a genus of liverworts known for its unique morphological features and reproductive strategies. These non-vascular plants are essential components of many ecosystems, often found in damp, shaded environments. Their distinctive structures and reproduction methods not only contribute to their survival but also play a crucial role in the habitats they occupy.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-morphological-structure-of-marchantia&#34;&gt;1. Morphological Structure of Marchantia&lt;/h2&gt;&#xA;&lt;p&gt;Understanding the morphological structure of &lt;em&gt;Marchantia&lt;/em&gt; provides insight into its adaptability and ecological significance.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
