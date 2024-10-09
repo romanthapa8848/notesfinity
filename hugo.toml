@@ -2,8 +2,8 @@ baseURL = 'https://notesfinity.com/'
 languageCode = 'en-us'
 title = 'Notesfinity'
 theme = 'notesfinity'
+
 uglyURLs = false
-canonifyURLs = false  # Disable canonical URLs with .html extension
 [permalinks]
 posts = "/:slug/"
 

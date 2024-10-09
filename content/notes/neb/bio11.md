@@ -119,13 +119,13 @@ layout: "non_math_mode"
 
 - [2.6.1 General Introduction and Characteristic Features of Pteridophytes](/notes/neb/bio11/botany/floral-diversity/pteridophyta/introduction/index.html)
 - [2.6.2 Morphological Structure and Reproduction of Dryopteris](/notes/neb/bio11/botany/floral-diversity/pteridophyta/dryopteris/index.html)
-- [2.6.3 Economic Importance of Pteridophytes](./botany/floral-diversity/pteridophyta/economic-importance.html)
+- [2.6.3 Economic Importance of Pteridophytes](/notes/neb/bio11/botany/floral-diversity/pteridophyta/economic-importance/index.html)
 
 #### 2.7 Gymnosperm: General introduction and characteristic features of Gymnosperms; morphology and reproduction of Pinus. Economic importance of gymnosperm.
 
-- [2.7.1 General Introduction and Characteristic Features of Gymnosperms](./botany/floral-diversity/gymnosperm/general-introduction.html)
-- [2.7.2 Morphology and Reproduction of Pinus](./botany/floral-diversity/gymnosperm/pinus.html)
-- [2.7.3 Economic Importance of Gymnosperms](./botany/floral-diversity/gymnosperm/economic-importance.html)
+- [2.7.1 General Introduction and Characteristic Features of Gymnosperms](/notes/neb/bio11/botany/floral-diversity/gymnosperm/general-introduction/index.html)
+- [2.7.2 Morphology and Reproduction of Pinus](/notes/neb/bio11/botany/floral-diversity/gymnosperm/pinus/index.html)
+- [2.7.3 Economic Importance of Gymnosperms](/notes/neb/bio11/botany/floral-diversity/gymnosperm/economic-importance/index.html)
 
 #### 2.8 Angiosperm: Morphology (root, stem, leaves, inflorescences, flowers and fruit); Taxonomic study: Definition, taxonomic hierarchy, classification systems (artificial, natural and phylogenetic) of angiosperms, taxonomic description of the families – Brassicaceae, Fabaceae, Solanaceae, and Liliaceae with economic importance.
 
