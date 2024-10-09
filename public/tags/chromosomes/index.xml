@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chromosomes on Notesfinity</title>
-    <link>https://notesfinity.com/tags/chromosomes/</link>
+    <link>http://localhost:1313/tags/chromosomes/</link>
     <description>Recent content in Chromosomes on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/chromosomes/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/chromosomes/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Composition, Structure, and Functions of Chromosomes</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/cell/eukaryotic/chromosomes/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/chromosomes/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/cell/eukaryotic/chromosomes/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/chromosomes/</guid>
       <description>&lt;h1 id=&#34;composition-structure-and-functions-of-chromosomes&#34;&gt;Composition, Structure, and Functions of Chromosomes&lt;/h1&gt;&#xA;&lt;p&gt;Chromosomes are thread-like structures located within the nucleus of eukaryotic cells and the cytoplasm of prokaryotic cells. They are composed of DNA and proteins and play a crucial role in the storage, transmission, and expression of genetic information. Understanding the composition and structure of chromosomes is vital for studying genetic inheritance and cellular processes.&lt;/p&gt;&#xA;&lt;figure class=&#34;fig&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/2/2b/Chromosome_DNA_Gene.svg&#34;&#xA;    alt=&#34;Chromosome and DNA&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;A chromosome and its packaged long strand of DNA unraveled. The DNA&amp;rsquo;s base pairs encode genes, which provide functions. A human DNA can have up to 500 million base pairs with thousands of genes.&lt;/p&gt;</description>
     </item>
   </channel>
