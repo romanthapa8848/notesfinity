@@ -33,9 +33,9 @@ layout: "non_math_mode"
 | Practical   | 25 Marks                       |
 | Total Marks | 100 Marks                      |
 
-## Part A: Botany
+# Part A: Botany
 
-### 1. Biomolecules & Cell Biology
+## 1. Biomolecules & Cell Biology
 
 #### 1.1 Biomolecules: Introduction and functions of carbohydrates, proteins, lipids, nucleic acids, minerals, enzymes and water.
 
@@ -64,12 +64,12 @@ layout: "non_math_mode"
   - [1.2.3.9 Composition, Structure, and Functions of Nucleus](/notes/neb/bio11/botany/cell/eukaryotic/nucleus/index.html)
   - [1.2.3.10 Composition, Structure, and Functions of Chromosomes](/notes/neb/bio11/botany/cell/eukaryotic/chromosomes/index.html)
   - [1.2.3.11 Composition, Structure, and Functions of Cilia](/notes/neb/bio11/botany/cell/eukaryotic/cilia/index.html)
-  - [1.2.3.12 Composition, Structure, and Functions of Flagella](./botany/biomolecules-cell-biology/cell/eukaryotic/flagella.html)
-  - [1.2.3.13 Composition, Structure, and Functions of Cell Inclusions](./botany/biomolecules-cell-biology/cell/eukaryotic/cell-inclusions.html)
+  - [1.2.3.12 Composition, Structure, and Functions of Flagella](/notes/neb/bio11/botany/cell/eukaryotic/flagella/index.html)
+  - [1.2.3.13 Composition, Structure, and Functions of Cell Inclusions](/notes/neb/bio11/botany/cell/eukaryotic/cell-inclusions/index.html)
 
 #### 1.3 Cell division: Concept of cell cycle, types of cell division (amitosis, mitosis and meiosis) and significances.
 
-- [1.3.1 Concept of Cell Cycle](./botany/biomolecules-cell-biology/cell-division/concept-of-cell-cycle.html)
+- [1.3.1 Concept of Cell Cycle](/notes/neb/bio11/botany/cell-division/concept-of-cell-cycle/index.html)
 - [1.3.2 Types of Cell Division](./botany/biomolecules-cell-biology/cell-division/types-of-cell-division.html)
 
   - [1.3.2.1 Amitosis](./botany/biomolecules-cell-biology/cell-division/types/amitosis.html)
@@ -78,7 +78,7 @@ layout: "non_math_mode"
 
 - [1.3.3 Significances of Cell Division](./botany/biomolecules-cell-biology/cell-division/significance.html)
 
-### 2. Floral Diversity
+## 2. Floral Diversity
 
 #### 2.1 Introduction: Three domains of life, binomial nomenclature, five kingdom classification system (Monera, Protista, Fungi, Plantae and Animalia); status of flora in Nepal and world representation.
 
@@ -135,7 +135,7 @@ layout: "non_math_mode"
 - [2.8.5 Taxonomic Description of the Family Solanaceae with economic importance](./botany/floral-diversity/angiosperm/solanaceae.html)
 - [2.8.6 Taxonomic Description of the Family Liliaceae with economic importance](./botany/floral-diversity/angiosperm/liliaceae.html)
 
-### 3. Introductory Microbiology
+## 3. Introductory Microbiology
 
 - [3.1 Monera: General introduction, structure of bacterial cell, mode of nutrition, bacterial growth; cyanobacteria (blue-green algae)](./botany/introductory-microbiology/monera.html)
 
@@ -143,7 +143,7 @@ layout: "non_math_mode"
 
 - [3.3 Impacts of biotechnology in the field of microbiology](./botany/introductory-microbiology/biotechnology.html)
 
-### 4. Ecology
+## 4. Ecology
 
 #### 4.1 Ecosystem ecology: Concept of ecology, biotic and abiotic factors, species interactions; concept of ecosystem, structural and functional aspects of pond and forest ecosystem, food chain, food web, trophic level, ecological pyramids, productivity, biogeochemical cycle - carbon and nitrogen cycles, concept of succession.
 
@@ -187,7 +187,7 @@ layout: "non_math_mode"
 
   - [4.3.4 Biological Invasion](./botany/ecology/ecological-imbalances/biological-invasion.html)
 
-### 5. Vegetation
+## 5. Vegetation
 
 #### 5.1 Vegetation: Introduction, types of vegetation in Nepal, concept of In-situ (protected areas) and Ex-situ (botanical garden, seed bank) conservation.
 
@@ -201,13 +201,13 @@ layout: "non_math_mode"
 
 - [5.2 Natural environment - vegetation and human activities](./botany/vegetation/natural-environment.html)
 
-## Part B: Zoology
+# Part B: Zoology
 
-### 6. Introduction to Biology
+## 6. Introduction to Biology
 
 - [6.1 Introduction to Biology: Scope and fields of biology. Relation with other sciences](./zoology/introduction-to-biology/scope-and-fields.html)
 
-### 7. Evolutionary Biology
+## 7. Evolutionary Biology
 
 #### 7.1 Life and its Origin: Oparin-Haldane theory, Miller and Urey's experiment.
 
@@ -229,7 +229,7 @@ layout: "non_math_mode"
 - [7.4.3 Differences between Apes & Man](./zoology/evolutionary-biology/human-evolution/apes-vs-man.html)
 - [7.4.4 Evolution of Modern Man Starting from Anthropoid Ancestor](./zoology/evolutionary-biology/human-evolution/evolution-of-modern-man.html)
 
-### 8. Faunal Diversity
+## 8. Faunal Diversity
 
 #### 8.1 Protista: Outline classification. Protozoa: diagnostic features and classification up to class with examples; Paramecium caudatum, Plasmodium vivax - habits and habitat, structure, reproduction, life-cycle and economic importance of P. falciparum.
 
@@ -270,13 +270,13 @@ layout: "non_math_mode"
 - [8.2.2.5 Respiratory System: Respiratory Organs & Physiology of Respiration](./zoology/faunal-diversity/animalia/frog/respiratory-system.html)
 - [8.2.2.6 Reproductive System: Male & Female Reproductive Organs](./zoology/faunal-diversity/animalia/frog/reproductive-system.html)
 
-### 9. Biota and Environment
+## 9. Biota and Environment
 
 - [9.1 Animal adaptation: Aquatic (Primary & Secondary), Terrestrial (Cursorial, Fossorial & Arboreal) and Volant adaptation.](./zoology/biota-and-environment/animal-adaptation.html)
 - [9.2 Animal behavior: Reflex action, taxes, dominance and leadership. Fish and bird Migration.](./zoology/biota-and-environment/animal-behavior.html)
 - [9.3 Environmental Pollution: Sources, effects and control measures of air, water and soil pollution. Pesticides & their effects.](./zoology/biota-and-environment/environmental-pollution.html)
 
-### 10. Conservation Biology
+## 10. Conservation Biology
 
 - [10.1 Conservation Biology: Concept of biodiversity, biodiversity conservation, national parks, wildlife reserves, conservation areas, biodiversity hotspots, wetland & Ramsar sites. Wildlife-Importance, causes of extinction and conservation strategies.](./zoology/conservation-biology/conservation-biology.html)
 
