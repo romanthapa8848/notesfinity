@@ -99,8 +99,7 @@ blockquote {
   display: inline-block;
   margin: 0 10px;
   text-decoration: none;
-  color: #fff;
-  /* Removed the circular background properties */
+  color: #fff; /* Default text color */
   transition: transform 0.3s, opacity 0.3s;
 }
 
@@ -132,6 +131,19 @@ blockquote {
 
 .share-buttons a.reddit {
   color: #ff4500; /* Reddit */
+}
+
+/* New button colors */
+.share-buttons a.viber {
+  color: #59267c; /* Viber */
+}
+
+.share-buttons a.snapchat {
+  color: #f4f500; /* Snapchat */
+}
+
+.share-buttons a.tiktok {
+  color: #000000; /* TikTok */
 }
 
 /* Hover effects */
