@@ -174,27 +174,27 @@ layout: "non_math_mode"
 
 - [4.1.9 Productivity](/notes/neb/bio11/botany/ecology/ecosystem-ecology/productivity/index.html)
 
-- [4.1.10 Biogeochemical Cycle](./botany/ecology/ecosystem-ecology/biogeochemical-cycle.html)
+- [4.1.10 Biogeochemical Cycle](/notes/neb/bio11/botany/ecology/ecosystem-ecology/biogeochemical-cycle/index.html)
 
-- [4.1.11 Carbon and Nitrogen Cycles](./botany/ecology/ecosystem-ecology/carbon-nitrogen-cycles.html)
+- [4.1.11 Carbon and Nitrogen Cycles](/notes/neb/bio11/botany/ecology/ecosystem-ecology/carbon-nitrogen-cycles/index.html)
 
-- [4.1.12 Concept of Succession](./botany/ecology/ecosystem-ecology/concept-of-succession.html)
+- [4.1.12 Concept of Succession](/notes/neb/bio11/botany/ecology/ecosystem-ecology/concept-of-succession/index.html)
 
 #### 4.2 Ecological Adaptation: Concept of adaptation, hydrophytes and xerophytes.
 
-- [4.2.1 Concept of Adaptation](./botany/ecology/ecological-adaptation/concept-of-adaptation.html)
+- [4.2.1 Concept of Adaptation](/notes/neb/bio11/botany/ecology/ecological-adaptation/concept-of-adaptation/index.html)
 
 - [4.2.2 Hydrophytes and Xerophytes](./botany/ecology/ecological-adaptation/hydrophytes-xerophytes.html)
 
-- [4.3 Ecological Imbalances: Greenhouse effects and climate change, depletion of ozone layer, acid rain and biological invasion](./botany/ecology/ecological-imbalances.html)
+#### 4.3 Ecological Imbalances: Greenhouse effects and climate change, depletion of ozone layer, acid rain and biological invasion
 
-  - [4.3.1 Greenhouse Effects and Climate Change](./botany/ecology/ecological-imbalances/greenhouse-effects-climate-change.html)
+- [4.3.1 Greenhouse Effects and Climate Change](./botany/ecology/ecological-imbalances/greenhouse-effects-climate-change.html)
 
-  - [4.3.2 Depletion of Ozone Layer](./botany/ecology/ecological-imbalances/depletion-of-ozone-layer.html)
+- [4.3.2 Depletion of Ozone Layer](./botany/ecology/ecological-imbalances/depletion-of-ozone-layer.html)
 
-  - [4.3.3 Acid Rain](./botany/ecology/ecological-imbalances/acid-rain.html)
+- [4.3.3 Acid Rain](./botany/ecology/ecological-imbalances/acid-rain.html)
 
-  - [4.3.4 Biological Invasion](./botany/ecology/ecological-imbalances/biological-invasion.html)
+- [4.3.4 Biological Invasion](./botany/ecology/ecological-imbalances/biological-invasion.html)
 
 ## 5. Vegetation
 
