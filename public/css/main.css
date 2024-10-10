@@ -87,6 +87,7 @@ blockquote {
   padding: 1rem 0;
   border-top: 1px solid #ccc;
   text-align: center;
+  overflow: hidden; /* Prevent overflow */
 }
 
 .share-buttons p {
@@ -150,6 +151,17 @@ blockquote {
 .share-buttons a:hover {
   transform: scale(1.1);
   opacity: 0.8;
+}
+
+/* Responsive adjustments */
+@media (max-width: 600px) {
+  .share-buttons a i {
+    font-size: 20px; /* Smaller icon size for mobile */
+  }
+
+  .share-buttons a {
+    margin: 0 5px; /* Reduce margin for mobile */
+  }
 }
 
 /* Table Styles */
