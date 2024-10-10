@@ -139,17 +139,23 @@ layout: "non_math_mode"
 
 ## 3. Introductory Microbiology
 
-- [3.1 Monera: General introduction, structure of bacterial cell, mode of nutrition, bacterial growth; cyanobacteria (blue-green algae)](./botany/introductory-microbiology/monera.html)
+- 3.1 Monera: General introduction, structure of bacterial cell, mode of nutrition, bacterial growth; cyanobacteria (blue-green algae)
 
-- [3.2 Virus: General introduction, structure and importance of virus, bacteriophage](./botany/introductory-microbiology/virus.html)
+  - [3.1.1 Monera: General introduction, structure of bacterial cell, mode of nutrition, bacterial growth](/notes/neb/bio11/botany/introductory-microbiology/monera/monera/index.html)
+  - [3.1.2 Cyanobacteria (blue-green algae)](/notes/neb/bio11/botany/introductory-microbiology/monera/cyanobacteria/index.html)
 
-- [3.3 Impacts of biotechnology in the field of microbiology](./botany/introductory-microbiology/biotechnology.html)
+- 3.2 Virus: General introduction, structure and importance of virus, bacteriophage
+
+  - [3.2.1 Virus: General introduction, structure and importance of virus](/notes/neb/bio11/botany/introductory-microbiology/virus/virus/index.html)
+  - [3.2.2 Bacteriophage](/notes/neb/bio11/botany/introductory-microbiology/virus/bacteriophage/index.html)
+
+- [3.3 Impacts of biotechnology in the field of microbiology](/notes/neb/bio11/botany/introductory-microbiology/biotechnology/index.html)
 
 ## 4. Ecology
 
 #### 4.1 Ecosystem ecology: Concept of ecology, biotic and abiotic factors, species interactions; concept of ecosystem, structural and functional aspects of pond and forest ecosystem, food chain, food web, trophic level, ecological pyramids, productivity, biogeochemical cycle - carbon and nitrogen cycles, concept of succession.
 
-- [4.1.1 Concept of Ecology](./botany/ecology/ecosystem-ecology/concept-of-ecology.html)
+- [4.1.1 Concept of Ecology](/notes/neb/bio11/botany/ecology/ecosystem-ecology/concept-of-ecology/index.html)
 
 - [4.1.2 Biotic and Abiotic Factors](./botany/ecology/ecosystem-ecology/biotic-abiotic-factors.html)
 
@@ -280,6 +286,6 @@ layout: "non_math_mode"
 
 ## 10. Conservation Biology
 
-- [10.1 Conservation Biology: Concept of biodiversity, biodiversity conservation, national parks, wildlife reserves, conservation areas, biodiversity hotspots, wetland & Ramsar sites. Wildlife-Importance, causes of extinction and conservation strategies.](./zoology/conservation-biology/conservation-biology.html)
+- [10.1 Conservation Biology: Concept of biodiversity, biodiversity conservation, national parks, wildlife reserves, conservation areas, biodiversity hotspots, wetland & Ramsar sites.](./zoology/conservation-biology/conservation-biology.html)
 
 - [10.2 Wildlife- Importance, causes of extinction and conservation strategies. IUCN categories of threatened species - meaning of extinct, endangered, vulnerable, rare, and threatened species. Endangered species in Nepal.](./zoology/conservation-biology/conservation-biology.html)

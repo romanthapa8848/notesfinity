@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Setting Time Test on Notesfinity</title>
-    <link>http://localhost:1313/tags/setting-time-test/</link>
+    <link>https://notesfinity.com/tags/setting-time-test/</link>
     <description>Recent content in Setting Time Test on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/setting-time-test/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/setting-time-test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Setting Time Test of Cement (Initial and Final)</title>
-      <link>http://localhost:1313/notes/ioe/cem/practical/setting-time-test/</link>
+      <link>https://notesfinity.com/notes/ioe/cem/practical/setting-time-test/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/ioe/cem/practical/setting-time-test/</guid>
+      <guid>https://notesfinity.com/notes/ioe/cem/practical/setting-time-test/</guid>
       <description>&lt;h1 id=&#34;setting-time-test-of-cement-initial-and-final&#34;&gt;Setting Time Test of Cement (Initial and Final)&lt;/h1&gt;&#xA;&lt;p&gt;The setting time test of cement determines the time it takes for the cement paste to begin to set (initial setting time) and the time it takes for it to harden completely (final setting time). This information is crucial for understanding how long the cement remains workable during construction processes.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h2&gt;&#xA;&lt;p&gt;The setting time of cement is a key parameter that affects the workability and performance of cement in construction. Understanding the initial and final setting times ensures that the cement is used effectively within its workable period.&lt;/p&gt;</description>
     </item>
   </channel>
