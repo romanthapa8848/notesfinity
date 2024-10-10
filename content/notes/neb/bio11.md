@@ -35,6 +35,8 @@ layout: "non_math_mode"
 
 # Part A: Botany
 
+---
+
 ## 1. Biomolecules & Cell Biology
 
 #### 1.1 Biomolecules: Introduction and functions of carbohydrates, proteins, lipids, nucleic acids, minerals, enzymes and water.
@@ -78,6 +80,8 @@ layout: "non_math_mode"
   - [1.3.2.3 Meiosis](/notes/neb/bio11/botany/cell-division/types-of-cell-division/meiosis/index.html)
 
 - [1.3.3 Significances of Cell Division](/notes/neb/bio11/botany/cell-division/significance/index.html)
+
+---
 
 ## 2. Floral Diversity
 
@@ -138,6 +142,8 @@ layout: "non_math_mode"
 - [2.8.6 Taxonomic Description of the Family Solanaceae with economic importance](/notes/neb/bio11/botany/floral-diversity/angiosperm/solanaceae/index.html)
 - [2.8.7 Taxonomic Description of the Family Liliaceae with economic importance](/notes/neb/bio11/botany/floral-diversity/angiosperm/liliaceae/index.html)
 
+---
+
 ## 3. Introductory Microbiology
 
 - 3.1 Monera: General introduction, structure of bacterial cell, mode of nutrition, bacterial growth; cyanobacteria (blue-green algae)
@@ -151,6 +157,8 @@ layout: "non_math_mode"
   - [3.2.2 Bacteriophage](/notes/neb/bio11/botany/introductory-microbiology/virus/bacteriophage/index.html)
 
 - [3.3 Impacts of biotechnology in the field of microbiology](/notes/neb/bio11/botany/introductory-microbiology/biotechnology/index.html)
+
+---
 
 ## 4. Ecology
 
@@ -196,6 +204,8 @@ layout: "non_math_mode"
 
 - [4.3.4 Biological Invasion](./botany/ecology/ecological-imbalances/biological-invasion.html)
 
+---
+
 ## 5. Vegetation
 
 #### 5.1 Vegetation: Introduction, types of vegetation in Nepal, concept of In-situ (protected areas) and Ex-situ (botanical garden, seed bank) conservation.
@@ -210,11 +220,17 @@ layout: "non_math_mode"
 
 - [5.2 Natural environment - vegetation and human activities](./botany/vegetation/natural-environment.html)
 
+---
+
 # Part B: Zoology
+
+---
 
 ## 6. Introduction to Biology
 
 - [6.1 Introduction to Biology: Scope and fields of biology. Relation with other sciences](./zoology/introduction-to-biology/scope-and-fields.html)
+
+---
 
 ## 7. Evolutionary Biology
 
@@ -237,6 +253,8 @@ layout: "non_math_mode"
 - [7.4.2 Differences between New World Monkeys & Old World Monkeys](./zoology/evolutionary-biology/human-evolution/new-world-vs-old-world-monkeys.html)
 - [7.4.3 Differences between Apes & Man](./zoology/evolutionary-biology/human-evolution/apes-vs-man.html)
 - [7.4.4 Evolution of Modern Man Starting from Anthropoid Ancestor](./zoology/evolutionary-biology/human-evolution/evolution-of-modern-man.html)
+
+---
 
 ## 8. Faunal Diversity
 
@@ -279,11 +297,15 @@ layout: "non_math_mode"
 - [8.2.2.5 Respiratory System: Respiratory Organs & Physiology of Respiration](./zoology/faunal-diversity/animalia/frog/respiratory-system.html)
 - [8.2.2.6 Reproductive System: Male & Female Reproductive Organs](./zoology/faunal-diversity/animalia/frog/reproductive-system.html)
 
+---
+
 ## 9. Biota and Environment
 
 - [9.1 Animal adaptation: Aquatic (Primary & Secondary), Terrestrial (Cursorial, Fossorial & Arboreal) and Volant adaptation.](./zoology/biota-and-environment/animal-adaptation.html)
 - [9.2 Animal behavior: Reflex action, taxes, dominance and leadership. Fish and bird Migration.](./zoology/biota-and-environment/animal-behavior.html)
 - [9.3 Environmental Pollution: Sources, effects and control measures of air, water and soil pollution. Pesticides & their effects.](./zoology/biota-and-environment/environmental-pollution.html)
+
+---
 
 ## 10. Conservation Biology
 
