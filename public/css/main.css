@@ -87,7 +87,6 @@ blockquote {
   padding: 1rem 0;
   border-top: 1px solid #ccc;
   text-align: center;
-  overflow: hidden; /* Prevent overflow */
 }
 
 .share-buttons p {
@@ -109,19 +108,6 @@ blockquote {
   vertical-align: middle;
 }
 
-/* Specific button colors */
-.share-buttons a.facebook {
-  color: #3b5998; /* Facebook */
-}
-
-.share-buttons a.twitter {
-  color: #1da1f2; /* X (formerly Twitter) */
-}
-
-.share-buttons a.linkedin {
-  color: #0077b5; /* LinkedIn */
-}
-
 .share-buttons a.whatsapp {
   color: #25d366; /* WhatsApp */
 }
@@ -130,38 +116,19 @@ blockquote {
   color: #0084ff; /* Messenger */
 }
 
-.share-buttons a.reddit {
-  color: #ff4500; /* Reddit */
-}
-
 /* New button colors */
 .share-buttons a.viber {
   color: #59267c; /* Viber */
 }
 
 .share-buttons a.snapchat {
-  color: #f4f500; /* Snapchat */
-}
-
-.share-buttons a.tiktok {
-  color: #000000; /* TikTok */
+  color: #f1f100; /* Snapchat */
 }
 
 /* Hover effects */
 .share-buttons a:hover {
   transform: scale(1.1);
   opacity: 0.8;
-}
-
-/* Responsive adjustments */
-@media (max-width: 600px) {
-  .share-buttons a i {
-    font-size: 20px; /* Smaller icon size for mobile */
-  }
-
-  .share-buttons a {
-    margin: 0 5px; /* Reduce margin for mobile */
-  }
 }
 
 /* Table Styles */

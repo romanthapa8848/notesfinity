@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evolution on Notesfinity</title>
-    <link>https://notesfinity.com/tags/evolution/</link>
+    <link>http://localhost:1313/tags/evolution/</link>
     <description>Recent content in Evolution on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/evolution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Concept of Adaptation</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecological-adaptation/concept-of-adaptation/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-adaptation/concept-of-adaptation/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecological-adaptation/concept-of-adaptation/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-adaptation/concept-of-adaptation/</guid>
       <description>&lt;h1 id=&#34;concept-of-adaptation&#34;&gt;Concept of Adaptation&lt;/h1&gt;&#xA;&lt;p&gt;Adaptation is a fundamental concept in biology that refers to the process by which organisms evolve to become better suited to their environment. This process enhances their chances of survival and reproduction, enabling them to thrive in changing conditions. Adaptations can occur at the individual level within a lifetime (phenotypic plasticity) or across generations (evolutionary adaptation).&lt;/p&gt;&#xA;&lt;figure class=&#34;fig&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lamarck%27s_Two-Factor_Theory.svg/800px-Lamarck%27s_Two-Factor_Theory.svg.png&#34;&#xA;    alt=&#34;Lamarck&amp;#39;s Two-Factor Theory&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;The second of Jean-Baptiste Lamarck&amp;rsquo;s two factors (the first being a complexifying force) was an adaptive force that causes animals with a given body plan to adapt to circumstances by inheritance of acquired characteristics, creating a diversity of species and genera.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Three Domains of Life</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/introduction/three-domains-of-life/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/introduction/three-domains-of-life/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/introduction/three-domains-of-life/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/introduction/three-domains-of-life/</guid>
       <description>&lt;h1 id=&#34;three-domains-of-life&#34;&gt;Three Domains of Life&lt;/h1&gt;&#xA;&lt;p&gt;The classification of life on Earth is organized into three primary domains: Archaea, Bacteria, and Eukarya. This classification is based on genetic and biochemical differences, providing insights into the diversity of life forms. Understanding these domains helps us appreciate the evolutionary relationships between different organisms and the environments they inhabit.&lt;/p&gt;&#xA;&lt;figure class=&#34;fig&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Phylogenetic_tree.svg/440px-Phylogenetic_tree.svg.png&#34;&#xA;    alt=&#34;Phylogenetic Tree of Life&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;A phylogenetic tree based on rRNA data, emphasizing the separation of bacteria, archaea, and eukarya as proposed by Carl Woese et al. in 1990, with the hypothetical last universal common ancestor.&lt;/p&gt;</description>
     </item>
   </channel>
