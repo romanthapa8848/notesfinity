@@ -29,6 +29,8 @@ The carbon cycle outlines the process by which carbon moves through the Earth's 
 
 The cycle can be visualized as a continuous movement of carbon among the Earth's reservoirs, with various natural processes facilitating its transfer and transformation. Understanding the carbon cycle is crucial for addressing issues related to climate change, as human activities significantly disrupt this balance.
 
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Carbon_cycle-cute_diagram.svg/800px-Carbon_cycle-cute_diagram.svg.png" alt="Carbon Cycle" caption="Carbon cycle." class="fig" >}}
+
 ---
 
 ### Key Processes
@@ -62,6 +64,8 @@ The cycle can be visualized as a continuous movement of carbon among the Earth's
     - **Process**: Carbon sequestration is the long-term storage of carbon in carbon sinks, such as forests, oceans, and soil. Through processes like afforestation, reforestation, and the creation of bioenergy with carbon capture and storage (BECCS) systems, carbon can be stored effectively.
     - **Significance**: Carbon sequestration helps mitigate climate change by reducing the amount of $\text{CO}_2$ in the atmosphere. Healthy forests and oceans are essential for this process, as they absorb substantial amounts of carbon during photosynthesis and other biochemical processes.
 
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Carbon_cycle.jpg/800px-Carbon_cycle.jpg" alt="Carbon Cycle Schematic" caption="Carbon cycle schematic showing the movement of carbon between land, atmosphere, and oceans in billions of tons (gigatons) per year. Yellow numbers are natural fluxes, red are human contributions, and white are stored carbon. The effects of the slow (or deep) carbon cycle, such as volcanic and tectonic activity, are not included." class="fig" >}}
+
 ---
 
 ### Importance
@@ -83,6 +87,10 @@ The carbon cycle exemplifies the interconnectedness of Earth's systems, demonstr
 ### Description
 
 The nitrogen cycle describes how nitrogen moves through the atmosphere, soil, and living organisms. It includes various chemical transformations that convert nitrogen into different forms that can be utilized by plants and animals. Nitrogen is abundant in the atmosphere, making up about 78% of the air we breathe, but most organisms cannot use it in its gaseous form ($\text{N}_2$). Instead, nitrogen must be converted into biologically available forms, such as ammonia ($\text{NH}_3$), nitrites ($\text{NO}_2^-$), and nitrates ($\text{NO}_3^-$), through a series of processes collectively known as the nitrogen cycle. This cycle is essential for maintaining ecosystem balance and supporting life.
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Nitrogen_cycle.jpg/800px-Nitrogen_cycle.jpg" alt="Nitrogen Cycle" caption="Classical representation of nitrogen cycle." class="fig" >}}
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Nitrogen_Cycle_-_Reactions_and_Enzymes.svg/800px-Nitrogen_Cycle_-_Reactions_and_Enzymes.svg.png" alt="Microbial Nitrogen Cycle" caption="Microbial nitrogen cycle. ANAMMOX is anaerobic ammonium oxidation, DNRA is dissimilatory nitrate reduction to ammonium, and COMMAMOX is complete ammonium oxidation." class="fig" >}}
 
 ---
 
@@ -111,6 +119,8 @@ The nitrogen cycle describes how nitrogen moves through the atmosphere, soil, an
 5. **Ammonification**:
    - **Process**: Ammonification, also known as mineralization, occurs when organic nitrogen from dead organisms and waste products is converted back into ammonia ($\text{NH}_3$) by decomposers like bacteria and fungi. This process closes the loop by returning nitrogen to the soil in a form that can be reused by plants.
    - **Significance**: Ammonification is essential for recycling nitrogen within ecosystems, ensuring a continuous supply of this vital nutrient. It helps maintain soil fertility and supports the growth of new plant life.
+
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Reactive_Nitrogen_Global_Annual_Fluxes.jpg" alt="Global Cycling of Reactive Nitrogen" caption="Global cycling of reactive nitrogen including industrial fertilizer production, nitrogen fixed by natural ecosystems, nitrogen fixed by oceans, nitrogen fixed by agricultural crops, $NO_x$ emitted by biomass burning, $NO_x$ emitted from soil, nitrogen fixed by lightning, $NH_3$ emitted by terrestrial ecosystems, deposition of nitrogen to terrestrial surfaces and oceans, $NH_3$ emitted from oceans, ocean $NO_2$ emissions from the atmosphere, denitrification in oceans, and reactive nitrogen burial in oceans." class="fig" >}}
 
 ---
 
