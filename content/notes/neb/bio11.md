@@ -157,7 +157,7 @@ layout: "non_math_mode"
 
 - [4.1.1 Concept of Ecology](/notes/neb/bio11/botany/ecology/ecosystem-ecology/concept-of-ecology/index.html)
 
-- [4.1.2 Biotic and Abiotic Factors](./botany/ecology/ecosystem-ecology/biotic-abiotic-factors.html)
+- [4.1.2 Biotic and Abiotic Factors](/notes/neb/bio11/botany/ecology/ecosystem-ecology/biotic-abiotic-factors/index.html)
 
 - [4.1.3 Species Interactions](./botany/ecology/ecosystem-ecology/species-interactions.html)
 
