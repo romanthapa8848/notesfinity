@@ -20,6 +20,8 @@ layout: "math_mode"
 
 Biogeochemical cycles refer to the natural processes that recycle nutrients in various chemical forms from the environment to organisms and back to the environment. These cycles are vital for sustaining life on Earth, as they ensure the availability of essential nutrients for various biological processes. By facilitating the movement of elements through different compartments of the ecosystem, these cycles support life and maintain ecological balance.
 
+{{< figure src="https://upload.wikimedia.org/wikipedia/commons/7/72/Generalized_biogeochemical_cycle.jpg" alt="Generalized Biogeochemical Cycle" caption="Generalized biogeochemical cycle." class="fig" >}}
+
 ---
 
 ## Types of Biogeochemical Cycles
