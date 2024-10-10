@@ -51,7 +51,8 @@ layout: "non_math_mode"
 
 - [1.2.1 Introduction of Cell](/notes/neb/bio11/botany/cell/introduction-of-cell/index.html)
 - [1.2.2 Concepts of Prokaryotic and Eukaryotic Cells](/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/index.html)
-- [1.2.3 Detailed Structure of Eukaryotic Cells](./botany/biomolecules-cell-biology/cell/detailed-structure-eukaryotic-cells.html)
+
+- 1.2.3 Detailed Structure of Eukaryotic Cells
 
   - [1.2.3.1 Composition, Structure, and Functions of Cell Wall](/notes/neb/bio11/botany/cell/eukaryotic/cell-wall/index.html)
   - [1.2.3.2 Composition, Structure, and Functions of Cell Membrane](/notes/neb/bio11/botany/cell/eukaryotic/cell-membrane/index.html)
@@ -159,19 +160,19 @@ layout: "non_math_mode"
 
 - [4.1.2 Biotic and Abiotic Factors](/notes/neb/bio11/botany/ecology/ecosystem-ecology/biotic-abiotic-factors/index.html)
 
-- [4.1.3 Species Interactions](./botany/ecology/ecosystem-ecology/species-interactions.html)
+- [4.1.3 Species Interactions](/notes/neb/bio11/botany/ecology/ecosystem-ecology/species-interactions/index.html)
 
-- [4.1.4 Concept of Ecosystem](./botany/ecology/ecosystem-ecology/concept-of-ecosystem.html)
+- [4.1.4 Concept of Ecosystem](/notes/neb/bio11/botany/ecology/ecosystem-ecology/concept-of-ecosystem/index.html)
 
-- [4.1.5 Structural and Functional Aspects of Pond and Forest Ecosystem](./botany/ecology/ecosystem-ecology/pond-forest-ecosystem.html)
+- [4.1.5 Structural and Functional Aspects of Pond and Forest Ecosystem](/notes/neb/bio11/botany/ecology/ecosystem-ecology/pond-forest-ecosystem/index.html)
 
-- [4.1.6 Food Chain and Food Web](./botany/ecology/ecosystem-ecology/food-chain-food-web.html)
+- [4.1.6 Food Chain and Food Web](/notes/neb/bio11/botany/ecology/ecosystem-ecology/food-chain-food-web/index.html)
 
-- [4.1.7 Trophic Level](./botany/ecology/ecosystem-ecology/trophic-level.html)
+- [4.1.7 Trophic Level](/notes/neb/bio11/botany/ecology/ecosystem-ecology/trophic-level/index.html)
 
-- [4.1.8 Ecological Pyramids](./botany/ecology/ecosystem-ecology/ecological-pyramids.html)
+- [4.1.8 Ecological Pyramids](/notes/neb/bio11/botany/ecology/ecosystem-ecology/ecological-pyramids/index.html)
 
-- [4.1.9 Productivity](./botany/ecology/ecosystem-ecology/productivity.html)
+- [4.1.9 Productivity](/notes/neb/bio11/botany/ecology/ecosystem-ecology/productivity/index.html)
 
 - [4.1.10 Biogeochemical Cycle](./botany/ecology/ecosystem-ecology/biogeochemical-cycle.html)
 

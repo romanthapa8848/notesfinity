@@ -17,6 +17,9 @@
     <loc>http://localhost:1313/tags/biodiversity/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/biomass/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/biotechnology/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,19 +35,46 @@
     <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/concept-of-ecology/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/concept-of-ecosystem/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/cyanobacteria/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/introductory-microbiology/monera/cyanobacteria/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/ecological-pyramids/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/ecological-pyramids/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ecology/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ecosystem/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ecosystems/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/energy-flow/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/environment/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/food-chain/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/food-chain-food-web/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/food-web/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/forest-ecosystem/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/genetic-engineering/</loc>
@@ -74,7 +104,40 @@
     <loc>http://localhost:1313/tags/pathogens/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/pond-ecosystem/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/primary-production/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/productivity/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/productivity/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/secondary-production/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/species-interactions/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/species-interactions/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/pond-forest-ecosystem/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/symbiosis/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/trophic-level/</loc>
+    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/trophic-level/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/virology/</loc>
@@ -758,9 +821,6 @@
     <loc>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/fungi/yeast-structure-reproduction/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/symbiosis/</loc>
-    <lastmod>2024-10-08T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/introduction/three-domains-of-life/</loc>
     <lastmod>2024-10-08T00:00:00+00:00</lastmod>
   </url><url>
@@ -1053,9 +1113,6 @@
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/cem/clay-products/earthenware-glazing/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/ecosystem/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/engineering/</loc>
