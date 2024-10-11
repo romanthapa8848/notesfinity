@@ -88,6 +88,19 @@ Xerophytes are plants that grow in very dry places like deserts or areas with li
 
 ---
 
+## Comparison of Hydrophytes and Xerophytes
+
+| Feature          | Hydrophytes                                  | Xerophytes                                    |
+| ---------------- | -------------------------------------------- | --------------------------------------------- |
+| **Habitat**      | Aquatic or very damp environments            | Dry or arid environments                      |
+| **Adaptations**  | Soft stems, air-filled spaces, shallow roots | Thick stems, deep roots, small/reduced leaves |
+| **Water Use**    | High water availability                      | Low water availability                        |
+| **Root System**  | Shallow and spreading                        | Deep and extensive                            |
+| **Examples**     | Water lily, hydrilla, cattail                | Cactus, aloe vera, acacia                     |
+| **Applications** | Water purification, erosion control          | Xeriscaping, soil conservation                |
+
+---
+
 ## Summary
 
 Hydrophytes are plants that live in wet environments like ponds and lakes. Their soft stems, air-filled spaces, and shallow roots help them survive in water. Xerophytes, on the other hand, live in very dry places like deserts. Their thick leaves, deep roots, and small leaf size help them conserve water and survive with very little rainfall. Both types of plants have unique features that allow them to live in these extreme environments.

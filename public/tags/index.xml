@@ -37,6 +37,13 @@
       <description></description>
     </item>
     <item>
+      <title>Botanical Gardens</title>
+      <link>http://localhost:1313/tags/botanical-gardens/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/botanical-gardens/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Chemistry</title>
       <link>http://localhost:1313/tags/chemistry/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
@@ -48,6 +55,13 @@
       <link>http://localhost:1313/tags/climate-change/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/climate-change/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Conservation</title>
+      <link>http://localhost:1313/tags/conservation/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/conservation/</guid>
       <description></description>
     </item>
     <item>
@@ -107,10 +121,24 @@
       <description></description>
     </item>
     <item>
+      <title>Nepal</title>
+      <link>http://localhost:1313/tags/nepal/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/nepal/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Ozone Layer</title>
       <link>http://localhost:1313/tags/ozone-layer/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/ozone-layer/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plant Life</title>
+      <link>http://localhost:1313/tags/plant-life/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/plant-life/</guid>
       <description></description>
     </item>
     <item>
@@ -128,6 +156,13 @@
       <description></description>
     </item>
     <item>
+      <title>Protected Areas</title>
+      <link>http://localhost:1313/tags/protected-areas/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/protected-areas/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Protection</title>
       <link>http://localhost:1313/tags/protection/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
@@ -135,10 +170,24 @@
       <description></description>
     </item>
     <item>
+      <title>Seed Banks</title>
+      <link>http://localhost:1313/tags/seed-banks/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/seed-banks/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Sustainability</title>
       <link>http://localhost:1313/tags/sustainability/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/sustainability/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vegetation</title>
+      <link>http://localhost:1313/tags/vegetation/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vegetation/</guid>
       <description></description>
     </item>
     <item>

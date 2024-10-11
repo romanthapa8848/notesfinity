@@ -75,7 +75,8 @@ layout: "non_math_mode"
 #### 1.3 Cell division: Concept of cell cycle, types of cell division (amitosis, mitosis and meiosis) and significances.
 
 - [1.3.1 Concept of Cell Cycle](/notes/neb/bio11/botany/cell-division/concept-of-cell-cycle/index.html)
-- [1.3.2 Types of Cell Division](./botany/biomolecules-cell-biology/cell-division/types-of-cell-division.html)
+
+- 1.3.2 Types of Cell Division
 
   - [1.3.2.1 Amitosis](/notes/neb/bio11/botany/cell-division/types-of-cell-division/amitosis/index.html)
   - [1.3.2.2 Mitosis](/notes/neb/bio11/botany/cell-division/types-of-cell-division/mitosis/index.html)
@@ -218,9 +219,7 @@ layout: "non_math_mode"
 
 - [5.1.3 In-situ (protected areas) and Ex-situ (botanical garden, seed bank) conservation](/notes/neb/bio11/botany/vegetation/vegetation/in-situ-ex-situ-conservation/index.html)
 
-#### 5.2 Natural environment: vegetation and human activities.
-
-- [5.2 Natural environment - vegetation and human activities](./botany/vegetation/natural-environment.html)
+#### [5.2 Natural environment - vegetation and human activities](/notes/neb/bio11/botany/vegetation/natural-environment/index.html)
 
 ---
 
@@ -230,7 +229,7 @@ layout: "non_math_mode"
 
 ## 6. Introduction to Biology
 
-- [6.1 Introduction to Biology: Scope and fields of biology. Relation with other sciences](./zoology/introduction-to-biology/scope-and-fields.html)
+- [6.1 Introduction to Biology: Scope and fields of biology. Relation with other sciences](/notes/neb/bio11/zoology/introduction-to-biology/scope-and-fields/index.html)
 
 ---
 
@@ -238,8 +237,8 @@ layout: "non_math_mode"
 
 #### 7.1 Life and its Origin: Oparin-Haldane theory, Miller and Urey's experiment.
 
-- [7.1.1 Oparin-Haldane Theory](./zoology/evolutionary-biology/life-origin/oparin-haldane-theory.html)
-- [7.1.2 Miller and Urey's Experiment](./zoology/evolutionary-biology/life-origin/miller-urey-experiment.html)
+- [7.1.1 Oparin-Haldane Theory](/notes/neb/bio11/zoology/evolutionary-biology/life-origin/oparin-haldane-theory/index.html)
+- [7.1.2 Miller and Urey's Experiment](/notes/neb/bio11/zoology/evolutionary-biology/life-origin/miller-urey-experiment/index.html)
 
 #### [7.2 Evidences of evolution: Morphological, Anatomical, Paleontological, Embryological and Biochemical.](./zoology/evolutionary-biology/evidences-of-evolution.html)
 
