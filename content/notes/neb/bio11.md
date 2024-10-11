@@ -252,7 +252,7 @@ layout: "non_math_mode"
 - [7.4.1 Position of Man in Animal Kingdom](/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/position-of-man/index.html)
 - [7.4.2 Differences between New World Monkeys & Old World Monkeys](/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/new-world-vs-old-world-monkeys/index.html)
 - [7.4.3 Differences between Apes & Man](/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/apes-vs-man/index.html)
-- [7.4.4 Evolution of Modern Man Starting from Anthropoid Ancestor](./zoology/evolutionary-biology/human-evolution/evolution-of-modern-man.html)
+- [7.4.4 Evolution of Modern Man Starting from Anthropoid Ancestor](/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/evolution-of-modern-man/index.html)
 
 ---
 
@@ -260,9 +260,9 @@ layout: "non_math_mode"
 
 #### 8.1 Protista: Outline classification. Protozoa: diagnostic features and classification up to class with examples; Paramecium caudatum, Plasmodium vivax - habits and habitat, structure, reproduction, life-cycle and economic importance of P. falciparum.
 
-- [8.1.1 Protozoa: Diagnostic Features and Classification Up to Class with Examples](./zoology/faunal-diversity/protista/protozoa.html)
-- [8.1.2 Paramecium caudatum: Habits and Habitat, Structure, Reproduction, Life-cycle](./zoology/faunal-diversity/protista/paramecium-caudatum.html)
-- [8.1.3 Plasmodium vivax: Habits and Habitat, Structure, Reproduction, Life-cycle](./zoology/faunal-diversity/protista/plasmodium-vivax.html)
+- [8.1.1 Protozoa: Diagnostic Features and Classification Up to Class with Examples](/notes/neb/bio11/zoology/faunal-diversity/protista/protozoa/index.html)
+- [8.1.2 Paramecium caudatum: Habits and Habitat, Structure, Reproduction, Life-cycle](/notes/neb/bio11/zoology/faunal-diversity/protista/paramecium-caudatum/index.html)
+- [8.1.3 Plasmodium vivax: Habits and Habitat, Structure, Reproduction, Life-cycle](/notes/neb/bio11/zoology/faunal-diversity/protista/plasmodium-vivax/index.html)
 - [8.1.4 Economic Importance of Plasmodium falciparum](./zoology/faunal-diversity/protista/plasmodium-falciparum.html)
 
 #### 8.2 Animalia: Level of organization, body plan, body symmetry, body cavity and segmentation in animals. Diagnostic features and classification of the following phyla (up to class) with examples: Porifera, Coelenterata (Cnidaria), Platyhelminthes, Aschelminthes (Nemathelminthes), Annelida, Arthropoda, Mollusca, Echinodermata and Chordata.
