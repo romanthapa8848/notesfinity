@@ -23,6 +23,9 @@
     <loc>http://localhost:1313/tags/animal-kingdom/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/anthropoid-ancestor/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/apes/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -47,6 +50,9 @@
     <loc>http://localhost:1313/tags/botanical-gardens/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/caudatum/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/charles-darwin/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -54,6 +60,9 @@
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/chemistry/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/classification/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/climate-change/</loc>
@@ -72,6 +81,9 @@
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-imbalances/depletion-of-ozone-layer/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/diagnostic-features/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/apes-vs-man/</loc>
@@ -107,6 +119,9 @@
     <loc>http://localhost:1313/tags/evolution/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/evolution-of-modern-man/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/global-warming/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -116,6 +131,12 @@
     <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-imbalances/greenhouse-effects-climate-change/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/habitat/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hominids/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/homo-sapiens/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -123,6 +144,9 @@
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/human-classification/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/human-evolution/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/humans/</loc>
@@ -158,7 +182,13 @@
     <loc>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/theories-of-evolution/lamarckism/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/life-cycle/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/life-sciences/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/malaria/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/life-origin/miller-urey-experiment/</loc>
@@ -212,10 +242,22 @@
     <loc>http://localhost:1313/tags/paleontological-evidence/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/paramecium/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/faunal-diversity/protista/paramecium-caudatum/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/plant-life/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/plants/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/plasmodium/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/faunal-diversity/protista/plasmodium-vivax/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pollution/</loc>
@@ -233,10 +275,22 @@
     <loc>http://localhost:1313/tags/protection/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/protozoa/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/faunal-diversity/protista/protozoa/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/reproduction/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/scientific-fields/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/seed-banks/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/single-celled-organisms/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sustainability/</loc>
@@ -255,6 +309,9 @@
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/vegetation/vegetation/introduction/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/vivax/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/xerophytes/</loc>
@@ -458,9 +515,6 @@
     <loc>http://localhost:1313/tags/chlorophyta/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/classification/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/angiosperm/classification-angiosperm/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -585,9 +639,6 @@
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/red-algae/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/reproduction/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/seed-plants/</loc>

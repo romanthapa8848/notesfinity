@@ -51,6 +51,13 @@
       <description></description>
     </item>
     <item>
+      <title>Anthropoid Ancestor</title>
+      <link>http://localhost:1313/tags/anthropoid-ancestor/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/anthropoid-ancestor/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Apes</title>
       <link>http://localhost:1313/tags/apes/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
@@ -100,6 +107,13 @@
       <description></description>
     </item>
     <item>
+      <title>Caudatum</title>
+      <link>http://localhost:1313/tags/caudatum/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/caudatum/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Charles Darwin</title>
       <link>http://localhost:1313/tags/charles-darwin/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
@@ -118,6 +132,13 @@
       <link>http://localhost:1313/tags/chemistry/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/chemistry/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Classification</title>
+      <link>http://localhost:1313/tags/classification/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/classification/</guid>
       <description></description>
     </item>
     <item>
@@ -146,6 +167,13 @@
       <link>http://localhost:1313/tags/deforestation/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/deforestation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Diagnostic Features</title>
+      <link>http://localhost:1313/tags/diagnostic-features/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/diagnostic-features/</guid>
       <description></description>
     </item>
     <item>
@@ -219,6 +247,20 @@
       <description></description>
     </item>
     <item>
+      <title>Habitat</title>
+      <link>http://localhost:1313/tags/habitat/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/habitat/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Hominids</title>
+      <link>http://localhost:1313/tags/hominids/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/hominids/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Homo Sapiens</title>
       <link>http://localhost:1313/tags/homo-sapiens/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
@@ -237,6 +279,13 @@
       <link>http://localhost:1313/tags/human-classification/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/human-classification/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Human Evolution</title>
+      <link>http://localhost:1313/tags/human-evolution/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/human-evolution/</guid>
       <description></description>
     </item>
     <item>
@@ -289,10 +338,24 @@
       <description></description>
     </item>
     <item>
+      <title>Life Cycle</title>
+      <link>http://localhost:1313/tags/life-cycle/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/life-cycle/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Life Sciences</title>
       <link>http://localhost:1313/tags/life-sciences/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/life-sciences/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Malaria</title>
+      <link>http://localhost:1313/tags/malaria/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/malaria/</guid>
       <description></description>
     </item>
     <item>
@@ -380,6 +443,13 @@
       <description></description>
     </item>
     <item>
+      <title>Paramecium</title>
+      <link>http://localhost:1313/tags/paramecium/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/paramecium/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Plant Life</title>
       <link>http://localhost:1313/tags/plant-life/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
@@ -391,6 +461,13 @@
       <link>http://localhost:1313/tags/plants/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/plants/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Plasmodium</title>
+      <link>http://localhost:1313/tags/plasmodium/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/plasmodium/</guid>
       <description></description>
     </item>
     <item>
@@ -422,6 +499,20 @@
       <description></description>
     </item>
     <item>
+      <title>Protozoa</title>
+      <link>http://localhost:1313/tags/protozoa/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/protozoa/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Reproduction</title>
+      <link>http://localhost:1313/tags/reproduction/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/reproduction/</guid>
+      <description></description>
+    </item>
+    <item>
       <title>Scientific Fields</title>
       <link>http://localhost:1313/tags/scientific-fields/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
@@ -433,6 +524,13 @@
       <link>http://localhost:1313/tags/seed-banks/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/seed-banks/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Single-Celled Organisms</title>
+      <link>http://localhost:1313/tags/single-celled-organisms/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/single-celled-organisms/</guid>
       <description></description>
     </item>
     <item>
@@ -454,6 +552,13 @@
       <link>http://localhost:1313/tags/vegetation/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/vegetation/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Vivax</title>
+      <link>http://localhost:1313/tags/vivax/</link>
+      <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/tags/vivax/</guid>
       <description></description>
     </item>
     <item>
@@ -793,13 +898,6 @@
       <description></description>
     </item>
     <item>
-      <title>Classification</title>
-      <link>http://localhost:1313/tags/classification/</link>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/classification/</guid>
-      <description></description>
-    </item>
-    <item>
       <title>Conifers</title>
       <link>http://localhost:1313/tags/conifers/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
@@ -993,13 +1091,6 @@
       <link>http://localhost:1313/tags/red-algae/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/tags/red-algae/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title>Reproduction</title>
-      <link>http://localhost:1313/tags/reproduction/</link>
-      <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/tags/reproduction/</guid>
       <description></description>
     </item>
     <item>
