@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/abiogenesis/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/acid-rain/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -9,6 +12,24 @@
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/adaptations/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/anatomical-evidence/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/anatomy/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/animal-kingdom/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/apes/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/behavior/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/biochemical-evidence/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/biodiversity/</loc>
@@ -20,7 +41,16 @@
     <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-imbalances/biological-invasion/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/biology/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/botanical-gardens/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/charles-darwin/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/chemical-evolution/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/chemistry/</loc>
@@ -32,19 +62,49 @@
     <loc>http://localhost:1313/tags/conservation/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/darwinism/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/theories-of-evolution/darwinism-neo-darwinism/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/deforestation/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-imbalances/depletion-of-ozone-layer/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/apes-vs-man/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/new-world-vs-old-world-monkeys/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/early-earth/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ecology/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/ecosystem/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ecosystems/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/embryological-evidence/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/environment/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/environmental-impact/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/evidences-of-evolution/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/evolution/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/global-warming/</loc>
@@ -56,6 +116,18 @@
     <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-imbalances/greenhouse-effects-climate-change/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/homo-sapiens/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/human-activities/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/human-classification/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/humans/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/hydrophytes/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -65,10 +137,55 @@
     <loc>http://localhost:1313/notes/neb/bio11/botany/vegetation/vegetation/in-situ-ex-situ-conservation/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/inheritance-of-acquired-characteristics/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/interdisciplinary-science/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/introduction-to-biology/scope-and-fields/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/invasive-species/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/jean-baptiste-lamarck/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/lamarckism/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/theories-of-evolution/lamarckism/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/life-sciences/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/life-origin/miller-urey-experiment/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/miller-urey-experiment/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/morphological-evidence/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/natural-environment/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/vegetation/natural-environment/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/natural-selection/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/neo-darwinism/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/nepal/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/new-world-monkeys/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/</loc>
@@ -77,7 +194,22 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/tags/old-world-monkeys/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/oparin-haldane-theory/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/life-origin/oparin-haldane-theory/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/origin-of-life/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/ozone-layer/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/paleontological-evidence/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/plant-life/</loc>
@@ -89,10 +221,19 @@
     <loc>http://localhost:1313/tags/pollution/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/position-of-man/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/primate-classification/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/protected-areas/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/protection/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/scientific-fields/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/seed-banks/</loc>
@@ -102,6 +243,9 @@
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/taxonomy/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/vegetation/vegetation/types-of-vegetation-in-nepal/</loc>
@@ -185,16 +329,10 @@
     <loc>http://localhost:1313/tags/ecological-succession/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ecosystem/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/ecosystem-development/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/energy-flow/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/evolution/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/food-chain/</loc>
@@ -225,9 +363,6 @@
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/introductory-microbiology/monera/monera/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/natural-selection/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/nitrogen-cycle/</loc>
@@ -306,9 +441,6 @@
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/biofuel/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/biology/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/botany/</loc>
@@ -483,9 +615,6 @@
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/angiosperm/taxonomic-study/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/taxonomy/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/timber/</loc>

@@ -240,19 +240,18 @@ layout: "non_math_mode"
 - [7.1.1 Oparin-Haldane Theory](/notes/neb/bio11/zoology/evolutionary-biology/life-origin/oparin-haldane-theory/index.html)
 - [7.1.2 Miller and Urey's Experiment](/notes/neb/bio11/zoology/evolutionary-biology/life-origin/miller-urey-experiment/index.html)
 
-#### [7.2 Evidences of evolution: Morphological, Anatomical, Paleontological, Embryological and Biochemical.](./zoology/evolutionary-biology/evidences-of-evolution.html)
+#### [7.2 Evidences of evolution: Morphological, Anatomical, Paleontological, Embryological and Biochemical.](/notes/neb/bio11/zoology/evolutionary-biology/evidences-of-evolution/index.html)
 
 #### 7.3 Theories of evolution: Lamarckism, Darwinism & concept of Neo-Darwinism.
 
-- [7.3.1 Lamarckism](./zoology/evolutionary-biology/theories-of-evolution/lamarckism.html)
-- [7.3.2 Darwinism](./zoology/evolutionary-biology/theories-of-evolution/darwinism.html)
-- [7.3.3 Concept of Neo-Darwinism](./zoology/evolutionary-biology/theories-of-evolution/neo-darwinism.html)
+- [7.3.1 Lamarckism](/notes/neb/bio11/zoology/evolutionary-biology/theories-of-evolution/lamarckism/index.html)
+- [7.3.2 Darwinism & concept of Neo-Darwinism](/notes/neb/bio11/zoology/evolutionary-biology/theories-of-evolution/darwinism-neo-darwinism/index.html)
 
 #### 7.4 Human evolution: Position of man in animal kingdom. Differences between new world monkeys & old world monkeys, apes & man. Evolution of modern man starting from anthropoid ancestor.
 
-- [7.4.1 Position of Man in Animal Kingdom](./zoology/evolutionary-biology/human-evolution/position-of-man.html)
-- [7.4.2 Differences between New World Monkeys & Old World Monkeys](./zoology/evolutionary-biology/human-evolution/new-world-vs-old-world-monkeys.html)
-- [7.4.3 Differences between Apes & Man](./zoology/evolutionary-biology/human-evolution/apes-vs-man.html)
+- [7.4.1 Position of Man in Animal Kingdom](/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/position-of-man/index.html)
+- [7.4.2 Differences between New World Monkeys & Old World Monkeys](/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/new-world-vs-old-world-monkeys/index.html)
+- [7.4.3 Differences between Apes & Man](/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/apes-vs-man/index.html)
 - [7.4.4 Evolution of Modern Man Starting from Anthropoid Ancestor](./zoology/evolutionary-biology/human-evolution/evolution-of-modern-man.html)
 
 ---
