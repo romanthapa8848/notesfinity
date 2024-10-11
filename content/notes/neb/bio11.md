@@ -212,11 +212,11 @@ layout: "non_math_mode"
 
 #### 5.1 Vegetation: Introduction, types of vegetation in Nepal, concept of In-situ (protected areas) and Ex-situ (botanical garden, seed bank) conservation.
 
-- [5.1.1 Introduction](./botany/vegetation/vegetation/introduction.html)
+- [5.1.1 Introduction](/notes/neb/bio11/botany/vegetation/vegetation/introduction/index.html)
 
-- [5.1.2 Types of Vegetation in Nepal](./botany/vegetation/vegetation/types-of-vegetation-in-nepal.html)
+- [5.1.2 Types of Vegetation in Nepal](/notes/neb/bio11/botany/vegetation/vegetation/types-of-vegetation-in-nepal/index.html)
 
-- [5.1.3 In-situ (protected areas) and Ex-situ (botanical garden, seed bank) Conservation](./botany/vegetation/vegetation/in-situ-ex-situ-conservation.html)
+- [5.1.3 In-situ (protected areas) and Ex-situ (botanical garden, seed bank) conservation](/notes/neb/bio11/botany/vegetation/vegetation/in-situ-ex-situ-conservation/index.html)
 
 #### 5.2 Natural environment: vegetation and human activities.
 
