@@ -229,7 +229,7 @@ layout: "non_math_mode"
 
 ## 6. Introduction to Biology
 
-- [6.1 Introduction to Biology: Scope and fields of biology. Relation with other sciences](/notes/neb/bio11/zoology/introduction-to-biology/scope-and-fields/index.html)
+- [6.1 Introduction to Biology: Scope and fields of biology, relation with other sciences](/notes/neb/bio11/zoology/introduction-to-biology/scope-and-fields/index.html)
 
 ---
 
