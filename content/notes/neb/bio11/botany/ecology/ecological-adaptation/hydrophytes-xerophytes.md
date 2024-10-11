@@ -94,12 +94,6 @@ Hydrophytes are plants that live in wet environments like ponds and lakes. Their
 
 ---
 
-## Summary
-
-Hydrophytes are plants that live in wet environments like ponds and lakes. Their soft stems, air-filled spaces, and shallow roots help them survive in water. Xerophytes, on the other hand, live in very dry places like deserts. Their thick leaves, deep roots, and small leaf size help them conserve water and survive with very little rainfall. Both types of plants have unique features that allow them to live in these extreme environments.
-
----
-
 ## FAQs
 
 ### 1. What are hydrophytes?
