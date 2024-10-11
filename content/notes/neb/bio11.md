@@ -33,6 +33,8 @@ layout: "non_math_mode"
 | Practical    | 25 Marks                       |
 | Total Marks  | 100 Marks                      |
 
+---
+
 # Part A: Botany
 
 ---
