@@ -192,17 +192,17 @@ layout: "non_math_mode"
 
 - [4.2.1 Concept of Adaptation](/notes/neb/bio11/botany/ecology/ecological-adaptation/concept-of-adaptation/index.html)
 
-- [4.2.2 Hydrophytes and Xerophytes](./botany/ecology/ecological-adaptation/hydrophytes-xerophytes.html)
+- [4.2.2 Hydrophytes and Xerophytes](/notes/neb/bio11/botany/ecology/ecological-adaptation/hydrophytes-xerophytes/index.html)
 
 #### 4.3 Ecological Imbalances: Greenhouse effects and climate change, depletion of ozone layer, acid rain and biological invasion
 
-- [4.3.1 Greenhouse Effects and Climate Change](./botany/ecology/ecological-imbalances/greenhouse-effects-climate-change.html)
+- [4.3.1 Greenhouse Effects and Climate Change](/notes/neb/bio11/botany/ecology/ecological-imbalances/greenhouse-effects-climate-change/index.html)
 
-- [4.3.2 Depletion of Ozone Layer](./botany/ecology/ecological-imbalances/depletion-of-ozone-layer.html)
+- [4.3.2 Depletion of Ozone Layer](/notes/neb/bio11/botany/ecology/ecological-imbalances/depletion-of-ozone-layer/index.html)
 
-- [4.3.3 Acid Rain](./botany/ecology/ecological-imbalances/acid-rain.html)
+- [4.3.3 Acid Rain](/notes/neb/bio11/botany/ecology/ecological-imbalances/acid-rain/index.html)
 
-- [4.3.4 Biological Invasion](./botany/ecology/ecological-imbalances/biological-invasion.html)
+- [4.3.4 Biological Invasion](/notes/neb/bio11/botany/ecology/ecological-imbalances/biological-invasion/index.html)
 
 ---
 

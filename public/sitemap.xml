@@ -2,6 +2,90 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/tags/acid-rain/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-imbalances/acid-rain/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/adaptations/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/biodiversity/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/biological-invasion/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-imbalances/biological-invasion/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/chemistry/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/climate-change/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-imbalances/depletion-of-ozone-layer/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ecology/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ecosystems/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/environment/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/environmental-impact/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/global-warming/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/greenhouse-effect/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-imbalances/greenhouse-effects-climate-change/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/hydrophytes/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-adaptation/hydrophytes-xerophytes/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/invasive-species/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/ozone-layer/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/plants/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pollution/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/protection/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/sustainability/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/xerophytes/</loc>
+    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/abiotic-factors/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -15,9 +99,6 @@
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/botany/introductory-microbiology/virus/bacteriophage/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/biodiversity/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/biogeochemical-cycle/</loc>
@@ -74,22 +155,13 @@
     <loc>http://localhost:1313/tags/ecological-succession/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ecology/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/ecosystem/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/ecosystem-development/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/ecosystems/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/energy-flow/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/environment/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/evolution/</loc>
@@ -131,12 +203,6 @@
     <loc>http://localhost:1313/tags/nitrogen-cycle/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
-  </url><url>
     <loc>http://localhost:1313/tags/nutrient-cycling/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
@@ -174,9 +240,6 @@
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/symbiosis/</loc>
-    <lastmod>2024-10-10T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/</loc>
     <lastmod>2024-10-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/trophic-level/</loc>
@@ -354,9 +417,6 @@
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/plant-classification/</loc>
-    <lastmod>2024-10-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/plants/</loc>
     <lastmod>2024-10-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/pteridophytes/</loc>
@@ -1368,9 +1428,6 @@
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/surface-finishing/</loc>
-    <lastmod>2024-10-06T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/tags/sustainability/</loc>
     <lastmod>2024-10-06T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/sustainability-in-construction/</loc>
