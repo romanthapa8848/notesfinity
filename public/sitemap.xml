@@ -2,6 +2,21 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/faunal-diversity/animalia/organization/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/faunal-diversity/protista/plasmodium-falciparum/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio11/zoology/faunal-diversity/animalia/porifera/</loc>
+    <lastmod>2024-10-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/tags/abiogenesis/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -216,12 +231,6 @@
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/new-world-monkeys/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notes/</loc>
-    <lastmod>2024-10-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-10-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/tags/old-world-monkeys/</loc>

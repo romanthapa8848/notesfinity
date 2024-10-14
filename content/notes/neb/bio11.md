@@ -263,12 +263,12 @@ layout: "non_math_mode"
 - [8.1.1 Protozoa: Diagnostic Features and Classification Up to Class with Examples](/notes/neb/bio11/zoology/faunal-diversity/protista/protozoa/index.html)
 - [8.1.2 Paramecium caudatum: Habits and Habitat, Structure, Reproduction, Life-cycle](/notes/neb/bio11/zoology/faunal-diversity/protista/paramecium-caudatum/index.html)
 - [8.1.3 Plasmodium vivax: Habits and Habitat, Structure, Reproduction, Life-cycle](/notes/neb/bio11/zoology/faunal-diversity/protista/plasmodium-vivax/index.html)
-- [8.1.4 Economic Importance of Plasmodium falciparum](./zoology/faunal-diversity/protista/plasmodium-falciparum.html)
+- [8.1.4 Plasmodium falciparum: Habits and Habitat, Structure, Reproduction, Life-cycle and economic importance](/notes/neb/bio11/zoology/faunal-diversity/protista/plasmodium-falciparum/index.html)
 
 #### 8.2 Animalia: Level of organization, body plan, body symmetry, body cavity and segmentation in animals. Diagnostic features and classification of the following phyla (up to class) with examples: Porifera, Coelenterata (Cnidaria), Platyhelminthes, Aschelminthes (Nemathelminthes), Annelida, Arthropoda, Mollusca, Echinodermata and Chordata.
 
-- [8.2.1 Level of Organization, Body Plan, Body Symmetry, Body Cavity, and Segmentation in Animals](./zoology/faunal-diversity/animalia/organization.html)
-- [8.2.2 Porifera: Diagnostic Features and Classification Up to Class with Examples](./zoology/faunal-diversity/animalia/porifera.html)
+- [8.2.1 Level of Organization, Body Plan, Body Symmetry, Body Cavity, and Segmentation in Animals](/notes/neb/bio11/zoology/faunal-diversity/animalia/organization/index.html)
+- [8.2.2 Porifera: Diagnostic Features and Classification Up to Class with Examples](/notes/neb/bio11/zoology/faunal-diversity/animalia/porifera/index.html)
 - [8.2.3 Coelenterata (Cnidaria): Diagnostic Features and Classification Up to Class with Examples](./zoology/faunal-diversity/animalia/coelenterata-cnidaria.html)
 - [8.2.4 Platyhelminthes: Diagnostic Features and Classification Up to Class with Examples](./zoology/faunal-diversity/animalia/platyhelminthes.html)
 - [8.2.5 Aschelminthes (Nemathelminthes): Diagnostic Features and Classification Up to Class with Examples](./zoology/faunal-diversity/animalia/aschelminthes-nemathelminthes.html)
