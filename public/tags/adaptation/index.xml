@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Adaptation on Notesfinity</title>
-    <link>https://notesfinity.com/tags/adaptation/</link>
+    <link>http://localhost:1313/tags/adaptation/</link>
     <description>Recent content in Adaptation on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/adaptation/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/adaptation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Concept of Adaptation</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecological-adaptation/concept-of-adaptation/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-adaptation/concept-of-adaptation/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecological-adaptation/concept-of-adaptation/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-adaptation/concept-of-adaptation/</guid>
       <description>&lt;h1 id=&#34;concept-of-adaptation&#34;&gt;Concept of Adaptation&lt;/h1&gt;&#xA;&lt;p&gt;Adaptation is a fundamental concept in biology that refers to the process by which organisms evolve to become better suited to their environment. This process enhances their chances of survival and reproduction, enabling them to thrive in changing conditions. Adaptations can occur at the individual level within a lifetime (phenotypic plasticity) or across generations (evolutionary adaptation).&lt;/p&gt;&#xA;&lt;figure class=&#34;fig&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lamarck%27s_Two-Factor_Theory.svg/800px-Lamarck%27s_Two-Factor_Theory.svg.png&#34;&#xA;    alt=&#34;Lamarck&amp;#39;s Two-Factor Theory&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;The second of Jean-Baptiste Lamarck&amp;rsquo;s two factors (the first being a complexifying force) was an adaptive force that causes animals with a given body plan to adapt to circumstances by inheritance of acquired characteristics, creating a diversity of species and genera.&lt;/p&gt;</description>
     </item>
   </channel>

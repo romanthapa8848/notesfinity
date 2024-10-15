@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Trophic Level on Notesfinity</title>
-    <link>https://notesfinity.com/tags/trophic-level/</link>
+    <link>http://localhost:1313/tags/trophic-level/</link>
     <description>Recent content in Trophic Level on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/trophic-level/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/trophic-level/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Trophic Level</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/trophic-level/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/trophic-level/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/trophic-level/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/trophic-level/</guid>
       <description>&lt;h1 id=&#34;trophic-level&#34;&gt;Trophic Level&lt;/h1&gt;&#xA;&lt;p&gt;Trophic levels represent the hierarchical positions of organisms in a food chain or food web, indicating their role in energy transfer and nutrient cycling within an ecosystem. Understanding trophic levels is crucial for comprehending ecosystem dynamics and energy flow.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;definition-of-trophic-levels&#34;&gt;Definition of Trophic Levels&lt;/h2&gt;&#xA;&lt;p&gt;Trophic levels are categorized based on an organism&amp;rsquo;s source of energy and nutrients, illustrating the movement of energy through an ecosystem. Each level plays a unique role in maintaining ecological balance, contributing to the overall health and function of the ecosystem.&lt;/p&gt;</description>
     </item>
   </channel>
