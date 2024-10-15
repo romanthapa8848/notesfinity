@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natural Selection on Notesfinity</title>
-    <link>http://localhost:1313/tags/natural-selection/</link>
+    <link>https://notesfinity.com/tags/natural-selection/</link>
     <description>Recent content in Natural Selection on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/natural-selection/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/natural-selection/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Darwinism &amp; Concept of Neo-Darwinism</title>
-      <link>http://localhost:1313/notes/darwinism-concept-of-neo-darwinism/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/zoology/evolutionary-biology/theories-of-evolution/darwinism-neo-darwinism/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/darwinism-concept-of-neo-darwinism/</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/zoology/evolutionary-biology/theories-of-evolution/darwinism-neo-darwinism/</guid>
       <description>&lt;h1 id=&#34;darwinism--concept-of-neo-darwinism&#34;&gt;Darwinism &amp;amp; Concept of Neo-Darwinism&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Darwinism&lt;/strong&gt; refers to the theories of biological evolution developed by &lt;strong&gt;Charles Darwin&lt;/strong&gt;, particularly his concept of natural selection. This theory explains how species evolve over time through the differential survival and reproduction of individuals with advantageous traits. Darwin introduced these ideas in his famous book, &lt;strong&gt;&amp;ldquo;On the Origin of Species,&amp;rdquo;&lt;/strong&gt; published in 1859. &lt;strong&gt;Neo-Darwinism&lt;/strong&gt;, also known as the modern synthesis, incorporates genetics into Darwin’s original ideas, providing a more comprehensive understanding of how evolution occurs. It blends Darwin&amp;rsquo;s principles with discoveries in genetics, emphasizing that evolution is driven by genetic variations in populations.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Concept of Adaptation</title>
-      <link>http://localhost:1313/notes/concept-of-adaptation/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecological-adaptation/concept-of-adaptation/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/concept-of-adaptation/</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecological-adaptation/concept-of-adaptation/</guid>
       <description>&lt;h1 id=&#34;concept-of-adaptation&#34;&gt;Concept of Adaptation&lt;/h1&gt;&#xA;&lt;p&gt;Adaptation is a fundamental concept in biology that refers to the process by which organisms evolve to become better suited to their environment. This process enhances their chances of survival and reproduction, enabling them to thrive in changing conditions. Adaptations can occur at the individual level within a lifetime (phenotypic plasticity) or across generations (evolutionary adaptation).&lt;/p&gt;&#xA;&lt;figure class=&#34;fig&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Lamarck%27s_Two-Factor_Theory.svg/800px-Lamarck%27s_Two-Factor_Theory.svg.png&#34;&#xA;    alt=&#34;Lamarck&amp;#39;s Two-Factor Theory&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;The second of Jean-Baptiste Lamarck&amp;rsquo;s two factors (the first being a complexifying force) was an adaptive force that causes animals with a given body plan to adapt to circumstances by inheritance of acquired characteristics, creating a diversity of species and genera.&lt;/p&gt;</description>
     </item>
   </channel>

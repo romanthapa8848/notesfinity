@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Abiogenesis on Notesfinity</title>
-    <link>http://localhost:1313/tags/abiogenesis/</link>
+    <link>https://notesfinity.com/tags/abiogenesis/</link>
     <description>Recent content in Abiogenesis on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/abiogenesis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/abiogenesis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Miller and Urey&#39;s Experiment</title>
-      <link>http://localhost:1313/notes/miller-and-ureys-experiment/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/zoology/evolutionary-biology/life-origin/miller-urey-experiment/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/miller-and-ureys-experiment/</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/zoology/evolutionary-biology/life-origin/miller-urey-experiment/</guid>
       <description>&lt;h1 id=&#34;miller-and-ureys-experiment&#34;&gt;Miller and Urey&amp;rsquo;s Experiment&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Miller-Urey experiment&lt;/strong&gt;, conducted in 1953 by &lt;strong&gt;Stanley Miller&lt;/strong&gt; and &lt;strong&gt;Harold Urey&lt;/strong&gt;, is one of the most famous experiments in the field of biochemistry. Its goal was to simulate the conditions of early Earth and test whether organic molecules, which are the building blocks of life, could be synthesized from inorganic compounds. This experiment is considered a significant step in understanding how life may have begun on our planet.&lt;/p&gt;</description>
     </item>
   </channel>

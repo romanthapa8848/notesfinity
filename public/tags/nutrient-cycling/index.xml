@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nutrient Cycling on Notesfinity</title>
-    <link>http://localhost:1313/tags/nutrient-cycling/</link>
+    <link>https://notesfinity.com/tags/nutrient-cycling/</link>
     <description>Recent content in Nutrient Cycling on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/nutrient-cycling/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/nutrient-cycling/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biogeochemical Cycle</title>
-      <link>http://localhost:1313/notes/biogeochemical-cycle/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/biogeochemical-cycle/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/biogeochemical-cycle/</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/biogeochemical-cycle/</guid>
       <description>&lt;h1 id=&#34;biogeochemical-cycle&#34;&gt;Biogeochemical Cycle&lt;/h1&gt;&#xA;&lt;p&gt;Biogeochemical cycles refer to the natural processes that recycle nutrients in various chemical forms from the environment to organisms and back to the environment. These cycles are vital for sustaining life on Earth, as they ensure the availability of essential nutrients for various biological processes. By facilitating the movement of elements through different compartments of the ecosystem, these cycles support life and maintain ecological balance.&lt;/p&gt;&#xA;&lt;figure class=&#34;fig&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/7/72/Generalized_biogeochemical_cycle.jpg&#34;&#xA;    alt=&#34;Generalized Biogeochemical Cycle&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Generalized biogeochemical cycle.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Carbon and Nitrogen Cycles</title>
-      <link>http://localhost:1313/notes/carbon-and-nitrogen-cycles/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/carbon-nitrogen-cycles/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/carbon-and-nitrogen-cycles/</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/carbon-nitrogen-cycles/</guid>
       <description>&lt;h1 id=&#34;carbon-and-nitrogen-cycles&#34;&gt;Carbon and Nitrogen Cycles&lt;/h1&gt;&#xA;&lt;p&gt;The carbon and nitrogen cycles are essential biogeochemical processes that describe the movement and transformation of carbon and nitrogen through various environmental compartments. These cycles are crucial for maintaining ecosystem balance and supporting life.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;carbon-cycle&#34;&gt;Carbon Cycle&lt;/h2&gt;&#xA;&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;&#xA;&lt;p&gt;The carbon cycle outlines the process by which carbon moves through the Earth&amp;rsquo;s systems, including the atmosphere, hydrosphere, lithosphere, and biosphere. It involves the conversion of carbon into various forms, primarily as carbon dioxide ($\text{CO}_2$), organic matter, and fossil fuels. The carbon cycle is not only fundamental for life but also plays a significant role in regulating the Earth’s climate and supporting various ecosystems.&lt;/p&gt;</description>
     </item>
   </channel>
