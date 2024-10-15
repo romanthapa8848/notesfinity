@@ -36,6 +36,8 @@ Coelenterata, also known as Cnidaria, is a phylum of simple aquatic animals foun
 
 - **Body Structure:** Coelenterates are diploblastic, which means their bodies are made up of two layers of cells: the outer ectoderm and the inner endoderm. This simple body plan allows for basic functions such as movement and digestion. The space between these layers is filled with a jelly-like substance called mesoglea.
 
+{{< figure src="https://www.bioscience.com.pk/media/zoo/images/175_0a6709f69366129c43cced1c92310fce.jpg" alt="Body Structure of Coelenterata" caption="Body structure of Coelenterata." class="fig" >}}
+
 - **Symmetry:** They exhibit radial symmetry, meaning their body parts are arranged around a central axis. This design allows them to respond equally to stimuli coming from all directions, which is particularly advantageous for their feeding and defense strategies.
 
 - **Body Cavity:** Coelenterates possess a gastrovascular cavity, which serves multiple purposes, including digestion, circulation, and gas exchange. Food is digested in this cavity, and nutrients are distributed throughout the body, allowing for efficient energy use.
@@ -45,6 +47,8 @@ Coelenterata, also known as Cnidaria, is a phylum of simple aquatic animals foun
 - **Reproduction:** Coelenterates can reproduce in two main ways: asexually and sexually. Asexual reproduction often occurs through a process called budding, where a new individual grows from the parent organism. Sexual reproduction typically involves the release of gametes (sperm and eggs) into the water for fertilization.
 
 - **Polymorphism:** Many coelenterates exhibit polymorphism, showing two distinct body forms: the **polyp** and the **medusa**. The polyp is usually a sessile (attached) form, like _Hydra_, while the medusa is free-floating, like jellyfish. This ability to switch between forms allows them to exploit different ecological niches.
+
+{{< figure src="https://www.onlinebiologynotes.com/wp-content/uploads/2019/06/Polymorphism-in-coelenterata.jpg" alt="Polymorphism in Coelenterata" caption="Polymorphism in Coelenterata." class="fig" >}}
 
 - **Nervous System:** Cnidarians possess a simple nervous system consisting of a diffuse nerve net without a central brain. This nerve net allows for basic movements and reflexes, enabling them to respond to their environment effectively.
 
