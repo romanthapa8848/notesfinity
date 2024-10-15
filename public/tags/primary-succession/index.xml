@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Primary Succession on Notesfinity</title>
-    <link>http://localhost:1313/tags/primary-succession/</link>
+    <link>https://notesfinity.com/tags/primary-succession/</link>
     <description>Recent content in Primary Succession on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/primary-succession/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/primary-succession/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Concept of Succession</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/concept-of-succession/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/concept-of-succession/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/concept-of-succession/</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/concept-of-succession/</guid>
       <description>&lt;h1 id=&#34;concept-of-succession&#34;&gt;Concept of Succession&lt;/h1&gt;&#xA;&lt;p&gt;Ecological succession is the gradual process by which ecosystems change and develop over time. It involves a series of stages where different communities of organisms replace one another in a specific area, leading to a more complex and stable ecosystem. This process can take place over varying time scales, from a few years to thousands of years, and can be influenced by various environmental factors.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;types-of-succession&#34;&gt;Types of Succession&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Primary Succession&lt;/strong&gt;:&lt;/p&gt;</description>
     </item>
   </channel>

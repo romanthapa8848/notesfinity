@@ -269,7 +269,7 @@ layout: "non_math_mode"
 
 - [8.2.1 Level of Organization, Body Plan, Body Symmetry, Body Cavity, and Segmentation in Animals](/notes/neb/bio11/zoology/faunal-diversity/animalia/organization/)
 - [8.2.2 Porifera: Diagnostic Features and Classification Up to Class with Examples](/notes/neb/bio11/zoology/faunal-diversity/animalia/porifera/)
-- [8.2.3 Coelenterata (Cnidaria): Diagnostic Features and Classification Up to Class with Examples](./zoology/faunal-diversity/animalia/coelenterata-cnidaria.html)
+- [8.2.3 Coelenterata (Cnidaria): Diagnostic Features and Classification Up to Class with Examples](/notes/neb/bio11/zoology/faunal-diversity/animalia/coelenterata-cnidaria/)
 - [8.2.4 Platyhelminthes: Diagnostic Features and Classification Up to Class with Examples](./zoology/faunal-diversity/animalia/platyhelminthes.html)
 - [8.2.5 Aschelminthes (Nemathelminthes): Diagnostic Features and Classification Up to Class with Examples](./zoology/faunal-diversity/animalia/aschelminthes-nemathelminthes.html)
 - [8.2.6 Annelida: Diagnostic Features and Classification Up to Class with Examples](./zoology/faunal-diversity/animalia/annelida.html)

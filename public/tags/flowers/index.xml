@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flowers on Notesfinity</title>
-    <link>http://localhost:1313/tags/flowers/</link>
+    <link>https://notesfinity.com/tags/flowers/</link>
     <description>Recent content in Flowers on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/flowers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/flowers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Angiosperm: Morphology (Root, Stem, Leaves, Inflorescences, Flowers, and Fruit)</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/angiosperm/morphology/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/angiosperm/morphology/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/angiosperm/morphology/</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/angiosperm/morphology/</guid>
       <description>&lt;h1 id=&#34;angiosperm-morphology-root-stem-leaves-inflorescences-flowers-and-fruit&#34;&gt;Angiosperm: Morphology (Root, Stem, Leaves, Inflorescences, Flowers, and Fruit)&lt;/h1&gt;&#xA;&lt;p&gt;Angiosperms, commonly known as flowering plants, display a diverse range of morphological structures that are essential for their growth, reproduction, and adaptation to various environments. As the most diverse group of plants on Earth, angiosperms encompass an estimated 250,000 species, which thrive in nearly every habitat, from tropical rainforests and temperate woodlands to arid deserts and wetlands. This remarkable diversity is reflected not only in their forms and sizes but also in their life cycles, reproductive strategies, and ecological roles.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Symbiosis on Notesfinity</title>
-    <link>http://localhost:1313/tags/symbiosis/</link>
+    <link>https://notesfinity.com/tags/symbiosis/</link>
     <description>Recent content in Symbiosis on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/symbiosis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/symbiosis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Species Interactions</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/species-interactions/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/species-interactions/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/species-interactions/</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/species-interactions/</guid>
       <description>&lt;h1 id=&#34;species-interactions&#34;&gt;Species Interactions&lt;/h1&gt;&#xA;&lt;p&gt;Species interactions refer to the various ways in which species interact with each other within an ecosystem. These interactions shape the structure and dynamics of ecosystems and can influence the survival and reproduction of species. The main types of species interactions include competition, predation, parasitism, mutualism, and commensalism.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;types-of-species-interactions&#34;&gt;Types of Species Interactions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-competition&#34;&gt;1. Competition&lt;/h3&gt;&#xA;&lt;p&gt;Competition occurs when two or more species vie for the same resources, such as food, space, or light. This can lead to competitive exclusion, where one species outcompetes the other, or niche differentiation, where species evolve to use different resources.&#xA;Competition can be categorized as:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lichen: General Introduction, Characteristic Features, and Economic Importance</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/lichen/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/lichen/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/lichen/</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/lichen/</guid>
       <description>&lt;h1 id=&#34;lichen-general-introduction-characteristic-features-and-economic-importance&#34;&gt;Lichen: General Introduction, Characteristic Features, and Economic Importance&lt;/h1&gt;&#xA;&lt;p&gt;Lichens are fascinating organisms resulting from a symbiotic relationship between fungi and photosynthetic partners, typically algae or cyanobacteria. They are known for their ability to thrive in extreme environments and play a crucial role in various ecological processes.&lt;/p&gt;&#xA;&lt;figure class=&#34;fig&#34;&gt;&lt;img src=&#34;https://microbenotes.com/wp-content/uploads/2024/07/Lichens.jpeg&#34;&#xA;    alt=&#34;Lichens&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Lichens&lt;/p&gt;&#xA;    &lt;/figcaption&gt;&#xA;&lt;/figure&gt;&#xA;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-general-introduction-to-lichens&#34;&gt;1. General Introduction to Lichens&lt;/h2&gt;&#xA;&lt;p&gt;Lichens are complex life forms that arise from the mutualistic interaction between fungi and photosynthetic organisms, typically algae or cyanobacteria. This unique symbiotic relationship allows lichens to thrive in environments where neither partner could survive alone. Lichens are notable for their ability to colonize a wide range of surfaces and habitats, making them essential indicators of environmental health. They can be found in diverse ecosystems, from arid deserts to lush rainforests, and they often grow on surfaces such as rocks, trees, soil, and even man-made structures.&lt;/p&gt;</description>
     </item>
   </channel>
