@@ -5,7 +5,7 @@ theme = 'notesfinity'
 
 uglyURLs = false
 [permalinks]
-posts = "/:slug/"
+default = "/:slug/"
 
 [markup.goldmark.renderer]
 unsafe = true
