@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Chemical Evolution on Notesfinity</title>
-    <link>http://localhost:1313/tags/chemical-evolution.html</link>
+    <link>https://notesfinity.com/tags/chemical-evolution.html</link>
     <description>Recent content in Chemical Evolution on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/chemical-evolution/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/chemical-evolution/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Miller and Urey&#39;s Experiment</title>
-      <link>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/life-origin/miller-urey-experiment.html</link>
+      <link>https://notesfinity.com/notes/neb/bio11/zoology/evolutionary-biology/life-origin/miller-urey-experiment.html</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/life-origin/miller-urey-experiment.html</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/zoology/evolutionary-biology/life-origin/miller-urey-experiment.html</guid>
       <description>&lt;h1 id=&#34;miller-and-ureys-experiment&#34;&gt;Miller and Urey&amp;rsquo;s Experiment&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Miller-Urey experiment&lt;/strong&gt;, conducted in 1953 by &lt;strong&gt;Stanley Miller&lt;/strong&gt; and &lt;strong&gt;Harold Urey&lt;/strong&gt;, is one of the most famous experiments in the field of biochemistry. Its goal was to simulate the conditions of early Earth and test whether organic molecules, which are the building blocks of life, could be synthesized from inorganic compounds. This experiment is considered a significant step in understanding how life may have begun on our planet.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oparin-Haldane Theory</title>
-      <link>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/life-origin/oparin-haldane-theory.html</link>
+      <link>https://notesfinity.com/notes/neb/bio11/zoology/evolutionary-biology/life-origin/oparin-haldane-theory.html</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/life-origin/oparin-haldane-theory.html</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/zoology/evolutionary-biology/life-origin/oparin-haldane-theory.html</guid>
       <description>&lt;h1 id=&#34;oparin-haldane-theory&#34;&gt;Oparin-Haldane Theory&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;The Oparin-Haldane Theory proposes that life on Earth originated through a process called &lt;strong&gt;chemical evolution&lt;/strong&gt;. This theory, independently proposed by &lt;strong&gt;Alexander Oparin&lt;/strong&gt; and &lt;strong&gt;J.B.S. Haldane&lt;/strong&gt; in the 1920s, suggests that simple organic compounds could have formed spontaneously from inorganic molecules under the conditions of early Earth. Over time, these compounds developed into more complex molecules and eventually life.&lt;/p&gt;&#xA;&lt;h2 id=&#34;key-concepts-of-the-oparin-haldane-theory&#34;&gt;Key Concepts of the Oparin-Haldane Theory&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Early Earth&amp;rsquo;s Atmosphere&lt;/strong&gt;: The theory suggests that Earth&amp;rsquo;s early atmosphere was &lt;strong&gt;reducing&lt;/strong&gt; (lacking free oxygen) and rich in gases like methane ($CH_4$), ammonia ($NH_3$), hydrogen ($H_2$), and water vapor ($H_2O$).&lt;/p&gt;</description>
     </item>
   </channel>

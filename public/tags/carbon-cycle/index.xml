@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carbon Cycle on Notesfinity</title>
-    <link>http://localhost:1313/tags/carbon-cycle.html</link>
+    <link>https://notesfinity.com/tags/carbon-cycle.html</link>
     <description>Recent content in Carbon Cycle on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/carbon-cycle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/carbon-cycle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Carbon and Nitrogen Cycles</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/carbon-nitrogen-cycles.html</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/carbon-nitrogen-cycles.html</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/carbon-nitrogen-cycles.html</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/carbon-nitrogen-cycles.html</guid>
       <description>&lt;h1 id=&#34;carbon-and-nitrogen-cycles&#34;&gt;Carbon and Nitrogen Cycles&lt;/h1&gt;&#xA;&lt;p&gt;The carbon and nitrogen cycles are essential biogeochemical processes that describe the movement and transformation of carbon and nitrogen through various environmental compartments. These cycles are crucial for maintaining ecosystem balance and supporting life.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;carbon-cycle&#34;&gt;Carbon Cycle&lt;/h2&gt;&#xA;&lt;h3 id=&#34;description&#34;&gt;Description&lt;/h3&gt;&#xA;&lt;p&gt;The carbon cycle outlines the process by which carbon moves through the Earth&amp;rsquo;s systems, including the atmosphere, hydrosphere, lithosphere, and biosphere. It involves the conversion of carbon into various forms, primarily as carbon dioxide ($\text{CO}_2$), organic matter, and fossil fuels. The carbon cycle is not only fundamental for life but also plays a significant role in regulating the Earth’s climate and supporting various ecosystems.&lt;/p&gt;</description>
     </item>
   </channel>

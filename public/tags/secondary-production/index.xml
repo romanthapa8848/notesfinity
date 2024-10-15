@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Secondary Production on Notesfinity</title>
-    <link>http://localhost:1313/tags/secondary-production.html</link>
+    <link>https://notesfinity.com/tags/secondary-production.html</link>
     <description>Recent content in Secondary Production on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/secondary-production/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/secondary-production/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Productivity</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/productivity.html</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/productivity.html</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/productivity.html</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/productivity.html</guid>
       <description>&lt;h1 id=&#34;productivity&#34;&gt;Productivity&lt;/h1&gt;&#xA;&lt;p&gt;Productivity in ecology refers to the rate at which energy or biomass is produced in an ecosystem. It is a critical measure that reflects the health and efficiency of an ecosystem, indicating how well it can support life. Productivity is generally divided into two main types: primary productivity and secondary productivity.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;types-of-productivity&#34;&gt;Types of Productivity&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-primary-productivity&#34;&gt;1. Primary Productivity&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Definition:&lt;/strong&gt; Primary productivity is the rate at which producers (typically plants, algae, and phytoplankton) convert solar energy into chemical energy through the process of photosynthesis. During photosynthesis, these organisms capture sunlight and convert it into glucose and other organic compounds, which serve as food for themselves and other organisms in the ecosystem. This process is crucial for maintaining life on Earth, as it is the primary source of energy for nearly all living organisms.&lt;/p&gt;</description>
     </item>
   </channel>

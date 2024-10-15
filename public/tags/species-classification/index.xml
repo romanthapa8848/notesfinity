@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Species Classification on Notesfinity</title>
-    <link>http://localhost:1313/tags/species-classification.html</link>
+    <link>https://notesfinity.com/tags/species-classification.html</link>
     <description>Recent content in Species Classification on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/species-classification/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/species-classification/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Binomial Nomenclature</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/introduction/binomial-nomenclature.html</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/introduction/binomial-nomenclature.html</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/introduction/binomial-nomenclature.html</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/introduction/binomial-nomenclature.html</guid>
       <description>&lt;h1 id=&#34;binomial-nomenclature&#34;&gt;Binomial Nomenclature&lt;/h1&gt;&#xA;&lt;p&gt;Binomial nomenclature is a formal system of naming species, introduced by Carl Linnaeus in the 18th century. This system provides a standardized method for identifying and classifying organisms, ensuring that each species has a unique and universally accepted name. It serves as the foundation for modern taxonomy and biological classification.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-structure-of-binomial-nomenclature&#34;&gt;1. Structure of Binomial Nomenclature&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-two-part-names&#34;&gt;a. Two-Part Names&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Genus Name:&lt;/strong&gt; The first part of the name represents the genus, which is a group of closely related species. It is always capitalized. For example, in the name &lt;em&gt;Panthera leo&lt;/em&gt;, &amp;ldquo;Panthera&amp;rdquo; denotes the genus of big cats that includes lions, tigers, and leopards. The genus groups together species that share common characteristics and evolutionary history, allowing scientists to make inferences about their biology and behavior based on their classification.&lt;/p&gt;</description>
     </item>
   </channel>
