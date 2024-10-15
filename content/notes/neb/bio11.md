@@ -43,34 +43,34 @@ layout: "non_math_mode"
 
 #### 1.1 Biomolecules: Introduction and functions of carbohydrates, proteins, lipids, nucleic acids, minerals, enzymes and water.
 
-- [1.1.1 Carbohydrates](/notes/neb/bio11/botany/biomolecules-cell/carbohydrates/index.html)
-- [1.1.2 Proteins](/notes/neb/bio11/botany/biomolecules-cell/proteins/index.html)
-- [1.1.3 Lipids](/notes/neb/bio11/botany/biomolecules-cell/lipids/index.html)
-- [1.1.4 Nucleic Acids](/notes/neb/bio11/botany/biomolecules-cell/nucleic-acids/index.html)
-- [1.1.5 Minerals](/notes/neb/bio11/botany/biomolecules-cell/minerals/index.html)
-- [1.1.6 Enzymes](/notes/neb/bio11/botany/biomolecules-cell/enzymes/index.html)
-- [1.1.7 Water](/notes/neb/bio11/botany/biomolecules-cell/water/index.html)
+- [1.1.1 Carbohydrates](/notes/neb/bio11/botany/biomolecules-cell/carbohydrates/)
+- [1.1.2 Proteins](/notes/neb/bio11/botany/biomolecules-cell/proteins/)
+- [1.1.3 Lipids](/notes/neb/bio11/botany/biomolecules-cell/lipids/)
+- [1.1.4 Nucleic Acids](/notes/neb/bio11/botany/biomolecules-cell/nucleic-acids/)
+- [1.1.5 Minerals](/notes/neb/bio11/botany/biomolecules-cell/minerals/)
+- [1.1.6 Enzymes](/notes/neb/bio11/botany/biomolecules-cell/enzymes/)
+- [1.1.7 Water](/notes/neb/bio11/botany/biomolecules-cell/water/)
 
 #### 1.2 Cell: Introduction of cell, concepts of prokaryotic and eukaryotic cells, detail structure of eukaryotic cells (composition, structure and functions of cell wall, cell membrane, mitochondria, plastids, endoplasmic reticulum, golgi bodies, lysosomes, ribosomes, nucleus, chromosomes, cilia, flagella and cell inclusions).
 
-- [1.2.1 Introduction of Cell](/notes/neb/bio11/botany/cell/introduction-of-cell/index.html)
-- [1.2.2 Concepts of Prokaryotic and Eukaryotic Cells](/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/index.html)
+- [1.2.1 Introduction of Cell](/notes/neb/bio11/botany/cell/introduction-of-cell/)
+- [1.2.2 Concepts of Prokaryotic and Eukaryotic Cells](/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/)
 
 - 1.2.3 Detailed Structure of Eukaryotic Cells
 
-  - [1.2.3.1 Composition, Structure, and Functions of Cell Wall](/notes/neb/bio11/botany/cell/eukaryotic/cell-wall/index.html)
-  - [1.2.3.2 Composition, Structure, and Functions of Cell Membrane](/notes/neb/bio11/botany/cell/eukaryotic/cell-membrane/index.html)
-  - [1.2.3.3 Composition, Structure, and Functions of Mitochondria](/notes/neb/bio11/botany/cell/eukaryotic/mitochondria/index.html)
+  - [1.2.3.1 Composition, Structure, and Functions of Cell Wall](/notes/neb/bio11/botany/cell/eukaryotic/cell-wall/)
+  - [1.2.3.2 Composition, Structure, and Functions of Cell Membrane](/notes/neb/bio11/botany/cell/eukaryotic/cell-membrane/)
+  - [1.2.3.3 Composition, Structure, and Functions of Mitochondria](/notes/neb/bio11/botany/cell/eukaryotic/mitochondria/)
   - [1.2.3.4 Composition, Structure, and Functions of Plastids](/notes/neb/bio11/botany/cell/eukaryotic/plastids/index.html)
-  - [1.2.3.5 Composition, Structure, and Functions of Endoplasmic Reticulum](/notes/neb/bio11/botany/cell/eukaryotic/endoplasmic-reticulum/index.html)
-  - [1.2.3.6 Composition, Structure, and Functions of Golgi Bodies](/notes/neb/bio11/botany/cell/eukaryotic/golgi-bodies/index.html)
-  - [1.2.3.7 Composition, Structure, and Functions of Lysosomes](/notes/neb/bio11/botany/cell/eukaryotic/lysosomes/index.html)
-  - [1.2.3.8 Composition, Structure, and Functions of Ribosomes](/notes/neb/bio11/botany/cell/eukaryotic/ribosomes/index.html)
-  - [1.2.3.9 Composition, Structure, and Functions of Nucleus](/notes/neb/bio11/botany/cell/eukaryotic/nucleus/index.html)
-  - [1.2.3.10 Composition, Structure, and Functions of Chromosomes](/notes/neb/bio11/botany/cell/eukaryotic/chromosomes/index.html)
-  - [1.2.3.11 Composition, Structure, and Functions of Cilia](/notes/neb/bio11/botany/cell/eukaryotic/cilia/index.html)
-  - [1.2.3.12 Composition, Structure, and Functions of Flagella](/notes/neb/bio11/botany/cell/eukaryotic/flagella/index.html)
-  - [1.2.3.13 Composition, Structure, and Functions of Cell Inclusions](/notes/neb/bio11/botany/cell/eukaryotic/cell-inclusions/index.html)
+  - [1.2.3.5 Composition, Structure, and Functions of Endoplasmic Reticulum](/notes/neb/bio11/botany/cell/eukaryotic/endoplasmic-reticulum/)
+  - [1.2.3.6 Composition, Structure, and Functions of Golgi Bodies](/notes/neb/bio11/botany/cell/eukaryotic/golgi-bodies/)
+  - [1.2.3.7 Composition, Structure, and Functions of Lysosomes](/notes/neb/bio11/botany/cell/eukaryotic/lysosomes/)
+  - [1.2.3.8 Composition, Structure, and Functions of Ribosomes](/notes/neb/bio11/botany/cell/eukaryotic/ribosomes/)
+  - [1.2.3.9 Composition, Structure, and Functions of Nucleus](/notes/neb/bio11/botany/cell/eukaryotic/nucleus/)
+  - [1.2.3.10 Composition, Structure, and Functions of Chromosomes](/notes/neb/bio11/botany/cell/eukaryotic/chromosomes/)
+  - [1.2.3.11 Composition, Structure, and Functions of Cilia](/notes/neb/bio11/botany/cell/eukaryotic/cilia/)
+  - [1.2.3.12 Composition, Structure, and Functions of Flagella](/notes/neb/bio11/botany/cell/eukaryotic/flagella/)
+  - [1.2.3.13 Composition, Structure, and Functions of Cell Inclusions](/notes/neb/bio11/botany/cell/eukaryotic/cell-inclusions/)
 
 #### 1.3 Cell division: Concept of cell cycle, types of cell division (amitosis, mitosis and meiosis) and significances.
 

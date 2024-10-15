@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lipids on Notesfinity</title>
-    <link>http://localhost:1313/tags/lipids/</link>
+    <link>https://notesfinity.com/tags/lipids/</link>
     <description>Recent content in Lipids on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/lipids/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/lipids/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction and Functions of Lipids</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/lipids/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/biomolecules-cell/lipids/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/lipids/</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/biomolecules-cell/lipids/</guid>
       <description>&lt;h1 id=&#34;introduction-and-functions-of-lipids&#34;&gt;Introduction and Functions of Lipids&lt;/h1&gt;&#xA;&lt;p&gt;Lipids are a diverse group of hydrophobic organic compounds that play crucial roles in biological systems. They are primarily composed of carbon, hydrogen, and oxygen, and are characterized by their insolubility in water. Lipids serve as essential components of cell membranes, energy storage molecules, and signaling molecules, making them vital for the structure and function of living organisms.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-functions-of-lipids&#34;&gt;1. Functions of Lipids&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-energy-storage&#34;&gt;a. Energy Storage&lt;/h3&gt;&#xA;&lt;p&gt;Lipids are a major source of energy for organisms. They store energy in the form of triglycerides, which can be broken down during metabolic processes to release energy when needed.&lt;/p&gt;</description>
     </item>
   </channel>
