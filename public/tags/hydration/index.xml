@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hydration on Notesfinity</title>
-    <link>https://notesfinity.com/tags/hydration/</link>
+    <link>http://localhost:1313/tags/hydration.html</link>
     <description>Recent content in Hydration on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/hydration/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/hydration/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction and Functions of Water</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/biomolecules-cell/water/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/water.html</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/biomolecules-cell/water/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/water.html</guid>
       <description>&lt;h1 id=&#34;introduction-and-functions-of-water&#34;&gt;Introduction and Functions of Water&lt;/h1&gt;&#xA;&lt;p&gt;Water is a vital substance for all forms of life, making up a significant portion of living organisms. It is a unique molecule composed of two hydrogen atoms covalently bonded to one oxygen atom, giving it distinctive properties that make it essential for biological processes. Water serves as a solvent, a temperature regulator, and a participant in numerous biochemical reactions, playing a crucial role in maintaining homeostasis within organisms.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Energy Flow on Notesfinity</title>
-    <link>https://notesfinity.com/tags/energy-flow/</link>
+    <link>http://localhost:1313/tags/energy-flow.html</link>
     <description>Recent content in Energy Flow on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/energy-flow/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/energy-flow/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Ecological Pyramids</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/ecological-pyramids/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/ecological-pyramids.html</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/ecology/ecosystem-ecology/ecological-pyramids/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/ecological-pyramids.html</guid>
       <description>&lt;h1 id=&#34;ecological-pyramids&#34;&gt;Ecological Pyramids&lt;/h1&gt;&#xA;&lt;p&gt;Ecological pyramids are graphical representations that illustrate the distribution of energy, biomass, or the number of organisms across different trophic levels in an ecosystem. They provide insights into the structure and function of ecosystems, highlighting the relationships between producers, consumers, and decomposers. Understanding these pyramids is essential for analyzing ecosystem dynamics and the impact of environmental changes.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;types-of-ecological-pyramids&#34;&gt;Types of Ecological Pyramids&lt;/h2&gt;&#xA;&lt;p&gt;There are three main types of ecological pyramids, each depicting different aspects of ecosystems:&lt;/p&gt;</description>
     </item>
   </channel>

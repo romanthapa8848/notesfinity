@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biology on Notesfinity</title>
-    <link>https://notesfinity.com/tags/biology/</link>
+    <link>http://localhost:1313/tags/biology.html</link>
     <description>Recent content in Biology on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/biology/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/biology/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction to Biology: Scope and Fields of Biology. Relation with Other Sciences</title>
-      <link>https://notesfinity.com/notes/neb/bio11/zoology/introduction-to-biology/scope-and-fields/</link>
+      <link>http://localhost:1313/notes/neb/bio11/zoology/introduction-to-biology/scope-and-fields.html</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/zoology/introduction-to-biology/scope-and-fields/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/zoology/introduction-to-biology/scope-and-fields.html</guid>
       <description>&lt;h1 id=&#34;introduction-to-biology-scope-and-fields-of-biology-relation-with-other-sciences&#34;&gt;Introduction to Biology: Scope and Fields of Biology. Relation with Other Sciences&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Biology is the scientific study of life and living organisms. It explores the structure, function, growth, evolution, and interaction of life forms at various levels—from the molecular to the ecosystem. The scope of biology is vast, encompassing numerous subfields and linking closely with other scientific disciplines.&lt;/p&gt;&#xA;&lt;h2 id=&#34;scope-of-biology&#34;&gt;Scope of Biology&lt;/h2&gt;&#xA;&lt;p&gt;Biology covers a wide range of topics, from studying the smallest units of life, such as cells, to understanding entire ecosystems. The scope of biology includes:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Protozoa: Diagnostic Features and Classification Up to Class with Examples</title>
-      <link>https://notesfinity.com/notes/neb/bio11/zoology/faunal-diversity/protista/protozoa/</link>
+      <link>http://localhost:1313/notes/neb/bio11/zoology/faunal-diversity/protista/protozoa.html</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/zoology/faunal-diversity/protista/protozoa/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/zoology/faunal-diversity/protista/protozoa.html</guid>
       <description>&lt;h1 id=&#34;protozoa-diagnostic-features-and-classification-up-to-class-with-examples&#34;&gt;Protozoa: Diagnostic Features and Classification Up to Class with Examples&lt;/h1&gt;&#xA;&lt;h1 id=&#34;introduction&#34;&gt;Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Protozoa are fascinating single-celled eukaryotic organisms that can be found in diverse environments. Often microscopic in size, these organisms belong to the kingdom Protista. They are known for their varied forms, structures, and lifestyles, which contribute significantly to their ecosystems. Protozoa play essential roles as both predators and prey in food webs, and some species can cause diseases in humans and animals, highlighting their importance in health and ecology.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Classification Systems (Artificial, Natural, and Phylogenetic) of Angiosperms</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/angiosperm/classification-angiosperm/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/angiosperm/classification-angiosperm.html</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/angiosperm/classification-angiosperm/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/angiosperm/classification-angiosperm.html</guid>
       <description>&lt;h1 id=&#34;classification-systems-artificial-natural-and-phylogenetic-of-angiosperms&#34;&gt;Classification Systems (Artificial, Natural, and Phylogenetic) of Angiosperms&lt;/h1&gt;&#xA;&lt;p&gt;Angiosperms, commonly known as flowering plants, represent a vast and diverse group of plants distinguished primarily by their unique reproductive structures, including flowers and fruits. This group encompasses an estimated 250,000 species, making angiosperms the most diverse category of plants on Earth. Their ability to produce flowers facilitates pollination, while the formation of fruits aids in seed dispersal, contributing to their widespread distribution across various habitats.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Taxonomic Study: Definition and Taxonomic Hierarchy</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/angiosperm/taxonomic-study/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/angiosperm/taxonomic-study.html</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/angiosperm/taxonomic-study/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/angiosperm/taxonomic-study.html</guid>
       <description>&lt;h1 id=&#34;taxonomic-study-definition-and-taxonomic-hierarchy&#34;&gt;Taxonomic Study: Definition and Taxonomic Hierarchy&lt;/h1&gt;&#xA;&lt;p&gt;Taxonomy is a crucial field in biology that encompasses the classification, naming, and identification of living organisms. It serves as the foundation for understanding the immense diversity of life on Earth, organizing organisms into hierarchical categories based on shared characteristics and evolutionary relationships. By providing a systematic framework, taxonomy enables scientists to categorize organisms into groups, such as kingdoms, phyla, classes, orders, families, genera, and species, reflecting their natural relationships.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Concepts of Prokaryotic and Eukaryotic Cells</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic.html</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/cell/prokaryotic-eukaryotic.html</guid>
       <description>&lt;h1 id=&#34;concepts-of-prokaryotic-and-eukaryotic-cells&#34;&gt;Concepts of Prokaryotic and Eukaryotic Cells&lt;/h1&gt;&#xA;&lt;p&gt;Cells are the fundamental units of life, and they can be classified into two main categories: prokaryotic and eukaryotic cells. Understanding the differences and similarities between these two cell types is essential for grasping the complexity of biological systems. This document outlines their key characteristics, functions, and implications in the study of life sciences.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h1 id=&#34;overview-of-prokaryotic-cells&#34;&gt;Overview of Prokaryotic Cells&lt;/h1&gt;&#xA;&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;&#xA;&lt;p&gt;Prokaryotic cells are simple, unicellular organisms characterized by the absence of a defined nucleus and membrane-bound organelles. They are typically smaller than eukaryotic cells, with diameters ranging from 0.1 to 5.0 micrometers. Prokaryotic cells represent one of the earliest forms of life on Earth, appearing around 3.5 billion years ago, and they play crucial roles in various ecosystems, including nutrient cycling, decomposition, and symbiotic relationships.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction of Cells</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/cell/introduction-of-cell/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/cell/introduction-of-cell.html</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/cell/introduction-of-cell/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/cell/introduction-of-cell.html</guid>
       <description>&lt;h1 id=&#34;introduction-of-cells&#34;&gt;Introduction of Cells&lt;/h1&gt;&#xA;&lt;p&gt;Cells are the fundamental units of life, serving as the building blocks for all living organisms. Each cell operates as an independent entity, carrying out various functions necessary for the survival and reproduction of the organism. Cells can be classified into two main types: prokaryotic and eukaryotic, which differ in structure and complexity. Understanding cells is essential for comprehending the basic principles of biology and the processes that sustain life.&lt;/p&gt;</description>
     </item>
   </channel>

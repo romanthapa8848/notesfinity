@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Road Construction on Notesfinity</title>
-    <link>https://notesfinity.com/tags/road-construction/</link>
+    <link>http://localhost:1313/tags/road-construction.html</link>
     <description>Recent content in Road Construction on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/road-construction/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/road-construction/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Types, Properties, and Uses of Asphalt, Bitumen, and Tar</title>
-      <link>https://notesfinity.com/notes/ioe/cem/asphalt-bitumen-tar/types-properties-uses/</link>
+      <link>http://localhost:1313/notes/ioe/cem/asphalt-bitumen-tar/types-properties-uses.html</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/ioe/cem/asphalt-bitumen-tar/types-properties-uses/</guid>
+      <guid>http://localhost:1313/notes/ioe/cem/asphalt-bitumen-tar/types-properties-uses.html</guid>
       <description>&lt;h1 id=&#34;types-properties-and-uses-of-asphalt-bitumen-and-tar&#34;&gt;Types, Properties, and Uses of Asphalt, Bitumen, and Tar&lt;/h1&gt;&#xA;&lt;p&gt;Asphalt, bitumen, and tar are essential construction materials, especially in the field of roadworks, waterproofing, and building protection. These materials are commonly used as binding agents or sealants due to their adhesive and waterproofing properties. Understanding the differences between them, their properties, and their applications is crucial for civil engineers and construction professionals.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-what-is-asphalt-bitumen-and-tar&#34;&gt;1. What is Asphalt, Bitumen, and Tar?&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-asphalt&#34;&gt;a. Asphalt&lt;/h3&gt;&#xA;&lt;p&gt;Asphalt is a composite material made primarily of aggregates (sand, gravel, crushed stone) mixed with bitumen, used in the construction of roads, parking lots, and pavements. It is a durable material known for its smooth, weather-resistant surface.&lt;/p&gt;</description>
     </item>
   </channel>

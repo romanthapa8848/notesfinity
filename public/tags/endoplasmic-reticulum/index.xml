@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Endoplasmic Reticulum on Notesfinity</title>
-    <link>https://notesfinity.com/tags/endoplasmic-reticulum/</link>
+    <link>http://localhost:1313/tags/endoplasmic-reticulum.html</link>
     <description>Recent content in Endoplasmic Reticulum on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/endoplasmic-reticulum/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/endoplasmic-reticulum/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Composition, Structure, and Functions of Endoplasmic Reticulum</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/cell/eukaryotic/endoplasmic-reticulum/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/endoplasmic-reticulum.html</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/cell/eukaryotic/endoplasmic-reticulum/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/endoplasmic-reticulum.html</guid>
       <description>&lt;h1 id=&#34;composition-structure-and-functions-of-endoplasmic-reticulum&#34;&gt;Composition, Structure, and Functions of Endoplasmic Reticulum&lt;/h1&gt;&#xA;&lt;p&gt;The endoplasmic reticulum (ER) is a highly folded and complex membrane-bound organelle found in eukaryotic cells. It plays a critical role in the synthesis, folding, modification, and transport of proteins and lipids. The ER can be classified into two types: rough ER and smooth ER, each with distinct functions and structures.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-composition-of-endoplasmic-reticulum&#34;&gt;1. Composition of Endoplasmic Reticulum&lt;/h2&gt;&#xA;&lt;p&gt;The endoplasmic reticulum (ER) is a vital organelle in eukaryotic cells, playing crucial roles in protein and lipid synthesis, detoxification, and calcium storage. Its unique composition allows it to perform these diverse functions effectively.&lt;/p&gt;</description>
     </item>
   </channel>

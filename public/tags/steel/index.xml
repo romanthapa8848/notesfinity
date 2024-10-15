@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steel on Notesfinity</title>
-    <link>https://notesfinity.com/tags/steel/</link>
+    <link>http://localhost:1313/tags/steel.html</link>
     <description>Recent content in Steel on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/steel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/steel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Composition and Properties of Steel</title>
-      <link>https://notesfinity.com/notes/ioe/cem/metals-and-alloys/composition-properties-steel/</link>
+      <link>http://localhost:1313/notes/ioe/cem/metals-and-alloys/composition-properties-steel.html</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/ioe/cem/metals-and-alloys/composition-properties-steel/</guid>
+      <guid>http://localhost:1313/notes/ioe/cem/metals-and-alloys/composition-properties-steel.html</guid>
       <description>&lt;h1 id=&#34;composition-and-properties-of-steel&#34;&gt;Composition and Properties of Steel&lt;/h1&gt;&#xA;&lt;p&gt;Steel is an alloy primarily composed of iron and carbon, with other elements added to enhance its properties. Its strength, ductility, and versatility make it one of the most important materials used in construction, manufacturing, and various industries. Understanding the composition and properties of steel is crucial for selecting the appropriate type for specific applications.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-composition-of-steel&#34;&gt;1. Composition of Steel&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-basic-components&#34;&gt;a. Basic Components&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Iron (Fe):&lt;/strong&gt; The primary constituent, making up approximately 90-99% of steel.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Carbon (C):&lt;/strong&gt; Typically comprises 0.02% to 2.1% of steel, which significantly affects its properties. Higher carbon content increases hardness but reduces ductility.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;b-alloying-elements&#34;&gt;b. Alloying Elements&lt;/h3&gt;&#xA;&lt;p&gt;Various alloying elements can be added to steel to improve its properties:&lt;/p&gt;</description>
     </item>
   </channel>

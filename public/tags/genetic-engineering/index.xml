@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genetic Engineering on Notesfinity</title>
-    <link>https://notesfinity.com/tags/genetic-engineering/</link>
+    <link>http://localhost:1313/tags/genetic-engineering.html</link>
     <description>Recent content in Genetic Engineering on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/genetic-engineering/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/genetic-engineering/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impacts of Biotechnology in the Field of Microbiology</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/introductory-microbiology/biotechnology/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/introductory-microbiology/biotechnology.html</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/introductory-microbiology/biotechnology/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/introductory-microbiology/biotechnology.html</guid>
       <description>&lt;h1 id=&#34;impacts-of-biotechnology-in-the-field-of-microbiology&#34;&gt;Impacts of Biotechnology in the Field of Microbiology&lt;/h1&gt;&#xA;&lt;p&gt;Biotechnology, the use of biological systems or organisms to develop products and technologies, has profoundly impacted the field of microbiology. This interdisciplinary field has led to significant advancements in research, healthcare, environmental science, and agriculture, among other areas. The integration of biotechnology into microbiology has not only transformed scientific practices but also opened new avenues for innovation and problem-solving across multiple sectors.&lt;/p&gt;</description>
     </item>
   </channel>

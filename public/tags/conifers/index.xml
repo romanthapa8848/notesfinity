@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Conifers on Notesfinity</title>
-    <link>https://notesfinity.com/tags/conifers/</link>
+    <link>http://localhost:1313/tags/conifers.html</link>
     <description>Recent content in Conifers on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/conifers/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/conifers/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>General Introduction and Characteristic Features of Gymnosperms</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/gymnosperm/general-introduction/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/gymnosperm/general-introduction.html</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/gymnosperm/general-introduction/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/gymnosperm/general-introduction.html</guid>
       <description>&lt;h2 id=&#34;1-characteristics-of-gymnosperms&#34;&gt;1. Characteristics of Gymnosperms&lt;/h2&gt;&#xA;&lt;p&gt;Gymnosperms exhibit several distinct characteristics that set them apart from other plant groups, particularly angiosperms. These features are critical to their adaptation and survival in various environments.&lt;/p&gt;&#xA;&lt;h3 id=&#34;a-seed-structure&#34;&gt;a. Seed Structure&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Naked Seeds:&lt;/strong&gt;&lt;br&gt;&#xA;Gymnosperms produce seeds that are not enclosed in an ovary, distinguishing them from angiosperms. Instead of being protected within fruits, gymnosperm seeds are often found on the surfaces of cones or exposed structures. This &amp;ldquo;naked&amp;rdquo; seed trait makes them more susceptible to environmental factors such as wind, rain, and herbivores, yet it also facilitates their dispersal. The lack of a fruit allows for a more direct interaction with the surrounding ecosystem, aiding in seed germination and establishment.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Morphology and Reproduction of Pinus</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/gymnosperm/pinus/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/gymnosperm/pinus.html</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/gymnosperm/pinus/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/gymnosperm/pinus.html</guid>
       <description>&lt;h1 id=&#34;morphology-and-reproduction-of-pinus&#34;&gt;Morphology and Reproduction of Pinus&lt;/h1&gt;&#xA;&lt;p&gt;The genus &lt;em&gt;Pinus&lt;/em&gt;, commonly known as pines, consists of evergreen trees that are widely distributed across various regions of the world. They are significant in forestry and ecology, contributing to biodiversity and serving as essential resources for timber and other products.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-morphology-of-pinus&#34;&gt;1. Morphology of Pinus&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-tree-structure&#34;&gt;a. Tree Structure&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Height:&lt;/strong&gt;&lt;br&gt;&#xA;Pines can grow from small shrubs to towering trees, with some species reaching heights of over 80 meters (approximately 262 feet). For example, the sugar pine (&lt;em&gt;Pinus lambertiana&lt;/em&gt;) is known for its impressive height and can reach up to 80 meters, making it one of the tallest pine species.&lt;/p&gt;</description>
     </item>
   </channel>
