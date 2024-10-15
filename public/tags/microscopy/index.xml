@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/microscopy/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction of Cells</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/cell/introduction-of-cell/</link>
+      <link>http://localhost:1313/notes/introduction-of-cells/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/cell/introduction-of-cell/</guid>
+      <guid>http://localhost:1313/notes/introduction-of-cells/</guid>
       <description>&lt;h1 id=&#34;introduction-of-cells&#34;&gt;Introduction of Cells&lt;/h1&gt;&#xA;&lt;p&gt;Cells are the fundamental units of life, serving as the building blocks for all living organisms. Each cell operates as an independent entity, carrying out various functions necessary for the survival and reproduction of the organism. Cells can be classified into two main types: prokaryotic and eukaryotic, which differ in structure and complexity. Understanding cells is essential for comprehending the basic principles of biology and the processes that sustain life.&lt;/p&gt;</description>
     </item>
   </channel>

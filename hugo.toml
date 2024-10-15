@@ -4,6 +4,8 @@ title = 'Notesfinity'
 theme = 'notesfinity'
 
 uglyURLs = false
+[permalinks]
+notes = "/notes/:slug/" # For your notes section
 
 [markup.goldmark.renderer]
 unsafe = true

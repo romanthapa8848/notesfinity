@@ -10,16 +10,16 @@
     <atom:link href="http://localhost:1313/tags/food-web/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Food Chain and Food Web</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/food-chain-food-web/</link>
+      <link>http://localhost:1313/notes/food-chain-and-food-web/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/food-chain-food-web/</guid>
+      <guid>http://localhost:1313/notes/food-chain-and-food-web/</guid>
       <description>&lt;h1 id=&#34;food-chain-and-food-web&#34;&gt;Food Chain and Food Web&lt;/h1&gt;&#xA;&lt;p&gt;Food chains and food webs are fundamental concepts in ecology that illustrate how energy and nutrients flow through ecosystems. Understanding these concepts helps us comprehend the interdependence of organisms and the complexity of ecological relationships.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;food-chain&#34;&gt;Food Chain&lt;/h2&gt;&#xA;&lt;p&gt;A food chain is a linear sequence of organisms through which nutrients and energy pass as one organism eats another. Each step in the food chain is called a trophic level. Understanding food chains is fundamental to grasping how ecosystems function and how energy flows within them.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Trophic Level</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/trophic-level/</link>
+      <link>http://localhost:1313/notes/trophic-level/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/trophic-level/</guid>
+      <guid>http://localhost:1313/notes/trophic-level/</guid>
       <description>&lt;h1 id=&#34;trophic-level&#34;&gt;Trophic Level&lt;/h1&gt;&#xA;&lt;p&gt;Trophic levels represent the hierarchical positions of organisms in a food chain or food web, indicating their role in energy transfer and nutrient cycling within an ecosystem. Understanding trophic levels is crucial for comprehending ecosystem dynamics and energy flow.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;definition-of-trophic-levels&#34;&gt;Definition of Trophic Levels&lt;/h2&gt;&#xA;&lt;p&gt;Trophic levels are categorized based on an organism&amp;rsquo;s source of energy and nutrients, illustrating the movement of energy through an ecosystem. Each level plays a unique role in maintaining ecological balance, contributing to the overall health and function of the ecosystem.&lt;/p&gt;</description>
     </item>
   </channel>
