@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cell Cycle on Notesfinity</title>
-    <link>http://localhost:1313/tags/cell-cycle/</link>
+    <link>https://notesfinity.com/tags/cell-cycle/</link>
     <description>Recent content in Cell Cycle on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/cell-cycle/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://notesfinity.com/tags/cell-cycle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Concept of Cell Cycle</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/cell-division/concept-of-cell-cycle/</link>
+      <link>https://notesfinity.com/notes/neb/bio11/botany/cell-division/concept-of-cell-cycle/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/cell-division/concept-of-cell-cycle/</guid>
+      <guid>https://notesfinity.com/notes/neb/bio11/botany/cell-division/concept-of-cell-cycle/</guid>
       <description>&lt;h1 id=&#34;concept-of-cell-cycle&#34;&gt;Concept of Cell Cycle&lt;/h1&gt;&#xA;&lt;p&gt;The cell cycle is a series of highly regulated events that lead to the division and replication of a cell. It consists of several distinct phases, each with specific functions that ensure proper cell growth, accurate DNA replication, and eventual division into two daughter cells. The cell cycle is essential for:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Growth:&lt;/strong&gt; Facilitating the increase in cell number and size during organismal development.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Development:&lt;/strong&gt; Allowing for the differentiation of cells into specialized types for various functions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Maintenance:&lt;/strong&gt; Enabling tissue repair and regeneration by replacing damaged or dead cells.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Overall, the cell cycle plays a crucial role in the life cycle of all living organisms, ensuring that cells replicate accurately and maintain genomic integrity.&lt;/p&gt;</description>
     </item>
   </channel>
