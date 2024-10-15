@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biofuel on Notesfinity</title>
-    <link>https://notesfinity.com/tags/biofuel/</link>
+    <link>http://localhost:1313/tags/biofuel/</link>
     <description>Recent content in Biofuel on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/biofuel/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/biofuel/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Economic Importance of Algae</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/algae/economic-importance/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/algae/economic-importance/</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/algae/economic-importance/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/algae/economic-importance/</guid>
       <description>&lt;h1 id=&#34;economic-importance-of-algae&#34;&gt;Economic Importance of Algae&lt;/h1&gt;&#xA;&lt;p&gt;Algae, a diverse group of photosynthetic organisms found in various aquatic environments, hold significant economic value due to their versatility and sustainability. Their applications range from renewable energy production to agriculture, aquaculture, pharmaceuticals, and cosmetics, positioning algae as a key resource in the global push toward sustainable development. This section delves deeper into how algae are used across various industries, highlighting their importance in modern economies and potential for environmental benefits.&lt;/p&gt;</description>
     </item>
   </channel>

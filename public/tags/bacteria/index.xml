@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Bacteria on Notesfinity</title>
-    <link>https://notesfinity.com/tags/bacteria/</link>
+    <link>http://localhost:1313/tags/bacteria/</link>
     <description>Recent content in Bacteria on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Thu, 10 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/bacteria/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/bacteria/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monera: General Introduction, Structure of Bacterial Cell, Mode of Nutrition, Bacterial Growth</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/introductory-microbiology/monera/monera/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/introductory-microbiology/monera/monera/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/introductory-microbiology/monera/monera/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/introductory-microbiology/monera/monera/</guid>
       <description>&lt;h1 id=&#34;monera-general-introduction-structure-of-bacterial-cell-mode-of-nutrition-bacterial-growth&#34;&gt;Monera: General Introduction, Structure of Bacterial Cell, Mode of Nutrition, Bacterial Growth&lt;/h1&gt;&#xA;&lt;p&gt;Monera is a kingdom that includes all prokaryotic organisms, primarily bacteria. These organisms are characterized by their simple cellular structure, lack of membrane-bound organelles, and ability to thrive in diverse environments. Bacteria are vital to many ecological processes, including decomposition, nitrogen fixation, and various biogeochemical cycles. They play essential roles in nutrient cycling, the production of oxygen, and the breakdown of organic matter, which ultimately supports life on Earth.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Three Domains of Life</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/introduction/three-domains-of-life/</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/introduction/three-domains-of-life/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/introduction/three-domains-of-life/</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/introduction/three-domains-of-life/</guid>
       <description>&lt;h1 id=&#34;three-domains-of-life&#34;&gt;Three Domains of Life&lt;/h1&gt;&#xA;&lt;p&gt;The classification of life on Earth is organized into three primary domains: Archaea, Bacteria, and Eukarya. This classification is based on genetic and biochemical differences, providing insights into the diversity of life forms. Understanding these domains helps us appreciate the evolutionary relationships between different organisms and the environments they inhabit.&lt;/p&gt;&#xA;&lt;figure class=&#34;fig&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Phylogenetic_tree.svg/440px-Phylogenetic_tree.svg.png&#34;&#xA;    alt=&#34;Phylogenetic Tree of Life&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;A phylogenetic tree based on rRNA data, emphasizing the separation of bacteria, archaea, and eukarya as proposed by Carl Woese et al. in 1990, with the hypothetical last universal common ancestor.&lt;/p&gt;</description>
     </item>
   </channel>
