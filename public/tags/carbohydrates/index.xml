@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Carbohydrates on Notesfinity</title>
-    <link>https://notesfinity.com/tags/carbohydrates.html</link>
+    <link>http://localhost:1313/tags/carbohydrates.html</link>
     <description>Recent content in Carbohydrates on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/carbohydrates/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/carbohydrates/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction and Functions of Carbohydrates</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/biomolecules-cell/carbohydrates.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/carbohydrates.html</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/biomolecules-cell/carbohydrates.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/carbohydrates.html</guid>
       <description>&lt;h1 id=&#34;introduction-and-functions-of-carbohydrates&#34;&gt;Introduction and Functions of Carbohydrates&lt;/h1&gt;&#xA;&lt;p&gt;Carbohydrates are organic compounds composed of carbon, hydrogen, and oxygen, typically in a ratio of 1:2:1. They are essential macromolecules in living organisms, serving various functions from providing energy to structural support in cells. Carbohydrates are classified into three main categories: monosaccharides, disaccharides, and polysaccharides, each playing unique roles in biological processes.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-functions-of-carbohydrates&#34;&gt;1. Functions of Carbohydrates&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-energy-source&#34;&gt;a. Energy Source&lt;/h3&gt;&#xA;&lt;p&gt;Carbohydrates are the body&amp;rsquo;s primary energy source. They are broken down into glucose, which is utilized by cells to produce ATP (adenosine triphosphate) through cellular respiration.&lt;/p&gt;</description>
     </item>
   </channel>

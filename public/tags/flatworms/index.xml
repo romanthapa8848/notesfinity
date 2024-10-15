@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Flatworms on Notesfinity</title>
-    <link>https://notesfinity.com/tags/flatworms.html</link>
+    <link>http://localhost:1313/tags/flatworms.html</link>
     <description>Recent content in Flatworms on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 15 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/flatworms/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/flatworms/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Platyhelminthes: Diagnostic Features and Classification Up to Class with Examples</title>
-      <link>https://notesfinity.com/notes/neb/bio11/zoology/faunal-diversity/animalia/platyhelminthes.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/zoology/faunal-diversity/animalia/platyhelminthes.html</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/zoology/faunal-diversity/animalia/platyhelminthes.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/zoology/faunal-diversity/animalia/platyhelminthes.html</guid>
       <description>&lt;h1 id=&#34;platyhelminthes-diagnostic-features-and-classification-up-to-class-with-examples&#34;&gt;Platyhelminthes: Diagnostic Features and Classification Up to Class with Examples&lt;/h1&gt;&#xA;&lt;p&gt;Platyhelminthes, commonly known as flatworms, are a phylum of soft-bodied invertebrates primarily characterized by their flat, elongated bodies. These organisms display a wide range of forms, including both free-living species found in various environments and parasitic species that inhabit the bodies of other organisms. Their unique structural and functional adaptations make them an interesting group in the animal kingdom.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;diagnostic-features&#34;&gt;Diagnostic Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Body Shape:&lt;/strong&gt; Platyhelminthes have a distinctive flat and elongated body shape, which increases their surface area relative to their volume. This flatness facilitates efficient gas exchange and nutrient absorption, essential for their survival, especially in aquatic environments.&lt;/p&gt;</description>
     </item>
   </channel>

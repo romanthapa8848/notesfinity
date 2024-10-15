@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Protected Areas on Notesfinity</title>
-    <link>https://notesfinity.com/tags/protected-areas.html</link>
+    <link>http://localhost:1313/tags/protected-areas.html</link>
     <description>Recent content in Protected Areas on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/protected-areas/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/protected-areas/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>In-situ (Protected Areas) and Ex-situ (Botanical Garden, Seed Bank) Conservation</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/vegetation/vegetation/in-situ-ex-situ-conservation.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/vegetation/vegetation/in-situ-ex-situ-conservation.html</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/vegetation/vegetation/in-situ-ex-situ-conservation.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/vegetation/vegetation/in-situ-ex-situ-conservation.html</guid>
       <description>&lt;h1 id=&#34;in-situ-protected-areas-and-ex-situ-botanical-garden-seed-bank-conservation&#34;&gt;In-situ (Protected Areas) and Ex-situ (Botanical Garden, Seed Bank) Conservation&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Conservation is crucial for preserving biodiversity and ensuring the survival of various species. Two primary approaches to conservation are in-situ and ex-situ methods. Both play significant roles in protecting the environment and maintaining ecological balance.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;in-situ-conservation&#34;&gt;In-situ Conservation&lt;/h2&gt;&#xA;&lt;p&gt;In-situ conservation refers to the protection of species in their natural habitats. This method aims to maintain and restore ecosystems while allowing species to thrive in their native environments.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Amitosis on Notesfinity</title>
-    <link>https://notesfinity.com/tags/amitosis.html</link>
+    <link>http://localhost:1313/tags/amitosis.html</link>
     <description>Recent content in Amitosis on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/amitosis/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/amitosis/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Amitosis</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/cell-division/types-of-cell-division/amitosis.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/cell-division/types-of-cell-division/amitosis.html</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/cell-division/types-of-cell-division/amitosis.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/cell-division/types-of-cell-division/amitosis.html</guid>
       <description>&lt;h1 id=&#34;amitosis&#34;&gt;Amitosis&lt;/h1&gt;&#xA;&lt;p&gt;Amitosis is a form of direct cell division that occurs without the conventional stages of mitosis. It is characterized by the splitting of the nucleus and cytoplasm directly into two daughter cells. This process is often observed in certain unicellular organisms and specific somatic cells. Amitosis represents a simpler and quicker mode of cell division compared to mitosis, making it advantageous in particular biological contexts.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-definition-of-amitosis&#34;&gt;1. Definition of Amitosis&lt;/h2&gt;&#xA;&lt;p&gt;Amitosis is defined as a form of cell division that occurs by the simple separation of the cell&amp;rsquo;s nucleus and cytoplasm, leading to the formation of two daughter cells. Unlike mitosis, this process does not involve the usual phases such as prophase, metaphase, anaphase, and telophase. Instead, it allows cells to replicate rapidly and efficiently, particularly in conditions where resources or time are limited.&lt;/p&gt;</description>
     </item>
   </channel>

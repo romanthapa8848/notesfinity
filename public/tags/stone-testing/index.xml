@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Stone Testing on Notesfinity</title>
-    <link>https://notesfinity.com/tags/stone-testing.html</link>
+    <link>http://localhost:1313/tags/stone-testing.html</link>
     <description>Recent content in Stone Testing on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 07 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/stone-testing/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/stone-testing/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Compressive Strength Test of Brick and Stone</title>
-      <link>https://notesfinity.com/notes/ioe/cem/practical/compressive-strength-test.html</link>
+      <link>http://localhost:1313/notes/ioe/cem/practical/compressive-strength-test.html</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/ioe/cem/practical/compressive-strength-test.html</guid>
+      <guid>http://localhost:1313/notes/ioe/cem/practical/compressive-strength-test.html</guid>
       <description>&lt;h1 id=&#34;compressive-strength-test-of-brick-and-stone&#34;&gt;Compressive Strength Test of Brick and Stone&lt;/h1&gt;&#xA;&lt;p&gt;The compressive strength test is crucial for evaluating the load-bearing capacity of brick and stone samples. This test determines how much axial load a material can withstand before failing, which is essential for structural design and safety.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Compressive strength is a key property of construction materials, indicating their ability to resist axial loads without failure. Understanding the compressive strength of bricks and stones is vital for ensuring the safety and durability of structures.&lt;/p&gt;</description>
     </item>
   </channel>

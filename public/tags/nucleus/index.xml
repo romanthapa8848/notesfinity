@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nucleus on Notesfinity</title>
-    <link>https://notesfinity.com/tags/nucleus.html</link>
+    <link>http://localhost:1313/tags/nucleus.html</link>
     <description>Recent content in Nucleus on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 08 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/nucleus/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/nucleus/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Composition, Structure, and Functions of Nucleus</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/cell/eukaryotic/nucleus.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/nucleus.html</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/cell/eukaryotic/nucleus.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/cell/eukaryotic/nucleus.html</guid>
       <description>&lt;h1 id=&#34;composition-structure-and-functions-of-nucleus&#34;&gt;Composition, Structure, and Functions of Nucleus&lt;/h1&gt;&#xA;&lt;p&gt;The nucleus is a membrane-bound organelle found in eukaryotic cells and serves as the control center, housing the cell&amp;rsquo;s genetic material. It is responsible for regulating cellular activities such as growth, metabolism, and reproduction by controlling gene expression. The nucleus plays a critical role in the storage and transmission of genetic information through DNA.&lt;/p&gt;&#xA;&lt;figure class=&#34;fig&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/6/6c/HeLa_cells_stained_with_Hoechst_33258.jpg&#34;&#xA;    alt=&#34;HeLa Cells&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;HeLa cells stained for nuclear DNA with the blue fluorescent Hoechst dye. The central and rightmost cells are in interphase, thus their entire nuclei are labeled. On the left, a cell is going through mitosis and its DNA has condensed.&lt;/p&gt;</description>
     </item>
   </channel>

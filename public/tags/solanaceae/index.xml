@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Solanaceae on Notesfinity</title>
-    <link>https://notesfinity.com/tags/solanaceae.html</link>
+    <link>http://localhost:1313/tags/solanaceae.html</link>
     <description>Recent content in Solanaceae on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 09 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/solanaceae/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/solanaceae/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Taxonomic Description of the Family Solanaceae with Economic Importance</title>
-      <link>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/angiosperm/solanaceae.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/angiosperm/solanaceae.html</link>
       <pubDate>Wed, 09 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/botany/floral-diversity/angiosperm/solanaceae.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/angiosperm/solanaceae.html</guid>
       <description>&lt;h1 id=&#34;taxonomic-description-of-the-family-solanaceae-with-economic-importance&#34;&gt;Taxonomic Description of the Family Solanaceae with Economic Importance&lt;/h1&gt;&#xA;&lt;p&gt;The Solanaceae family, commonly known as the nightshade family, comprises a diverse array of flowering plants that play significant ecological and economic roles in various environments. This family is remarkable for its wide range of species, which includes not only essential food crops such as tomatoes, potatoes, eggplants, and peppers but also various ornamental and medicinal plants. The economic importance of the Solanaceae family is underscored by its contributions to global food security, culinary diversity, and the pharmaceutical industry.&lt;/p&gt;</description>
     </item>
   </channel>

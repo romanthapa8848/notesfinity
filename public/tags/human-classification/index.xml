@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Human Classification on Notesfinity</title>
-    <link>https://notesfinity.com/tags/human-classification.html</link>
+    <link>http://localhost:1313/tags/human-classification.html</link>
     <description>Recent content in Human Classification on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/human-classification/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/human-classification/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Position of Man in Animal Kingdom</title>
-      <link>https://notesfinity.com/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/position-of-man.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/position-of-man.html</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/position-of-man.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/human-evolution/position-of-man.html</guid>
       <description>&lt;h1 id=&#34;position-of-man-in-animal-kingdom&#34;&gt;Position of Man in Animal Kingdom&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Humans, scientifically known as &lt;strong&gt;Homo sapiens&lt;/strong&gt;, hold a unique position in the animal kingdom. This position is defined by their classification within the broader hierarchy of life, emphasizing their evolutionary history, anatomical features, and behavioral characteristics.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;taxonomic-classification-of-humans&#34;&gt;Taxonomic Classification of Humans&lt;/h2&gt;&#xA;&lt;p&gt;Humans belong to the following taxonomic categories:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Domain&lt;/strong&gt;: Eukarya&lt;br&gt;&#xA;Organisms with complex cells containing a nucleus.&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Kingdom&lt;/strong&gt;: Animalia&lt;br&gt;&#xA;Multicellular, heterotrophic organisms that do not have cell walls.&lt;/p&gt;</description>
     </item>
   </channel>

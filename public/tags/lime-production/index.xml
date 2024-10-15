@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Lime Production on Notesfinity</title>
-    <link>https://notesfinity.com/tags/lime-production.html</link>
+    <link>http://localhost:1313/tags/lime-production.html</link>
     <description>Recent content in Lime Production on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 06 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/lime-production/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/lime-production/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Lime: Introduction</title>
-      <link>https://notesfinity.com/notes/ioe/cem/lime/intro.html</link>
+      <link>http://localhost:1313/notes/ioe/cem/lime/intro.html</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/ioe/cem/lime/intro.html</guid>
+      <guid>http://localhost:1313/notes/ioe/cem/lime/intro.html</guid>
       <description>&lt;h1 id=&#34;lime-introduction&#34;&gt;Lime: Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Lime is a versatile construction material that has been used for thousands of years. It is derived from limestone and is primarily used in various forms as a binding agent, soil stabilizer, and component in construction materials. This document provides an overview of lime, including its types, properties, production processes, and applications in various industries.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-types-of-lime&#34;&gt;1. Types of Lime&lt;/h2&gt;&#xA;&lt;p&gt;Lime can be categorized into several types based on its production and chemical composition:&lt;/p&gt;</description>
     </item>
   </channel>

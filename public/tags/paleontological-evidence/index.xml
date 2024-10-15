@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Paleontological Evidence on Notesfinity</title>
-    <link>https://notesfinity.com/tags/paleontological-evidence.html</link>
+    <link>http://localhost:1313/tags/paleontological-evidence.html</link>
     <description>Recent content in Paleontological Evidence on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 11 Oct 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://notesfinity.com/tags/paleontological-evidence/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/paleontological-evidence/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Evidences of Evolution</title>
-      <link>https://notesfinity.com/notes/neb/bio11/zoology/evolutionary-biology/evidences-of-evolution.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/evidences-of-evolution.html</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>https://notesfinity.com/notes/neb/bio11/zoology/evolutionary-biology/evidences-of-evolution.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/zoology/evolutionary-biology/evidences-of-evolution.html</guid>
       <description>&lt;h1 id=&#34;evidences-of-evolution&#34;&gt;Evidences of Evolution&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;introduction&#34;&gt;Introduction&lt;/h2&gt;&#xA;&lt;p&gt;The theory of evolution explains how species change over time through processes like natural selection and adaptation. Various types of evidence support this theory, helping us understand how life has diversified on Earth. These evidences include &lt;strong&gt;morphological&lt;/strong&gt;, &lt;strong&gt;anatomical&lt;/strong&gt;, &lt;strong&gt;paleontological&lt;/strong&gt;, &lt;strong&gt;embryological&lt;/strong&gt;, and &lt;strong&gt;biochemical&lt;/strong&gt; evidence.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-morphological-evidence&#34;&gt;1. Morphological Evidence&lt;/h2&gt;&#xA;&lt;p&gt;Morphological evidence refers to the study of the form and structure of organisms. It includes:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Homologous Structures&lt;/strong&gt;: Similar in structure but serve different functions in different species.&lt;/p&gt;</description>
     </item>
   </channel>
