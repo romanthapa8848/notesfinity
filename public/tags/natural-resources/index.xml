@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Natural Resources on Notesfinity</title>
-    <link>http://localhost:1313/tags/natural-resources.html</link>
+    <link>http://localhost:1313/tags/natural-resources/</link>
     <description>Recent content in Natural Resources on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/natural-resources/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Building Stones: Introduction</title>
-      <link>http://localhost:1313/notes/ioe/cem/building-stones/intro.html</link>
+      <link>http://localhost:1313/notes/ioe/cem/building-stones/intro/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/ioe/cem/building-stones/intro.html</guid>
+      <guid>http://localhost:1313/notes/ioe/cem/building-stones/intro/</guid>
       <description>&lt;h1 id=&#34;building-stones-introduction&#34;&gt;Building Stones: Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Building stones have been used for construction since ancient times, playing a crucial role in the architectural heritage of many cultures. Their natural beauty, durability, and versatility make them a popular choice for various construction applications. This document provides an overview of building stones, covering their types, properties, uses, and significance in modern construction.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-types-of-building-stones&#34;&gt;1. Types of Building Stones&lt;/h2&gt;&#xA;&lt;p&gt;Building stones can be categorized based on their origin, composition, and geological formation. The primary types include:&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Genetic Variation on Notesfinity</title>
-    <link>http://localhost:1313/tags/genetic-variation.html</link>
+    <link>http://localhost:1313/tags/genetic-variation/</link>
     <description>Recent content in Genetic Variation on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/genetic-variation/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Meiosis</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/cell-division/types-of-cell-division/meiosis.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/cell-division/types-of-cell-division/meiosis/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/cell-division/types-of-cell-division/meiosis.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/cell-division/types-of-cell-division/meiosis/</guid>
       <description>&lt;h1 id=&#34;meiosis&#34;&gt;Meiosis&lt;/h1&gt;&#xA;&lt;p&gt;Meiosis is a specialized form of cell division that occurs in eukaryotic organisms, resulting in the formation of gametes (sperm and eggs) with half the chromosome number of the parent cell. This process is crucial for sexual reproduction and contributes to genetic diversity among offspring. Unlike mitosis, which produces two genetically identical cells, meiosis produces four genetically diverse haploid cells.&lt;/p&gt;&#xA;&lt;figure class=&#34;fig&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Meiosis_Overview_new.svg/1024px-Meiosis_Overview_new.svg.png&#34;&#xA;    alt=&#34;Meiosis Overview&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;In meiosis, the chromosomes duplicate (during interphase) and homologous chromosomes exchange genetic information (chromosomal crossover) during the first division, called meiosis I. The daughter cells divide again in meiosis II, splitting up sister chromatids to form haploid gametes. Two gametes fuse during fertilization, forming a diploid cell (zygote) with a complete set of paired chromosomes.&lt;/p&gt;</description>
     </item>
   </channel>

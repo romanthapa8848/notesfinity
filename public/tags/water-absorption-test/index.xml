@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Water Absorption Test on Notesfinity</title>
-    <link>http://localhost:1313/tags/water-absorption-test.html</link>
+    <link>http://localhost:1313/tags/water-absorption-test/</link>
     <description>Recent content in Water Absorption Test on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/water-absorption-test/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Water Absorption Test and Bulk Specific Gravity Test on Brick Sample</title>
-      <link>http://localhost:1313/notes/ioe/cem/practical/water-absorption-test.html</link>
+      <link>http://localhost:1313/notes/ioe/cem/practical/water-absorption-test/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/ioe/cem/practical/water-absorption-test.html</guid>
+      <guid>http://localhost:1313/notes/ioe/cem/practical/water-absorption-test/</guid>
       <description>&lt;h1 id=&#34;water-absorption-test-and-bulk-specific-gravity-test-on-brick-sample&#34;&gt;Water Absorption Test and Bulk Specific Gravity Test on Brick Sample&lt;/h1&gt;&#xA;&lt;p&gt;The Water Absorption Test and Bulk Specific Gravity Test are essential procedures for assessing the physical properties of brick samples. These tests help determine the durability and suitability of bricks for construction purposes.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-introduction&#34;&gt;1. Introduction&lt;/h2&gt;&#xA;&lt;p&gt;Bricks are one of the most widely used building materials in construction. Understanding their physical properties, such as water absorption and specific gravity, is crucial for ensuring quality and durability in masonry applications. The Water Absorption Test measures the porosity of bricks, while the Bulk Specific Gravity Test evaluates their density.&lt;/p&gt;</description>
     </item>
   </channel>

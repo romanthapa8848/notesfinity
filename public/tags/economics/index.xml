@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Economics on Notesfinity</title>
-    <link>http://localhost:1313/tags/economics.html</link>
+    <link>http://localhost:1313/tags/economics/</link>
     <description>Recent content in Economics on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/economics/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Economic Importance of Fungi</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/fungi/economic-importance.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/fungi/economic-importance/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/fungi/economic-importance.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/floral-diversity/fungi/economic-importance/</guid>
       <description>&lt;h1 id=&#34;economic-importance-of-fungi&#34;&gt;Economic Importance of Fungi&lt;/h1&gt;&#xA;&lt;p&gt;Fungi play a crucial role in various sectors of the economy, contributing significantly to food production, medicine, agriculture, and industry. Their diverse applications underscore their significance in human life and the environment. This document explores the multifaceted economic importance of fungi in greater detail.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-fungi-in-food-production&#34;&gt;1. Fungi in Food Production&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-edible-fungi&#34;&gt;a. Edible Fungi&lt;/h3&gt;&#xA;&lt;p&gt;Edible fungi have become a staple in global cuisine and agriculture. Their cultivation and consumption are not only integral to diets but also contribute to economic growth.&lt;/p&gt;</description>
     </item>
   </channel>

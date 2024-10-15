@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Monera on Notesfinity</title>
-    <link>http://localhost:1313/tags/monera.html</link>
+    <link>http://localhost:1313/tags/monera/</link>
     <description>Recent content in Monera on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/monera/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Monera: General Introduction, Structure of Bacterial Cell, Mode of Nutrition, Bacterial Growth</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/introductory-microbiology/monera/monera.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/introductory-microbiology/monera/monera/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/introductory-microbiology/monera/monera.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/introductory-microbiology/monera/monera/</guid>
       <description>&lt;h1 id=&#34;monera-general-introduction-structure-of-bacterial-cell-mode-of-nutrition-bacterial-growth&#34;&gt;Monera: General Introduction, Structure of Bacterial Cell, Mode of Nutrition, Bacterial Growth&lt;/h1&gt;&#xA;&lt;p&gt;Monera is a kingdom that includes all prokaryotic organisms, primarily bacteria. These organisms are characterized by their simple cellular structure, lack of membrane-bound organelles, and ability to thrive in diverse environments. Bacteria are vital to many ecological processes, including decomposition, nitrogen fixation, and various biogeochemical cycles. They play essential roles in nutrient cycling, the production of oxygen, and the breakdown of organic matter, which ultimately supports life on Earth.&lt;/p&gt;</description>
     </item>
   </channel>

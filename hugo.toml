@@ -3,7 +3,7 @@ languageCode = 'en-us'
 title = 'Notesfinity'
 theme = 'notesfinity'
 
-uglyURLs = true
+uglyURLs = false
 
 [markup.goldmark.renderer]
 unsafe = true

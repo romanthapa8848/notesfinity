@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Insulating Materials on Notesfinity</title>
-    <link>http://localhost:1313/tags/insulating-materials.html</link>
+    <link>http://localhost:1313/tags/insulating-materials/</link>
     <description>Recent content in Insulating Materials on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/insulating-materials/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Types, Properties, and Uses of Insulating Materials</title>
-      <link>http://localhost:1313/notes/ioe/cem/asphalt-bitumen-tar/insulating-materials.html</link>
+      <link>http://localhost:1313/notes/ioe/cem/asphalt-bitumen-tar/insulating-materials/</link>
       <pubDate>Mon, 07 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/ioe/cem/asphalt-bitumen-tar/insulating-materials.html</guid>
+      <guid>http://localhost:1313/notes/ioe/cem/asphalt-bitumen-tar/insulating-materials/</guid>
       <description>&lt;h1 id=&#34;types-properties-and-uses-of-insulating-materials&#34;&gt;Types, Properties, and Uses of Insulating Materials&lt;/h1&gt;&#xA;&lt;p&gt;Insulating materials play a critical role in construction, improving energy efficiency, regulating temperatures, and providing acoustic control in buildings. These materials are used to reduce heat transfer, minimize noise, and enhance the comfort of residential, commercial, and industrial structures.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-what-are-insulating-materials&#34;&gt;1. What are Insulating Materials?&lt;/h2&gt;&#xA;&lt;p&gt;Insulating materials are substances used to prevent the passage of heat, sound, or electricity from one medium to another. In the context of construction, insulation is primarily applied for thermal and acoustic purposes. Different types of insulation materials are chosen based on their properties and the specific requirements of the building project.&lt;/p&gt;</description>
     </item>
   </channel>

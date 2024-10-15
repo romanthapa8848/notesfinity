@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Steel Alloys on Notesfinity</title>
-    <link>http://localhost:1313/tags/steel-alloys.html</link>
+    <link>http://localhost:1313/tags/steel-alloys/</link>
     <description>Recent content in Steel Alloys on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/steel-alloys/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Alloy of Steel</title>
-      <link>http://localhost:1313/notes/ioe/cem/metals-and-alloys/alloy-of-steel.html</link>
+      <link>http://localhost:1313/notes/ioe/cem/metals-and-alloys/alloy-of-steel/</link>
       <pubDate>Sun, 06 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/ioe/cem/metals-and-alloys/alloy-of-steel.html</guid>
+      <guid>http://localhost:1313/notes/ioe/cem/metals-and-alloys/alloy-of-steel/</guid>
       <description>&lt;h1 id=&#34;alloy-of-steel&#34;&gt;Alloy of Steel&lt;/h1&gt;&#xA;&lt;p&gt;Steel alloys are variations of steel that are created by combining iron with other elements to enhance specific properties. These alloys play a vital role in various industries, providing strength, durability, and resistance to wear, corrosion, and other environmental factors.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-definition-of-steel-alloy&#34;&gt;1. Definition of Steel Alloy&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;steel alloy&lt;/strong&gt; is a combination of iron with one or more alloying elements such as carbon, manganese, chromium, nickel, molybdenum, and vanadium. The addition of these elements modifies the properties of steel, making it suitable for specific applications.&lt;/p&gt;</description>
     </item>
   </channel>

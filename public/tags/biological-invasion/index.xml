@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biological Invasion on Notesfinity</title>
-    <link>http://localhost:1313/tags/biological-invasion.html</link>
+    <link>http://localhost:1313/tags/biological-invasion/</link>
     <description>Recent content in Biological Invasion on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/biological-invasion/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biological Invasion</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-imbalances/biological-invasion.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-imbalances/biological-invasion/</link>
       <pubDate>Fri, 11 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-imbalances/biological-invasion.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecological-imbalances/biological-invasion/</guid>
       <description>&lt;h1 id=&#34;biological-invasion&#34;&gt;Biological Invasion&lt;/h1&gt;&#xA;&lt;h2 id=&#34;what-is-biological-invasion&#34;&gt;What is Biological Invasion?&lt;/h2&gt;&#xA;&lt;p&gt;Biological invasion occurs when non-native species, also known as invasive species, are introduced to a new habitat. In these new environments, they establish themselves, spread, and often cause harm to the local ecosystem, economy, or even human health. These invasions can happen due to various human activities, such as trade, travel, and agriculture. For example, when ships transport goods from one country to another, they might unintentionally carry small plants or animals that can thrive in the new location, disrupting the local environment.&lt;/p&gt;</description>
     </item>
   </channel>

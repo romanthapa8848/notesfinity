@@ -20,6 +20,8 @@ Platyhelminthes, commonly known as flatworms, are a phylum of soft-bodied invert
 
 - **Body Shape:** Platyhelminthes have a distinctive flat and elongated body shape, which increases their surface area relative to their volume. This flatness facilitates efficient gas exchange and nutrient absorption, essential for their survival, especially in aquatic environments.
 
+{{< figure src="https://image.slidesharecdn.com/flatwormscycycy-130318192346-phpapp02/85/Phylum-Platyhelminthes-66-320.jpg" alt="Platyhelminthes Body Structure" caption="Platyhelminthes body structure." class="fig" >}}
+
 - **Tissue Layers:** They are triploblastic, meaning they possess three germ layers: ectoderm, mesoderm, and endoderm. This tissue organization allows for more complex body structures and functions compared to diploblastic organisms.
 
 - **Body Cavity:** Platyhelminthes are acoelomate, meaning they lack a true body cavity (coelom). Instead, the space between their tissues is filled with mesenchyme, a gel-like substance that provides support and allows for the distribution of nutrients and waste.

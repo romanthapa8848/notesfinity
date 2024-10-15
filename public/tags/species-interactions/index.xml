@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Species Interactions on Notesfinity</title>
-    <link>http://localhost:1313/tags/species-interactions.html</link>
+    <link>http://localhost:1313/tags/species-interactions/</link>
     <description>Recent content in Species Interactions on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/species-interactions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Species Interactions</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/species-interactions.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/species-interactions/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/species-interactions.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/species-interactions/</guid>
       <description>&lt;h1 id=&#34;species-interactions&#34;&gt;Species Interactions&lt;/h1&gt;&#xA;&lt;p&gt;Species interactions refer to the various ways in which species interact with each other within an ecosystem. These interactions shape the structure and dynamics of ecosystems and can influence the survival and reproduction of species. The main types of species interactions include competition, predation, parasitism, mutualism, and commensalism.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;types-of-species-interactions&#34;&gt;Types of Species Interactions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-competition&#34;&gt;1. Competition&lt;/h3&gt;&#xA;&lt;p&gt;Competition occurs when two or more species vie for the same resources, such as food, space, or light. This can lead to competitive exclusion, where one species outcompetes the other, or niche differentiation, where species evolve to use different resources.&#xA;Competition can be categorized as:&lt;/p&gt;</description>
     </item>
   </channel>

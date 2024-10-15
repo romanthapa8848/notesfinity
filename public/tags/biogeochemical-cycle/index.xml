@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biogeochemical Cycle on Notesfinity</title>
-    <link>http://localhost:1313/tags/biogeochemical-cycle.html</link>
+    <link>http://localhost:1313/tags/biogeochemical-cycle/</link>
     <description>Recent content in Biogeochemical Cycle on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/biogeochemical-cycle/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Biogeochemical Cycle</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/biogeochemical-cycle.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/biogeochemical-cycle/</link>
       <pubDate>Thu, 10 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/biogeochemical-cycle.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/ecology/ecosystem-ecology/biogeochemical-cycle/</guid>
       <description>&lt;h1 id=&#34;biogeochemical-cycle&#34;&gt;Biogeochemical Cycle&lt;/h1&gt;&#xA;&lt;p&gt;Biogeochemical cycles refer to the natural processes that recycle nutrients in various chemical forms from the environment to organisms and back to the environment. These cycles are vital for sustaining life on Earth, as they ensure the availability of essential nutrients for various biological processes. By facilitating the movement of elements through different compartments of the ecosystem, these cycles support life and maintain ecological balance.&lt;/p&gt;&#xA;&lt;figure class=&#34;fig&#34;&gt;&lt;img src=&#34;https://upload.wikimedia.org/wikipedia/commons/7/72/Generalized_biogeochemical_cycle.jpg&#34;&#xA;    alt=&#34;Generalized Biogeochemical Cycle&#34;&gt;&lt;figcaption&gt;&#xA;      &lt;p&gt;Generalized biogeochemical cycle.&lt;/p&gt;</description>
     </item>
   </channel>

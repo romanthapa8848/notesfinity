@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biochemistry on Notesfinity</title>
-    <link>http://localhost:1313/tags/biochemistry.html</link>
+    <link>http://localhost:1313/tags/biochemistry/</link>
     <description>Recent content in Biochemistry on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,51 +10,51 @@
     <atom:link href="http://localhost:1313/tags/biochemistry/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Introduction and Functions of Carbohydrates</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/carbohydrates.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/carbohydrates/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/carbohydrates.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/carbohydrates/</guid>
       <description>&lt;h1 id=&#34;introduction-and-functions-of-carbohydrates&#34;&gt;Introduction and Functions of Carbohydrates&lt;/h1&gt;&#xA;&lt;p&gt;Carbohydrates are organic compounds composed of carbon, hydrogen, and oxygen, typically in a ratio of 1:2:1. They are essential macromolecules in living organisms, serving various functions from providing energy to structural support in cells. Carbohydrates are classified into three main categories: monosaccharides, disaccharides, and polysaccharides, each playing unique roles in biological processes.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-functions-of-carbohydrates&#34;&gt;1. Functions of Carbohydrates&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-energy-source&#34;&gt;a. Energy Source&lt;/h3&gt;&#xA;&lt;p&gt;Carbohydrates are the body&amp;rsquo;s primary energy source. They are broken down into glucose, which is utilized by cells to produce ATP (adenosine triphosphate) through cellular respiration.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction and Functions of Enzymes</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/enzymes.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/enzymes/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/enzymes.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/enzymes/</guid>
       <description>&lt;h1 id=&#34;introduction-and-functions-of-enzymes&#34;&gt;Introduction and Functions of Enzymes&lt;/h1&gt;&#xA;&lt;p&gt;Enzymes are biological catalysts that accelerate chemical reactions in living organisms. Composed mainly of proteins, enzymes lower the activation energy required for reactions, thereby increasing the rate of biochemical processes. They are vital for metabolism, digestion, and numerous cellular functions, enabling organisms to sustain life by facilitating essential chemical transformations.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-functions-of-enzymes&#34;&gt;1. Functions of Enzymes&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-catalysis&#34;&gt;a. Catalysis&lt;/h3&gt;&#xA;&lt;p&gt;Enzymes act as catalysts, speeding up chemical reactions without being consumed in the process. This allows reactions to occur at rates necessary for life, often millions of times faster than they would occur spontaneously.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction and Functions of Lipids</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/lipids.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/lipids/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/lipids.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/lipids/</guid>
       <description>&lt;h1 id=&#34;introduction-and-functions-of-lipids&#34;&gt;Introduction and Functions of Lipids&lt;/h1&gt;&#xA;&lt;p&gt;Lipids are a diverse group of hydrophobic organic compounds that play crucial roles in biological systems. They are primarily composed of carbon, hydrogen, and oxygen, and are characterized by their insolubility in water. Lipids serve as essential components of cell membranes, energy storage molecules, and signaling molecules, making them vital for the structure and function of living organisms.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-functions-of-lipids&#34;&gt;1. Functions of Lipids&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-energy-storage&#34;&gt;a. Energy Storage&lt;/h3&gt;&#xA;&lt;p&gt;Lipids are a major source of energy for organisms. They store energy in the form of triglycerides, which can be broken down during metabolic processes to release energy when needed.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction and Functions of Minerals</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/minerals.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/minerals/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/minerals.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/minerals/</guid>
       <description>&lt;h1 id=&#34;introduction-and-functions-of-minerals&#34;&gt;Introduction and Functions of Minerals&lt;/h1&gt;&#xA;&lt;p&gt;Minerals are inorganic nutrients that play crucial roles in various biological processes. They are essential for maintaining health and are involved in numerous physiological functions, including building strong bones, transmitting nerve impulses, and regulating metabolism. Minerals are classified into two categories: macrominerals (needed in larger amounts) and trace minerals (required in smaller quantities). Understanding the functions and importance of minerals is vital for proper nutrition and overall health.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction and Functions of Nucleic Acids</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/nucleic-acids.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/nucleic-acids/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/nucleic-acids.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/nucleic-acids/</guid>
       <description>&lt;h1 id=&#34;introduction-and-functions-of-nucleic-acids&#34;&gt;Introduction and Functions of Nucleic Acids&lt;/h1&gt;&#xA;&lt;p&gt;Nucleic acids are essential macromolecules found in all living organisms, serving as the primary carriers of genetic information. Composed of nucleotide monomers, nucleic acids include deoxyribonucleic acid (DNA) and ribonucleic acid (RNA), each playing crucial roles in heredity, gene expression, and protein synthesis. Understanding nucleic acids is fundamental to molecular biology and genetics, as they are key players in the transmission of biological information from one generation to the next.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction and Functions of Proteins</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/proteins.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/proteins/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/proteins.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/proteins/</guid>
       <description>&lt;h1 id=&#34;introduction-and-functions-of-proteins&#34;&gt;Introduction and Functions of Proteins&lt;/h1&gt;&#xA;&lt;p&gt;Proteins are essential macromolecules composed of amino acids, which are linked together by peptide bonds. They play a crucial role in virtually every biological process, acting as enzymes, structural components, and signaling molecules. Proteins are involved in cell structure, function, and regulation of the body&amp;rsquo;s tissues and organs, making them vital for life.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-functions-of-proteins&#34;&gt;1. Functions of Proteins&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-enzymatic-activity&#34;&gt;a. Enzymatic Activity&lt;/h3&gt;&#xA;&lt;p&gt;Proteins function as enzymes, catalyzing biochemical reactions that are essential for metabolic processes. Enzymes lower the activation energy required for reactions, increasing the rate at which they occur.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction and Functions of Water</title>
-      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/water.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/water/</link>
       <pubDate>Tue, 08 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/water.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/botany/biomolecules-cell/water/</guid>
       <description>&lt;h1 id=&#34;introduction-and-functions-of-water&#34;&gt;Introduction and Functions of Water&lt;/h1&gt;&#xA;&lt;p&gt;Water is a vital substance for all forms of life, making up a significant portion of living organisms. It is a unique molecule composed of two hydrogen atoms covalently bonded to one oxygen atom, giving it distinctive properties that make it essential for biological processes. Water serves as a solvent, a temperature regulator, and a participant in numerous biochemical reactions, playing a crucial role in maintaining homeostasis within organisms.&lt;/p&gt;</description>
     </item>
   </channel>

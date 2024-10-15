@@ -2,7 +2,7 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Hydra on Notesfinity</title>
-    <link>http://localhost:1313/tags/hydra.html</link>
+    <link>http://localhost:1313/tags/hydra/</link>
     <description>Recent content in Hydra on Notesfinity</description>
     <generator>Hugo</generator>
     <language>en-us</language>
@@ -10,9 +10,9 @@
     <atom:link href="http://localhost:1313/tags/hydra/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Coelenterata (Cnidaria): Diagnostic Features and Classification Up to Class with Examples</title>
-      <link>http://localhost:1313/notes/neb/bio11/zoology/faunal-diversity/animalia/coelenterata-cnidaria.html</link>
+      <link>http://localhost:1313/notes/neb/bio11/zoology/faunal-diversity/animalia/coelenterata-cnidaria/</link>
       <pubDate>Tue, 15 Oct 2024 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/bio11/zoology/faunal-diversity/animalia/coelenterata-cnidaria.html</guid>
+      <guid>http://localhost:1313/notes/neb/bio11/zoology/faunal-diversity/animalia/coelenterata-cnidaria/</guid>
       <description>&lt;h1 id=&#34;coelenterata-cnidaria-diagnostic-features-and-classification-up-to-class-with-examples&#34;&gt;Coelenterata (Cnidaria): Diagnostic Features and Classification Up to Class with Examples&lt;/h1&gt;&#xA;&lt;p&gt;Coelenterata, also known as Cnidaria, is a phylum of simple aquatic animals found mostly in marine environments. These organisms are known for their soft bodies and specialized cells called &lt;em&gt;cnidocytes&lt;/em&gt;, which contain stinging structures used for defense and capturing prey. Cnidarians are fascinating creatures that play significant roles in their ecosystems.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;diagnostic-features&#34;&gt;Diagnostic Features&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Habitat:&lt;/strong&gt; Most coelenterates live in marine environments, such as oceans and seas. However, some species, like &lt;em&gt;Hydra&lt;/em&gt;, can be found in freshwater habitats like ponds and streams. Their adaptability to different water conditions is remarkable.&lt;/p&gt;</description>
     </item>
   </channel>
