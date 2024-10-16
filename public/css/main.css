@@ -170,48 +170,42 @@ td {
   }
 }
 
-/* Styling for the figure containing the image */
+/* General Styling for the Figure Container */
 .fig {
-  width: auto; /* Set a fixed width for the figure */
-  height: auto; /* Allow height to adjust automatically */
-  border: 2px solid #ccc; /* Add a border for visual separation */
-  margin: 20px 0; /* Add vertical spacing around the figure */
-  text-align: center; /* Center-align the caption text */
-  padding: 10px; /* Add padding for aesthetic spacing */
-  overflow: hidden; /* Prevent any content from overflowing the figure */
-}
-
-/* Styling for the figure containing the image */
-.fig {
-  width: 500px; /* Set a fixed width for the figure to make it larger */
+  width: 100%; /* Use 100% to make the figure responsive */
+  max-width: 500px; /* Limit the max width to avoid overflow */
   height: auto; /* Allow height to adjust automatically */
   border: 2px solid #ccc; /* Add a border for visual separation */
   margin: 20px auto; /* Center the figure with auto margins */
   text-align: center; /* Center-align the caption text */
   padding: 10px; /* Add padding for aesthetic spacing */
   overflow: hidden; /* Prevent any content from overflowing the figure */
+  box-sizing: border-box; /* Ensure borders and padding are included in width */
 }
 
-/* Styling for the image inside the figure */
+/* Styling for the Image Inside the Figure */
 .fig img {
-  width: 100%; /* Scale the image to fit within the figure's width */
-  height: auto; /* Maintain the image's aspect ratio */
-  object-fit: cover; /* Scale the image to cover the figure without distortion */
+  width: 100%; /* Ensure the image scales with the figure's width */
+  height: auto; /* Maintain the aspect ratio */
+  object-fit: contain; /* Ensure the image fits within the figure without cropping */
+  display: block; /* Remove any extra whitespace below the image */
 }
 
-/* Media Query for smaller devices (mobile) */
+/* Media Query for Smaller Devices (Mobile) */
 @media (max-width: 768px) {
   .fig {
+    max-width: 100%; /* Ensure the figure takes the available space */
     border: 1px solid #999; /* Adjust border for smaller screens */
-    margin: 10px auto; /* Center the figure with auto margins */
+    margin: 10px auto; /* Keep the figure centered */
     padding: 5px; /* Adjust padding for smaller screens */
-    width: 400px; /* Keep figure width fixed for mobile */
   }
 }
 
+/* General Figure Styling */
 figure {
-  max-width: 100%; /* Ensures the figure does not exceed the container */
-  margin: 0 auto; /* Centers the figure */
+  max-width: 100%; /* Ensure the figure does not exceed its container */
+  margin: 0 auto; /* Center the figure */
+  box-sizing: border-box; /* Include padding and border in width calculations */
 }
 
 /* Styling for videos */
