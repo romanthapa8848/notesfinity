@@ -5,6 +5,9 @@ date: "2024-10-17"
 description: "Explore detailed NEB Class 12 Physics notes with comprehensive coverage on key topics such as Mechanics, Thermodynamics, Electromagnetism, Optics, and Modern Physics. Perfect for students preparing for NEB exams."
 keywords:
   [
+    "NEB Notes",
+    "NEB Guide",
+    "NEB Syllabus",
     "Physics Notes",
     "Physics Guide",
     "Physics Syllabus",

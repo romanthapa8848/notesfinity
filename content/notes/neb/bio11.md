@@ -5,6 +5,9 @@ date: "2024-10-04"
 description: "Comprehensive syllabus for NEB Class 11 Biology covering Biomolecules, Cell Biology, and Botany."
 keywords:
   [
+    "NEB Notes",
+    "NEB Guide",
+    "NEB Syllabus",
     "Biology Notes",
     "Biology Guide",
     "Biology Syllabus",

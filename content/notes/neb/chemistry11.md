@@ -5,6 +5,9 @@ date: "2024-10-17"
 description: "Explore detailed NEB Class 11 Chemistry notes with comprehensive coverage on key topics such as General and Physical Chemistry, Inorganic Chemistry, Organic Chemistry, and Applied Chemistry. Perfect for students preparing for NEB exams."
 keywords:
   [
+    "NEB Notes",
+    "NEB Guide",
+    "NEB Syllabus",
     "Chemistry Notes",
     "Chemistry Guide",
     "Chemistry Syllabus",
