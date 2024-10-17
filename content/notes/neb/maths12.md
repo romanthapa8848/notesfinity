@@ -34,7 +34,7 @@ layout: "math_mode"
 
 ### 1.2 Binomial Theorem
 
-- [Binomial theorem for a positive integral index, general term, Binomial coefficient, Binomial theorem for any index (without proof), application to approximation, Euler's number, Expansion of e^x, a^x, and log(1+x) (without proof)](algebra/binomial-theorem.html)
+- [Binomial theorem for a positive integral index, general term, Binomial coefficient, Binomial theorem for any index (without proof), application to approximation, Euler's number, Expansion of $e^x$, $a^x$, and $log(1+x)$ (without proof)](algebra/binomial-theorem.html)
 
 ### 1.3 Elementary Group Theory
 
