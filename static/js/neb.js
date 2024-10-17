@@ -20,9 +20,9 @@ export const nebSubjects = [
   },
   {
     name: "NEB Class 11 Chemistry",
-    code: "CHEM 301",
-    url: "/notes/neb/chemistry/class11/class11-chemistry.html",
-    keywords: ["chemistry", "class 11", "neb", "chem 301"],
+    code: "CHEM 201",
+    url: "/notes/neb/chemistry11/",
+    keywords: ["chemistry", "class 11", "neb", "chem 201"],
   },
   {
     name: "NEB Class 11 Computer Science",
@@ -58,9 +58,9 @@ export const nebSubjects = [
   },
   {
     name: "NEB Class 12 Chemistry",
-    code: "CHEM 302",
-    url: "/notes/neb/chemistry/class12/class12-chemistry.html",
-    keywords: ["chemistry", "class 12", "neb", "chem 302"],
+    code: "CHEM 202",
+    url: "/notes/neb/chemistry12/",
+    keywords: ["chemistry", "class 12", "neb", "chem 202"],
   },
   {
     name: "NEB Class 12 Computer Science",
