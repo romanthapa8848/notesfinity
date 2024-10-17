@@ -35,7 +35,7 @@ export const nebSubjects = [
   {
     name: "NEB Class 12 Maths",
     code: "MAT 008",
-    url: "/notes/neb/maths11/",
+    url: "/notes/neb/maths12/",
     keywords: ["mathematics", "class 12", "neb", "mat 008"],
   },
   {
