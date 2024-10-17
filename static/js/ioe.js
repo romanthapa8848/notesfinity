@@ -26,7 +26,7 @@ export const ioeSubjects = [
   {
     name: "Computer Programming",
     code: "CT401",
-    url: "/notes/ioe/programming/computer-programming.html",
+    url: "/notes/ioe/c/",
     keywords: ["computer programming", "CT401", "ioe", "c"],
   },
   {
