@@ -26,8 +26,6 @@ layout: "non_math_mode"
 
 ---
 
----
-
 ## Part I: General and Physical Chemistry
 
 ---
@@ -46,9 +44,11 @@ layout: "non_math_mode"
 - [2.1 Dalton’s atomic theory and its postulates](./././general-and-physical/stoichiometry/daltons-atomic-theory-and-its-postulates.html)
 - [2.2 Laws of stoichiometry](./././general-and-physical/stoichiometry/laws-of-stoichiometry.html)
 - [2.3 Avogadro’s law and some deductions](./././general-and-physical/stoichiometry/avogadros-law-and-some-deductions.html)
+
   - [2.3.1 Molecular mass and vapour density](./././general-and-physical/stoichiometry/avogadros/molecular-mass-and-vapour-density.html)
   - [2.3.2 Molecular mass and volume of gas](./././general-and-physical/stoichiometry/avogadros/molecular-mass-and-volume-of-gas.html)
   - [2.3.3 Molecular mass and number of particles](./././general-and-physical/stoichiometry/avogadros/molecular-mass-particles.html)
+
 - [2.4 Mole and its relation with mass, volume and number of particles](./././general-and-physical/stoichiometry/mole-relations.html)
 - [2.5 Calculations based on mole concept](./././general-and-physical/stoichiometry/calculations.html)
 - [2.6 Limiting reactant and excess reactant](./././general-and-physical/stoichiometry/limiting-reactant.html)
@@ -82,6 +82,7 @@ layout: "non_math_mode"
 - [4.2 IUPAC classification of elements](./general-and-physical/periodic-table/iupac-classification.html)
 - [4.3 Nuclear charge and effective nuclear charge](./general-and-physical/periodic-table/nuclear-charge.html)
 - [4.4 Periodic trend and periodicity](./general-and-physical/periodic-table/periodic-trends.html)
+
   - [4.4.1 Atomic radii](./general-and-physical/periodic-table/periodic-trends/atomic-radii.html)
   - [4.4.2 Ionic radii](./general-and-physical/periodic-table/periodic-trends/ionic-radii.html)
   - [4.4.3 Ionization energy](./general-and-physical/periodic-table/periodic-trends/ionization-energy.html)
@@ -103,9 +104,11 @@ layout: "non_math_mode"
 - [5.8 Elementary idea of Valence Bond Theory](./general-and-physical/chemical-bonding-and-shapes-of-molecules/valence-bond-theory.html)
 - [5.9 Hybridization involving s and p orbitals only](./general-and-physical/chemical-bonding-and-shapes-of-molecules/hybridization.html)
 - [5.10 Bond characteristics](./general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics.html)
+
   - [5.10.1 Bond length](./general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics/bond-length.html)
   - [5.10.2 Ionic character](./general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics/ionic-character.html)
   - [5.10.3 Dipole moment](./general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics/dipole-moment.html)
+
 - [5.11 Vander Waal’s force and molecular solids](./general-and-physical/chemical-bonding-and-shapes-of-molecules/vanderwaals-force.html)
 - [5.12 Hydrogen bonding and its application](./general-and-physical/chemical-bonding-and-shapes-of-molecules/hydrogen-bonding.html)
 - [5.13 Metallic bonding and properties of metallic solids](./general-and-physical/chemical-bonding-and-shapes-of-molecules/metallic-bonding.html)
@@ -118,6 +121,7 @@ layout: "non_math_mode"
 - [6.2 Oxidation number and rules for assigning oxidation number](./general-and-physical/oxidation-and-reduction/oxidation-numbers.html)
 - [6.3 Balancing redox reactions by oxidation number and ion-electron (half reaction) method](./general-and-physical/oxidation-and-reduction/balancing-reactions.html)
 - [6.4 Electrolysis](./general-and-physical/oxidation-and-reduction/electrolysis.html)
+
   - [6.4.1 Qualitative aspect](./general-and-physical/oxidation-and-reduction/electrolysis/qualitative-aspect.html)
   - [6.4.2 Quantitative aspect (Faraday's laws of electrolysis)](./general-and-physical/oxidation-and-reduction/electrolysis/quantitative-aspect.html)
 
@@ -128,6 +132,7 @@ layout: "non_math_mode"
 - [7.1 Gaseous state](general-physical-chemistry/states-of-matter/gaseous-state.html)
 
   - [7.1.1 Kinetic theory of gas and its postulates](./general-and-physical/states-of-matter/gaseous-state/kinetic-theory.html)
+
   - **7.1.2 Gas laws**
     - [7.1.2.1 Boyle’s law and Charles' law](./general-and-physical/states-of-matter/gaseous-state/gas%20laws/boyles-law-and-charles-law.html)
     - [7.1.2.2 Avogadro's law](./general-and-physical/states-of-matter/gaseous-state/gas%20laws/avogadros-law.html)
@@ -141,12 +146,15 @@ layout: "non_math_mode"
 - **7.2 Liquid state**
 
   - [7.2.1 Physical properties of liquids](general-physical-chemistry/states-of-matter/liquid-properties.html)
+
     - [7.2.1.1 Evaporation and condensation](./general-and-physical/states-of-matter/liquid-state/physical-properties/evaporation-and-condensation.html)
     - [7.2.1.2 Vapour pressure and boiling point](./general-and-physical/states-of-matter/liquid-state/physical-properties/vapour-pressure-and-boiling-point.html)
     - [7.2.1.3 Surface tension and viscosity (qualitative idea only)](./general-and-physical/states-of-matter/liquid-state/physical-properties/surface-tension-and-viscosity.html)
+
   - [7.2.2 Liquid crystals and their applications](./general-and-physical/states-of-matter/liquid-state/liquid-crystals.html)
 
 - **7.3 Solid state**
+
   - [7.3.1 Types of solids](./general-and-physical/states-of-matter/solid-state/types-of-solids.html)
   - [7.3.2 Amorphous and crystalline solids](./general-and-physical/states-of-matter/solid-state/amorphous-crystalline.html)
   - [7.3.3 Efflorescent, Deliquescent and Hygroscopic solids](./general-and-physical/states-of-matter/solid-state/efflorescent-deliquescent.html)
@@ -295,6 +303,7 @@ layout: "non_math_mode"
 - [13.5 Structural isomerism and its types: chain, position, functional, metamerism and tautomerism](./organic/fundamental-principles/structural-isomerism.html)
 - [13.6 Concept of geometrical isomerism (cis & trans) & optical isomerism (d & l form)](./organic/fundamental-principles/geometrical-and-optical-isomerism.html)
 - [13.7 Preliminary Idea of Reaction Mechanism](./organic/fundamental-principles/preliminary-idea-of-reaction-mechanism.html)
+
   - [13.7.1 Homolytic and heterolytic fission](./organic/fundamental-principles/homolytic-and-heterolytic-fission.html)
   - [13.7.2 Electrophiles, nucleophiles and free-radicals](./organic/fundamental-principles/electrophiles-nucleophiles-and-free-radicals.html)
   - [13.7.3 Inductive effect: +I and –I effect](./organic/fundamental-principles/inductive-effect.html)
@@ -305,13 +314,18 @@ layout: "non_math_mode"
 ### 14. Hydrocarbons
 
 - [14.1 Saturated Hydrocarbons (Alkanes)](./organic/hydrocarbons/saturated-hydrocarbons.html)
+
   - [14.1.1 Alkanes: Preparation from haloalkanes (Reduction and Wurtz reaction), Decarboxylation, Catalytic hydrogenation of alkene and alkyne](./organic/hydrocarbons/alkanes.html)
   - [14.1.2 Chemical properties: Substitution reactions (halogenation, nitration & sulphonation only), oxidation of ethane](./organic/hydrocarbons/chemical-properties-of-alkanes.html)
+
 - [14.2 Unsaturated hydrocarbons (Alkenes & Alkynes)](./organic/hydrocarbons/unsaturated-hydrocarbons.html)
+
   - [14.2.1 Alkenes: Preparation by Dehydration of alcohol, Dehydrohalogenation, Catalytic hydrogenation of alkyne](./organic/hydrocarbons/alkenes.html)
     - [14.2.1.1 Chemical properties: Addition reaction with HX (Markovnikov’s addition and peroxide effect), H<sub>2</sub>O, O<sub>3</sub>, H<sub>2</sub>SO<sub>4</sub> only](./organic/hydrocarbons/chemical-properties-of-alkenes.html)
   - [14.3 Alkynes: Preparation from carbon and hydrogen, 1,2 dibromoethane, chloroform/iodoform only](./organic/hydrocarbons/alkynes.html)
+
     - [14.3.1 Chemical properties: Addition reaction with (H<sub>2</sub>, HX, H<sub>2</sub>O), Acidic nature (action with Sodium, ammoniacal AgNO<sub>3</sub> and ammoniacal Cu<sub>2</sub>Cl<sub>2</sub>)](./organic/hydrocarbons/chemical-properties-of-alkynes.html)
+
 - [14.4 Test of unsaturation (ethene & ethyne): bromine water test and Baeyer's test](./organic/hydrocarbons/test-of-unsaturation.html)
 - [14.5 Comparative studies of physical properties of alkane, alkene and alkyne](./organic/hydrocarbons/comparative-studies-of-physical-properties-of-alkanes-alkenes-and-alkynes.html)
 - [14.6 Kolbe's electrolysis methods for the preparation of alkane, alkene and alkynes](./organic/hydrocarbons/kolbes-electrolysis-methods.html)
