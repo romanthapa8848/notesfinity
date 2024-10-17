@@ -1,5 +1,5 @@
 ---
-title: "NEB Class 12 Biology"
+title: "Class 12 Biology"
 author: "Roman Thapa"
 date: "2024-10-17"
 description: "Explore detailed NEB Class 12 Biology notes covering Botany and Zoology. Comprehensive study material for students preparing for NEB exams, including key topics and in-depth explanations."

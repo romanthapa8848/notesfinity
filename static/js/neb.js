@@ -9,7 +9,7 @@ export const nebSubjects = [
   {
     name: "NEB Class 11 Physics",
     code: "PHY 101",
-    url: "/notes/neb/physics/class11/class11-physics.html",
+    url: "/notes/neb/physics11/",
     keywords: ["physics", "class 11", "neb", "phy 101"],
   },
   {
@@ -47,7 +47,7 @@ export const nebSubjects = [
   {
     name: "NEB Class 12 Physics",
     code: "PHY 102",
-    url: "/notes/neb/physics/class12/class12-physics.html",
+    url: "/notes/neb/physics12/",
     keywords: ["physics", "class 12", "neb", "phy 102"],
   },
   {
