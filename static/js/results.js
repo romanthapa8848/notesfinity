@@ -40,6 +40,7 @@ document.addEventListener("DOMContentLoaded", () => {
     // Perform the search
     const results = index.query((qb) => {
       qb.term(query, { boost: 10 }); // Boost matches on name
+      qb.term(query); // Add this line to search in keywords as well
     });
 
     // Extract matched subjects
