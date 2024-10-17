@@ -18,11 +18,11 @@ layout: "non_math_mode"
 
 ---
 
-| Subject Code | PHY 102                      |
-| ------------ | ---------------------------- |
-| Theory       | 75 Marks (Duration: 3 Hours) |
-| Practical    | 25 Marks                     |
-| Total Marks  | 100 Marks                    |
+| Subject Code | PHY 102                        |
+| ------------ | ------------------------------ |
+| Theory       | 75 Marks (Duration: 2.5 Hours) |
+| Practical    | 25 Marks                       |
+| Total Marks  | 100 Marks                      |
 
 ---
 
