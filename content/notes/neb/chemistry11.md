@@ -18,7 +18,7 @@ layout: "non_math_mode"
 
 ---
 
-| Subject Code | BIO 201                        |
+| Subject Code | CHE 201                        |
 | ------------ | ------------------------------ |
 | Theory       | 75 Marks (Duration: 2.5 Hours) |
 | Practical    | 25 Marks                       |
