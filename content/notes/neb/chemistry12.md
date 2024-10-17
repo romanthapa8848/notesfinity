@@ -62,6 +62,7 @@ layout: "non_math_mode"
 - [2.16 Indicators and selection of indicators in acid-base titration](./general-and-physical/ionic-equilibrium/indicators-selection.html)
 - [2.17 Types of salts: Acidic salts, basic salts, simple salts, complex salts (introduction and examples)](./general-and-physical/ionic-equilibrium/types-of-salts.html)
 - [2.18 Hydrolysis of salts](./general-and-physical/ionic-equilibrium/hydrolysis-of-salts.html)
+
   - [2.18.1 Salts of strong acid and strong base](./general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-strong-acid-strong-base.html)
   - [2.18.2 Salts of weak acid and strong base](./general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-acid-strong-base.html)
   - [2.18.3 Salts of weak base and strong acid (solving related numerical problems)](./general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-base-strong-acid.html)
@@ -189,11 +190,13 @@ layout: "non_math_mode"
 - [9.3 Preparation of chlorobenzene from benzene and benzene diazonium chloride](./organic/haloarenes/preparation-chlorobenzene.html)
 - [9.4 Physical properties](./organic/haloarenes/physical-properties.html)
 - [9.5 Chemical properties](./organic/haloarenes/chemical-properties.html)
+
   - [9.5.1 Low reactivity of haloarenes as compared to haloalkanes in terms of nucleophilic substitution reaction](./organic/haloarenes/chemical-properties/nucleophilic-substitution.html)
   - [9.5.2 Reduction of chlorobenzene](./organic/haloarenes/chemical-properties/reduction-chlorobenzene.html)
   - [9.5.3 Electrophilic substitution reactions](./organic/haloarenes/chemical-properties/electrophilic-substitution.html)
   - [9.5.4 Action with Na (Fittig and Wurtz-Fittig reaction)](./organic/haloarenes/chemical-properties/fittig-reaction.html)
   - [9.5.5 Action with chloral](./organic/haloarenes/chemical-properties/chloral-reaction.html)
+
 - [9.6 Uses of haloarenes](./organic/haloarenes/uses.html)
 
 ---
@@ -208,6 +211,7 @@ layout: "non_math_mode"
 - [10.6 Definition of common terms: Absolute alcohol, power alcohol, denatured alcohol (methylated spirit), rectified spirit; alcoholic beverages](./organic/alcohols/definition-terms.html)
 - [10.7 Physical properties of monohydric alcohols](./organic/alcohols/physical-properties.html)
 - [10.8 Chemical properties of monohydric alcohols](./organic/alcohols/chemical-properties.html)
+
   - [10.8.1 Reaction with HX, PX<sub>3</sub>, PCl<sub>5</sub>, and SOCl<sub>2</sub>](./organic/alcohols/chemical-properties/reaction-HX.html)
   - [10.8.2 Action with reactive metals like Na, K, Li](./organic/alcohols/chemical-properties/action-reactive-metals.html)
   - [10.8.3 Dehydration of alcohols](./organic/alcohols/chemical-properties/dehydration.html)
@@ -224,10 +228,12 @@ layout: "non_math_mode"
 - [11.2 Preparation of phenol from chlorobenzene, diazonium salt, and benzene sulphonic acid](./organic/phenols/preparation.html)
 - [11.3 Physical properties of phenol](./organic/phenols/physical-properties.html)
 - [11.4 Chemical properties](./organic/phenols/chemical-properties.html)
+
   - [11.4.1 Acidic nature of phenol (comparison with alcohol and water)](./organic/phenols/chemical-properties/acidic-nature.html)
   - [11.4.2 Action with NH<sub>3</sub>, Zn, Na, benzene diazonium chloride, and phthalic anhydride](./organic/phenols/chemical-properties/reactions.html)
   - [11.4.3 Acylation reaction, Kolbe's reaction, Reimer-Tiemann's reaction](./organic/phenols/chemical-properties/acylation.html)
   - [11.4.4 Electrophilic substitution: nitration, sulphonation, bromination, and Friedal-Craft's alkylation](./organic/phenols/chemical-properties/electrophilic-substitution.html)
+
 - [11.5 Test of phenol: (FeCl<sub>3</sub> test, aq. Bromine test & Libermann test)](./organic/phenols/tests.html)
 - [11.6 Uses of phenol](./organic/phenols/uses.html)
 
@@ -252,6 +258,7 @@ layout: "non_math_mode"
   - [13.1.2 Preparation of Aldehydes and Ketones from: Dehydrogenation and Oxidation of Alcohol, Ozonolysis of Alkenes, Acid Chloride, Gem Dihaloalkane, Catalytic Hydration of Alkynes](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/preparation.html)
   - [13.1.3 Physical Properties of Aldehydes and Ketones](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/physical-properties.html)
   - [13.1.4 Chemical Properties](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties.html)
+
     - [13.1.4.1 Structure and Nature of Carbonyl Group](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/structure-carbonyl-group.html)
     - [13.1.4.2 Distinction Between Aldehyde and Ketones by Using 2,4-DNP Reagent, Tollen's Reagent, Fehling's Solution](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/distinction-between-aldehyde-ketones.html)
     - [13.1.4.3 Addition Reactions: Addition of H<sub>2</sub>, HCN, and NaHSO<sub>3</sub>](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/addition-reactions.html)
@@ -265,8 +272,10 @@ layout: "non_math_mode"
     - [13.1.5 Formalin and Its Uses](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/formalin-uses.html)
 
 - [13.2 Aromatic Aldehydes and Ketones](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/preparation.html)
+
   - [13.2.1 Preparation of Benzaldehyde from Toluene and Acetophenone from Benzene](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/preparation-benzaldehyde.html)
   - [13.2.2 Properties of Benzaldehyde](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties-benzaldehyde.html)
+
     - [13.2.2.1 Perkin Condensation](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties/perkin-condensation.html)
     - [13.2.2.2 Benzoin Condensation](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties/benzoin-condensation.html)
     - [13.2.2.3 Cannizzaro's Reaction](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties/cannizzaros-reaction.html)
@@ -343,6 +352,7 @@ layout: "non_math_mode"
 - [17.1 Introduction, general formula and examples of organolithium, organocopper and organocadmium compounds](./organic/organometallic-compounds/introduction.html)
 - [17.2 Nature of Metal-Carbon bond](./organic/organometallic-compounds/nature-of-metal-carbon-bond.html)
 - [17.3 Grignard reagent](./organic/organometallic-compounds/grignard-reagent.html)
+
   - [17.3.1 Preparation (using haloalkane and haloarene)](./organic/organometallic-compounds/grignard-reagent/grignard-reagent-preparation.html)
   - [17.3.2 Reaction of Grignard reagent with water, aldehydes and ketones (preparation of primary, secondary and tertiary alcohols), carbon dioxide, HCN, RCN, ester and acid chloride](./organic/organometallic-compounds/grignard-reagent/grignard-reagent-reactions.html)
 
