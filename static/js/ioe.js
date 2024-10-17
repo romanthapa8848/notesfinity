@@ -84,7 +84,7 @@ export const ioeSubjects = [
     keywords: ["applied mechanics", "dynamics", "CE503", "ioe"],
   },
   {
-    name: "IOE Engineering Geology I",
+    name: "Engineering Geology I",
     code: "CE503",
     url: "/notes/ioe/geo/i/geo-i.html",
     keywords: ["engineering geology i", "CE503", "ioe"],
@@ -132,7 +132,7 @@ export const ioeSubjects = [
     keywords: ["probability", "statistics", "SH552", "ioe"],
   },
   {
-    name: "IOE Engineering Geology II",
+    name: "Engineering Geology II",
     code: "CE553",
     url: "/notes/ioe/geology/engineering-geology.html",
     keywords: ["engineering geology ii", "CE553", "ioe"],
