@@ -53,7 +53,7 @@ export const nebSubjects = [
   {
     name: "NEB Class 12 Biology",
     code: "BIO 302",
-    url: "/notes/neb/bio11/",
+    url: "/notes/neb/bio12/",
     keywords: ["biology", "class 12", "neb", "bio 302"],
   },
   {
