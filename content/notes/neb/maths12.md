@@ -5,12 +5,26 @@ date: "2024-10-17"
 description: "Explore detailed NEB Class 12 Maths notes with comprehensive coverage on key topics such as Algebra, Trigonometry, Analytic Geometry, Statistics and Probability, Calculus, and more. Perfect for students preparing for NEB exams."
 keywords:
   [
-    "NEB Class 12 Maths Notes",
+    "Maths Notes",
+    "Maths Guide",
+    "Maths Syllabus",
     "Class 12 Maths Notes",
+    "Grade 12 Maths Notes",
+    "NEB Class 12 Maths Notes",
     "12 Class Maths Notes",
     "NEB Maths Study Notes",
-    "Class 12 Math Study Material",
+    "Calculus",
+    "Algebra",
+    "Trigonometry",
+    "Statistics",
+    "Probability",
+    "Vectors",
+    "Matrices",
+    "Differential Equations",
+    "Functions",
+    "Class 12 Maths Study Material",
   ]
+
 layout: "math_mode"
 ---
 

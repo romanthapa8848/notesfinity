@@ -5,12 +5,25 @@ date: "2024-10-17"
 description: "Explore detailed NEB Class 11 Maths notes with comprehensive coverage on key topics such as Algebra, Trigonometry, Analytic Geometry, Statistics and Probability, Calculus, and more. Perfect for students preparing for NEB exams."
 keywords:
   [
-    "NEB Class 11 Maths Notes",
+    "Maths Notes",
+    "Maths Guide",
+    "Maths Syllabus",
     "Class 11 Maths Notes",
+    "Grade 11 Maths Notes",
+    "NEB Class 11 Maths Notes",
     "11 Class Maths Notes",
     "NEB Maths Study Notes",
-    "Class 11 Math Study Material",
+    "Algebra",
+    "Geometry",
+    "Trigonometry",
+    "Statistics",
+    "Probability",
+    "Mathematical Reasoning",
+    "Sets",
+    "Functions",
+    "Class 11 Maths Study Material",
   ]
+
 layout: "math_mode"
 ---
 
