@@ -30,12 +30,6 @@ export const nebSubjects = [
     url: "/notes/neb/cs11/",
     keywords: ["computer science", "class 11", "neb", "com 231"],
   },
-  {
-    name: "NEB Class 11 English",
-    code: "ENG 003",
-    url: "/notes/neb/english/class11/class11-english.html",
-    keywords: ["english", "class 11", "neb", "eng 003"],
-  },
 
   // Class 12 subjects
   {
@@ -67,11 +61,5 @@ export const nebSubjects = [
     code: "COM 232",
     url: "/notes/neb/cs12/",
     keywords: ["computer science", "class 12", "neb", "com 232"],
-  },
-  {
-    name: "NEB Class 12 English",
-    code: "ENG 004",
-    url: "/notes/neb/english/class12/class12-english.html",
-    keywords: ["english", "class 12", "neb", "eng 004"],
   },
 ];
