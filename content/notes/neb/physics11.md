@@ -26,10 +26,6 @@ layout: "non_math_mode"
 
 ---
 
-# Class 11 Physics
-
----
-
 ## Part I: Mechanics
 
 ---
@@ -44,9 +40,11 @@ layout: "non_math_mode"
 ### 2. Vectors
 
 - [2.1 Triangle, parallelogram and polygon laws of vectors](vectors/triangle-parallelogram-polygon.html)
+
   - [2.1.1 Triangle law of vectors](./vectors/laws/triangle.html)
   - [2.1.2 Parallelogram law of vectors](./vectors/laws/parallelogram.html)
   - [2.1.3 Polygon law of vectors](./vectors/laws/polygon.html)
+
 - [2.2 Resolution of vectors; Unit vectors](vectors/resolution-unit-vectors.html)
 - [2.3 Scalar and vector products](vectors/scalar-vector-products.html)
 
