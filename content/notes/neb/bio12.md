@@ -5,14 +5,19 @@ date: "2024-10-17"
 description: "Explore detailed NEB Class 12 Biology notes covering Botany and Zoology. Comprehensive study material for students preparing for NEB exams, including key topics and in-depth explanations."
 keywords:
   [
-    "NEB Class 12 Biology Notes",
+    "Biology Notes",
+    "Biology Guide",
+    "Biology Syllabus",
     "Class 12 Biology Notes",
+    "Grade 12 Biology Notes",
+    "NEB Class 12 Biology Notes",
     "12 Class Biology Notes",
     "NEB Biology Study Notes",
     "Botany",
     "Zoology",
     "Class 12 Bio Study Material",
   ]
+
 layout: "non_math_mode"
 ---
 

@@ -5,11 +5,17 @@ date: "2024-10-17"
 description: "Explore detailed NEB Class 12 Chemistry notes with comprehensive coverage on key topics such as Physical Chemistry, Organic Chemistry, Inorganic Chemistry, and Environmental Chemistry. Perfect for students preparing for NEB exams."
 keywords:
   [
-    "NEB Class 12 Chemistry Notes",
+    "Chemistry Notes",
+    "Chemistry Guide",
+    "Chemistry Syllabus",
     "Class 12 Chemistry Notes",
+    "Grade 12 Chemistry Notes",
+    "NEB Class 12 Chemistry Notes",
     "12 Class Chemistry Notes",
-    "NEB Chemistry Study Guide",
-    "Class 12 Chemistry Study Material",
+    "NEB Chemistry Study Notes",
+    "Organic Chemistry",
+    "Inorganic Chemistry",
+    "Class 12 Chemmistry Study Material",
   ]
 layout: "non_math_mode"
 ---

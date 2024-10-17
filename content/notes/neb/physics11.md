@@ -5,10 +5,16 @@ date: "2024-10-17"
 description: "Explore detailed NEB Class 11 Physics notes with comprehensive coverage on key topics such as Mechanics, Heat and Thermodynamics, Waves and Optics, Electricity and Magnetism, and Modern Physics. Perfect for students preparing for NEB exams."
 keywords:
   [
-    "NEB Class 11 Physics Notes",
+    "Physics Notes",
+    "Physics Guide",
+    "Physics Syllabus",
     "Class 11 Physics Notes",
+    "Grade 11 Physics Notes",
+    "NEB Class 11 Physics Notes",
     "11 Class Physics Notes",
-    "NEB Physics Study Guide",
+    "NEB Physics Study Notes",
+    "Mechanics",
+    "Waves",
     "Class 11 Physics Study Material",
   ]
 layout: "non_math_mode"
