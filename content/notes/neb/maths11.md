@@ -11,7 +11,7 @@ keywords:
     "NEB Maths Study Notes",
     "Class 11 Math Study Material",
   ]
-layout: "non_math_mode"
+layout: "math_mode"
 ---
 
 # Class 11 Maths
@@ -42,7 +42,7 @@ layout: "non_math_mode"
 
 ### 1.4 Curve Sketching
 
-- [Odd and even functions, periodicity of a function, symmetry (about origin, x- and y-axis), monotonicity of a function, sketching graphs of polynomials and some rational functions (e.g., \( \frac{a}{x} \), \( \frac{x^2 - a^2}{x - a} \), \( \frac{a}{x + a} \), \( ax^2 + bx + c \), \( ax^3 \)), Trigonometric, exponential, logarithmic function (simple cases only)](algebra/curve-sketching.html)
+- [Odd and even functions, periodicity of a function, symmetry (about origin, x- and y-axis), monotonicity of a function, sketching graphs of polynomials and some rational functions (e.g., $ \frac{a}{x} $, $ \frac{x^2 - a^2}{x - a} $, $ \frac{a}{x + a} $, $ ax^2 + bx + c $, $ ax^3 $), Trigonometric, exponential, logarithmic function (simple cases only)](algebra/curve-sketching.html)
 
 ### 1.5 Sequence and Series
 
