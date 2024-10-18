@@ -43,11 +43,13 @@ To develop basic concepts, laws of thermodynamics and heat transfer and their ap
 - [1.2 Value of energy to society](/notes/ioe/thermodynamics/introduction/value-energy/)
 - [1.3 Microscopic versus Macroscopic Viewpoint](/notes/ioe/thermodynamics/introduction/microscopic-macroscopic/)
 - [1.4 Concepts and Definitions](/notes/ioe/thermodynamics/introduction/concepts-definitions/)
+
   - [1.4.1 System, Surroundings, Boundary and Universe; Closed Systems, Open Systems, and Isolated Systems](/notes/ioe/thermodynamics/introduction/system-surroundings/)
   - [1.4.2 Thermodynamic Properties: Intensive, Extensive and Specific Properties](/notes/ioe/thermodynamics/introduction/properties/)
   - [1.4.3 Thermodynamic Equilibrium](/notes/ioe/thermodynamics/introduction/equilibrium/)
   - [1.4.4 Thermodynamic State](/notes/ioe/thermodynamics/introduction/state/)
   - [1.4.5 Thermodynamic Process, Cyclic Process, Quasi-equilibrium Process, Reversible and Irreversible Process](/notes/ioe/thermodynamics/introduction/processes/)
+
 - [1.5 Common Properties: Pressure, Specific Volume, Temperature](/notes/ioe/thermodynamics/introduction/properties-common/)
 - [1.6 Zeroth Law of Thermodynamics, Equality of Temperature](/notes/ioe/thermodynamics/introduction/zeroth-law/)
 
@@ -58,8 +60,10 @@ To develop basic concepts, laws of thermodynamics and heat transfer and their ap
 - [2.1 Energy and its Meaning](/notes/ioe/thermodynamics/energy-transfer/meaning/)
 - [2.2 Stored Energy and Transient Energy; Total Energy](/notes/ioe/thermodynamics/energy-transfer/stored-transient/)
 - [2.3 Energy Transfer](/notes/ioe/thermodynamics/energy-transfer/)
+
   - [2.3.1 Heat Transfer](/notes/ioe/thermodynamics/energy-transfer/heat/)
   - [2.3.2 Work Transfer](/notes/ioe/thermodynamics/energy-transfer/work/)
+
 - [2.4 Expressions for displacement work transfer](/notes/ioe/thermodynamics/energy-transfer/work-expressions/)
 - [2.5 Power](/notes/ioe/thermodynamics/energy-transfer/power/)
 
@@ -70,7 +74,9 @@ To develop basic concepts, laws of thermodynamics and heat transfer and their ap
 - [3.1 Pure Substance and State Postulate](/notes/ioe/thermodynamics/properties/pure-substance/)
 - [3.2 Ideal Gas and Ideal Gas Relations](/notes/ioe/thermodynamics/properties/ideal-gas/)
 - [3.3 Two Phase (Liquid and Vapor) Systems](/notes/ioe/thermodynamics/properties/two-phase-systems/)
+
   - [Phase Change; Subcooled Liquid, Saturated Liquid, Wet Mixture, Critical Point, Quality, Moisture Content, Saturated Vapor and Superheated Vapor](/notes/ioe/thermodynamics/properties/two-phase-systems/phase-change/)
+
 - [3.4 Properties of Two Phase Mixtures](/notes/ioe/thermodynamics/properties/two-phase-mixtures/)
 - [3.5 Other Thermodynamic Properties: Internal Energy, Enthalpy, and Specific Heats](/notes/ioe/thermodynamics/properties/thermodynamic-properties/)
 - [3.6 Development of Property Data: Graphical Data Presentation and Tabular Data Presentation](/notes/ioe/thermodynamics/properties/property-data/)
@@ -107,9 +113,11 @@ To develop basic concepts, laws of thermodynamics and heat transfer and their ap
 - [6.2 Air Standard Brayton Cycle](/notes/ioe/thermodynamics/cycles/brayton-cycle/)
 - [6.3 Rankine Cycle](/notes/ioe/thermodynamics/cycles/rankine-cycle/)
 - [6.4 Internal Combustion Cycles](/notes/ioe/thermodynamics/cycles/internal-combustion/)
+
   - [6.4.1 Air Standard Analysis](/notes/ioe/thermodynamics/cycles/internal-combustion/air-standard-analysis/)
   - [6.4.2 Air Standard Otto Cycle](/notes/ioe/thermodynamics/cycles/internal-combustion/otto-cycle/)
   - [6.4.3 Air Standard Diesel Cycle](/notes/ioe/thermodynamics/cycles/internal-combustion/diesel-cycle/)
+
 - [6.5 Vapor Compression Refrigeration Cycle](/notes/ioe/thermodynamics/cycles/vapor-compression/)
 
 ---
@@ -120,8 +128,10 @@ To develop basic concepts, laws of thermodynamics and heat transfer and their ap
 - [7.2 One-Dimensional Steady State Heat Conduction through a Plane Wall](/notes/ioe/thermodynamics/heat-transfer/one-dimensional-conduction/)
 - [7.3 Radial Steady State Heat Conduction through a Hollow Cylinder](/notes/ioe/thermodynamics/heat-transfer/radial-conduction/)
 - [7.4 Heat Flow through Composite Structures](/notes/ioe/thermodynamics/heat-transfer/composite-structures/)
+
   - [7.4.1 Composite Plane Wall](/notes/ioe/thermodynamics/heat-transfer/composite-plane-wall/)
   - [7.4.2 Multilayer Tubes](/notes/ioe/thermodynamics/heat-transfer/multilayer-tubes/)
+
 - [7.5 Electrical Analogy for Thermal Resistance](/notes/ioe/thermodynamics/heat-transfer/electrical-analogy/)
 - [7.6 Combined Heat Transfer and Overall Heat Transfer Coefficient for Plane Wall and Tube](/notes/ioe/thermodynamics/heat-transfer/combined-heat-transfer/)
 - [7.7 Nature of Convection; Free and Forced Convection](/notes/ioe/thermodynamics/heat-transfer/convection/)
