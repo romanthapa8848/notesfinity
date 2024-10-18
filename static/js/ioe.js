@@ -38,7 +38,7 @@ export const ioeSubjects = [
   {
     name: "Applied Mechanics",
     code: "CE451",
-    url: "/notes/ioe/mechanics/applied-mechanics.html",
+    url: "/notes/ioe/applied-mechanics/",
     keywords: ["applied mechanics", "CE451", "ioe"],
   },
   {
@@ -68,7 +68,7 @@ export const ioeSubjects = [
   {
     name: "Basic Electrical Engineering",
     code: "EE451",
-    url: "/notes/ioe/electrical/basic-electrical-engineering.html",
+    url: "/notes/ioe/electrical/",
     keywords: ["electrical engineering", "EE451", "ioe"],
   },
   {
