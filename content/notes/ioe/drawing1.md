@@ -83,10 +83,12 @@ To develop basic projection concepts with reference to points, lines, planes, an
 ## 5. Multi view (orthographic) projections
 
 - [5.1 Orthographic Projections](/notes/ioe/ed/multi-view-projections/orthographic-projections/)
+
   - [5.1.1 First and third angle projection](/notes/ioe/ed/multi-view-projections/first-third-angle/)
   - [5.1.2 Principal views: methods for obtaining orthographic views, Projection of lines, angles and plane surfaces, analysis in three views, projection of curved lines and surfaces, object orientation and selection of views for best representation, full and hidden lines](/notes/ioe/ed/multi-view-projections/principal-views/)
   - [5.1.3 Orthographic drawings: making an orthographic drawing, visualizing objects (pictorial view) from the given views](/notes/ioe/ed/multi-view-projections/orthographic-drawings/)
   - [5.1.4 Interpretation of adjacent areas, true-length lines, representation of holes, conventional practices](/notes/ioe/ed/multi-view-projections/interpretation-adjacent-areas/)
+
 - [5.2 Sectional Views: Full, half, broken revolved, removed (detail) sections, phantom of hidden section, Auxiliary sectional views, specifying cutting planes for sections, conventions for hidden lines, holes, ribs, spokes](/notes/ioe/ed/multi-view-projections/sectional-views/)
 - [5.3 Auxiliary views: Basic concept and use, drawing methods and types, symmetrical and unilateral auxiliary views. Projection of curved lines and boundaries, line of intersection between two planes, true size of dihedral angles, true size and shape of plane surfaces](/notes/ioe/ed/multi-view-projections/auxiliary-views/)
 
