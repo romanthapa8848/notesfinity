@@ -39,12 +39,16 @@ To provide students with sound knowledge of calculus and analytic geometry to ap
 - [1.1 Introduction](/notes/ioe/math/derivatives/introduction/)
 - [1.2 Higher-order derivatives](/notes/ioe/math/derivatives/higher-order/)
 - [1.3 Mean value theorem](/notes/ioe/math/derivatives/mean-value-theorem/)
+
   - [1.3.1 Rolle's Theorem](/notes/ioe/math/derivatives/rolles-theorem/)
   - [1.3.2 Lagrange's Mean Value Theorem](/notes/ioe/math/derivatives/lagranges-theorem/)
   - [1.3.3 Cauchy's Mean Value Theorem](/notes/ioe/math/derivatives/cauchys-theorem/)
+
 - [1.4 Power series of single-valued functions](/notes/ioe/math/series/power-series/)
+
   - [1.4.1 Taylor's Series](/notes/ioe/math/series/taylors-series/)
   - [1.4.2 Maclaurin's Series](/notes/ioe/math/series/maclaurins-series/)
+
 - [1.5 Indeterminate forms; L'Hospital's Rule](/notes/ioe/math/limits/lhospitals-rule/)
 - [1.6 Asymptotes to Cartesian and polar curves](/notes/ioe/math/curves/asymptotes/)
 - [1.7 Pedal equations; curvature and radius of curvature](/notes/ioe/math/curves/pedal-equations/)
@@ -59,6 +63,7 @@ To provide students with sound knowledge of calculus and analytic geometry to ap
 - [2.4 Differentiation under integral sign](/notes/ioe/math/integration/differentiation-under-integral/)
 - [2.5 Reduction formula; Beta and Gamma functions](/notes/ioe/math/integration/beta-gamma-functions/)
 - [2.6 Applications of integrals](/notes/ioe/math/integration/applications/):
+
   - [Finding areas](/notes/ioe/math/integration/areas/)
   - [Arc length](/notes/ioe/math/integration/arc-length/)
   - [Surface and solid of revolution](/notes/ioe/math/integration/revolution/)
