@@ -93,11 +93,11 @@ To provide students with sound knowledge of calculus and analytic geometry to ap
 
 ## References
 
-1. **Erwin Kreyszig**, _"Advanced Engineering Mathematics"_, John Wiley & Sons Inc.
-2. **Thomas, Finney**, _"Calculus and Analytical Geometry"_, Addison-Wesley.
-3. **M. B. Singh, B. C. Bajracharya**, _"Differential Calculus"_, Sukunda Pustak Bhandar, Nepal.
-4. **M. B. Singh, S. P. Shrestha**, _"Applied Mathematics"_, RTU, Department of Engineering Science and Humanities.
-5. **G.D. Pant, G.S. Shrestha**, _"Integral Calculus and Differential Equations"_, Sunila Prakashan, Nepal.
-6. **M.R. Joshi**, _"Analytical Geometry"_, Sukunda Pustak Bhandar, Nepal.
-7. **S.P. Shrestha, H.D. Chaudhary, P.R. Pokharel**, _"A Textbook of Engineering Mathematics - Vol 1"_, Vidyarthi Pustak Bhandar.
-8. **Santosh Man Maskey**, _"Calculus"_, Ratna Pustak Bhandar, Nepal.
+1. Erwin Kreyszig, _"Advanced Engineering Mathematics"_, John Wiley & Sons Inc.
+2. Thomas, Finney, _"Calculus and Analytical Geometry"_, Addison-Wesley.
+3. M. B. Singh, B. C. Bajracharya, _"Differential Calculus"_, Sukunda Pustak Bhandar, Nepal.
+4. M. B. Singh, S. P. Shrestha, _"Applied Mathematics"_, RTU, Department of Engineering Science and Humanities.
+5. G.D. Pant, G.S. Shrestha, _"Integral Calculus and Differential Equations"_, Sunila Prakashan, Nepal.
+6. M.R. Joshi, _"Analytical Geometry"_, Sukunda Pustak Bhandar, Nepal.
+7. S.P. Shrestha, H.D. Chaudhary, P.R. Pokharel, _"A Textbook of Engineering Mathematics - Vol 1"_, Vidyarthi Pustak Bhandar.
+8. Santosh Man Maskey, _"Calculus"_, Ratna Pustak Bhandar, Nepal.
