@@ -30,6 +30,12 @@ export const ioeSubjects = [
     keywords: ["computer programming", "CT401", "ioe", "c"],
   },
   {
+    name: "Workshop Technology",
+    code: "ME403",
+    url: "/notes/ioe/workshop/",
+    keywords: ["workshop technology", "ME403", "ioe"],
+  },
+  {
     name: "Applied Mechanics",
     code: "CE451",
     url: "/notes/ioe/mechanics/applied-mechanics.html",
