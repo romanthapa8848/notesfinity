@@ -50,7 +50,7 @@ export const ioeSubjects = [
   {
     name: "Engineering Physics",
     code: "SH452",
-    url: "/notes/ioe/physics/engineering-physics.html",
+    url: "/notes/ioe/physics/",
     keywords: ["engineering physics", "SH452", "ioe"],
   },
   {
