@@ -3,14 +3,6 @@ title: "Non-Ferrous Metals"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of non-ferrous metals, their types, properties, and applications in various industries."
-tags:
-  [
-    "Non-Ferrous Metals",
-    "Metallurgy",
-    "Materials Science",
-    "Engineering",
-    "Construction Materials",
-  ]
 keywords:
   [
     "Non-ferrous metals",

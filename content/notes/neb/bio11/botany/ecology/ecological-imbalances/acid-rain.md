@@ -3,7 +3,6 @@ title: "Acid Rain"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "A detailed description of acid rain, its causes, effects, and solutions."
-tags: ["acid rain", "environment", "pollution", "chemistry", "sustainability"]
 keywords:
   [
     "acid rain formation",

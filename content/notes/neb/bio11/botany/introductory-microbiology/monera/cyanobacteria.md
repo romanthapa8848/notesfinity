@@ -3,8 +3,14 @@ title: "Cyanobacteria: The Blue-Green Algae"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "An in-depth exploration of cyanobacteria, their structure, function, ecological significance, and applications."
-tags: [Cyanobacteria, Blue-Green Algae, Microbiology]
-keywords: [Cyanobacteria, Algae, Photosynthesis, Nitrogen Fixation, Ecosystems]
+keywords:
+  [
+    "Cyanobacteria",
+    "Algae",
+    "Photosynthesis",
+    "Nitrogen Fixation",
+    "Ecosystems",
+  ]
 layout: "non_math_mode"
 ---
 

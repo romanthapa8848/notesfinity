@@ -3,14 +3,6 @@ title: "Composition, Structure, and Functions of Nucleus"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An in-depth look at the composition, structure, and functions of the nucleus, the control center of eukaryotic cells."
-tags:
-  [
-    "Nucleus",
-    "Cell Biology",
-    "Genetic Material",
-    "Eukaryotic Cells",
-    "Cell Nucleus",
-  ]
 keywords:
   [
     "Nucleus composition",

@@ -3,14 +3,6 @@ title: "Characteristics of Good Building Stones"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the essential characteristics that define good building stones for construction purposes."
-tags:
-  [
-    "Building Stones",
-    "Construction Materials",
-    "Geology",
-    "Stone Properties",
-    "Sustainable Building",
-  ]
 keywords:
   [
     "Good building stones",

@@ -3,20 +3,13 @@ title: "Concept of Succession"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "An overview of ecological succession, its types, stages, and significance in ecosystem development."
-tags:
-  [
-    Ecological Succession,
-    Primary Succession,
-    Secondary Succession,
-    Ecosystem Development,
-  ]
 keywords:
   [
-    Ecological Succession,
-    Community Dynamics,
-    Ecosystem Change,
-    Pioneer Species,
-    Climax Community,
+    "Ecological Succession",
+    "Community Dynamics",
+    "Ecosystem Change",
+    "Pioneer Species",
+    "Climax Community",
   ]
 layout: "non_math_mode"
 ---

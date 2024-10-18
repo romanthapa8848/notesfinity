@@ -3,14 +3,6 @@ title: "Composition and Properties of Steel"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the composition, properties, and applications of steel in various industries."
-tags:
-  [
-    "Steel",
-    "Materials Science",
-    "Metallurgy",
-    "Construction Materials",
-    "Engineering Materials",
-  ]
 keywords:
   [
     "Steel composition",

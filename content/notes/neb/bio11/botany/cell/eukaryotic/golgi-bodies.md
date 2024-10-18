@@ -3,14 +3,6 @@ title: "Composition, Structure, and Functions of Golgi Bodies"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the composition, structure, and functions of Golgi bodies, vital organelles in eukaryotic cells."
-tags:
-  [
-    "Golgi Bodies",
-    "Cell Biology",
-    "Eukaryotic Cells",
-    "Organelle Functions",
-    "Protein Processing",
-  ]
 keywords:
   [
     "Golgi body composition",

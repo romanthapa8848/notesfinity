@@ -3,7 +3,6 @@ title: "Level of Organization, Body Plan, Body Symmetry, Body Cavity, and Segmen
 author: "Roman Thapa"
 date: "2024-10-14"
 description: "A detailed description of the levels of organization, body plans, body symmetry, body cavities, and segmentation in animals."
-tags: []
 keywords:
   [
     "animal organization",

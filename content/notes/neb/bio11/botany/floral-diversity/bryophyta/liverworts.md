@@ -3,7 +3,6 @@ title: "General Introduction and Characteristic Features of Liverworts"
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of liverworts, their characteristics, and their ecological significance."
-tags: ["Liverworts", "Botany", "Bryophytes", "Plant Characteristics", "Ecology"]
 keywords:
   [
     "liverwort characteristics",

@@ -3,7 +3,6 @@ title: "Porifera: Diagnostic Features and Classification Up to Class with Exampl
 author: "Roman Thapa"
 date: "2024-10-14"
 description: "A detailed description of the diagnostic features and classification of Porifera up to the class level, along with examples."
-tags: []
 keywords:
   [
     "Porifera",

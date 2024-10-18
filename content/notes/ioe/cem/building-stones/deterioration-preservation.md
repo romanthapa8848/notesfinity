@@ -3,14 +3,6 @@ title: "Deterioration and Preservation of Stone"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the factors causing stone deterioration and methods for its preservation."
-tags:
-  [
-    "Stone Deterioration",
-    "Stone Preservation",
-    "Conservation Techniques",
-    "Building Materials",
-    "Heritage Conservation",
-  ]
 keywords:
   [
     "Stone deterioration causes",

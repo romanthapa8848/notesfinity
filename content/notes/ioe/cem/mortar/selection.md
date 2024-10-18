@@ -3,14 +3,6 @@ title: "Selection of Mortar for Civil Engineering Works"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "Guidelines for selecting the appropriate mortar for various civil engineering applications."
-tags:
-  [
-    "Mortar",
-    "Civil Engineering",
-    "Construction Materials",
-    "Masonry",
-    "Building Materials",
-  ]
 keywords:
   [
     "Selecting mortar",

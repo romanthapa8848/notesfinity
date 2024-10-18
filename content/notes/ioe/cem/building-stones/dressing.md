@@ -3,14 +3,6 @@ title: "Dressing of Stone"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the dressing of stone, its methods, techniques, and significance in construction."
-tags:
-  [
-    "Stone Dressing",
-    "Building Materials",
-    "Construction Techniques",
-    "Masonry",
-    "Stone Cutting",
-  ]
 keywords:
   [
     "Dressing of stone",

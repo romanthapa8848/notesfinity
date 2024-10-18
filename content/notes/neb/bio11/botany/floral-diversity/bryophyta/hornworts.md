@@ -3,7 +3,6 @@ title: "General Introduction and Characteristic Features of Hornworts"
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of hornworts, their characteristics, and their ecological significance."
-tags: ["Hornworts", "Botany", "Bryophytes", "Plant Characteristics", "Ecology"]
 keywords:
   [
     "hornwort characteristics",

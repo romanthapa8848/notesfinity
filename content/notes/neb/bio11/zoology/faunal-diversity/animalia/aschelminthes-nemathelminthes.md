@@ -3,14 +3,6 @@ title: "Aschelminthes (Nemathelminthes): Diagnostic Features and Classification 
 author: "Roman Thapa"
 date: "2024-10-15"
 description: "A detailed description of Aschelminthes (Nemathelminthes), including their diagnostic features and classification up to class with examples."
-tags:
-  [
-    "Aschelminthes",
-    "Nemathelminthes",
-    "Roundworms",
-    "Animal Kingdom",
-    "Parasites",
-  ]
 keywords:
   [
     "Aschelminthes",

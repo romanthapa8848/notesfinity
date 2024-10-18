@@ -3,14 +3,6 @@ title: "Classification of Bricks"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the different classifications of bricks used in construction."
-tags:
-  [
-    "Bricks",
-    "Construction Materials",
-    "Building Materials",
-    "Brick Classification",
-    "Sustainable Construction",
-  ]
 keywords:
   [
     "Classification of bricks",

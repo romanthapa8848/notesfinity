@@ -3,7 +3,6 @@ title: "Economic Importance of Bryophytes"
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of the economic significance of bryophytes in various industries and ecosystems."
-tags: ["Bryophytes", "Economic Importance", "Mosses", "Liverworts", "Hornworts"]
 keywords:
   [
     "economic uses of bryophytes",

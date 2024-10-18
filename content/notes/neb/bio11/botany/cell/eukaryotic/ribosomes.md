@@ -3,14 +3,6 @@ title: "Composition, Structure, and Functions of Ribosomes"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the composition, structure, and functions of ribosomes, essential organelles for protein synthesis in all living cells."
-tags:
-  [
-    "Ribosomes",
-    "Cell Biology",
-    "Protein Synthesis",
-    "Eukaryotic Cells",
-    "Prokaryotic Cells",
-  ]
 keywords:
   [
     "Ribosome composition",

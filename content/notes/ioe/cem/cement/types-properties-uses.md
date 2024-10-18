@@ -3,14 +3,6 @@ title: "Types, Properties, and Uses of Cement"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "A comprehensive guide on the various types of cement, their properties, and their applications in construction."
-tags:
-  [
-    "Cement",
-    "Construction Materials",
-    "Civil Engineering",
-    "Concrete Technology",
-    "Building Materials",
-  ]
 keywords:
   [
     "Types of cement",

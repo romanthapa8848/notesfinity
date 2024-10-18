@@ -3,15 +3,6 @@ title: "Concept of Cell Cycle"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the cell cycle, its phases, regulation, and significance in cellular reproduction and growth."
-tags:
-  [
-    "Cell Cycle",
-    "Cell Division",
-    "Mitosis",
-    "Meiosis",
-    "Cellular Regulation",
-    "Cell Biology",
-  ]
 keywords:
   [
     "Phases of the cell cycle",

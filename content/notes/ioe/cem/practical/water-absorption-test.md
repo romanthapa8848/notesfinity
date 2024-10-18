@@ -3,14 +3,6 @@ title: "Water Absorption Test and Bulk Specific Gravity Test on Brick Sample"
 author: "Roman Thapa"
 date: "2024-10-07"
 description: "A practical report on conducting water absorption and bulk specific gravity tests on brick samples to assess their properties."
-tags:
-  [
-    "Brick Testing",
-    "Water Absorption Test",
-    "Bulk Specific Gravity Test",
-    "Civil Engineering",
-    "Construction Materials",
-  ]
 keywords:
   [
     "Water absorption of bricks",

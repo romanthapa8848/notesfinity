@@ -3,8 +3,7 @@ title: "Monera: General Introduction, Structure of Bacterial Cell, Mode of Nutri
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "A detailed description of the Monera kingdom, focusing on bacterial structure, modes of nutrition, and growth patterns."
-tags: [Monera, Bacteria, Microbiology]
-keywords: [Monera, Bacteria, Nutrition, Growth, Prokaryotes]
+keywords: ["Monera", "Bacteria", "Nutrition", "Growth", "Prokaryotes"]
 layout: "non_math_mode"
 ---
 

@@ -3,9 +3,14 @@ title: "Concept of Ecosystem"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "An overview of the concept of ecosystems, their components, and functions."
-tags: [Ecology, Ecosystems, Biodiversity, Environment]
 keywords:
-  [Ecosystem, Biotic Factors, Abiotic Factors, Energy Flow, Nutrient Cycling]
+  [
+    "Ecosystem",
+    "Biotic Factors",
+    "Abiotic Factors",
+    "Energy Flow",
+    "Nutrient Cycling",
+  ]
 layout: "non_math_mode"
 ---
 

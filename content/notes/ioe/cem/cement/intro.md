@@ -3,14 +3,6 @@ title: "Cement: Introduction"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of cement, its types, properties, manufacturing processes, and significance in construction."
-tags:
-  [
-    "Cement",
-    "Construction Materials",
-    "Civil Engineering",
-    "Concrete Technology",
-    "Building Materials",
-  ]
 keywords:
   [
     "Cement types",

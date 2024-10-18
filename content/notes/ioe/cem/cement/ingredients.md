@@ -3,14 +3,6 @@ title: "Ingredients of Cement"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "A detailed guide on the various ingredients used in the manufacture of cement, their functions, and significance."
-tags:
-  [
-    "Cement",
-    "Construction Materials",
-    "Civil Engineering",
-    "Cement Ingredients",
-    "Building Materials",
-  ]
 keywords:
   [
     "Ingredients of cement",

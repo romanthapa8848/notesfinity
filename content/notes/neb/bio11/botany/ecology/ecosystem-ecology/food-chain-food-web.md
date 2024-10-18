@@ -3,8 +3,7 @@ title: "Food Chain and Food Web"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "An overview of food chains and food webs, their significance, and interconnections within ecosystems."
-tags: [Food Chain, Food Web, Ecology, Ecosystem]
-keywords: [Food Chain, Food Web, Trophic Levels, Ecosystem Dynamics]
+keywords: ["Food Chain", "Food Web", "Trophic Levels", "Ecosystem Dynamics"]
 layout: "non_math_mode"
 ---
 

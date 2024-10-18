@@ -3,8 +3,6 @@ title: "Basidiomycetes: General Introduction and Characteristic Features"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of Basidiomycetes, including their general characteristics, classification, and ecological significance."
-tags:
-  ["Basidiomycetes", "Fungi", "Mushrooms", "Characteristics", "Ecological Role"]
 keywords:
   [
     "General introduction to Basidiomycetes",

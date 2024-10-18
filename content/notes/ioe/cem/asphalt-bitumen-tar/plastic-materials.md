@@ -3,14 +3,6 @@ title: "Types, Properties, and Uses of Plastic Materials"
 author: "Roman Thapa"
 date: "2024-10-07"
 description: "An overview of different types of plastic materials, their properties, and their applications in construction and civil engineering."
-tags:
-  [
-    "Plastic Materials",
-    "Construction Materials",
-    "Civil Engineering",
-    "Building Materials",
-    "Polymers",
-  ]
 keywords:
   [
     "Types of plastic",

@@ -3,14 +3,6 @@ title: "Composition and Function of Cement Clinker"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the chemical composition of cement clinker and its function in cement production."
-tags:
-  [
-    "Cement Clinker",
-    "Cement Chemistry",
-    "Construction Materials",
-    "Civil Engineering",
-    "Building Materials",
-  ]
 keywords:
   [
     "Cement clinker composition",

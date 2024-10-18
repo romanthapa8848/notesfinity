@@ -3,15 +3,6 @@ title: "Coelenterata (Cnidaria): Diagnostic Features and Classification Up to Cl
 author: "Roman Thapa"
 date: "2024-10-15"
 description: "A detailed description of Coelenterata (Cnidaria) including its diagnostic features and classification up to class with examples."
-tags:
-  [
-    "Coelenterata",
-    "Cnidaria",
-    "Animal Kingdom",
-    "Hydra",
-    "Jellyfish",
-    "Marine Life",
-  ]
 keywords:
   [
     "Coelenterata",

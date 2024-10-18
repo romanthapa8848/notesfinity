@@ -3,15 +3,6 @@ title: "Lime: Introduction"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of lime, its types, properties, production processes, and applications in construction and other industries."
-tags:
-  [
-    "Lime",
-    "Construction Materials",
-    "Civil Engineering",
-    "Building Materials",
-    "Lime Production",
-    "Sustainable Construction",
-  ]
 keywords:
   [
     "Types of lime",

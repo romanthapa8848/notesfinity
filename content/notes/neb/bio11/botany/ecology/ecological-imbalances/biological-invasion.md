@@ -3,14 +3,6 @@ title: "Biological Invasion"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "A detailed description of biological invasion, its causes, effects, and management strategies."
-tags:
-  [
-    "biological invasion",
-    "invasive species",
-    "ecology",
-    "biodiversity",
-    "environmental impact",
-  ]
 keywords:
   [
     "invasive species",

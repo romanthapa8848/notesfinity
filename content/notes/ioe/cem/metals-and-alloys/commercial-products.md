@@ -3,14 +3,6 @@ title: "Commercial Products of Metals"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of various commercial products made from metals and their applications across different industries."
-tags:
-  [
-    "Commercial Products",
-    "Metals",
-    "Metal Industry",
-    "Manufacturing",
-    "Engineering",
-  ]
 keywords:
   [
     "Metal products",

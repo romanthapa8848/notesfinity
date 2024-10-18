@@ -3,8 +3,6 @@ title: "Depletion of Ozone Layer"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "A detailed description of the depletion of the ozone layer, its causes, effects, and solutions."
-tags:
-  ["ozone layer", "environment", "pollution", "climate change", "protection"]
 keywords:
   [
     "ozone depletion",

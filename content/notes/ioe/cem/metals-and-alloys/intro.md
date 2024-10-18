@@ -3,14 +3,6 @@ title: "Metal and Alloys: Introduction"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of metals and alloys, their properties, uses, and significance in various industries."
-tags:
-  [
-    "Metals",
-    "Alloys",
-    "Materials Science",
-    "Engineering Materials",
-    "Construction Materials",
-  ]
 keywords:
   [
     "Types of metals",

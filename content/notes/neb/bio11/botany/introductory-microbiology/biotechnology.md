@@ -3,14 +3,13 @@ title: "Impacts of Biotechnology in the Field of Microbiology"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "An exploration of the significant impacts of biotechnology on microbiology, including advancements in research, applications, and ethical considerations."
-tags: [Biotechnology, Microbiology, Genetic Engineering, Healthcare]
 keywords:
   [
-    Biotechnology,
-    Microbiology,
-    Genetic Engineering,
-    Bioremediation,
-    Pharmaceuticals,
+    "Biotechnology",
+    "Microbiology",
+    "Genetic Engineering",
+    "Bioremediation",
+    "Pharmaceuticals",
   ]
 layout: "non_math_mode"
 ---

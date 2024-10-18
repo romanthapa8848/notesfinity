@@ -3,13 +3,12 @@ title: "Concept of Adaptation"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "An overview of biological adaptation, its mechanisms, types, and significance in evolution and ecology."
-tags: [Adaptation, Evolution, Natural Selection, Ecology]
 keywords:
   [
-    Biological Adaptation,
-    Evolutionary Mechanisms,
-    Natural Selection,
-    Survival Strategies,
+    "Biological Adaptation",
+    "Evolutionary Mechanisms",
+    "Natural Selection",
+    "Survival Strategies",
   ]
 layout: "non_math_mode"
 ---

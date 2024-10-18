@@ -3,15 +3,6 @@ title: "Evidences of Evolution"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "A detailed description of the various types of evidence supporting the theory of evolution, including morphological, anatomical, paleontological, embryological, and biochemical evidence."
-tags:
-  [
-    "evolution",
-    "morphological evidence",
-    "anatomical evidence",
-    "paleontological evidence",
-    "embryological evidence",
-    "biochemical evidence",
-  ]
 keywords:
   [
     "evidence of evolution",

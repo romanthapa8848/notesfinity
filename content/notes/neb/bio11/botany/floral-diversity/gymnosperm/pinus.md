@@ -3,7 +3,6 @@ title: "Morphology and Reproduction of Pinus"
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of the morphological structure and reproductive mechanisms of the Pinus genus."
-tags: ["Pinus", "Morphology", "Reproduction", "Conifers", "Plant Biology"]
 keywords:
   [
     "Pinus morphology",

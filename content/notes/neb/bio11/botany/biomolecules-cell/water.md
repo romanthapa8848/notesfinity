@@ -3,8 +3,6 @@ title: "Introduction and Functions of Water"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the functions of water in biological systems and its significance in supporting life."
-tags:
-  ["Water", "Biochemistry", "Biological Molecules", "Hydration", "Cell Biology"]
 keywords:
   [
     "Functions of water",

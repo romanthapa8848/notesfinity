@@ -3,14 +3,13 @@ title: "Carbon and Nitrogen Cycles"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "An overview of the carbon and nitrogen cycles, their processes, importance, and interactions in the ecosystem."
-tags: [Carbon Cycle, Nitrogen Cycle, Ecosystem, Nutrient Cycling]
 keywords:
   [
-    Carbon Cycle,
-    Nitrogen Cycle,
-    Ecosystem Dynamics,
-    Photosynthesis,
-    Nitrogen Fixation,
+    "Carbon Cycle",
+    "Nitrogen Cycle",
+    "Ecosystem Dynamics",
+    "Photosynthesis",
+    "Nitrogen Fixation",
   ]
 layout: "math_mode"
 ---

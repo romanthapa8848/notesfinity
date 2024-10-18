@@ -3,7 +3,6 @@ title: "Classification of Trees"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the classification of trees based on various criteria such as type, habitat, and growth form."
-tags: ["Trees", "Botany", "Plant Classification", "Dendrology", "Tree Biology"]
 keywords:
   [
     "Types of trees",

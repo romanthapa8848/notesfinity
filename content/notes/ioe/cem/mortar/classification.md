@@ -3,14 +3,6 @@ title: "Classification of Mortar"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the classification of mortar based on composition, properties, and applications."
-tags:
-  [
-    "Mortar",
-    "Construction Materials",
-    "Civil Engineering",
-    "Masonry",
-    "Building Materials",
-  ]
 keywords:
   [
     "Mortar classification",

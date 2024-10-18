@@ -3,14 +3,6 @@ title: "Constituents of Brick Earth"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the constituents of brick earth, their properties, and their significance in brick production."
-tags:
-  [
-    "Brick Earth",
-    "Construction Materials",
-    "Bricks",
-    "Soil Science",
-    "Building Materials",
-  ]
 keywords:
   [
     "Brick earth constituents",

@@ -3,14 +3,6 @@ title: "Compressive Strength Test of Brick and Stone"
 author: "Roman Thapa"
 date: "2024-10-07"
 description: "A practical report on conducting compressive strength tests on brick and stone samples to assess their load-bearing capacity."
-tags:
-  [
-    "Compressive Strength Test",
-    "Brick Testing",
-    "Stone Testing",
-    "Civil Engineering",
-    "Construction Materials",
-  ]
 keywords:
   [
     "Compressive strength of bricks",

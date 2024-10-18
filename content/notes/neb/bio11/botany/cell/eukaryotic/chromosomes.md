@@ -3,15 +3,6 @@ title: "Composition, Structure, and Functions of Chromosomes"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An in-depth exploration of the composition, structure, and functions of chromosomes, the carriers of genetic information in cells."
-tags:
-  [
-    "Chromosomes",
-    "Genetics",
-    "Cell Biology",
-    "DNA",
-    "Eukaryotic Cells",
-    "Prokaryotic Cells",
-  ]
 keywords:
   [
     "Chromosome composition",

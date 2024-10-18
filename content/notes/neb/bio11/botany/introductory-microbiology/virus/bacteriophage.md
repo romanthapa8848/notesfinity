@@ -3,8 +3,7 @@ title: "Bacteriophage"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "A detailed description of bacteriophages, their structure, life cycle, and significance."
-tags: [Bacteriophage, Virology, Microbiology]
-keywords: [Bacteriophage, Viruses, Infection, Bacteria, Biotechnology]
+keywords: ["Bacteriophage", "Viruses", "Infection", "Bacteria", "Biotechnology"]
 layout: "non_math_mode"
 ---
 

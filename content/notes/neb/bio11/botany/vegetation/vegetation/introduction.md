@@ -3,7 +3,6 @@ title: "Vegetation: Introduction"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "An introductory overview of vegetation, its types, importance, and role in ecosystems."
-tags: ["vegetation", "ecosystems", "plants", "biodiversity", "environment"]
 keywords:
   [
     "types of vegetation",

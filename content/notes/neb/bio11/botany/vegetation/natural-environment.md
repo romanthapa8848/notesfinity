@@ -3,15 +3,6 @@ title: "Natural Environment - Vegetation and Human Activities"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "An overview of the relationship between the natural environment, vegetation, and human activities, and their impacts on ecosystems."
-tags:
-  [
-    "natural environment",
-    "vegetation",
-    "human activities",
-    "ecosystem",
-    "deforestation",
-    "biodiversity",
-  ]
 keywords:
   [
     "natural environment",

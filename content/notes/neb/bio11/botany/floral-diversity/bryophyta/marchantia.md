@@ -3,7 +3,6 @@ title: "Morphological Structure and Reproduction of Marchantia"
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of the morphological structure and reproductive mechanisms of Marchantia, a genus of liverworts."
-tags: ["Marchantia", "Liverworts", "Morphology", "Reproduction", "Bryophytes"]
 keywords:
   [
     "Marchantia morphology",

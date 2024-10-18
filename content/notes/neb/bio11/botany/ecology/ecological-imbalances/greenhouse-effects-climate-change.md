@@ -3,14 +3,6 @@ title: "Greenhouse Effects and Climate Change"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "A detailed description of the greenhouse effect, its role in climate change, and its impacts."
-tags:
-  [
-    "climate change",
-    "greenhouse effect",
-    "environment",
-    "global warming",
-    "sustainability",
-  ]
 keywords:
   [
     "greenhouse gases",

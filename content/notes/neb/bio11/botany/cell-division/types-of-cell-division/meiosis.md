@@ -3,14 +3,6 @@ title: "Meiosis"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of meiosis, the specialized cell division process that produces gametes with half the chromosome number."
-tags:
-  [
-    "Meiosis",
-    "Cell Division",
-    "Gametes",
-    "Sexual Reproduction",
-    "Genetic Variation",
-  ]
 keywords:
   [
     "Meiosis process",

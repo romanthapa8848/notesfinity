@@ -3,14 +3,6 @@ title: "Selection and Use of Stone in Construction"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "A comprehensive guide on the selection criteria and application of stones in construction."
-tags:
-  [
-    "Building Stones",
-    "Construction Materials",
-    "Stone Selection",
-    "Sustainable Construction",
-    "Architectural Design",
-  ]
 keywords:
   [
     "Stone selection criteria",

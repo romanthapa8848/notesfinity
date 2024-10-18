@@ -3,15 +3,6 @@ title: "Paramecium caudatum: Habits and Habitat, Structure, Reproduction, Life-c
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "A detailed overview of Paramecium caudatum, focusing on its habits, habitat, structure, reproduction, and life cycle."
-tags:
-  [
-    "Paramecium",
-    "caudatum",
-    "protozoa",
-    "habitat",
-    "reproduction",
-    "life cycle",
-  ]
 keywords:
   [
     "Paramecium caudatum",

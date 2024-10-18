@@ -3,13 +3,6 @@ title: "Binomial Nomenclature"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of binomial nomenclature, the formal system of naming species in biology."
-tags:
-  [
-    "Binomial Nomenclature",
-    "Taxonomy",
-    "Species Classification",
-    "Biological Nomenclature",
-  ]
 keywords:
   [
     "Two-part names",

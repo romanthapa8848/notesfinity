@@ -3,14 +3,6 @@ title: "Anti-Termite Treatment: Overview, Methods, and Uses"
 author: "Roman Thapa"
 date: "2024-10-07"
 description: "An introduction to anti-termite treatment, its methods, types, and application in protecting structures from termite infestations."
-tags:
-  [
-    "Anti-Termite Treatment",
-    "Pest Control",
-    "Building Protection",
-    "Construction",
-    "Termite Prevention",
-  ]
 keywords:
   [
     "Anti-termite treatment methods",

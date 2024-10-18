@@ -3,14 +3,6 @@ title: "Types, Properties and Uses of Iron"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the different types of iron, their properties, and their applications in various industries."
-tags:
-  [
-    "Iron",
-    "Materials Science",
-    "Metallurgy",
-    "Construction Materials",
-    "Engineering Materials",
-  ]
 keywords:
   [
     "Types of iron",

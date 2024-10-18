@@ -3,14 +3,6 @@ title: "Differences between New World Monkeys & Old World Monkeys"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "An exploration of the key differences between New World monkeys and Old World monkeys, including their characteristics, habitats, and behaviors."
-tags:
-  [
-    "New World monkeys",
-    "Old World monkeys",
-    "primate classification",
-    "anatomy",
-    "behavior",
-  ]
 keywords:
   [
     "New World monkeys",

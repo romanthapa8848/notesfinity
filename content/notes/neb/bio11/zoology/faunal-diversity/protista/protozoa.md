@@ -3,14 +3,6 @@ title: "Protozoa: Diagnostic Features and Classification Up to Class with Exampl
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "An overview of protozoa, focusing on their diagnostic features and classification up to the class level, with examples."
-tags:
-  [
-    "protozoa",
-    "classification",
-    "diagnostic features",
-    "single-celled organisms",
-    "biology",
-  ]
 keywords:
   [
     "protozoa",

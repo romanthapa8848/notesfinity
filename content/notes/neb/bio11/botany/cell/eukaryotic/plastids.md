@@ -3,7 +3,6 @@ title: "Composition, Structure, and Functions of Plastids"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the composition, structure, and functions of plastids, essential organelles found in plant cells."
-tags: ["Plastids", "Plant Cells", "Chloroplasts", "Chromoplasts", "Leucoplasts"]
 keywords:
   [
     "Plastid composition",

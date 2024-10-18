@@ -3,7 +3,6 @@ title: "Structure and Reproduction of Yeast"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the structure and reproductive strategies of yeast, unicellular fungi that play significant roles in fermentation and biotechnology."
-tags: ["Yeast", "Fungi", "Reproduction", "Fermentation", "Biotechnology"]
 keywords:
   [
     "Yeast structure",

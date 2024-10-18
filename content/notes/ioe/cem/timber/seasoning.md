@@ -3,14 +3,6 @@ title: "Seasoning of Timber"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the seasoning process of timber, its importance, methods, and factors affecting seasoning."
-tags:
-  [
-    "Timber Seasoning",
-    "Wood Drying",
-    "Construction Materials",
-    "Woodworking",
-    "Timber Quality",
-  ]
 keywords:
   [
     "Seasoning of timber",

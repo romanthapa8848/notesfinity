@@ -3,7 +3,6 @@ title: "Differences between Apes & Man"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "An exploration of the key differences between apes and humans, including anatomical, behavioral, and cognitive distinctions."
-tags: ["apes", "humans", "evolution", "anatomy", "behavior"]
 keywords:
   [
     "apes",

@@ -3,7 +3,6 @@ title: "Morphological Structure and Reproduction of Dryopteris"
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of the morphological structure and reproductive methods of the Dryopteris genus."
-tags: ["Dryopteris", "Ferns", "Morphology", "Reproduction", "Plant Biology"]
 keywords:
   [
     "morphological structure of Dryopteris",

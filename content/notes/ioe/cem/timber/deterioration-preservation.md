@@ -3,14 +3,6 @@ title: "Deterioration and Preservation of Timber"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the causes of timber deterioration, methods of preservation, and the importance of maintaining timber quality."
-tags:
-  [
-    "Timber Preservation",
-    "Wood Deterioration",
-    "Construction Materials",
-    "Sustainable Forestry",
-    "Woodworking",
-  ]
 keywords:
   [
     "Deterioration of timber",

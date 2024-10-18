@@ -3,16 +3,6 @@ title: "Economic Importance of Algae"
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of the economic significance of algae in various industries and environmental applications."
-tags:
-  [
-    "Algae",
-    "Economic Importance",
-    "Phycology",
-    "Biofuel",
-    "Agriculture",
-    "Aquaculture",
-    "Pharmaceuticals",
-  ]
 keywords:
   [
     "algae economic value",

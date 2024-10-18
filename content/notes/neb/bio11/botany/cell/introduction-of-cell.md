@@ -3,7 +3,6 @@ title: "Introduction of Cells"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the structure and functions of cells, the basic unit of life."
-tags: ["Cells", "Biology", "Cell Biology", "Microscopy", "Organisms"]
 keywords:
   [
     "Cell structure",

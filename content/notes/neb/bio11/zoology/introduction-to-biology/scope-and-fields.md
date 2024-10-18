@@ -3,8 +3,6 @@ title: "Introduction to Biology: Scope and Fields of Biology. Relation with Othe
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "An overview of biology, its scope, various fields, and how it relates to other scientific disciplines."
-tags:
-  ["biology", "life sciences", "scientific fields", "interdisciplinary science"]
 keywords:
   [
     "biology",

@@ -3,8 +3,6 @@ title: "Amitosis"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of amitosis, a direct method of cell division without the typical stages of mitosis."
-tags:
-  ["Amitosis", "Cell Division", "Cell Biology", "Mitosis", "Eukaryotic Cells"]
 keywords:
   [
     "Amitosis process",

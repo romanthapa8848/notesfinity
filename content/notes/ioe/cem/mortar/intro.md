@@ -3,14 +3,6 @@ title: "Mortar: Introduction"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of mortar, its types, properties, and applications in construction."
-tags:
-  [
-    "Mortar",
-    "Construction Materials",
-    "Civil Engineering",
-    "Building Materials",
-    "Masonry",
-  ]
 keywords:
   [
     "Mortar types",

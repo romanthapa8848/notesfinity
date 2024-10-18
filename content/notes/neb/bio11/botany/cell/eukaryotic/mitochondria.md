@@ -3,14 +3,6 @@ title: "Composition, Structure, and Functions of Mitochondria"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the composition, structure, and functions of mitochondria, often referred to as the 'powerhouses' of the cell."
-tags:
-  [
-    "Mitochondria",
-    "Cell Biology",
-    "Energy Production",
-    "Organelle Structure",
-    "ATP Production",
-  ]
 keywords:
   [
     "Mitochondria composition",

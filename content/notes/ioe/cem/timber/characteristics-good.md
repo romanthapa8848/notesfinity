@@ -3,14 +3,6 @@ title: "Characteristics of Good Timber"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the essential characteristics that define good quality timber for construction and woodworking."
-tags:
-  [
-    "Timber",
-    "Wood Quality",
-    "Construction Materials",
-    "Woodworking",
-    "Sustainability",
-  ]
 keywords:
   [
     "Good timber characteristics",

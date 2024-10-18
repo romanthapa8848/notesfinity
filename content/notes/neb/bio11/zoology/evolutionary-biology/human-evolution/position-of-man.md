@@ -3,14 +3,6 @@ title: "Position of Man in Animal Kingdom"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "An overview of the classification of humans within the animal kingdom, highlighting their unique characteristics and evolutionary significance."
-tags:
-  [
-    "human classification",
-    "animal kingdom",
-    "taxonomy",
-    "evolution",
-    "Homo sapiens",
-  ]
 keywords:
   [
     "human classification",

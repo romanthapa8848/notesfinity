@@ -3,13 +3,6 @@ title: "Miller and Urey's Experiment"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "A detailed description of Miller and Urey's experiment that simulated early Earth conditions to study the origin of organic molecules."
-tags:
-  [
-    "Miller-Urey experiment",
-    "origin of life",
-    "chemical evolution",
-    "abiogenesis",
-  ]
 keywords:
   [
     "Miller-Urey experiment",

@@ -3,15 +3,6 @@ title: "Selection Criteria of Construction Material"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "A comprehensive guide on the factors influencing the selection of construction materials."
-tags:
-  [
-    "Construction Materials",
-    "Material Selection",
-    "Civil Engineering",
-    "Building Materials",
-    "Sustainability in Construction",
-    "Structural Engineering",
-  ]
 keywords:
   [
     "Construction material selection",

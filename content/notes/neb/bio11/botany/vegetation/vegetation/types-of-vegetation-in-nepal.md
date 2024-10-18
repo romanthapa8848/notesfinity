@@ -3,7 +3,6 @@ title: "Types of Vegetation in Nepal"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "An overview of the different types of vegetation found in Nepal, their characteristics, and significance."
-tags: ["Nepal", "vegetation", "biodiversity", "ecosystems", "plant life"]
 keywords:
   [
     "forest types",

@@ -3,9 +3,14 @@ title: "Concept of Ecology"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "An exploration of the concept of ecology, its principles, and the interactions between organisms and their environment."
-tags: [Ecology, Environment, Ecosystems, Biodiversity]
 keywords:
-  [Ecology, Ecosystems, Interactions, Biodiversity, Environmental Science]
+  [
+    "Ecology",
+    "Ecosystems",
+    "Interactions",
+    "Biodiversity",
+    "Environmental Science",
+  ]
 layout: "non_math_mode"
 ---
 

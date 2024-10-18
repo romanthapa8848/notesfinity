@@ -3,14 +3,6 @@ title: "Timber: Introduction"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of timber, its properties, applications, and significance in construction."
-tags:
-  [
-    "Timber",
-    "Construction Materials",
-    "Wood",
-    "Building Materials",
-    "Sustainable Construction",
-  ]
 keywords:
   [
     "Timber properties",

@@ -3,7 +3,6 @@ title: "Hydrophytes and Xerophytes"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "A detailed description of hydrophytes and xerophytes, their adaptations, and differences."
-tags: ["plants", "hydrophytes", "xerophytes", "adaptations", "ecosystems"]
 keywords:
   [
     "water plants",

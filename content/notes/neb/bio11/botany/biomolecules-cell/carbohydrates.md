@@ -3,14 +3,6 @@ title: "Introduction and Functions of Carbohydrates"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the functions of carbohydrates in biological systems and their importance in nutrition and energy."
-tags:
-  [
-    "Carbohydrates",
-    "Biochemistry",
-    "Organic Chemistry",
-    "Macromolecules",
-    "Biological Molecules",
-  ]
 keywords:
   [
     "Functions of carbohydrates",

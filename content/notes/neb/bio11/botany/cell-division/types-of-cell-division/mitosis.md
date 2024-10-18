@@ -3,14 +3,6 @@ title: "Mitosis"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of mitosis, the process of cell division that results in two genetically identical daughter cells."
-tags:
-  [
-    "Mitosis",
-    "Cell Division",
-    "Cell Biology",
-    "Eukaryotic Cells",
-    "Chromosomes",
-  ]
 keywords:
   [
     "Mitosis process",

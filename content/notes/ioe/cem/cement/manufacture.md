@@ -3,14 +3,6 @@ title: "Manufacture of Cement"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An in-depth look at the processes involved in the manufacture of cement, including raw material preparation, clinker production, final grinding, and packaging."
-tags:
-  [
-    "Cement",
-    "Cement Manufacturing",
-    "Construction Materials",
-    "Civil Engineering",
-    "Building Materials",
-  ]
 keywords:
   [
     "Cement manufacturing process",

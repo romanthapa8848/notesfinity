@@ -3,14 +3,6 @@ title: "Deuteromycetes: General Introduction and Characteristic Features"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of Deuteromycetes, including their general characteristics, classification, and ecological significance."
-tags:
-  [
-    "Deuteromycetes",
-    "Fungi",
-    "Fungal Classification",
-    "Characteristics",
-    "Ecological Role",
-  ]
 keywords:
   [
     "General introduction to Deuteromycetes",

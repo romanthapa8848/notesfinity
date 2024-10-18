@@ -3,14 +3,6 @@ title: "Manufacture of Bricks"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the brick manufacturing process, including raw materials, methods, and quality control."
-tags:
-  [
-    "Brick Manufacturing",
-    "Construction Materials",
-    "Bricks",
-    "Building Materials",
-    "Sustainable Construction",
-  ]
 keywords:
   [
     "Brick manufacture process",

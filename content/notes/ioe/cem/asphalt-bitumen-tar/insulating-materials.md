@@ -3,15 +3,6 @@ title: "Types, Properties, and Uses of Insulating Materials"
 author: "Roman Thapa"
 date: "2024-10-07"
 description: "An overview of various insulating materials, their properties, and their applications in construction and civil engineering."
-tags:
-  [
-    "Insulating Materials",
-    "Construction Materials",
-    "Civil Engineering",
-    "Building Materials",
-    "Thermal Insulation",
-    "Acoustic Insulation",
-  ]
 keywords:
   [
     "Types of insulating materials",

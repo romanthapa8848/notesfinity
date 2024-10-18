@@ -3,15 +3,6 @@ title: "Significances of Cell Division"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the significance of cell division in growth, repair, reproduction, and genetic diversity."
-tags:
-  [
-    "Cell Division",
-    "Mitosis",
-    "Meiosis",
-    "Cell Growth",
-    "Reproduction",
-    "Genetic Diversity",
-  ]
 keywords:
   [
     "Importance of cell division",

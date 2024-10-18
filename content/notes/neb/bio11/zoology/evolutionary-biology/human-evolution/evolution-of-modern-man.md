@@ -3,14 +3,6 @@ title: "Evolution of Modern Man Starting from Anthropoid Ancestor"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "An in-depth explanation of the evolution of modern humans from anthropoid ancestors, covering significant evolutionary stages and characteristics."
-tags:
-  [
-    "evolution",
-    "human evolution",
-    "anthropoid ancestor",
-    "hominids",
-    "homo sapiens",
-  ]
 keywords:
   [
     "human evolution",

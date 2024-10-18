@@ -3,14 +3,6 @@ title: "Clay Products: Introduction"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of clay products, their types, properties, and applications in construction and manufacturing."
-tags:
-  [
-    "Clay Products",
-    "Building Materials",
-    "Ceramics",
-    "Construction Materials",
-    "Manufacturing",
-  ]
 keywords:
   [
     "Clay",

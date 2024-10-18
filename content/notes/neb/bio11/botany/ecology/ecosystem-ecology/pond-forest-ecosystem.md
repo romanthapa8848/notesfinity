@@ -3,8 +3,14 @@ title: "Structural and Functional Aspects of Pond and Forest Ecosystem"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "An overview of the structural and functional aspects of pond and forest ecosystems."
-tags: [Ecosystem, Pond Ecosystem, Forest Ecosystem, Ecology]
-keywords: [Pond Ecosystem, Forest Ecosystem, Structure, Function, Biodiversity]
+keywords:
+  [
+    "Pond Ecosystem",
+    "Forest Ecosystem",
+    "Structure",
+    "Function",
+    "Biodiversity",
+  ]
 layout: "non_math_mode"
 ---
 

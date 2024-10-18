@@ -3,14 +3,6 @@ title: "Composition, Structure, and Functions of Lysosomes"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the composition, structure, and functions of lysosomes, essential organelles for cellular digestion and waste management."
-tags:
-  [
-    "Lysosomes",
-    "Cell Biology",
-    "Eukaryotic Cells",
-    "Organelle Functions",
-    "Cellular Digestion",
-  ]
 keywords:
   [
     "Lysosome composition",

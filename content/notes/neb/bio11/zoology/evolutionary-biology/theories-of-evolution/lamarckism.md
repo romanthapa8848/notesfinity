@@ -3,13 +3,6 @@ title: "Lamarckism"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "A detailed description of Lamarckism, its principles, and its significance in the study of evolution."
-tags:
-  [
-    "Lamarckism",
-    "evolution",
-    "Jean-Baptiste Lamarck",
-    "inheritance of acquired characteristics",
-  ]
 keywords:
   [
     "Lamarckism",

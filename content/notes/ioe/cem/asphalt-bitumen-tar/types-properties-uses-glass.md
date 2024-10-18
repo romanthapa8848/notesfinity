@@ -3,15 +3,6 @@ title: "Types, Properties, and Uses of Glass"
 author: "Roman Thapa"
 date: "2024-10-07"
 description: "An overview of different types of glass, their properties, and their applications in construction and architecture."
-tags:
-  [
-    "Glass",
-    "Construction Materials",
-    "Building Materials",
-    "Architectural Glass",
-    "Civil Engineering",
-    "Windows and Glazing",
-  ]
 keywords:
   [
     "Types of glass",

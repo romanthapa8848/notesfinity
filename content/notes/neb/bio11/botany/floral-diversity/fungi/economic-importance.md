@@ -3,15 +3,6 @@ title: "Economic Importance of Fungi"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the economic importance of fungi, highlighting their roles in food production, medicine, agriculture, and industry."
-tags:
-  [
-    "Fungi",
-    "Mycology",
-    "Economics",
-    "Food Production",
-    "Medicinal Fungi",
-    "Agriculture",
-  ]
 keywords:
   [
     "Economic importance of fungi",

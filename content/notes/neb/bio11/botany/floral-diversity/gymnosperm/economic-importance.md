@@ -3,7 +3,6 @@ title: "Economic Importance of Gymnosperms"
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of the economic significance of gymnosperms in various sectors."
-tags: ["Gymnosperms", "Economy", "Timber", "Medicinal", "Horticulture"]
 keywords:
   [
     "economic importance of gymnosperms",

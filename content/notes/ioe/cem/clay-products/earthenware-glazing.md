@@ -3,15 +3,6 @@ title: "Earthenware and Glazing"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of earthenware, its characteristics, and the glazing process that enhances its properties."
-tags:
-  [
-    "Earthenware",
-    "Glazing",
-    "Ceramics",
-    "Pottery",
-    "Construction Materials",
-    "Craftsmanship",
-  ]
 keywords:
   [
     "Earthenware characteristics",

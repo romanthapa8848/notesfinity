@@ -3,14 +3,6 @@ title: "Status of Flora in Nepal and World Representation"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the status of flora in Nepal and its representation in global biodiversity."
-tags:
-  [
-    "Flora of Nepal",
-    "Biodiversity",
-    "Plant Conservation",
-    "Floral Diversity",
-    "Environmental Conservation",
-  ]
 keywords:
   [
     "Flora status in Nepal",

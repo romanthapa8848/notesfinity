@@ -3,14 +3,6 @@ title: "In-situ (Protected Areas) and Ex-situ (Botanical Garden, Seed Bank) Cons
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "An overview of in-situ and ex-situ conservation methods, their significance, and examples."
-tags:
-  [
-    "conservation",
-    "biodiversity",
-    "protected areas",
-    "botanical gardens",
-    "seed banks",
-  ]
 keywords:
   [
     "in-situ conservation",

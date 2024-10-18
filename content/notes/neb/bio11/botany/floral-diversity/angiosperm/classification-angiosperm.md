@@ -3,7 +3,6 @@ title: "Classification Systems (Artificial, Natural, and Phylogenetic) of Angios
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of the classification systems of angiosperms, focusing on artificial, natural, and phylogenetic approaches."
-tags: ["Angiosperms", "Classification", "Taxonomy", "Biology"]
 keywords:
   [
     "classification systems",

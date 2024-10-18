@@ -3,8 +3,7 @@ title: "Trophic Level"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "An overview of trophic levels, their significance in ecosystems, and how they structure food chains and food webs."
-tags: [Trophic Level, Ecology, Food Chain, Food Web]
-keywords: [Trophic Level, Energy Flow, Ecosystem Dynamics, Food Web]
+keywords: ["Trophic Level", "Energy Flow", "Ecosystem Dynamics", "Food Web"]
 layout: "non_math_mode"
 ---
 

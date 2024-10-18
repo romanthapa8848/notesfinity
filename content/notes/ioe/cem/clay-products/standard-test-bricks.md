@@ -3,14 +3,6 @@ title: "Standard Tests for Bricks"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the standard tests used to evaluate the quality and performance of bricks."
-tags:
-  [
-    "Bricks",
-    "Construction Materials",
-    "Brick Testing",
-    "Building Materials",
-    "Quality Control",
-  ]
 keywords:
   [
     "Standard tests for bricks",

@@ -3,15 +3,6 @@ title: "Lichen: General Introduction, Characteristic Features, and Economic Impo
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of lichens, their characteristic features, and their economic importance in various sectors."
-tags:
-  [
-    "Lichens",
-    "Mycology",
-    "Ecology",
-    "Economic Importance",
-    "Symbiosis",
-    "Biodiversity",
-  ]
 keywords:
   [
     "Introduction to lichens",

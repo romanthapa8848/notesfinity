@@ -3,7 +3,6 @@ title: "Taxonomic Description of the Family Fabaceae (or Leguminosae) with Econo
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "A detailed taxonomic description of the Fabaceae family and its economic significance."
-tags: ["Fabaceae", "Taxonomy", "Economic Importance", "Botany"]
 keywords:
   [
     "Fabaceae",

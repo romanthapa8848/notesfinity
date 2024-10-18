@@ -3,14 +3,6 @@ title: "Darwinism & Concept of Neo-Darwinism"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "A detailed description of Darwinism, its principles, and the concept of Neo-Darwinism, including the integration of genetics."
-tags:
-  [
-    "Darwinism",
-    "Neo-Darwinism",
-    "natural selection",
-    "evolution",
-    "Charles Darwin",
-  ]
 keywords:
   [
     "Darwinism",

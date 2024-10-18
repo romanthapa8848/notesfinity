@@ -3,14 +3,6 @@ title: "Ascomycetes: General Introduction and Characteristic Features"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of Ascomycetes, including their general characteristics, classification, and significance."
-tags:
-  [
-    "Ascomycetes",
-    "Fungi",
-    "Classification",
-    "Characteristics",
-    "Ecosystem Role",
-  ]
 keywords:
   [
     "General introduction to Ascomycetes",

@@ -3,15 +3,6 @@ title: "Properties and Uses of Pozzolanic Material"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the properties and applications of pozzolanic materials in construction and engineering."
-tags:
-  [
-    "Pozzolanic Materials",
-    "Construction Materials",
-    "Civil Engineering",
-    "Sustainable Construction",
-    "Concrete Technology",
-    "Building Materials",
-  ]
 keywords:
   [
     "Pozzolanic materials",

@@ -3,15 +3,6 @@ title: "Structure and Reproduction of Spirogyra"
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of the structure and reproductive processes of Spirogyra, a filamentous green algae."
-tags:
-  [
-    "Spirogyra",
-    "Green Algae",
-    "Chlorophyta",
-    "Algal Structure",
-    "Reproduction",
-    "Phycology",
-  ]
 keywords:
   [
     "Spirogyra structure",

@@ -3,14 +3,6 @@ title: "Classification of Civil Engineering Materials"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the classification of civil engineering materials based on various criteria."
-tags:
-  [
-    "Civil Engineering",
-    "Materials Classification",
-    "Construction Materials",
-    "Building Materials",
-    "Structural Engineering",
-  ]
 keywords:
   [
     "Classification of materials",

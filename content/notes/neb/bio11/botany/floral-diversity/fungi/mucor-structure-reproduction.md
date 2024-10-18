@@ -3,7 +3,6 @@ title: "Structure and Reproduction of Mucor"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the structure and reproductive strategies of Mucor, a genus of fungi belonging to the Zygomycetes."
-tags: ["Mucor", "Zygomycetes", "Fungi", "Structure", "Reproduction"]
 keywords:
   [
     "Mucor structure",

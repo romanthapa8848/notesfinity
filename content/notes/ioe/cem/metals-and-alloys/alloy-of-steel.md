@@ -3,14 +3,6 @@ title: "Alloy of Steel"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of steel alloys, their composition, properties, and applications in various industries."
-tags:
-  [
-    "Steel Alloys",
-    "Metallurgy",
-    "Materials Science",
-    "Engineering",
-    "Construction Materials",
-  ]
 keywords:
   [
     "Steel alloys",

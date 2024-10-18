@@ -3,14 +3,6 @@ title: "Function, Ingredients, Types, and Uses of Paints and Varnishes"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of paints and varnishes, their functions, composition, types, and applications in construction and finishing works."
-tags:
-  [
-    "Paints",
-    "Varnishes",
-    "Surface Finishing",
-    "Construction Materials",
-    "Building Finishes",
-  ]
 keywords:
   [
     "Types of paints",

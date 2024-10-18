@@ -3,14 +3,6 @@ title: "Cement Waterproofers"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of cement waterproofers, their types, properties, and applications in construction."
-tags:
-  [
-    "Cement Waterproofers",
-    "Construction Materials",
-    "Waterproofing",
-    "Civil Engineering",
-    "Building Materials",
-  ]
 keywords:
   [
     "Cement waterproofing",

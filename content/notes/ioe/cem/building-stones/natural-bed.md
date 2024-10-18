@@ -3,14 +3,6 @@ title: "Natural Bed of Stone"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of natural stone beds, their formation, properties, and significance in construction."
-tags:
-  [
-    "Natural Stone",
-    "Geology",
-    "Building Materials",
-    "Stone Beds",
-    "Construction",
-  ]
 keywords:
   [
     "Natural bed of stone",

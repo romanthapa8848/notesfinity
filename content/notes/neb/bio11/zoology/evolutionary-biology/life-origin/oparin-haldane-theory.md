@@ -3,13 +3,6 @@ title: "Oparin-Haldane Theory"
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "A detailed explanation of the Oparin-Haldane Theory regarding the origin of life on Earth, its significance, and related experiments."
-tags:
-  [
-    "origin of life",
-    "Oparin-Haldane theory",
-    "chemical evolution",
-    "early Earth",
-  ]
 keywords:
   [
     "Oparin-Haldane theory",

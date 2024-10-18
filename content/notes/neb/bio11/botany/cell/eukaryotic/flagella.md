@@ -3,15 +3,6 @@ title: "Composition, Structure, and Functions of Flagella"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An in-depth exploration of the composition, structure, and functions of flagella, the whip-like appendages responsible for cellular locomotion and movement in various organisms."
-tags:
-  [
-    "Flagella",
-    "Cell Organelles",
-    "Cell Movement",
-    "Prokaryotic Flagella",
-    "Eukaryotic Flagella",
-    "Cell Biology",
-  ]
 keywords:
   [
     "Flagella composition",

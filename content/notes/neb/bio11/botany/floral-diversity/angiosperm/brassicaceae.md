@@ -3,7 +3,6 @@ title: "Taxonomic Description of the Family Brassicaceae (or Cruciferae) with Ec
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "A detailed taxonomic description of the Brassicaceae family and its economic significance."
-tags: ["Brassicaceae", "Taxonomy", "Economic Importance", "Botany"]
 keywords:
   [
     "Brassicaceae",

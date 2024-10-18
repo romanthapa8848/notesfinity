@@ -3,14 +3,6 @@ title: "Properties of Civil Engineering Materials"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the essential properties of civil engineering materials that influence their performance in construction."
-tags:
-  [
-    "Civil Engineering",
-    "Material Properties",
-    "Construction Materials",
-    "Structural Engineering",
-    "Building Materials",
-  ]
 keywords:
   [
     "Mechanical properties",

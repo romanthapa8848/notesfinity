@@ -3,13 +3,6 @@ title: "Consistency Test of Cement"
 author: "Roman Thapa"
 date: "2024-10-07"
 description: "A practical report on conducting the consistency test of cement to determine its workability and proper water-cement ratio."
-tags:
-  [
-    "Consistency Test",
-    "Cement Testing",
-    "Civil Engineering",
-    "Construction Materials",
-  ]
 keywords:
   [
     "Cement consistency test",

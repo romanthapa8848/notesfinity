@@ -3,14 +3,6 @@ title: "Economic Importance of Pteridophytes"
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of the economic significance of pteridophytes in various industries."
-tags:
-  [
-    "Pteridophytes",
-    "Economic Importance",
-    "Ferns",
-    "Plant Biology",
-    "Uses of Pteridophytes",
-  ]
 keywords:
   [
     "economic significance of Pteridophytes",

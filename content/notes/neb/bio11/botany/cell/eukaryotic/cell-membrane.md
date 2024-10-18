@@ -3,14 +3,6 @@ title: "Composition, Structure, and Functions of Cell Membrane"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the composition, structure, and functions of the cell membrane in various organisms, highlighting its role in maintaining cellular integrity and regulating transport."
-tags:
-  [
-    "Cell Membrane",
-    "Cell Biology",
-    "Membrane Structure",
-    "Biological Membranes",
-    "Cell Physiology",
-  ]
 keywords:
   [
     "Cell membrane composition",

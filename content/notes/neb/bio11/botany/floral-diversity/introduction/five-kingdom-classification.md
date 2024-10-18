@@ -3,16 +3,6 @@ title: "Five Kingdom Classification System"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the Five Kingdom Classification System, a method used to categorize living organisms into five distinct kingdoms."
-tags:
-  [
-    "Five Kingdoms",
-    "Biological Classification",
-    "Kingdom Monera",
-    "Kingdom Protista",
-    "Kingdom Fungi",
-    "Kingdom Plantae",
-    "Kingdom Animalia",
-  ]
 keywords:
   [
     "Five Kingdom Classification",

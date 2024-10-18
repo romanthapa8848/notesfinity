@@ -3,15 +3,6 @@ title: "Three Domains of Life"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the three domains of life: Archaea, Bacteria, and Eukarya, highlighting their characteristics and differences."
-tags:
-  [
-    "Domains of Life",
-    "Archaea",
-    "Bacteria",
-    "Eukarya",
-    "Cell Biology",
-    "Evolution",
-  ]
 keywords:
   [
     "Three domains",

@@ -3,7 +3,6 @@ title: "Taxonomic Study: Definition and Taxonomic Hierarchy"
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of the definition of taxonomy and the taxonomic hierarchy, highlighting the organization of living organisms."
-tags: ["Taxonomy", "Biology", "Classification", "Hierarchy"]
 keywords:
   [
     "taxonomic study",

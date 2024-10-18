@@ -3,7 +3,6 @@ title: "Angiosperm: Morphology (Root, Stem, Leaves, Inflorescences, Flowers, and
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of the morphological structures of angiosperms, including roots, stems, leaves, inflorescences, flowers, and fruits."
-tags: ["Angiosperms", "Morphology", "Botany", "Plants", "Flowers"]
 keywords:
   [
     "angiosperm morphology",

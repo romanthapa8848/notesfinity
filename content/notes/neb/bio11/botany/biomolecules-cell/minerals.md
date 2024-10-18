@@ -3,14 +3,6 @@ title: "Introduction and Functions of Minerals"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the functions of minerals in biological systems and their significance in health and nutrition."
-tags:
-  [
-    "Minerals",
-    "Biochemistry",
-    "Nutrition",
-    "Biological Molecules",
-    "Health Sciences",
-  ]
 keywords:
   [
     "Functions of minerals",

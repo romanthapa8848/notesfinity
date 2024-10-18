@@ -3,14 +3,6 @@ title: "General Introduction and Characteristic Features of Gymnosperms"
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of gymnosperms, including their characteristics, classification, and significance."
-tags:
-  [
-    "Gymnosperms",
-    "Plant Biology",
-    "Conifers",
-    "Seed Plants",
-    "Plant Classification",
-  ]
 keywords:
   [
     "characteristics of gymnosperms",

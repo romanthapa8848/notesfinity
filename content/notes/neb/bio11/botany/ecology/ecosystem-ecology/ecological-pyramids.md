@@ -3,8 +3,8 @@ title: "Ecological Pyramids"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "An exploration of ecological pyramids, their types, significance, and how they illustrate energy flow, biomass, and organism numbers in ecosystems."
-tags: [Ecological Pyramids, Ecology, Energy Flow, Biomass]
-keywords: [Ecological Pyramid, Trophic Levels, Ecosystem Dynamics, Food Chain]
+keywords:
+  ["Ecological Pyramid", "Trophic Levels", "Ecosystem Dynamics", "Food Chain"]
 layout: "non_math_mode"
 ---
 

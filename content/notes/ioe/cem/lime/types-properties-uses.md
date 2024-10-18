@@ -3,15 +3,6 @@ title: "Types, Properties, and Uses of Lime"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the types, properties, and applications of lime in construction and other industries."
-tags:
-  [
-    "Lime",
-    "Construction Materials",
-    "Civil Engineering",
-    "Building Materials",
-    "Lime Properties",
-    "Lime Applications",
-  ]
 keywords:
   [
     "Types of lime",

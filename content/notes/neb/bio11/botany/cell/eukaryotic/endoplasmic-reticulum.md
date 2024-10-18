@@ -3,14 +3,6 @@ title: "Composition, Structure, and Functions of Endoplasmic Reticulum"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the composition, structure, and functions of the endoplasmic reticulum, a vital organelle in eukaryotic cells."
-tags:
-  [
-    "Endoplasmic Reticulum",
-    "Cell Biology",
-    "Eukaryotic Cells",
-    "Organelle Functions",
-    "Protein Synthesis",
-  ]
 keywords:
   [
     "Endoplasmic reticulum composition",

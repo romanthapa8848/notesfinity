@@ -3,7 +3,6 @@ title: "Taxonomic Description of the Family Liliaceae with Economic Importance"
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "A detailed taxonomic description of the Liliaceae family and its economic significance."
-tags: ["Liliaceae", "Taxonomy", "Economic Importance", "Botany"]
 keywords:
   [
     "Liliaceae",

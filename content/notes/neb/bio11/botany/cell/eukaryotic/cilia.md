@@ -3,15 +3,6 @@ title: "Composition, Structure, and Functions of Cilia"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the composition, structure, and functions of cilia, essential hair-like structures involved in cellular movement and signaling."
-tags:
-  [
-    "Cilia",
-    "Cell Organelles",
-    "Cell Movement",
-    "Motile Cilia",
-    "Non-Motile Cilia",
-    "Cell Biology",
-  ]
 keywords:
   [
     "Cilia composition",

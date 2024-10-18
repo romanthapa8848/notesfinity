@@ -3,8 +3,6 @@ title: "Introduction of Mushrooms and Poisonous & Non-Poisonous Mushrooms"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of mushrooms, including their classification, characteristics, and the distinctions between poisonous and non-poisonous varieties."
-tags:
-  ["Mushrooms", "Fungi", "Edible Mushrooms", "Poisonous Mushrooms", "Mycology"]
 keywords:
   [
     "Introduction to mushrooms",

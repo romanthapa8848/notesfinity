@@ -3,14 +3,6 @@ title: "Heat Treatment Process"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the heat treatment processes used to alter the physical and chemical properties of materials."
-tags:
-  [
-    "Heat Treatment",
-    "Metallurgy",
-    "Materials Science",
-    "Metalworking",
-    "Engineering Processes",
-  ]
 keywords:
   [
     "Heat treatment processes",

@@ -3,17 +3,6 @@ title: "Plasmodium falciparum: Habits and Habitat, Structure, Reproduction, Life
 author: "Roman Thapa"
 date: "2024-10-14"
 description: "A detailed description of the habits, habitat, structure, reproduction, life-cycle, and economic importance of _Plasmodium falciparum_."
-tags:
-  [
-    "Plasmodium falciparum",
-    "habitat",
-    "structure",
-    "reproduction",
-    "life-cycle",
-    "economic importance",
-    "malaria parasite",
-    "biology class 11",
-  ]
 keywords:
   [
     "Plasmodium falciparum",

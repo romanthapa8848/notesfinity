@@ -3,14 +3,6 @@ title: "Compressive Strength of Cement"
 author: "Roman Thapa"
 date: "2024-10-07"
 description: "A practical report on conducting the compressive strength test of cement to evaluate its quality and performance."
-tags:
-  [
-    "Compressive Strength Test",
-    "Cement Testing",
-    "Civil Engineering",
-    "Construction Materials",
-    "Material Testing",
-  ]
 keywords:
   [
     "Cement compressive strength test",

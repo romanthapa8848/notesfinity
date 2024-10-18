@@ -3,15 +3,6 @@ title: "Tiles and Their Types"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of tiles, their classifications, and applications in construction and interior design."
-tags:
-  [
-    "Tiles",
-    "Flooring",
-    "Wall Coverings",
-    "Construction Materials",
-    "Interior Design",
-    "Home Improvement",
-  ]
 keywords:
   [
     "Types of tiles",

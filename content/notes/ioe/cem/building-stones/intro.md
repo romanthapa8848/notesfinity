@@ -3,14 +3,6 @@ title: "Building Stones: Introduction"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of building stones, including their types, properties, uses, and importance in construction."
-tags:
-  [
-    "Building Stones",
-    "Construction Materials",
-    "Geology",
-    "Natural Resources",
-    "Sustainable Building",
-  ]
 keywords:
   [
     "Types of building stones",

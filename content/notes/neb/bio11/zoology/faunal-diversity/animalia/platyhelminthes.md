@@ -3,8 +3,6 @@ title: "Platyhelminthes: Diagnostic Features and Classification Up to Class with
 author: "Roman Thapa"
 date: "2024-10-15"
 description: "A detailed description of Platyhelminthes including its diagnostic features and classification up to class with examples."
-tags:
-  ["Platyhelminthes", "Flatworms", "Animal Kingdom", "Parasites", "Free-living"]
 keywords:
   ["Platyhelminthes", "Flatworms", "Animal Kingdom", "Parasites", "Free-living"]
 layout: "non_math_mode"

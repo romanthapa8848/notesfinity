@@ -3,13 +3,6 @@ title: "Setting Time Test of Cement (Initial and Final)"
 author: "Roman Thapa"
 date: "2024-10-07"
 description: "A practical report on conducting the setting time test of cement to determine its initial and final setting times."
-tags:
-  [
-    "Setting Time Test",
-    "Cement Testing",
-    "Civil Engineering",
-    "Construction Materials",
-  ]
 keywords:
   [
     "Cement setting time test",

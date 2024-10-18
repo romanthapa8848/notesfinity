@@ -3,9 +3,16 @@ title: "Species Interactions"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "A detailed explanation of the various types of interactions between species within an ecosystem."
-tags: [Ecology, Species Interactions, Ecosystems, Symbiosis]
 keywords:
-  [Species, Interactions, Ecology, Symbiosis, Competition, Predation, Mutualism]
+  [
+    "Species",
+    "Interactions",
+    "Ecology",
+    "Symbiosis",
+    "Competition",
+    "Predation",
+    "Mutualism",
+  ]
 layout: "non_math_mode"
 ---
 

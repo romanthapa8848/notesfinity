@@ -3,14 +3,6 @@ title: "Function of Mortar"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the various functions of mortar in construction."
-tags:
-  [
-    "Mortar",
-    "Construction Materials",
-    "Civil Engineering",
-    "Masonry",
-    "Building Materials",
-  ]
 keywords:
   [
     "Functions of mortar",

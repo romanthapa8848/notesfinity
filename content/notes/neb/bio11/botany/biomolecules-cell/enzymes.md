@@ -3,8 +3,6 @@ title: "Introduction and Functions of Enzymes"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the functions of enzymes in biological systems and their importance in biochemical reactions."
-tags:
-  ["Enzymes", "Biochemistry", "Catalysis", "Biological Molecules", "Metabolism"]
 keywords:
   [
     "Functions of enzymes",

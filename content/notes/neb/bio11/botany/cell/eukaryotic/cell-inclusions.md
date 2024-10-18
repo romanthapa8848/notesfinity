@@ -3,15 +3,6 @@ title: "Composition, Structure, and Functions of Cell Inclusions"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the composition, structure, and functions of cell inclusions, the non-living components within cells that serve various roles."
-tags:
-  [
-    "Cell Inclusions",
-    "Cell Biology",
-    "Cell Components",
-    "Non-Living Cell Structures",
-    "Storage Granules",
-    "Cell Function",
-  ]
 keywords:
   [
     "Cell inclusions composition",

@@ -3,14 +3,6 @@ title: "Phycomycetes: General Introduction and Characteristic Features"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of Phycomycetes, including their general characteristics, classification, and significance."
-tags:
-  [
-    "Phycomycetes",
-    "Fungi",
-    "Classification",
-    "Characteristics",
-    "Ecosystem Role",
-  ]
 keywords:
   [
     "General introduction to Phycomycetes",

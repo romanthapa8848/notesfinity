@@ -4,13 +4,6 @@ author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the essential qualities that make bricks suitable for construction."
 tags:
-  [
-    "Bricks",
-    "Construction Materials",
-    "Building Materials",
-    "Quality Control",
-    "Sustainable Construction",
-  ]
 keywords:
   [
     "Good qualities of bricks",

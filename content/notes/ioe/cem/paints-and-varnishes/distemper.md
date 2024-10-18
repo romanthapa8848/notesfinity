@@ -3,14 +3,6 @@ title: "Distemper: Overview, Types, and Uses"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An introduction to distemper, its types, application, and uses in construction and interior finishes."
-tags:
-  [
-    "Distemper",
-    "Interior Finishes",
-    "Building Materials",
-    "Surface Coatings",
-    "Construction",
-  ]
 keywords:
   [
     "Distemper types",

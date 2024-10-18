@@ -3,8 +3,8 @@ title: "Biotic and Abiotic Factors"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "An overview of biotic and abiotic factors in ecosystems and their significance."
-tags: [Ecology, Biotic Factors, Abiotic Factors, Ecosystems]
-keywords: [Biotic, Abiotic, Ecosystems, Environmental Science]
+keywords:
+  ["Biotic factors", "Abiotic factors", "Ecosystems", "Environmental Science"]
 layout: "non_math_mode"
 ---
 

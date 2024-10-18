@@ -3,14 +3,6 @@ title: "Defects of Timber"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the common defects in timber, their causes, and implications for construction and woodworking."
-tags:
-  [
-    "Timber Defects",
-    "Wood Quality",
-    "Construction Materials",
-    "Woodworking",
-    "Timber Selection",
-  ]
 keywords:
   [
     "Types of timber defects",

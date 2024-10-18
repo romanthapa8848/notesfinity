@@ -3,16 +3,6 @@ title: "Scope of Civil Engineering Materials"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of the types, properties, applications, and future trends in civil engineering materials."
-tags:
-  [
-    "Civil Engineering",
-    "Materials Science",
-    "Construction Materials",
-    "Sustainable Engineering",
-    "Advanced Materials",
-    "Structural Engineering",
-    "Geotechnical Engineering",
-  ]
 keywords:
   [
     "Civil engineering materials",

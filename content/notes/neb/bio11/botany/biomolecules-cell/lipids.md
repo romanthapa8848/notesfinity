@@ -3,14 +3,6 @@ title: "Introduction and Functions of Lipids"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the functions of lipids in biological systems and their significance in nutrition and energy."
-tags:
-  [
-    "Lipids",
-    "Biochemistry",
-    "Organic Chemistry",
-    "Macromolecules",
-    "Biological Molecules",
-  ]
 keywords:
   [
     "Functions of lipids",

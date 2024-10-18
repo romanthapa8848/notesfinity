@@ -3,15 +3,6 @@ title: "Types, Properties, and Uses of Asphalt, Bitumen, and Tar"
 author: "Roman Thapa"
 date: "2024-10-07"
 description: "A comprehensive guide on the types, properties, and uses of asphalt, bitumen, and tar in construction and roadworks."
-tags:
-  [
-    "Asphalt",
-    "Bitumen",
-    "Tar",
-    "Pavement Materials",
-    "Construction Materials",
-    "Road Construction",
-  ]
 keywords:
   [
     "Asphalt types",

@@ -3,14 +3,6 @@ title: "Commercial Products of Timber"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of commercial products made from timber, their applications, and the significance of timber in the construction and furniture industries."
-tags:
-  [
-    "Timber Products",
-    "Wood Industry",
-    "Construction Materials",
-    "Furniture Manufacturing",
-    "Sustainable Forestry",
-  ]
 keywords:
   [
     "Timber commercial products",

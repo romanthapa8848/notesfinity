@@ -3,7 +3,6 @@ title: "General Introduction and Characteristic Features of Pteridophytes"
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of pteridophytes, their characteristics, and significance in the plant kingdom."
-tags: ["Pteridophytes", "Ferns", "Plant Biology", "Vascular Plants"]
 keywords:
   [
     "characteristics of pteridophytes",

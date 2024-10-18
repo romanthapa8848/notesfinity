@@ -3,14 +3,6 @@ title: "Introduction and Functions of Nucleic Acids"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the functions of nucleic acids in biological systems and their significance in heredity and protein synthesis."
-tags:
-  [
-    "Nucleic Acids",
-    "Biochemistry",
-    "Genetics",
-    "Molecular Biology",
-    "Biological Molecules",
-  ]
 keywords:
   [
     "Functions of nucleic acids",

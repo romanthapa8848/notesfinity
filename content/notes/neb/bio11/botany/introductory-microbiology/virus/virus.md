@@ -3,8 +3,8 @@ title: "Virus: General Introduction, Structure and Importance of Virus"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "A detailed description of viruses, including their structure, types, and importance in biology and medicine."
-tags: [Viruses, Microbiology, Pathogens]
-keywords: [Viruses, Structure, Importance, Infectious Diseases, Biotechnology]
+keywords:
+  ["Viruses", "Structure", "Importance", "Infectious Diseases", "Biotechnology"]
 layout: "non_math_mode"
 ---
 

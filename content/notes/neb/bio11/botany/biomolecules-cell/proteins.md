@@ -3,14 +3,6 @@ title: "Introduction and Functions of Proteins"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the functions of proteins in biological systems and their significance in nutrition and metabolism."
-tags:
-  [
-    "Proteins",
-    "Biochemistry",
-    "Organic Chemistry",
-    "Macromolecules",
-    "Biological Molecules",
-  ]
 keywords:
   [
     "Functions of proteins",

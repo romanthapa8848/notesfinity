@@ -3,14 +3,6 @@ title: "Admixtures"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of concrete admixtures, their types, properties, and applications in construction."
-tags:
-  [
-    "Admixtures",
-    "Concrete Technology",
-    "Construction Materials",
-    "Civil Engineering",
-    "Building Materials",
-  ]
 keywords:
   [
     "Concrete admixtures",

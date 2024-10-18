@@ -3,15 +3,6 @@ title: "General Introduction and Characteristic Features of Green, Brown, and Re
 author: "Roman Thapa"
 date: "2024-10-09"
 description: "An overview of the general characteristics, classification, and significance of green, brown, and red algae."
-tags:
-  [
-    "Algae",
-    "Green Algae",
-    "Brown Algae",
-    "Red Algae",
-    "Phycology",
-    "Plant Biology",
-  ]
 keywords:
   [
     "Green algae characteristics",

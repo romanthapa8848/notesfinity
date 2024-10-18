@@ -3,15 +3,6 @@ title: "Standard Test of Cement"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "A comprehensive guide to the standard tests performed to assess the quality and properties of cement."
-tags:
-  [
-    "Cement Testing",
-    "Cement Quality Control",
-    "Construction Materials",
-    "Civil Engineering",
-    "Building Materials",
-    "Cement Standards",
-  ]
 keywords:
   [
     "Cement standard tests",

@@ -3,7 +3,6 @@ title: "Growth and Structure of Trees"
 author: "Roman Thapa"
 date: "2024-10-06"
 description: "An overview of tree growth, structural components, and their significance in the ecosystem."
-tags: ["Trees", "Botany", "Plant Biology", "Ecosystem", "Tree Structure"]
 keywords:
   [
     "Tree growth",

@@ -3,13 +3,12 @@ title: "Productivity"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "An overview of productivity in ecology, including its definitions, types, significance, and factors affecting productivity in ecosystems."
-tags: [Productivity, Ecology, Primary Production, Secondary Production]
 keywords:
   [
-    Ecological Productivity,
-    Primary Productivity,
-    Secondary Productivity,
-    Ecosystem Dynamics,
+    "Ecological Productivity",
+    "Primary Productivity",
+    "Secondary Productivity",
+    "Ecosystem Dynamics",
   ]
 layout: "math_mode"
 ---

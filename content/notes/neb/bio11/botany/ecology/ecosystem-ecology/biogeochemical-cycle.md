@@ -3,15 +3,14 @@ title: "Biogeochemical Cycle"
 author: "Roman Thapa"
 date: "2024-10-10"
 description: "An overview of biogeochemical cycles, their significance, types, and the role they play in maintaining ecosystem health."
-tags: [Biogeochemical Cycle, Ecosystem, Nutrient Cycling]
 keywords:
   [
-    Biogeochemical Cycle,
-    Nutrient Cycling,
-    Ecosystem Dynamics,
-    Carbon Cycle,
-    Nitrogen Cycle,
-    Water Cycle,
+    "Biogeochemical Cycle",
+    "Nutrient Cycling",
+    "Ecosystem Dynamics",
+    "Carbon Cycle",
+    "Nitrogen Cycle",
+    "Water Cycle",
   ]
 layout: "math_mode"
 ---

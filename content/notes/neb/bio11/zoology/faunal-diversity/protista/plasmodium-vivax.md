@@ -3,16 +3,6 @@ title: "Plasmodium vivax: Habits and Habitat, Structure, Reproduction, Life-cycl
 author: "Roman Thapa"
 date: "2024-10-11"
 description: "A detailed overview of Plasmodium vivax, focusing on its habits, habitat, structure, reproduction, and life cycle."
-tags:
-  [
-    "Plasmodium",
-    "vivax",
-    "malaria",
-    "protozoa",
-    "habitat",
-    "reproduction",
-    "life cycle",
-  ]
 keywords:
   [
     "Plasmodium vivax",

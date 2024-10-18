@@ -3,8 +3,6 @@ title: "Concepts of Prokaryotic and Eukaryotic Cells"
 author: "Roman Thapa"
 date: "2024-10-08"
 description: "An overview of the fundamental differences and similarities between prokaryotic and eukaryotic cells."
-tags:
-  ["Cells", "Biology", "Cell Biology", "Prokaryotic Cells", "Eukaryotic Cells"]
 keywords:
   [
     "Prokaryotic cells",

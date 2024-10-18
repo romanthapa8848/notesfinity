@@ -3,14 +3,6 @@ title: "Fineness and Soundness Test of Cement"
 author: "Roman Thapa"
 date: "2024-10-07"
 description: "A practical report on conducting the fineness and soundness tests of cement to evaluate its quality and performance."
-tags:
-  [
-    "Fineness Test",
-    "Soundness Test",
-    "Cement Testing",
-    "Civil Engineering",
-    "Construction Materials",
-  ]
 keywords:
   [
     "Cement fineness test",
