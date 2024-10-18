@@ -37,8 +37,10 @@ To develop the skill of solving differential equations and provide knowledge of 
 
 - [1.1 Introduction: Limit and Continuity](/path/to/subtopic1/)
 - [1.2 Partial Derivatives](/path/to/subtopic2/)
-  - 1.2.1 Homogeneous Function, Euler's Theorem for Functions of Two and Three Variables
-  - 1.2.2 Total Derivatives
+
+  - [1.2.1 Homogeneous Function, Euler's Theorem for Functions of Two and Three Variables](/path/to/homogeneous-euler-theorem/)
+  - [1.2.2 Total Derivatives](/path/to/total-derivatives/)
+
 - [1.3 Extreme of Functions of Two and Three Variables; Lagrange's Multiplier](/path/to/subtopic3/)
 
 ---
@@ -95,12 +97,6 @@ To develop the skill of solving differential equations and provide knowledge of 
 - [6.3 Convergence and Divergence](/path/to/subtopic3/)
 - [6.4 Alternating Series and Absolute Convergence](/path/to/subtopic4/)
 - [6.5 Radius and Interval of Convergence](/path/to/subtopic5/)
-
----
-
-## Practical
-
-Details of practical work go here.
 
 ---
 
