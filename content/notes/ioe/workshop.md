@@ -84,17 +84,22 @@ To impart knowledge and skill components in the field of basic workshop technolo
 ## 5. Machine Tools
 
 - [5.1 General Safety Considerations](/notes/ioe/me/machine-tools/general-safety/)
-- [5.2 Engine Lathes]
+- 5.2 Engine Lathes
+
   - [5.2.1 Introduction](/notes/ioe/me/machine-tools/engine-lathes/introduction/)
   - [5.2.2 Physical Construction](/notes/ioe/me/machine-tools/engine-lathes/physical-construction/)
   - [5.2.3 Types of Lathe](/notes/ioe/me/machine-tools/engine-lathes/types-lathe/)
   - [5.2.4 Lathe Operations: Facing, Turning, Threading](/notes/ioe/me/machine-tools/engine-lathes/lathe-operations/)
-- [5.3 Shapers]
+
+- 5.3 Shapers
+
   - [5.3.1 Introduction](/notes/ioe/me/machine-tools/shapers/introduction/)
   - [5.3.2 Types of Shapers](/notes/ioe/me/machine-tools/shapers/types-shapers/)
   - [5.3.3 Physical Construction](/notes/ioe/me/machine-tools/shapers/physical-construction/)
   - [5.3.4 General Applications](/notes/ioe/me/machine-tools/shapers/general-applications/)
-- [5.4 Milling Machines]
+
+- 5.4 Milling Machines
+
   - [5.4.1 Introduction](/notes/ioe/me/machine-tools/milling-machines/introduction/)
   - [5.4.2 Types of Milling Machines](/notes/ioe/me/machine-tools/milling-machines/types-milling-machines/)
   - [5.4.3 Physical Construction](/notes/ioe/me/machine-tools/milling-machines/physical-construction/)
@@ -102,7 +107,9 @@ To impart knowledge and skill components in the field of basic workshop technolo
   - [5.4.5 Milling Operations: Plain, Side, Angular, Gang, End, Form, Keyway](/notes/ioe/me/machine-tools/milling-machines/milling-operations/)
   - [5.4.6 Work Holding Devices](/notes/ioe/me/machine-tools/milling-machines/work-holding-devices/)
   - [5.4.7 Cutter Holding Devices](/notes/ioe/me/machine-tools/milling-machines/cutter-holding-devices/)
-- [5.5 Grinding Machines]
+
+- 5.5 Grinding Machines
+
   - [5.5.1 Abrasives, Bonds, Grinding Wheels](/notes/ioe/me/machine-tools/grinding-machines/abrasives-bonds/)
   - [5.5.2 Rough Grinders: Portable Grinders, Bench Grinders, Swing Frame Grinders, Abrasive Belt Grinders](/notes/ioe/me/machine-tools/grinding-machines/rough-grinders/)
   - [5.5.3 Precision Grinders: Cylindrical Grinders, Surface Grinders](/notes/ioe/me/machine-tools/grinding-machines/precision-grinders/)
