@@ -62,7 +62,7 @@ export const ioeSubjects = [
   {
     name: "Engineering Drawing II",
     code: "ME451",
-    url: "/notes/ioe/drawing/engineering-drawing-ii.html",
+    url: "/notes/ioe/drawing2/",
     keywords: ["engineering drawing", "ME451", "ioe"],
   },
   {
