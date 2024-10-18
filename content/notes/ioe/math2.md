@@ -12,7 +12,7 @@ keywords:
     "Calculus",
     "Infinite Series",
   ]
-layout: "non_math_mode"
+layout: "math_mode"
 ---
 
 # Engineering Mathematics II
