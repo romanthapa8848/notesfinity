@@ -44,7 +44,7 @@ export const ioeSubjects = [
   {
     name: "Engineering Mathematics II",
     code: "SH451",
-    url: "/notes/ioe/maths/engineering-mathematics-ii.html",
+    url: "/notes/ioe/math2/",
     keywords: ["engineering mathematics", "SH451", "ioe"],
   },
   {
