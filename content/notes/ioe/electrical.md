@@ -57,8 +57,10 @@ To provide the fundamental concepts of DC, AC, and 3-phase electrical circuits.
 ## 3. Network Theorems
 
 - [3.1 Application of Kirchhoff's Laws in Network Solution](/path/to/subtopic1/)
+
   - [3.1.1 Nodal Analysis](/path/to/subtopic1_1/)
   - [3.1.2 Mesh Analysis](/path/to/subtopic1_2/)
+
 - [3.2 Star-Delta & Delta-Star Transformation](/path/to/subtopic2/)
 - [3.3 Superposition Theorem](/path/to/subtopic3/)
 - [3.4 Thevenin's Theorem](/path/to/subtopic4/)
@@ -71,8 +73,10 @@ To provide the fundamental concepts of DC, AC, and 3-phase electrical circuits.
 ## 4. Inductance & Capacitance in Electric Circuits
 
 - [4.1 General Concept of Capacitance](/path/to/subtopic1/)
+
   - [4.1.1 Charge & Voltage](/path/to/subtopic1_1/)
   - [4.1.2 Capacitors in Series and Parallel](/path/to/subtopic1_2/)
+
 - [4.2 General Concept of Inductance](/path/to/subtopic2/)
   - [4.2.1 Inductive & Non-Inductive Circuits](/path/to/subtopic2_1/)
   - [4.2.2 Inductance in Series & Parallel](/path/to/subtopic2_2/)
