@@ -14,7 +14,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# Workshop Technology (ME 403)
+# Workshop Technology
 
 ---
 
