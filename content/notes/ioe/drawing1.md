@@ -33,7 +33,7 @@ To develop basic projection concepts with reference to points, lines, planes, an
 
 ---
 
-## 1. Instrumental Drawing, Technical Lettering Practices and Techniques (2 hours)
+## 1. Instrumental Drawing, Technical Lettering Practices and Techniques
 
 - [1.1 Equipment and materials](/notes/ioe/ed/instrumental/equipment-materials/)
 - [1.2 Description of drawing instruments, auxiliary equipment and drawing materials](/notes/ioe/ed/instrumental/drawing-instruments/)
@@ -52,7 +52,7 @@ To develop basic projection concepts with reference to points, lines, planes, an
 
 ---
 
-## 3. Applied Geometry (6 hours)
+## 3. Applied Geometry
 
 - [3.1 Plane geometrical construction: Proportional division of lines, arc & line tangents](/notes/ioe/ed/applied-geometry/plane-geometrical-construction/)
 - [3.2 Methods for drawing standard curves such as ellipses, parabolas, hyperbolas, involutes, spirals, cycloids and helices (cylindrical and conical)](/notes/ioe/ed/applied-geometry/standard-curves/)
