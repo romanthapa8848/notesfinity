@@ -56,7 +56,7 @@ export const ioeSubjects = [
   {
     name: "Basic Electronics Engineering",
     code: "EX451",
-    url: "/notes/ioe/electronics/basic-electronics-engineering.html",
+    url: "/notes/ioe/electronics/",
     keywords: ["electronics engineering", "EX451", "ioe"],
   },
   {
