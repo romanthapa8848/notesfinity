@@ -8,7 +8,7 @@ export const ioeSubjects = [
   {
     name: "Engineering Drawing I",
     code: "ME401",
-    url: "/notes/ioe/drawing/engineering-drawing-i.html",
+    url: "/notes/ioe/drawing1/",
     keywords: ["engineering drawing", "ME401", "ioe"],
   },
   {

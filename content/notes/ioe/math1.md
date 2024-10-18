@@ -23,7 +23,7 @@ layout: "math_mode"
 | **Course Code** | SH 401                                                        |
 | --------------- | ------------------------------------------------------------- |
 | **Theory**      | Assessment Mark: 20; Final Exam: 80 Marks (Duration: 3 Hours) |
-| **Practical**   | Not Applicable                                                |
+| **Practical**   |                                                               |
 | **Total Marks** | 100 Marks                                                     |
 
 ---
