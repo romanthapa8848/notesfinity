@@ -20,7 +20,7 @@ export const ioeSubjects = [
   {
     name: "Fundamentals of Thermodynamics & Heat Transfer",
     code: "ME402",
-    url: "/notes/ioe/thermodynamics/fundamentals-of-thermodynamics.html",
+    url: "/notes/ioe/thermo/",
     keywords: ["thermodynamics", "heat transfer", "ME402", "ioe", "thermo"],
   },
   {
