@@ -102,10 +102,13 @@ To make familiar with the conventional practices of sectional views. To develop 
 
 - [4.1 Introduction to Working Drawing](/path/to/working-drawing/)
 - [4.2 Components of Working Drawing](/path/to/working-drawing-components/)
+
   - Drawing Layout, Bill of Materials, Drawing Numbers
+
 - [4.3 Detail Drawing](/path/to/detail-drawing/)
 - [4.4 Assembly Drawing](/path/to/assembly-drawing/)
 - [4.5 Practices of Detail and Assembly Drawing](/path/to/practice-detail-assembly/)
+
   - V-block Clamp, Centering Cone, Couplings, Bearings, Anti-vibration Mounts, Stuffing Boxes, Screw Jacks, etc.
 
 ---
