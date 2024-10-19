@@ -1,4 +1,4 @@
-baseURL = 'https://romanthapa8848.github.io/'
+baseURL = 'https://romanthapa8848.github.io/openkitab/'
 languageCode = 'en-us'
 title = 'OpenKitab'
 theme = 'openkitab'
