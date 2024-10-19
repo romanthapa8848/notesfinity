@@ -92,7 +92,7 @@ export const ioeSubjects = [
   {
     name: "Engineering Geology I",
     code: "CE503",
-    url: "/notes/ioe/geo/i/geo-i.html",
+    url: "/notes/ioe/geo1/",
     keywords: ["engineering geology i", "CE503", "ioe"],
   },
   {
