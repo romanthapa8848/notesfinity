@@ -110,7 +110,7 @@ export const ioeSubjects = [
   {
     name: "Fluid Mechanics",
     code: "CE505",
-    url: "/notes/ioe/fluid-mechanics/fluid-mechanics.html",
+    url: "/notes/ioe/fluid/",
     keywords: ["fluid mechanics", "CE505", "ioe"],
   },
   {
