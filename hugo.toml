@@ -1,7 +1,7 @@
-baseURL = 'https://notesfinity.com/'
+baseURL = 'https://romanthapa8848.github.io/'
 languageCode = 'en-us'
-title = 'Notesfinity'
-theme = 'notesfinity'
+title = 'OpenKitab'
+theme = 'openkitab'
 
 uglyURLs = false
 
