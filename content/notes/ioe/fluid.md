@@ -27,7 +27,7 @@ layout: "non_math_mode"
 | ----------- | ------------------------------------------------------------- |
 | Theory      | Assessment Mark: 20; Final Exam: 80 Marks (Duration: 3 Hours) |
 | Practical   | Assessment Mark: 25                                           |
-| Total Marks | XX Marks                                                      |
+| Total Marks | 125 Marks                                                     |
 
 ---
 

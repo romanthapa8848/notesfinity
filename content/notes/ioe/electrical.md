@@ -14,7 +14,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# Basic Electrical Engineering (EE 457)
+# Basic Electrical Engineering
 
 ---
 

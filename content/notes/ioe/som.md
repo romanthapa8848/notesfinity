@@ -17,11 +17,11 @@ layout: "non_math_mode"
 
 ---
 
-| Course Code | CE 502                                                          |
-| ----------- | --------------------------------------------------------------- |
-| Theory      | Assessment Mark: 20; Final Exam: 80 Marks (Duration: 100 Hours) |
-| Practical   | Assessment Mark: 25                                             |
-| Total Marks | 125 Marks                                                       |
+| Course Code | CE 502                                                        |
+| ----------- | ------------------------------------------------------------- |
+| Theory      | Assessment Mark: 20; Final Exam: 80 Marks (Duration: 3 Hours) |
+| Practical   | Assessment Mark: 25                                           |
+| Total Marks | 125 Marks                                                     |
 
 ---
 
