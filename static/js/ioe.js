@@ -80,7 +80,7 @@ export const ioeSubjects = [
   {
     name: "Engineering Mathematics III",
     code: "SH501",
-    url: "/notes/ioe/maths/engineering-mathematics-iii.html",
+    url: "/notes/ioe/math3/",
     keywords: ["engineering mathematics", "SH501", "ioe"],
   },
   {
