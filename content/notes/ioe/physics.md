@@ -15,7 +15,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# Engineering Physics (SH 452)
+# Engineering Physics
 
 ---
 
