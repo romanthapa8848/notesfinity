@@ -98,7 +98,7 @@ export const ioeSubjects = [
   {
     name: "Strength of Materials",
     code: "CE502",
-    url: "/notes/ioe/materials/strength-of-materials.html",
+    url: "/notes/ioe/som/",
     keywords: ["strength of materials", "CE502", "ioe", "som"],
   },
   {
