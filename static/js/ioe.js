@@ -86,7 +86,7 @@ export const ioeSubjects = [
   {
     name: "Applied Mechanics (Dynamics)",
     code: "CE503",
-    url: "/notes/ioe/mechanics/applied-mechanics-dynamics.html",
+    url: "/notes/ioe/applied-dynamics/",
     keywords: ["applied mechanics", "dynamics", "CE503", "ioe"],
   },
   {
