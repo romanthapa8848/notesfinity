@@ -116,7 +116,7 @@ export const ioeSubjects = [
   {
     name: "Hydraulics",
     code: "CE555",
-    url: "/notes/ioe/hydraulics/hydraulics.html",
+    url: "/notes/ioe/hydraulics/",
     keywords: ["hydraulics", "CE555", "ioe"],
   },
   {
@@ -134,7 +134,7 @@ export const ioeSubjects = [
   {
     name: "Probability & Statistics",
     code: "SH552",
-    url: "/notes/ioe/statistics/probability-statistics.html",
+    url: "/notes/ioe/probability/",
     keywords: ["probability", "statistics", "SH552", "ioe"],
   },
   {
@@ -146,7 +146,7 @@ export const ioeSubjects = [
   {
     name: "Building Drawing",
     code: "CE556",
-    url: "/notes/ioe/drawing/building-drawing.html",
+    url: "/notes/ioe/building-drawing/",
     keywords: ["building drawing", "CE556", "ioe"],
   },
   {
