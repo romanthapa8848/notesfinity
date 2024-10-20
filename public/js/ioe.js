@@ -176,7 +176,7 @@ export const ioeSubjects = [
   {
     name: "Concrete Technology and Masonry Structure",
     code: "CE603",
-    url: "/notes/ioe/concrete/concrete-technology.html",
+    url: "/notes/ioe/ct/",
     keywords: ["concrete technology", "CE603", "ioe"],
   },
   {
