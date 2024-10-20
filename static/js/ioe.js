@@ -206,7 +206,7 @@ export const ioeSubjects = [
   {
     name: "Communication English",
     code: "SH651",
-    url: "/notes/ioe/communication/communication-english.html",
+    url: "/notes/ioe/communication-english/",
     keywords: ["communication", "SH651", "ioe"],
   },
   {
