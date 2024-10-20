@@ -164,7 +164,7 @@ export const ioeSubjects = [
   {
     name: "Water Supply Engineering",
     code: "CE605",
-    url: "/notes/ioe/engineering/water-supply-engineering.html",
+    url: "/notes/ioe/water-supply/",
     keywords: ["water supply", "CE605", "ioe"],
   },
   {
