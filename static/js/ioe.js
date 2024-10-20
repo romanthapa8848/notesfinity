@@ -158,7 +158,7 @@ export const ioeSubjects = [
   {
     name: "Theory of Structures II",
     code: "CE601",
-    url: "/notes/ioe/structures/theory-of-structures-ii.html",
+    url: "/notes/ioe/tos2/",
     keywords: ["theory of structures", "CE601", "ioe", "tos ii"],
   },
   {
