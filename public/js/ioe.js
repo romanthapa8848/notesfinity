@@ -122,7 +122,7 @@ export const ioeSubjects = [
   {
     name: "Surveying II",
     code: "CE554",
-    url: "/notes/ioe/surveying/surveying-ii.html",
+    url: "/notes/ioe/surveying2/",
     keywords: ["surveying", "CE554", "ioe"],
   },
   {
