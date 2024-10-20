@@ -188,8 +188,14 @@ export const ioeSubjects = [
   {
     name: "Foundation Engineering",
     code: "CE602",
-    url: "/notes/ioe/engineering/foundation-engineering.html",
+    url: "/notes/ioe/foundation/",
     keywords: ["foundation engineering", "CE602", "ioe"],
+  },
+  {
+    name: "Survey Camp",
+    code: "CE604",
+    url: "/notes/ioe/survey-camp/",
+    keywords: ["survey camp", "CE604", "ioe"],
   },
   {
     name: "Design of Steel and Timber Structure",

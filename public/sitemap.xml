@@ -8,6 +8,9 @@
     <loc>http://localhost:1313/notes/ioe/geo2/</loc>
     <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/foundation/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/hydraulics/</loc>
     <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,6 +27,9 @@
     <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/soil/</loc>
+    <lastmod>2024-10-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/survey-camp/</loc>
     <lastmod>2024-10-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/surveying2/</loc>
