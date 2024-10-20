@@ -152,7 +152,7 @@ export const ioeSubjects = [
   {
     name: "Soil Mechanics",
     code: "CE552",
-    url: "/notes/ioe/mechanics/soil-mechanics.html",
+    url: "/notes/ioe/soil/",
     keywords: ["soil mechanics", "CE552", "ioe"],
   },
   {
