@@ -13,11 +13,11 @@ layout: "non_math_mode"
 
 ---
 
-| Course Code | SH 651                                                   |
-| ----------- | -------------------------------------------------------- |
-| Theory      | Assessment Mark: XX; Final Exam: XX Marks (Duration: XX) |
-| Practical   | Assessment Mark: XX                                      |
-| Total Marks | XX Marks                                                 |
+| Course Code | SH 651                                                        |
+| ----------- | ------------------------------------------------------------- |
+| Theory      | Assessment Mark: 20; Final Exam: 80 Marks (Duration: 3 Hours) |
+| Practical   | Assessment Mark: 25                                           |
+| Total Marks | 125 Marks                                                     |
 
 ---
 
