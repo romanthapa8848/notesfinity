@@ -182,7 +182,7 @@ export const ioeSubjects = [
   {
     name: "Numerical Methods",
     code: "SH603",
-    url: "/notes/ioe/maths/numerical-methods.html",
+    url: "/notes/ioe/numerical-methods/",
     keywords: ["numerical methods", "SH603", "ioe", "nm"],
   },
   {
