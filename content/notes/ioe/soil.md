@@ -5,18 +5,18 @@ date: "2024-10-20"
 description: "Course on the concepts of soil engineering, covering the science and technology of soils and their applications in civil engineering."
 keywords: []
 
-layout: "non_math_mode"
+layout: "math_mode"
 ---
 
 # Soil Mechanics
 
 ---
 
-| Course Code | CE 552                                                   |
-| ----------- | -------------------------------------------------------- |
-| Theory      | Assessment Mark: XX; Final Exam: XX Marks (Duration: XX) |
-| Practical   | Assessment Mark: XX                                      |
-| Total Marks | XX Marks                                                 |
+| Course Code | CE 552                                                        |
+| ----------- | ------------------------------------------------------------- |
+| Theory      | Assessment Mark: 20; Final Exam: 80 Marks (Duration: 3 Hours) |
+| Practical   | Assessment Mark: 25                                           |
+| Total Marks | 125 Marks                                                     |
 
 ---
 
@@ -150,8 +150,8 @@ To provide concepts of soil engineering, including the science and technology of
 - [11.2 Infinite slopes and translation slides](/path/to/subtopic2/)
 - [11.3 Definition of factor of safety](/path/to/subtopic3/)
 - [11.4 Finite slopes - forms of slip surface](/path/to/subtopic4/)
-- [11.5 0:0 analysis (Total stress analysis)](/path/to/subtopic5/)
-- [11.6 C-φ analysis - method of slices](/path/to/subtopic6/)
+- [11.5 $\phi$:0 analysis (Total stress analysis)](/path/to/subtopic5/)
+- [11.6 C-$\phi$ analysis - method of slices](/path/to/subtopic6/)
 - [11.7 Location of the most critical circles](/path/to/subtopic7/)
 - [11.8 Friction circle method](/path/to/subtopic8/)
 - [11.9 Taylor's stability number](/path/to/subtopic9/)

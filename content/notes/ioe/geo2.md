@@ -18,11 +18,11 @@ layout: "non_math_mode"
 
 ---
 
-| Course Code | CE 553                                                   |
-| ----------- | -------------------------------------------------------- |
-| Theory      | Assessment Mark: XX; Final Exam: XX Marks (Duration: XX) |
-| Practical   | Assessment Mark: XX                                      |
-| Total Marks | XX Marks                                                 |
+| Course Code | CE 553                                                          |
+| ----------- | --------------------------------------------------------------- |
+| Theory      | Assessment Mark: 10; Final Exam: 40 Marks (Duration: 1.5 Hours) |
+| Practical   | Assessment Mark: 25                                             |
+| Total Marks | 75 Marks                                                        |
 
 ---
 
