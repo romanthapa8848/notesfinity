@@ -200,7 +200,7 @@ export const ioeSubjects = [
   {
     name: "Design of Steel and Timber Structure",
     code: "CE651",
-    url: "/notes/ioe/structures/design-of-steel-timber-structure.html",
+    url: "/notes/ioe/design-of-steel-and-timber-structure/",
     keywords: ["design", "steel structure", "CE651", "ioe"],
   },
   {
@@ -212,13 +212,13 @@ export const ioeSubjects = [
   {
     name: "Engineering Economics",
     code: "CE655",
-    url: "/notes/ioe/economics/engineering-economics.html",
+    url: "/notes/ioe/engineering-economics/",
     keywords: ["engineering economics", "CE655", "ioe", "eco"],
   },
   {
     name: "Building Technology",
     code: "CE652",
-    url: "/notes/ioe/building/building-technology.html",
+    url: "/notes/ioe/building-technology/",
     keywords: ["building technology", "CE652", "ioe", "bt"],
   },
   {
