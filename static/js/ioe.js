@@ -228,9 +228,9 @@ export const ioeSubjects = [
     keywords: ["sanitary engineering", "CE656", "ioe"],
   },
   {
-    name: "Transportation Engineering",
+    name: "Transportation Engineering I",
     code: "CE653",
-    url: "/notes/ioe/transportation/",
+    url: "/notes/ioe/transportation1/",
     keywords: ["transportation engineering", "CE653", "ioe"],
   },
   {
@@ -274,5 +274,16 @@ export const ioeSubjects = [
     code: "CE701",
     url: "/notes/ioe/project-engineering/",
     keywords: ["project engineering", "CE701", "ioe"],
+  },
+  {
+    name: "Design of Reinforced Concrete Structures",
+    code: "CE702",
+    url: "/notes/ioe/rcc/",
+    keywords: [
+      "design of reinforced concrete structures",
+      "rcc",
+      "CE701",
+      "ioe",
+    ],
   },
 ];
