@@ -1,5 +1,5 @@
 ---
-title: "Transportation Engineering 1"
+title: "Transportation Engineering"
 author: "Roman Thapa"
 date: "2024-10-21"
 description: "This course provides knowledge of road development and its planning based on the Nepalese context, enabling students to plan, survey, and design road projects."
@@ -16,7 +16,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# Transportation Engineering 1
+# Transportation Engineering
 
 ---
 

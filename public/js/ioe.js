@@ -170,7 +170,7 @@ export const ioeSubjects = [
   {
     name: "Engineering Hydrology",
     code: "CE606",
-    url: "/notes/ioe/hydrology/engineering-hydrology.html",
+    url: "/notes/ioe/hydrology/",
     keywords: ["hydrology", "CE606", "ioe"],
   },
   {
@@ -230,7 +230,7 @@ export const ioeSubjects = [
   {
     name: "Transportation Engineering",
     code: "CE653",
-    url: "/notes/ioe/transportation1/",
+    url: "/notes/ioe/transportation/",
     keywords: ["transportation engineering", "CE653", "ioe"],
   },
   {
@@ -268,5 +268,11 @@ export const ioeSubjects = [
     code: "CE708",
     url: "/notes/ioe/engineering/bridge-engineering.html",
     keywords: ["bridge engineering", "CE708", "ioe"],
+  },
+  {
+    name: "Project Engineering",
+    code: "CE701",
+    url: "/notes/ioe/project-engineering/",
+    keywords: ["project engineering", "CE701", "ioe"],
   },
 ];
