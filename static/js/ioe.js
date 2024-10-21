@@ -236,7 +236,7 @@ export const ioeSubjects = [
   {
     name: "Irrigation and Drainage",
     code: "CE654",
-    url: "/notes/ioe/engineering/irrigation-drainage.html",
+    url: "/notes/ioe/irrigation/",
     keywords: ["irrigation", "drainage", "CE654", "ioe"],
   },
   {
