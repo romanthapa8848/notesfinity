@@ -231,7 +231,13 @@ export const ioeSubjects = [
     name: "Transportation Engineering I",
     code: "CE653",
     url: "/notes/ioe/transportation1/",
-    keywords: ["transportation engineering", "CE653", "ioe"],
+    keywords: ["transportation engineering i", "CE653", "ioe"],
+  },
+  {
+    name: "Transportation Engineering II",
+    code: "CE703",
+    url: "/notes/ioe/transportation2/",
+    keywords: ["transportation engineering ii", "CE703", "ioe"],
   },
   {
     name: "Irrigation and Drainage",
