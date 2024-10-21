@@ -224,7 +224,7 @@ export const ioeSubjects = [
   {
     name: "Sanitary Engineering",
     code: "CE656",
-    url: "/notes/ioe/engineering/sanitary-engineering.html",
+    url: "/notes/ioe/sanitary-engineering/",
     keywords: ["sanitary engineering", "CE656", "ioe"],
   },
   {
