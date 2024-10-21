@@ -298,4 +298,10 @@ export const ioeSubjects = [
     url: "/notes/ioe/estimating-and-costing/",
     keywords: ["estimating and costing", "CE705", "ioe"],
   },
+  {
+    name: "Computational Techniques",
+    code: "CE757",
+    url: "/notes/ioe/computational-techniques/",
+    keywords: ["estimating and costing", "CE757", "ioe"],
+  },
 ];
