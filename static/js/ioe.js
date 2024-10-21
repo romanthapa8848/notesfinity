@@ -248,7 +248,7 @@ export const ioeSubjects = [
   {
     name: "Hydropower Engineering",
     code: "CE704",
-    url: "/notes/ioe/engineering/hydropower-engineering.html",
+    url: "/notes/ioe/hydropower/",
     keywords: ["hydropower", "CE704", "ioe"],
   },
   {
@@ -291,5 +291,11 @@ export const ioeSubjects = [
       "CE702",
       "ioe",
     ],
+  },
+  {
+    name: "Estimating and Costing",
+    code: "CE705",
+    url: "/notes/ioe/estimating-and-costing/",
+    keywords: ["estimating and costing", "CE705", "ioe"],
   },
 ];
