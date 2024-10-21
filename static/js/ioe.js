@@ -282,7 +282,7 @@ export const ioeSubjects = [
     keywords: [
       "design of reinforced concrete structures",
       "rcc",
-      "CE701",
+      "CE702",
       "ioe",
     ],
   },
