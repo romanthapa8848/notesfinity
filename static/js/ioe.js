@@ -230,7 +230,7 @@ export const ioeSubjects = [
   {
     name: "Transportation Engineering",
     code: "CE653",
-    url: "/notes/ioe/engineering/transportation-engineering.html",
+    url: "/notes/ioe/transportation1/",
     keywords: ["transportation engineering", "CE653", "ioe"],
   },
   {
