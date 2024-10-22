@@ -270,10 +270,10 @@ export const ioeSubjects = [
     keywords: ["structural analysis", "CE707", "ioe"],
   },
   {
-    name: "Bridge Engineering",
-    code: "CE708",
-    url: "/notes/ioe/engineering/bridge-engineering.html",
-    keywords: ["bridge engineering", "CE708", "ioe"],
+    name: "Construction Management",
+    code: "CE754",
+    url: "/notes/ioe/construction-management/",
+    keywords: ["construction management", "CE754", "ioe"],
   },
   {
     name: "Project Engineering",
