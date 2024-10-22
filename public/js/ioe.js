@@ -304,4 +304,10 @@ export const ioeSubjects = [
     url: "/notes/ioe/computational-techniques/",
     keywords: ["estimating and costing", "CE757", "ioe"],
   },
+  {
+    name: "Technology, Environment and Society",
+    code: "CE753",
+    url: "/notes/ioe/technology-environment-and-society/",
+    keywords: ["technology, environment and society", "CE753", "ioe"],
+  },
 ];
