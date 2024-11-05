@@ -277,7 +277,7 @@ layout: "non_math_mode"
 - [8.2.5 Aschelminthes (Nemathelminthes): Diagnostic Features and Classification Up to Class with Examples](/notes/neb/bio11/zoology/faunal-diversity/animalia/aschelminthes-nemathelminthes/)
 - [8.2.6 Annelida: Diagnostic Features and Classification Up to Class with Examples](/notes/neb/bio11/zoology/faunal-diversity/animalia/annelida/)
 - [8.2.7 Arthropoda: Diagnostic Features and Classification Up to Class with Examples](/notes/neb/bio11/zoology/faunal-diversity/animalia/arthropoda/)
-- [8.2.8 Mollusca: Diagnostic Features and Classification Up to Class with Examples](./zoology/faunal-diversity/animalia/mollusca.html)
+- [8.2.8 Mollusca: Diagnostic Features and Classification Up to Class with Examples](/notes/neb/bio11/zoology/faunal-diversity/animalia/mollusca/)
 - [8.2.9 Echinodermata: Diagnostic Features and Classification Up to Class with Examples](./zoology/faunal-diversity/animalia/echinodermata.html)
 - [8.2.10 Chordata: Diagnostic Features and Classification Up to Class with Examples](./zoology/faunal-diversity/animalia/chordata.html)
 
