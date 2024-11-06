@@ -293,25 +293,25 @@ layout: "non_math_mode"
 
 #### [8.2.2 Frog (Rana tigrina): Habit and habitat, External features, Digestive system (alimentary canal, digestive glands & physiology of digestion), Blood vascular system (structure & working mechanism of heart), Respiratory system (respiratory organs & physiology of respiration) and Reproductive system (male & female reproductive organs).](./zoology/faunal-diversity/animalia/frog.html)
 
-- [8.2.2.1 Habit and Habitat](./zoology/faunal-diversity/animalia/frog/habit-and-habitat.html)
-- [8.2.2.2 External Features](./zoology/faunal-diversity/animalia/frog/external-features.html)
-- [8.2.2.3 Digestive System: Alimentary Canal, Digestive Glands & Physiology of Digestion](./zoology/faunal-diversity/animalia/frog/digestive-system.html)
-- [8.2.2.4 Blood Vascular System: Structure & Working Mechanism of Heart](./zoology/faunal-diversity/animalia/frog/blood-vascular-system.html)
-- [8.2.2.5 Respiratory System: Respiratory Organs & Physiology of Respiration](./zoology/faunal-diversity/animalia/frog/respiratory-system.html)
-- [8.2.2.6 Reproductive System: Male & Female Reproductive Organs](./zoology/faunal-diversity/animalia/frog/reproductive-system.html)
+- [8.2.2.1 Habit and Habitat](/notes/neb/bio11/zoology/faunal-diversity/animalia/frog/habit-and-habitat/)
+- [8.2.2.2 External Features](/notes/neb/bio11/zoology/faunal-diversity/animalia/frog/external-features/)
+- [8.2.2.3 Digestive System: Alimentary Canal, Digestive Glands & Physiology of Digestion](/notes/neb/bio11/zoology/faunal-diversity/animalia/frog/digestive-system/)
+- [8.2.2.4 Blood Vascular System: Structure & Working Mechanism of Heart](/notes/neb/bio11/zoology/faunal-diversity/animalia/frog/blood-vascular-system/)
+- [8.2.2.5 Respiratory System: Respiratory Organs & Physiology of Respiration](/notes/neb/bio11/zoology/faunal-diversity/animalia/frog/respiratory-system/)
+- [8.2.2.6 Reproductive System: Male & Female Reproductive Organs](/notes/neb/bio11/zoology/faunal-diversity/animalia/frog/reproductive-system/)
 
 ---
 
 ## 9. Biota and Environment
 
-- [9.1 Animal adaptation: Aquatic (Primary & Secondary), Terrestrial (Cursorial, Fossorial & Arboreal) and Volant adaptation.](./zoology/biota-and-environment/animal-adaptation.html)
-- [9.2 Animal behavior: Reflex action, taxes, dominance and leadership. Fish and bird Migration.](./zoology/biota-and-environment/animal-behavior.html)
-- [9.3 Environmental Pollution: Sources, effects and control measures of air, water and soil pollution. Pesticides & their effects.](./zoology/biota-and-environment/environmental-pollution.html)
+- [9.1 Animal adaptation: Aquatic (Primary & Secondary), Terrestrial (Cursorial, Fossorial & Arboreal) and Volant adaptation.](/notes/neb/bio11/zoology/biota-and-environment/animal-adaptation/)
+- [9.2 Animal behavior: Reflex action, taxes, dominance and leadership. Fish and bird Migration.](/notes/neb/bio11/zoology/biota-and-environment/animal-behavior/)
+- [9.3 Environmental Pollution: Sources, effects and control measures of air, water and soil pollution. Pesticides & their effects.](/notes/neb/bio11/zoology/biota-and-environment/environmental-pollution/)
 
 ---
 
 ## 10. Conservation Biology
 
-- [10.1 Conservation Biology: Concept of biodiversity, biodiversity conservation, national parks, wildlife reserves, conservation areas, biodiversity hotspots, wetland & Ramsar sites.](./zoology/conservation-biology/conservation-biology.html)
+- [10.1 Conservation Biology: Concept of biodiversity, biodiversity conservation, national parks, wildlife reserves, conservation areas, biodiversity hotspots, wetland & Ramsar sites.](/notes/neb/bio11/zoology/conservation-biology/conservation-biology.html)
 
-- [10.2 Wildlife- Importance, causes of extinction and conservation strategies. IUCN categories of threatened species - meaning of extinct, endangered, vulnerable, rare, and threatened species. Endangered species in Nepal.](./zoology/conservation-biology/conservation-biology.html)
+- [10.2 Wildlife- Importance, causes of extinction and conservation strategies. IUCN categories of threatened species - meaning of extinct, endangered, vulnerable, rare, and threatened species. Endangered species in Nepal.](/notes/neb/bio11/zoology/conservation-biology/conservation-biology.html)
