@@ -312,6 +312,6 @@ layout: "non_math_mode"
 
 ## 10. Conservation Biology
 
-- [10.1 Conservation Biology: Concept of biodiversity, biodiversity conservation, national parks, wildlife reserves, conservation areas, biodiversity hotspots, wetland & Ramsar sites.](/notes/neb/bio11/zoology/conservation-biology/conservation-biology.html)
+- [10.1 Conservation Biology: Concept of biodiversity, biodiversity conservation, national parks, wildlife reserves, conservation areas, biodiversity hotspots, wetland & Ramsar sites.](/notes/neb/bio11/zoology/conservation-biology/conservation-biology/)
 
-- [10.2 Wildlife- Importance, causes of extinction and conservation strategies. IUCN categories of threatened species - meaning of extinct, endangered, vulnerable, rare, and threatened species. Endangered species in Nepal.](/notes/neb/bio11/zoology/conservation-biology/conservation-biology.html)
+- [10.2 Wildlife: Importance, causes of extinction and conservation strategies. IUCN categories of threatened species - meaning of extinct, endangered, vulnerable, rare, and threatened species. Endangered species in Nepal.](/notes/neb/bio11/zoology/conservation-biology/wildlife/)
