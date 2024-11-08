@@ -161,15 +161,15 @@ layout: "non_math_mode"
 
 ## 7. Developmental Biology
 
-- [7.1 Gametogenesis: Spermatogenesis & Oogenesis](./zoology/developmental-biology/gametogenesis.html)
+- [7.1 Gametogenesis: Spermatogenesis & Oogenesis](/notes/neb/bio12/zoology/developmental-biology/gametogenesis/)
 
-- [7.2 Development of Frog: Fertilization & Its Effects, Cleavage, Morulation, Blastulation, Gastrulation, Organogenesis – Formation of Notochord, Nerve Cord & Coelom](zoology/developmental-biology/development-of-frog.html)
+- [7.2 Development of Frog: Fertilization & Its Effects, Cleavage, Morulation, Blastulation, Gastrulation, Organogenesis – Formation of Notochord, Nerve Cord & Coelom](/notes/neb/bio12/zoology/developmental-biology/development-of-frog.html)
 
-  - [7.2.1 Fertilization & Its Effects](./zoology/developmental-biology/development-of-frog/fertilization-effects.html)
+  - [7.2.1 Fertilization & Its Effects](/notes/neb/bio12/zoology/developmental-biology/development-of-frog/fertilization-effects/)
 
-  - [7.2.2 Cleavage, Morulation, Blastulation, Gastrulation, Organogenesis](./zoology/developmental-biology/development-of-frog/cleavage-morulation-blastulation-gastrulation-organogenesis.html)
+  - [7.2.2 Cleavage, Morulation, Blastulation, Gastrulation, Organogenesis](/notes/neb/bio12/zoology/developmental-biology/development-of-frog/cleavage-morulation-blastulation-gastrulation-organogenesis/)
 
-  - [7.2.3 Formation of Notochord, Nerve Cord & Coelom](./zoology/developmental-biology/development-of-frog/notochord-nerve-cord-coelom.html)
+  - [7.2.3 Formation of Notochord, Nerve Cord & Coelom](/notes/neb/bio12/zoology/developmental-biology/development-of-frog/notochord-nerve-cord-coelom/)
 
 ---
 
