@@ -111,9 +111,9 @@ layout: "non_math_mode"
 
 [3.4 Mutation and polyploidy: Concept, type (gene and chromosomal mutation), importance of mutation (positive and negative), polyploidy (origin and significance).](genetics/mutation-and-polyploidy.html)
 
-- [3.4.1 Concept and Types of Mutation (Gene and Chromosomal Mutation)](/notes/neb/bio12/botany/genetics/mutation-polyploidy/concept-types-mutation.html)
-- [3.4.2 Importance of Mutation (Positive and Negative)](/notes/neb/bio12/botany/genetics/mutation-polyploidy/importance-of-mutation.html)
-- [3.4.3 Polyploidy (Origin and Significance)](/notes/neb/bio12/botany/genetics/mutation-polyploidy/polyploidy.html)
+- [3.4.1 Concept and Types of Mutation (Gene and Chromosomal Mutation)](/notes/neb/bio12/botany/genetics/mutation-polyploidy/concept-types-mutation/)
+- [3.4.2 Importance of Mutation (Positive and Negative)](/notes/neb/bio12/botany/genetics/mutation-polyploidy/importance-of-mutation/)
+- [3.4.3 Polyploidy (Origin and Significance)](/notes/neb/bio12/botany/genetics/mutation-polyploidy/polyploidy/)
 
 ---
 
