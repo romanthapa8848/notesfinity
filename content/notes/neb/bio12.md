@@ -154,8 +154,8 @@ layout: "non_math_mode"
 
 [6.1 Animal Tissues: Introduction; Types of animal tissues: epithelial, connective, muscular and nervous (structure, functions & location of different sub-types).](zoology/animal-tissues.html)
 
-- [6.1.1 Introduction](./zoology/animal-tissues/introduction.html)
-- [6.1.2 Types of Animal Tissues: Epithelial, Connective, Muscular, and Nervous (Structure, Functions & Location of Different Sub-Types)](./zoology/animal-tissues/types-animal-tissues.html)
+- [6.1.1 Introduction](/notes/neb/bio12/zoology/animal-tissues/introduction/)
+- [6.1.2 Types of Animal Tissues: Epithelial, Connective, Muscular, and Nervous (Structure, Functions & Location of Different Sub-Types)](/notes/neb/bio12/zoology/animal-tissues/types-animal-tissues/)
 
 ---
 
