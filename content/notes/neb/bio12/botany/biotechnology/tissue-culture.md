@@ -77,55 +77,55 @@ Plant hormones, such as auxins and cytokinins, are used in tissue culture to sti
 ### 1. What is the main purpose of tissue culture in plants?
 
 - A) To grow plants in soil
-- B) To grow plant cells or tissues in a controlled environment (✓)
+- B) **To grow plant cells or tissues in a controlled environment (✓)**
 - C) To produce plant seeds
 - D) To enhance plant color
 
 ### 2. What is an explant in tissue culture?
 
 - A) A type of plant hormone
-- B) A small piece of plant tissue used for propagation (✓)
+- B) **A small piece of plant tissue used for propagation (✓)**
 - C) A type of nutrient medium
 - D) A plant grown in soil
 
 ### 3. What is required for the successful growth of plant tissue in culture?
 
 - A) A natural environment
-- B) A sterile environment and nutrient medium (✓)
+- B) **A sterile environment and nutrient medium (✓)**
 - C) Direct sunlight
 - D) Soil
 
 ### 4. What is the role of plant hormones in tissue culture?
 
 - A) They inhibit growth
-- B) They help in the formation of roots or shoots (✓)
+- B) **They help in the formation of roots or shoots (✓)**
 - C) They stop cell division
 - D) They prevent diseases
 
 ### 5. What is somatic embryogenesis in tissue culture?
 
 - A) The formation of flowers from plant tissue
-- B) The formation of embryos from somatic cells (✓)
+- B) **The formation of embryos from somatic cells (✓)**
 - C) The formation of seeds from plant tissue
 - D) The regeneration of leaves
 
 ### 6. What is callus formation in tissue culture?
 
 - A) The development of roots from plant tissue
-- B) The development of an undifferentiated mass of cells (✓)
+- B) **The development of an undifferentiated mass of cells (✓)**
 - C) The development of flowers
 - D) The formation of seeds
 
 ### 7. How does tissue culture aid in plant conservation?
 
 - A) By growing plants in soil
-- B) By preserving rare or endangered species in vitro (✓)
+- B) **By preserving rare or endangered species in vitro (✓)**
 - C) By preventing the growth of pests
 - D) By enhancing plant growth in nature
 
 ### 8. What is the benefit of tissue culture in plant propagation?
 
-- A) It allows rapid multiplication of plants (✓)
+- A) **It allows rapid multiplication of plants (✓)**
 - B) It slows down plant growth
 - C) It reduces plant growth rates
 - D) It reduces plant size
@@ -133,13 +133,13 @@ Plant hormones, such as auxins and cytokinins, are used in tissue culture to sti
 ### 9. Can tissue culture be used to create genetically modified plants?
 
 - A) No, it is not possible
-- B) Yes, it is commonly used in genetic engineering (✓)
+- B) **Yes, it is commonly used in genetic engineering (✓)**
 - C) Yes, but only in rare cases
 - D) No, it only propagates natural plants
 
 ### 10. What is the importance of nutrient medium in tissue culture?
 
-- A) It provides all the nutrients needed for plant growth (✓)
+- A) **It provides all the nutrients needed for plant growth (✓)**
 - B) It helps in flowering
 - C) It prevents diseases
 - D) It reduces plant growth

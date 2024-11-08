@@ -70,13 +70,13 @@ Ethical concerns in biotechnology include the manipulation of genes, potential r
 ### 1. What is the primary focus of biotechnology?
 
 - A) Engineering machines
-- B) Modification of living organisms (✓)
+- B) **Modification of living organisms (✓)**
 - C) Development of space technology
 - D) Genetic mutation
 
 ### 2. Which of the following is a common application of biotechnology?
 
-- A) Production of genetically modified crops (✓)
+- A) **Production of genetically modified crops (✓)**
 - B) Creation of new metal alloys
 - C) Development of fossil fuels
 - D) Construction of buildings
@@ -84,13 +84,13 @@ Ethical concerns in biotechnology include the manipulation of genes, potential r
 ### 3. What does genetic engineering involve?
 
 - A) Making traditional medicines
-- B) Altering the genetic material of organisms (✓)
+- B) **Altering the genetic material of organisms (✓)**
 - C) Creating fossil fuels
 - D) Designing new agricultural tools
 
 ### 4. Which of these is a potential benefit of biotechnology in agriculture?
 
-- A) Increased pest resistance in crops (✓)
+- A) **Increased pest resistance in crops (✓)**
 - B) Higher costs of food
 - C) Decreased food production
 - D) Reduced crop yields
@@ -98,13 +98,13 @@ Ethical concerns in biotechnology include the manipulation of genes, potential r
 ### 5. What is recombinant DNA technology used for?
 
 - A) Changing human behavior
-- B) Altering the genetic makeup of organisms (✓)
+- B) **Altering the genetic makeup of organisms (✓)**
 - C) Creating new agricultural tools
 - D) Producing machines
 
 ### 6. What does the biotechnology industry aim to improve?
 
-- A) Human health, food production, and the environment (✓)
+- A) **Human health, food production, and the environment (✓)**
 - B) Metal production
 - C) Fossil fuel usage
 - D) Space exploration
@@ -112,13 +112,13 @@ Ethical concerns in biotechnology include the manipulation of genes, potential r
 ### 7. How does biotechnology aid in medicine?
 
 - A) By manufacturing electronic devices
-- B) By producing genetically engineered drugs and vaccines (✓)
+- B) **By producing genetically engineered drugs and vaccines (✓)**
 - C) By exploring space
 - D) By altering plant structures
 
 ### 8. What is a GMO?
 
-- A) A genetically modified organism (✓)
+- A) **A genetically modified organism (✓)**
 - B) A genetically modified object
 - C) A genetically unmodified organism
 - D) A genetically normal object
@@ -126,13 +126,13 @@ Ethical concerns in biotechnology include the manipulation of genes, potential r
 ### 9. What is the use of bioremediation in biotechnology?
 
 - A) To recycle paper
-- B) To break down environmental pollutants (✓)
+- B) **To break down environmental pollutants (✓)**
 - C) To produce energy
 - D) To manufacture medicines
 
 ### 10. What ethical issue is commonly discussed in biotechnology?
 
 - A) The ethics of making machines
-- B) The ethics of genetic modification and cloning (✓)
+- B) **The ethics of genetic modification and cloning (✓)**
 - C) The ethics of architecture
 - D) The ethics of space exploration
