@@ -44,10 +44,10 @@ layout: "non_math_mode"
 
 [1.1 Plant anatomy: Concept of tissues, types of plant tissues (meristems and permanent tissues), Anatomy of dicot and monocot root, stem and leaf, Secondary growth of dicot stem.](botany/plant-anatomy.html)
 
-- [1.1.1 Concept of Tissues](./botany/plant-anatomy/concept-of-tissues.html)
-- [1.1.2 Types of Plant Tissues: Meristems and Permanent Tissues](./botany/plant-anatomy/types-of-plant-tissues.html)
-- [1.1.3 Anatomy of dicot and monocot root, stem and leaf](./botany/plant-anatomy/anatomy-dicot-monocot.html)
-- [1.1.4 Secondary Growth of Dicot Stem](./botany/plant-anatomy/secondary-growth-dicot-stem.html)
+- [1.1.1 Concept of Tissues](/notes/neb/bio12/botany/plant-anatomy/concept-of-tissues/)
+- [1.1.2 Types of Plant Tissues: Meristems and Permanent Tissues](/notes/neb/bio12/botany/plant-anatomy/types-of-plant-tissues/)
+- [1.1.3 Anatomy of dicot and monocot root, stem and leaf](/notes/neb/bio12/botany/plant-anatomy/anatomy-dicot-monocot/)
+- [1.1.4 Secondary Growth of Dicot Stem](/notes/neb/bio12/botany/plant-anatomy/secondary-growth-dicot-stem/)
 
 ---
 
@@ -55,36 +55,35 @@ layout: "non_math_mode"
 
 [2.1 Water relation: Introduction and significance of - diffusion, osmosis, and plasmolysis, ascent of sap, transpiration and guttation.](botany/plant-physiology/water-relation.html)
 
-- [2.1.1 Introduction and Significance of Diffusion, Osmosis, and Plasmolysis](./botany/plant-physiology/water-relation/diffusion-osmosis-plasmolysis.html)
-- [2.1.2 Ascent of Sap](./botany/plant-physiology/water-relation/ascent-of-sap.html)
-- [2.1.3 Transpiration and Guttation](./botany/plant-physiology/water-relation/transpiration-and-guttation.html)
+- [2.1.1 Introduction and Significance of Diffusion, Osmosis, and Plasmolysis](/notes/neb/bio12/botany/plant-physiology/water-relation/diffusion-osmosis-plasmolysis/)
+- [2.1.2 Ascent of Sap](/notes/neb/bio12/botany/plant-physiology/water-relation/ascent-of-sap/)
+- [2.1.3 Transpiration and Guttation](/notes/neb/bio12/botany/plant-physiology/water-relation/transpiration-and-guttation/)
 
 [2.2 Photosynthesis: Introduction and significance of photosynthesis, photosynthetic pigments, mechanism of photosynthesis (photochemical phase and Calvin-Benson cycle), C3 and C4 plants, photorespiration, factors affecting photosynthesis.](botany/plant-physiology/photosynthesis.html)
 
-- [2.2.1 Introduction and Significance of Photosynthesis](./botany/plant-physiology/photosynthesis/introduction-significance.html)
-- [2.2.2 Photosynthetic Pigments](./botany/plant-physiology/photosynthesis/photosynthetic-pigments.html)
-- [2.2.3 Mechanism of Photosynthesis (Photochemical Phase and Calvin-Benson Cycle)](./botany/plant-physiology/photosynthesis/mechanism.html)
-- [2.2.4 C3 and C4 Plants](./botany/plant-physiology/photosynthesis/c3-c4-plants.html)
-- [2.2.5 Photorespiration](./botany/plant-physiology/photosynthesis/photorespiration.html)
-- [2.2.6 Factors Affecting Photosynthesis](./botany/plant-physiology/photosynthesis/factors-affecting.html)
+- [2.2.1 Introduction and Significance of Photosynthesis](/notes/neb/bio12/botany/plant-physiology/photosynthesis/introduction-significance/)
+- [2.2.2 Photosynthetic Pigments](/notes/neb/bio12/botany/plant-physiology/photosynthesis/photosynthetic-pigments/)
+- [2.2.3 Mechanism of Photosynthesis (Photochemical Phase and Calvin-Benson Cycle)](/notes/neb/bio12/botany/plant-physiology/photosynthesis/mechanism/)
+- [2.2.4 C3 and C4 Plants](/notes/neb/bio12/botany/plant-physiology/photosynthesis/c3-c4-plants/)
+- [2.2.5 Photorespiration](/notes/neb/bio12/botany/plant-physiology/photosynthesis/photorespiration/)
+- [2.2.6 Factors Affecting Photosynthesis](/notes/neb/bio12/botany/plant-physiology/photosynthesis/factors-affecting/)
 
 [2.3 Respiration: Introduction and significance of respiration, types of respiration, mechanism of respiration (glycolysis, Kreb cycle, electron transport system), factors affecting respiration.](botany/plant-physiology/respiration.html)
 
-- [2.3.1 Introduction and Significance of Respiration](./botany/plant-physiology/respiration/introduction-significance.html)
-- [2.3.2 Types of Respiration](./botany/plant-physiology/respiration/types-of-respiration.html)
-- [2.3.3 Mechanism of Respiration (Glycolysis, Krebs Cycle, Electron Transport System)](./botany/plant-physiology/respiration/mechanism.html)
-- [2.3.4 Factors Affecting Respiration](./botany/plant-physiology/respiration/factors-affecting.html)
+- [2.3.1 Introduction and Significance of Respiration](/notes/neb/bio12/botany/plant-physiology/respiration/introduction-significance/)
+- [2.3.2 Types of Respiration](/notes/neb/bio12/botany/plant-physiology/respiration/types-of-respiration/)
+- [2.3.3 Mechanism of Respiration (Glycolysis, Krebs Cycle, Electron Transport System)](/notes/neb/bio12/botany/plant-physiology/respiration/mechanism/)
+- [2.3.4 Factors Affecting Respiration](/notes/neb/bio12/botany/plant-physiology/respiration/factors-affecting/)
 
 [2.4 Plant hormones: Introduction, physiological effects of auxins, gibberellins and Cytokinins.](botany/plant-physiology/plant-hormones.html)
 
-- [2.4.1 Introduction](./botany/plant-physiology/plant-hormones/introduction.html)
-- [2.4.2 Physiological Effects of Auxins, Gibberellins, and Cytokinins](./botany/plant-physiology/plant-hormones/physiological-effects.html)
+- [2.4.1 Introduction](/notes/neb/bio12/botany/plant-physiology/plant-hormones/introduction/)
+- [2.4.2 Physiological Effects of Auxins, Gibberellins, and Cytokinins](/notes/neb/bio12/botany/plant-physiology/plant-hormones/physiological-effects/)
 
 [2.5 Plant growth and movement: Concept on seed germination, dormancy, photoperiodism, vernalization, senescence; plant movements (tropic and nastic).](botany/plant-physiology/plant-growth-and-movement.html)
 
-- [2.5.1 Concept on Seed Germination and Dormancy](./botany/plant-physiology/plant-growth-movement/seed-germination-dormancy.html)
-- [2.5.2 Photoperiodism, Vernalization, and Senescence](./botany/plant-physiology/plant-growth-movement/photoperiodism-vernalization-senescence.html)
-- [2.5.3 Plant Movements (Tropic and Nastic)](./botany/plant-physiology/plant-growth-movement/plant-movements.html)
+- [2.5.1 Concept on seed germination, dormancy, photoperiodism, vernalization, senescence](/notes/neb/bio12/botany/plant-physiology/plant-growth-movement/concept/)
+- [2.5.2 Plant Movements (Tropic and Nastic)](/notes/neb/bio12/botany/plant-physiology/plant-growth-movement/plant-movements/)
 
 ---
 
@@ -92,28 +91,29 @@ layout: "non_math_mode"
 
 [3.1 Genetic Materials: Introduction to genetics and genetic materials, composition, structure and function of DNA and RNA, DNA replication, introduction of genetic code.](genetics/genetic-materials.html)
 
-- [3.1.1 Introduction to Genetics and Genetic Materials](./botany/genetics/genetic-materials/introduction-genetics.html)
-- [3.1.2 Composition, Structure, and Function of DNA and RNA](./botany/genetics/genetic-materials/dna-rna.html)
-- [3.1.3 DNA Replication](./botany/genetics/genetic-materials/dna-replication.html)
-- [3.1.4 Introduction of Genetic Code](./botany/genetics/genetic-materials/genetic-code.html)
+- [3.1.1 Introduction to Genetics and Genetic Materials](/notes/neb/bio12/botany/genetics/genetic-materials/introduction-genetics/)
+- [3.1.2 Composition, Structure, and Function of DNA](/notes/neb/bio12/botany/genetics/genetic-materials/dna/)
+- [3.1.3 Composition, Structure, and Function of RNA](/notes/neb/bio12/botany/genetics/genetic-materials/rna/)
+- [3.1.4 DNA Replication](/notes/neb/bio12/botany/genetics/genetic-materials/dna-replication/)
+- [3.1.5 Introduction of Genetic Code](/notes/neb/bio12/botany/genetics/genetic-materials/genetic-code/)
 
 [3.2 Mendelian genetics: General terminology, Mendel’s experiment and laws of inheritance, gene interactions (incomplete dominance, co-dominance).](genetics/genetics/mendelian-genetics.html)
 
-- [3.2.1 General Terminology](./botany/genetics/mendelian-genetics/general-terminology.html)
-- [3.2.2 Mendel’s Experiment and Laws of Inheritance](./botany/genetics/mendelian-genetics/mendels-experiment-laws.html)
-- [3.2.3 Gene Interactions (Incomplete Dominance, Co-dominance)](./botany/genetics/mendelian-genetics/gene-interactions.html)
+- [3.2.1 General Terminology](/notes/neb/bio12/botany/genetics/mendelian-genetics/general-terminology/)
+- [3.2.2 Mendel’s Experiment and Laws of Inheritance](/notes/neb/bio12/botany/genetics/mendelian-genetics/mendels-experiment-laws/)
+- [3.2.3 Gene Interactions (Incomplete Dominance, Co-dominance)](/notes/neb/bio12/botany/genetics/mendelian-genetics/gene-interactions/)
 
 [3.3 Linkage and crossing over: Concept and types of linkage (complete and incomplete), sex-linked inheritance (colour blindness in man and eye colour of Drosophila), concept and significances of crossing over.](genetics/linkage-and-crossing-over.html)
 
-- [3.3.1 Concept and Types of Linkage (Complete and Incomplete)](./botany/genetics/linkage-crossing-over/concept-types-linkage.html)
-- [3.3.2 Sex-Linked Inheritance (Color Blindness in Man and Eye Color of Drosophila)](./botany/genetics/linkage-crossing-over/sex-linked-inheritance.html)
-- [3.3.3 Concept and Significances of Crossing Over](./botany/genetics/linkage-crossing-over/crossing-over.html)
+- [3.3.1 Concept and Types of Linkage (Complete and Incomplete)](/notes/neb/bio12/botany/genetics/linkage-crossing-over/concept-types-linkage/)
+- [3.3.2 Sex-Linked Inheritance (Color Blindness in Man and Eye Color of Drosophila)](/notes/neb/bio12/botany/genetics/linkage-crossing-over/sex-linked-inheritance/)
+- [3.3.3 Concept and Significances of Crossing Over](/notes/neb/bio12/botany/genetics/linkage-crossing-over/crossing-over/)
 
 [3.4 Mutation and polyploidy: Concept, type (gene and chromosomal mutation), importance of mutation (positive and negative), polyploidy (origin and significance).](genetics/mutation-and-polyploidy.html)
 
-- [3.4.1 Concept and Types of Mutation (Gene and Chromosomal Mutation)](./botany/genetics/mutation-polyploidy/concept-types-mutation.html)
-- [3.4.2 Importance of Mutation (Positive and Negative)](./botany/genetics/mutation-polyploidy/importance-of-mutation.html)
-- [3.4.3 Polyploidy (Origin and Significance)](./botany/genetics/mutation-polyploidy/polyploidy.html)
+- [3.4.1 Concept and Types of Mutation (Gene and Chromosomal Mutation)](/notes/neb/bio12/botany/genetics/mutation-polyploidy/concept-types-mutation.html)
+- [3.4.2 Importance of Mutation (Positive and Negative)](/notes/neb/bio12/botany/genetics/mutation-polyploidy/importance-of-mutation.html)
+- [3.4.3 Polyploidy (Origin and Significance)](/notes/neb/bio12/botany/genetics/mutation-polyploidy/polyploidy.html)
 
 ---
 
