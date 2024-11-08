@@ -18,6 +18,8 @@ layout: "non_math_mode"
 
 **Polyploidy** refers to the condition in which an organism has more than two complete sets of chromosomes. It is a form of **chromosomal mutation** that plays a significant role in the evolution of plants, leading to increased genetic diversity. Polyploidy can occur naturally or be induced artificially and is common in plants, less so in animals.
 
+---
+
 ### Origin of Polyploidy
 
 Polyploidy originates through errors in the process of **meiosis** or **mitosis**, where the chromosome number is not halved properly, resulting in cells with more than two complete sets of chromosomes. This can occur in several ways:

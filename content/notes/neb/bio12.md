@@ -121,12 +121,12 @@ layout: "non_math_mode"
 
 [4. Embryology: Asexual and sexual reproductions in angiosperms, pollination, fertilization, development of male and female gametophytes, development of dicot and monocot embryos, concept of endosperm.](embryology.html)
 
-- [4.1 Asexual and Sexual Reproductions in Angiosperms](./botany/embryology/asexual-sexual-reproduction.html)
-- [4.2 Pollination](./botany/embryology/pollination.html)
-- [4.3 Fertilization](./botany/embryology/fertilization.html)
-- [4.4 Development of Male and Female Gametophytes](./botany/embryology/development-gametophytes.html)
-- [4.5 Development of Dicot and Monocot Embryos](./botany/embryology/development-embryos.html)
-- [4.6 Concept of Endosperm](./botany/embryology/concept-endosperm.html)
+- [4.1 Asexual and Sexual Reproductions in Angiosperms](/notes/neb/bio12/botany/embryology/asexual-sexual-reproduction/)
+- [4.2 Pollination](/notes/neb/bio12/botany/embryology/pollination/)
+- [4.3 Fertilization](/notes/neb/bio12/botany/embryology/fertilization/)
+- [4.4 Development of Male and Female Gametophytes](/notes/neb/bio12/botany/embryology/development-gametophytes/)
+- [4.5 Development of Dicot and Monocot Embryos](/notes/neb/bio12/botany/embryology/development-embryos/)
+- [4.6 Concept of Endosperm](/notes/neb/bio12/botany/embryology/concept-endosperm/)
 
 ---
 
@@ -134,15 +134,15 @@ layout: "non_math_mode"
 
 [5. Biotechnology: Introduction, tissue culture, plant breeding, disease resistance plants, green manure and bio-fertilizer, bio-pesticide, genetic engineering and GMOs (genetically modified organisms) and application, bio-engineering, food safety and food security.](biotechnology.html)
 
-- [5.1 Introduction](./botany/biotechnology/introduction.html)
-- [5.2 Tissue Culture](./botany/biotechnology/tissue-culture.html)
-- [5.3 Plant Breeding](./botany/biotechnology/plant-breeding.html)
-- [5.4 Disease-Resistant Plants](./botany/biotechnology/disease-resistant-plants.html)
-- [5.5 Green Manure and Bio-Fertilizer](./botany/biotechnology/green-manure-bio-fertilizer.html)
-- [5.6 Bio-Pesticide](./botany/biotechnology/bio-pesticide.html)
-- [5.7 Genetic Engineering and GMOs (Genetically Modified Organisms) and Application](./botany/biotechnology/genetic-engineering-gmos.html)
-- [5.8 Bio-Engineering](./botany/biotechnology/bio-engineering.html)
-- [5.9 Food Safety and Food Security](./botany/biotechnology/food-safety-security.html)
+- [5.1 Introduction](/notes/neb/bio12/botany/biotechnology/introduction/)
+- [5.2 Tissue Culture](/notes/neb/bio12/botany/biotechnology/tissue-culture/)
+- [5.3 Plant Breeding](/notes/neb/bio12/botany/biotechnology/plant-breeding/)
+- [5.4 Disease-Resistant Plants](/notes/neb/bio12/botany/biotechnology/disease-resistant-plants/)
+- [5.5 Green Manure and Bio-Fertilizer](/notes/neb/bio12/botany/biotechnology/green-manure-bio-fertilizer/)
+- [5.6 Bio-Pesticide](./botany/biotechnology/bio-pesticide/)
+- [5.7 Genetic Engineering and GMOs (Genetically Modified Organisms) and Application](/notes/neb/bio12/botany/biotechnology/genetic-engineering-gmos/)
+- [5.8 Bio-Engineering](/notes/neb/bio12/botany/biotechnology/bio-engineering/)
+- [5.9 Food Safety and Food Security](/notes/neb/bio12/botany/biotechnology/food-safety-security/)
 
 ---
 
