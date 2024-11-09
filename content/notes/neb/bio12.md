@@ -247,7 +247,7 @@ layout: "non_math_mode"
 
     - [8.7.1.8 Gonads: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/gonads/)
 
-  - [8.7.2 Hypo- and Hyper-Activity and Related Disorders](/notes/neb/bio12/zoology/human-biology/endocrinology/endo-disorders.html)
+  - [8.7.2 Hypo- and Hyper-Activity and Related Disorders](/notes/neb/bio12/zoology/human-biology/endocrinology/hypo-hyper/)
 
 - [8.8 Reproductive System: Male and Female Reproductive Organs, Ovarian & Menstrual Cycle](zoology/human-biology/reproductive-system.html)
 
