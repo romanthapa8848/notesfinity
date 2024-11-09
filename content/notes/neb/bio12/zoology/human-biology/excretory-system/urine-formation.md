@@ -91,7 +91,7 @@ Urine flows from the kidneys to the ureters, into the bladder for storage, and i
 
 ### 2. Where does the majority of reabsorption occur in the nephron?
 
-- A) Proximal convoluted tubule (✓)
+- A) **Proximal convoluted tubule (✓)**
 - B) Loop of Henle
 - C) Distal convoluted tubule
 - D) Collecting duct
@@ -112,7 +112,7 @@ Urine flows from the kidneys to the ureters, into the bladder for storage, and i
 
 ### 5. Which of the following is reabsorbed in the renal tubules?
 
-- A) Water (✓)
+- A) **Water (✓)**
 - B) Urea
 - C) Creatinine
 - D) Uric acid

@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/adrenal/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/digestive-system/alimentary-canal-digestive-glands/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,7 +32,13 @@
     <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/excretory-system/excretory-organs/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/gonads/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/circulatory-system/heart/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/hypothalamus/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/excretory-system/urine-formation/</loc>
@@ -44,13 +53,43 @@
     <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/circulatory-system/heartbeat/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/nervous-system/nerve-impulse/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/pancreas/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/parathyroid/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/digestive-system/physiology-of-digestion/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/pineal/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/pituitary/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/respiratory-system/respiratory-mechanism/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/respiratory-system/respiratory-organs/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/nervous-system/brain-structure-function/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/sense-organs/ear/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/sense-organs/eye/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/thyroid/</loc>
+    <lastmod>2024-11-09T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/bio12/zoology/human-biology/nervous-system/types-nervous-system/</loc>
     <lastmod>2024-11-09T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio12/botany/plant-anatomy/anatomy-dicot-monocot/</loc>

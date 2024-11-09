@@ -215,37 +215,37 @@ layout: "non_math_mode"
 
 - [8.5 Nervous System: Types of Nervous System (Central, Peripheral & Autonomous), Structure and Function of Brain, Origin and Conduction of Nerve Impulse](zoology/human-biology/nervous-system.html)
 
-  - [8.5.1 Types of Nervous System (Central, Peripheral & Autonomous)](./zoology/human-biology/nervous-system/types-nervous-system.html)
+  - [8.5.1 Types of Nervous System (Central, Peripheral & Autonomous)](/notes/neb/bio12/zoology/human-biology/nervous-system/types-nervous-system/)
 
-  - [8.5.2 Structure and Function of Brain](/notes/neb/bio12/zoology/human-biology/nervous-system/brain-structure-function.html)
+  - [8.5.2 Structure and Function of Brain](/notes/neb/bio12/zoology/human-biology/nervous-system/brain-structure-function/)
 
-  - [8.5.3 Origin and Conduction of Nerve Impulse](/notes/neb/bio12/zoology/human-biology/nervous-system/nerve-impulse.html)
+  - [8.5.3 Origin and Conduction of Nerve Impulse](/notes/neb/bio12/zoology/human-biology/nervous-system/nerve-impulse/)
 
 - [8.6 Sense Organs: Structure and Functions of Eye and Ear](zoology/human-biology/sense-organs.html)
 
-  - [8.6.1 Structure and Functions of the Eye](/notes/neb/bio12/zoology/human-biology/sense-organs/eye.html)
+  - [8.6.1 Structure and Functions of the Eye](/notes/neb/bio12/zoology/human-biology/sense-organs/eye/)
 
-  - [8.6.2 Structure and Functions of the Ear](/notes/neb/bio12/zoology/human-biology/sense-organs/ear.html)
+  - [8.6.2 Structure and Functions of the Ear](/notes/neb/bio12/zoology/human-biology/sense-organs/ear/)
 
 - [8.7 Endocrinology: Endocrine Glands and Hormones – Structure & Functions of Hypothalamus, Pituitary, Pineal, Thyroid, Parathyroid, Adrenal, Pancreas, Gonads; Hypo- and Hyper-Activity and Related Disorders](zoology/human-biology/endocrinology.html)
 
   - [8.7.1 Endocrine Glands and Hormones: Structure & Functions](/notes/neb/bio12/endocrinology/endocrine-glands-hormones.html)
 
-    - [8.7.1.1 Hypothalamus: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/hypothalamus.html)
+    - [8.7.1.1 Hypothalamus: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/hypothalamus/)
 
-    - [8.7.1.2 Pituitary Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/pituitary.html)
+    - [8.7.1.2 Pituitary Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/pituitary/)
 
-    - [8.7.1.3 Pineal Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/pineal.html)
+    - [8.7.1.3 Pineal Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/pineal/)
 
-    - [8.7.1.4 Thyroid Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/thyroid.html)
+    - [8.7.1.4 Thyroid Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/thyroid/)
 
-    - [8.7.1.5 Parathyroid Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/parathyroid.html)
+    - [8.7.1.5 Parathyroid Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/parathyroid/)
 
-    - [8.7.1.6 Adrenal Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/adrenal.html)
+    - [8.7.1.6 Adrenal Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/adrenal/)
 
-    - [8.7.1.7 Pancreas: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/pancreas.html)
+    - [8.7.1.7 Pancreas: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/pancreas/)
 
-    - [8.7.1.8 Gonads: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/gonads.html)
+    - [8.7.1.8 Gonads: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/gonads/)
 
   - [8.7.2 Hypo- and Hyper-Activity and Related Disorders](/notes/neb/bio12/zoology/human-biology/endocrinology/endo-disorders.html)
 
