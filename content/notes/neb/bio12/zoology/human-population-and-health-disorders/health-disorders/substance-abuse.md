@@ -19,6 +19,8 @@ layout: "non_math_mode"
 
 Substance abuse refers to the harmful use of various substances such as drugs, alcohol, and tobacco, leading to addiction and severe health consequences. This type of abuse often results in physical and psychological dependence, affecting an individual's health, behavior, relationships, and social life. Understanding the causes, effects, and treatment options for substance abuse is essential for prevention and rehabilitation.
 
+---
+
 ## Drug Abuse
 
 Drug abuse involves the illegal or harmful use of substances such as opioids, cocaine, marijuana, and synthetic drugs. Common consequences of drug abuse include:
