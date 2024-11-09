@@ -251,9 +251,9 @@ layout: "non_math_mode"
 
 - [8.8 Reproductive System: Male and Female Reproductive Organs, Ovarian & Menstrual Cycle](zoology/human-biology/reproductive-system.html)
 
-  - [8.8.1 Male and Female Reproductive Organs](/notes/neb/bio12/zoology/human-biology/reproductive-system/male-female-reproductive-organs.html)
+  - [8.8.1 Male and Female Reproductive Organs](/notes/neb/bio12/zoology/human-biology/reproductive-system/male-female-reproductive-organs/)
 
-  - [8.8.2 Ovarian & Menstrual Cycle](/notes/neb/bio12/zoology/human-biology/reproductive-system/ovarian-menstrual-cycle.html)
+  - [8.8.2 Ovarian & Menstrual Cycle](/notes/neb/bio12/zoology/human-biology/reproductive-system/ovarian-menstrual-cycle/)
 
 ---
 
@@ -261,15 +261,15 @@ layout: "non_math_mode"
 
 - [9.1 Human Population: Growth Problem and Control Strategies, Concept of Demographic Cycle](zoology/human-population-and-health-disorders.html)
 
-  - [9.1.1 Growth Problem and Control Strategies](./zoology/human-population-and-health-disorders/human-population/growth-problem-control-strategies.html)
+  - [9.1.1 Growth Problem and Control Strategies](/notes/neb/bio12/zoology/human-population-and-health-disorders/human-population/growth-problem-control-strategies/)
 
-  - [9.1.2 Concept of Demographic Cycle](./zoology/human-population-and-health-disorders/human-population/demographic-cycle.html)
+  - [9.1.2 Concept of Demographic Cycle](/notes/neb/bio12/zoology/human-population-and-health-disorders/human-population/demographic-cycle/)
 
 - [9.2 Health Disorders: Concept of Cardiovascular, Respiratory & Renal Disorders; Substance Abuse: Drug, Alcohol and Smoking Abuse](zoology/human-population-and-health-disorders.html)
 
-  - [9.2.1 Concept of Cardiovascular, Respiratory & Renal Disorders](./zoology/human-population-and-health-disorders/health-disorders/cardiovascular-respiratory-renal.html)
+  - [9.2.1 Concept of Cardiovascular, Respiratory & Renal Disorders](/notes/neb/bio12/zoology/human-population-and-health-disorders/health-disorders/cardiovascular-respiratory-renal/)
 
-  - [9.2.2 Substance Abuse: Drug, Alcohol, and Smoking Abuse](./zoology/human-population-and-health-disorders/health-disorders/substance-abuse.html)
+  - [9.2.2 Substance Abuse: Drug, Alcohol, and Smoking Abuse](/notes/neb/bio12/zoology/human-population-and-health-disorders/health-disorders/substance-abuse/)
 
 ---
 
