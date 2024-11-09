@@ -177,83 +177,83 @@ layout: "non_math_mode"
 
 - [8.1 Digestive System: Alimentary Canal and Digestive Glands, Physiology of Digestion](zoology/human-biology/digestive-system.html)
 
-  - [8.1.1 Alimentary Canal and Digestive Glands](./zoology/human-biology/digestive-system/alimentary-canal-digestive-glands.html)
+  - [8.1.1 Alimentary Canal and Digestive Glands](/notes/neb/bio12/zoology/human-biology/digestive-system/alimentary-canal-digestive-glands/)
 
-  - [8.1.2 Physiology of Digestion](./zoology/human-biology/digestive-system/physiology-of-digestion.html)
+  - [8.1.2 Physiology of Digestion](/notes/neb/bio12/zoology/human-biology/digestive-system/physiology-of-digestion/)
 
 - [8.2 Respiratory System: Respiratory Organs, Respiratory Mechanism - Exchange of Gases, Transport of Gases and Regulation of Respiration](zoology/human-biology/respiratory-system.html)
 
-  - [8.2.1 Respiratory Organs](./zoology/human-biology/respiratory-system/respiratory-organs.html)
+  - [8.2.1 Respiratory Organs](/notes/neb/bio12/zoology/human-biology/respiratory-system/respiratory-organs/)
 
-  - [8.2.2 Respiratory Mechanism - Exchange of Gases, Transport of Gases and Regulation of Respiration](./zoology/human-biology/respiratory-system/respiratory-mechanism.html)
+  - [8.2.2 Respiratory Mechanism - Exchange of Gases, Transport of Gases and Regulation of Respiration](/notes/neb/bio12/zoology/human-biology/respiratory-system/respiratory-mechanism/)
 
 - [8.3 Circulatory System: Double Circulation (Concept), Heart (Structure and Working Mechanism), Origin and Conduction of Heartbeat, Cardiac Cycle, Cardiac Output, Arterial and Venous Systems (Major Arteries and Veins), Blood Grouping, Blood Pressure](zoology/human-biology/circulatory-system.html)
 
-  - [8.3.1 Double Circulation (Concept)](./zoology/human-biology/circulatory-system/double-circulation.html)
+  - [8.3.1 Double Circulation (Concept)](/notes/neb/bio12/zoology/human-biology/circulatory-system/double-circulation/)
 
-  - [8.3.2 Heart (Structure and Working Mechanism)](./zoology/human-biology/circulatory-system/heart.html)
+  - [8.3.2 Heart (Structure and Working Mechanism)](/notes/neb/bio12/zoology/human-biology/circulatory-system/heart/)
 
-  - [8.3.3 Origin and Conduction of Heartbeat](./zoology/human-biology/circulatory-system/heart-beat.html)
+  - [8.3.3 Origin and Conduction of Heartbeat](/notes/neb/bio12/zoology/human-biology/circulatory-system/heartbeat/)
 
-  - [8.3.4 Cardiac Cycle](./zoology/human-biology/circulatory-system/cardiac-cycle.html)
+  - [8.3.4 Cardiac Cycle](/notes/neb/bio12/zoology/human-biology/circulatory-system/cardiac-cycle/)
 
-  - [8.3.5 Cardiac Output](./zoology/human-biology/circulatory-system/cardiac-output.html)
+  - [8.3.5 Cardiac Output](/notes/neb/bio12/zoology/human-biology/circulatory-system/cardiac-output/)
 
-  - [8.3.6 Arterial and Venous Systems (Major Arteries and Veins)](./zoology/human-biology/circulatory-system/arterial-venous-systems.html)
+  - [8.3.6 Arterial and Venous Systems (Major Arteries and Veins)](/notes/neb/bio12/zoology/human-biology/circulatory-system/arterial-venous-systems/)
 
-  - [8.3.7 Blood Grouping](./zoology/human-biology/circulatory-system/blood-grouping.html)
+  - [8.3.7 Blood Grouping](/notes/neb/bio12/zoology/human-biology/circulatory-system/blood-grouping/)
 
-  - [8.3.8 Blood Pressure](./zoology/human-biology/circulatory-system/blood-pressure.html)
+  - [8.3.8 Blood Pressure](/notes/neb/bio12/zoology/human-biology/circulatory-system/blood-pressure/)
 
 - [8.4 Excretory System: Concept of Modes of Excretion (Ammonotelism, Ureotelism, Uricotelism), Excretory Organs, Mechanism of Urine Formation](zoology/human-biology/excretory-system.html)
 
-  - [8.4.1 Concept of Modes of Excretion (Ammonotelism, Ureotelism, Uricotelism)](./zoology/human-biology/excretory-system/modes-of-excretion.html)
+  - [8.4.1 Concept of Modes of Excretion (Ammonotelism, Ureotelism, Uricotelism)](/notes/neb/bio12/zoology/human-biology/excretory-system/modes-of-excretion/)
 
-  - [8.4.2 Excretory Organs](./zoology/human-biology/excretory-system/excretory-organs.html)
+  - [8.4.2 Excretory Organs](/notes/neb/bio12/zoology/human-biology/excretory-system/excretory-organs/)
 
-  - [8.4.3 Mechanism of Urine Formation](./zoology/human-biology/excretory-system/urine-formation.html)
+  - [8.4.3 Mechanism of Urine Formation](/notes/neb/bio12/zoology/human-biology/excretory-system/urine-formation/)
 
 - [8.5 Nervous System: Types of Nervous System (Central, Peripheral & Autonomous), Structure and Function of Brain, Origin and Conduction of Nerve Impulse](zoology/human-biology/nervous-system.html)
 
   - [8.5.1 Types of Nervous System (Central, Peripheral & Autonomous)](./zoology/human-biology/nervous-system/types-nervous-system.html)
 
-  - [8.5.2 Structure and Function of Brain](./zoology/human-biology/nervous-system/brain-structure-function.html)
+  - [8.5.2 Structure and Function of Brain](/notes/neb/bio12/zoology/human-biology/nervous-system/brain-structure-function.html)
 
-  - [8.5.3 Origin and Conduction of Nerve Impulse](./zoology/human-biology/nervous-system/nerve-impulse.html)
+  - [8.5.3 Origin and Conduction of Nerve Impulse](/notes/neb/bio12/zoology/human-biology/nervous-system/nerve-impulse.html)
 
 - [8.6 Sense Organs: Structure and Functions of Eye and Ear](zoology/human-biology/sense-organs.html)
 
-  - [8.6.1 Structure and Functions of the Eye](./zoology/human-biology/sense-organs/eye.html)
+  - [8.6.1 Structure and Functions of the Eye](/notes/neb/bio12/zoology/human-biology/sense-organs/eye.html)
 
-  - [8.6.2 Structure and Functions of the Ear](./zoology/human-biology/sense-organs/ear.html)
+  - [8.6.2 Structure and Functions of the Ear](/notes/neb/bio12/zoology/human-biology/sense-organs/ear.html)
 
 - [8.7 Endocrinology: Endocrine Glands and Hormones – Structure & Functions of Hypothalamus, Pituitary, Pineal, Thyroid, Parathyroid, Adrenal, Pancreas, Gonads; Hypo- and Hyper-Activity and Related Disorders](zoology/human-biology/endocrinology.html)
 
-  - [8.7.1 Endocrine Glands and Hormones: Structure & Functions](./endocrinology/endocrine-glands-hormones.html)
+  - [8.7.1 Endocrine Glands and Hormones: Structure & Functions](/notes/neb/bio12/endocrinology/endocrine-glands-hormones.html)
 
-    - [8.7.1.1 Hypothalamus: Structure & Functions](./zoology/human-biology/endocrinology/endocrine-glands-hormones/hypothalamus.html)
+    - [8.7.1.1 Hypothalamus: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/hypothalamus.html)
 
-    - [8.7.1.2 Pituitary Gland: Structure & Functions](./zoology/human-biology/endocrinology/endocrine-glands-hormones/pituitary.html)
+    - [8.7.1.2 Pituitary Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/pituitary.html)
 
-    - [8.7.1.3 Pineal Gland: Structure & Functions](./zoology/human-biology/endocrinology/endocrine-glands-hormones/pineal.html)
+    - [8.7.1.3 Pineal Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/pineal.html)
 
-    - [8.7.1.4 Thyroid Gland: Structure & Functions](./zoology/human-biology/endocrinology/endocrine-glands-hormones/thyroid.html)
+    - [8.7.1.4 Thyroid Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/thyroid.html)
 
-    - [8.7.1.5 Parathyroid Gland: Structure & Functions](./zoology/human-biology/endocrinology/endocrine-glands-hormones/parathyroid.html)
+    - [8.7.1.5 Parathyroid Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/parathyroid.html)
 
-    - [8.7.1.6 Adrenal Gland: Structure & Functions](./zoology/human-biology/endocrinology/endocrine-glands-hormones/adrenal.html)
+    - [8.7.1.6 Adrenal Gland: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/adrenal.html)
 
-    - [8.7.1.7 Pancreas: Structure & Functions](./zoology/human-biology/endocrinology/endocrine-glands-hormones/pancreas.html)
+    - [8.7.1.7 Pancreas: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/pancreas.html)
 
-    - [8.7.1.8 Gonads: Structure & Functions](./zoology/human-biology/endocrinology/endocrine-glands-hormones/gonads.html)
+    - [8.7.1.8 Gonads: Structure & Functions](/notes/neb/bio12/zoology/human-biology/endocrinology/endocrine-glands-hormones/gonads.html)
 
-  - [8.7.2 Hypo- and Hyper-Activity and Related Disorders](./zoology/human-biology/endocrinology/endo-disorders.html)
+  - [8.7.2 Hypo- and Hyper-Activity and Related Disorders](/notes/neb/bio12/zoology/human-biology/endocrinology/endo-disorders.html)
 
 - [8.8 Reproductive System: Male and Female Reproductive Organs, Ovarian & Menstrual Cycle](zoology/human-biology/reproductive-system.html)
 
-  - [8.8.1 Male and Female Reproductive Organs](./zoology/human-biology/reproductive-system/male-female-reproductive-organs.html)
+  - [8.8.1 Male and Female Reproductive Organs](/notes/neb/bio12/zoology/human-biology/reproductive-system/male-female-reproductive-organs.html)
 
-  - [8.8.2 Ovarian & Menstrual Cycle](./zoology/human-biology/reproductive-system/ovarian-menstrual-cycle.html)
+  - [8.8.2 Ovarian & Menstrual Cycle](/notes/neb/bio12/zoology/human-biology/reproductive-system/ovarian-menstrual-cycle.html)
 
 ---
 
