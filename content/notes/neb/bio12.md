@@ -277,26 +277,25 @@ layout: "non_math_mode"
 
 - [10.1 Application of Zoology: Tissue and Organs Transplantation, In-Vitro Fertilization (IVF), Amniocentesis, Concept of Genetically Modified Organisms (Transgenic Animals). Poultry Farming and Fish Farming](zoology/applied-biology/application-of-zoology.html)
 
-  - [10.1.1 Tissue and Organ Transplantation](./zoology/applied-biology/application-of-zoology/tissue-organ-transplantation.html)
+  - [10.1.1 Tissue and Organ Transplantation](/notes/neb/bio12/zoology/applied-biology/application-of-zoology/tissue-organ-transplantation/)
 
-  - [10.1.2 In-Vitro Fertilization (IVF)](./zoology/applied-biology/application-of-zoology/ivf.html)
+  - [10.1.2 In-Vitro Fertilization (IVF)](/notes/neb/bio12/zoology/applied-biology/application-of-zoology/ivf/)
 
-  - [10.1.3 Amniocentesis](./zoology/applied-biology/application-of-zoology/amniocentesis.html)
+  - [10.1.3 Amniocentesis](/notes/neb/bio12/zoology/applied-biology/application-of-zoology/amniocentesis/)
 
-  - [10.1.4 Concept of Genetically Modified Organisms (Transgenic Animals)](./zoology/applied-biology/application-of-zoology/genetically-modified-organisms.html)
+  - [10.1.4 Concept of Genetically Modified Organisms (Transgenic Animals)](/notes/neb/bio12/zoology/applied-biology/application-of-zoology/genetically-modified-organisms/)
 
-  - [10.1.5 Poultry Farming and Fish Farming](./zoology/applied-biology/application-of-zoology/poultry-farming-fish-farming.html)
+  - [10.1.5 Poultry Farming and Fish Farming](/notes/neb/bio12/zoology/applied-biology/application-of-zoology/poultry-farming-fish-farming/)
 
 - [10.2 Microbial Diseases and Application of Microbiology: Risk and Hazard Group of Microorganisms. Introduction, Causative Agents, Symptoms, Prevention and Control Measures of Selected Human Diseases: Typhoid, Tuberculosis and HIV Infection, Cholera, Influenza, Hepatitis, Candidiasis. Basic Concepts of Immunology – Vaccines. Application of Microorganisms in Dairy and Beverage Industries, Microbial Contamination of Water, Sewage and Drinking Water Treatment, Bio-Control Agents and Bio-Fertilizers](zoology/applied-biology/microbial-diseases.html)
 
-  - [10.2.1 Risk and Hazard Group of Microorganisms](./zoology/applied-biology/microbial-diseases/risk-hazard-groups-microorganisms.html)
+  - [10.2.1 Risk and Hazard Group of Microorganisms](/notes/neb/bio12/zoology/applied-biology/microbial-diseases/risk-hazard-groups-microorganisms/)
+  - [10.2.2 Introduction, Causative Agents, Symptoms, Prevention and Control Measures of Selected Human Diseases: Typhoid, Tuberculosis, HIV Infection, Cholera, Influenza, Hepatitis, Candidiasis](/notes/neb/bio12/zoology/applied-biology/microbial-diseases/human-diseases/)
 
-  - [10.2.2 Introduction, Causative Agents, Symptoms, Prevention and Control Measures of Selected Human Diseases: Typhoid, Tuberculosis, HIV Infection, Cholera, Influenza, Hepatitis, Candidiasis](./zoology/applied-biology/microbial-diseases/human-diseases.html)
+  - [10.2.3 Basic Concepts of Immunology – Vaccines](/notes/neb/bio12/zoology/applied-biology/microbial-diseases/immunology-vaccines/)
 
-  - [10.2.3 Basic Concepts of Immunology – Vaccines](./zoology/applied-biology/microbial-diseases/immunology-vaccines.html)
+  - [10.2.4 Application of Microorganisms in Dairy and Beverage Industries](/notes/neb/bio12/zoology/applied-biology/microbial-diseases/application-microorganisms/)
 
-  - [10.2.4 Application of Microorganisms in Dairy and Beverage Industries](./zoology/applied-biology/microbial-diseases/application-microorganisms.html)
+  - [10.2.5 Microbial Contamination of Water, Sewage and Drinking Water Treatment](/notes/neb/bio12/zoology/applied-biology/microbial-diseases/microbial-contamination-water-treatment/)
 
-  - [10.2.5 Microbial Contamination of Water, Sewage and Drinking Water Treatment](./zoology/applied-biology/microbial-diseases/microbial-contamination-water-treatment.html)
-
-  - [10.2.6 Bio-Control Agents and Bio-Fertilizers](./zoology/applied-biology/microbial-diseases/bio-control-bio-fertilizers.html)
+  - [10.2.6 Bio-Control Agents and Bio-Fertilizers](/notes/neb/bio12/zoology/applied-biology/microbial-diseases/bio-control-bio-fertilizers/)
