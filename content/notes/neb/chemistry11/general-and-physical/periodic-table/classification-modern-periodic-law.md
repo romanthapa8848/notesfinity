@@ -145,7 +145,7 @@ The maximum number of electrons in the second shell is **8** electrons.
 
 - A) They have similar atomic masses.
 - B) They have different chemical properties.
-- C) **They have the same number of valence electrons (✓)**
+- C) **They have the same number of valence electrons. (✓)**
 - D) They are placed in different periods.
 
 ### 6. **Which side of the Modern Periodic Table contains nonmetals?**
@@ -158,7 +158,7 @@ The maximum number of electrons in the second shell is **8** electrons.
 ### 7. **What does the Modern Periodic Law state?**
 
 - A) The properties of elements depend on their atomic masses.
-- B) **The properties of elements are a periodic function of their atomic numbers (✓)**
+- B) **The properties of elements are a periodic function of their atomic numbers. (✓)**
 - C) The elements are arranged randomly.
 - D) All elements have the same properties.
 

@@ -154,14 +154,14 @@ The **shielding constant** is a value that represents the amount of shielding ex
 ### 4. How does the effective nuclear charge change across a period?
 
 - A) It remains constant.
-- B) **It increases (✓)**.
+- B) **It increases. (✓)**
 - C) It decreases.
 - D) It fluctuates randomly.
 
 ### 5. How does the effective nuclear charge change down a group?
 
 - A) It increases.
-- B) **It decreases (✓)**.
+- B) **It decreases. (✓)**
 - C) It remains constant.
 - D) It fluctuates randomly.
 
@@ -175,21 +175,21 @@ The **shielding constant** is a value that represents the amount of shielding ex
 ### 7. What is the effect of increasing effective nuclear charge on atomic size?
 
 - A) Atomic size increases.
-- B) **Atomic size decreases (✓)**.
+- B) **Atomic size decreases. (✓)**
 - C) Atomic size remains unchanged.
 - D) Atomic size fluctuates.
 
 ### 8. Which of the following is the result of a high effective nuclear charge?
 
 - A) Increased atomic size.
-- B) **Increased ionization energy (✓)**.
+- B) **Increased ionization energy. (✓)**
 - C) Decreased ionization energy.
 - D) Increased shielding effect.
 
 ### 9. What happens when there is greater shielding in an atom?
 
 - A) The effective nuclear charge increases.
-- B) **The outer electrons are less tightly bound to the nucleus (✓)**.
+- B) **The outer electrons are less tightly bound to the nucleus. (✓)**
 - C) The atomic size decreases.
 - D) Ionization energy increases.
 

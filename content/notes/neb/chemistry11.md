@@ -90,49 +90,49 @@ layout: "non_math_mode"
   - [4.1.1 Classification of elements into different groups, periods and blocks](/notes/neb/chemistry11/general-and-physical/periodic-table/modern/classification-of-elements/)
 - [4.2 IUPAC classification of elements](/notes/neb/chemistry11/general-and-physical/periodic-table/iupac-classification/)
 - [4.3 Nuclear charge and effective nuclear charge](/notes/neb/chemistry11/general-and-physical/periodic-table/nuclear-charge/)
-- [4.4 Periodic trend and periodicity](/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends.html)
+- [4.4 Periodic trend and periodicity](/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends/)
 
-  - [4.4.1 Atomic radii](./general-and-physical/periodic-table/periodic-trends/atomic-radii.html)
-  - [4.4.2 Ionic radii](./general-and-physical/periodic-table/periodic-trends/ionic-radii.html)
-  - [4.4.3 Ionization energy](./general-and-physical/periodic-table/periodic-trends/ionization-energy.html)
-  - [4.4.4 Electron affinity](./general-and-physical/periodic-table/periodic-trends/electron-affinity.html)
-  - [4.4.5 Electronegativity](./general-and-physical/periodic-table/periodic-trends/electronegativity.html)
-  - [4.4.6 Metallic characters (General trend and explanation only)](./general-and-physical/periodic-table/periodic-trends/metallic-character.html)
+  - [4.4.1 Atomic radii](/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends/atomic-radii/)
+  - [4.4.2 Ionic radii](/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends/ionic-radii/)
+  - [4.4.3 Ionization energy](/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends/ionization-energy/)
+  - [4.4.4 Electron affinity](/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends/electron-affinity/)
+  - [4.4.5 Electronegativity](/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends/electronegativity/)
+  - [4.4.6 Metallic characters (General trend and explanation only)](/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends/metallic-character/)
 
 ---
 
 ### 5. Chemical Bonding and Shapes of Molecules
 
-- [5.1 Valence shell, valence electron and octet theory](./general-and-physical/chemical-bonding-and-shapes-of-molecules/valence-shell.html)
-- [5.2 Ionic bond and its properties](./general-and-physical/chemical-bonding-and-shapes-of-molecules/ionic-bond.html)
-- [5.3 Covalent bond and coordinate covalent bond](./general-and-physical/chemical-bonding-and-shapes-of-molecules/covalent-bond.html)
-- [5.4 Properties of covalent compounds](./general-and-physical/chemical-bonding-and-shapes-of-molecules/properties-covalent-compounds.html)
-- [5.5 Lewis dot structure of some common compounds of s and p block elements](./general-and-physical/chemical-bonding-and-shapes-of-molecules/lewis-structures.html)
-- [5.6 Resonance](./general-and-physical/chemical-bonding-and-shapes-of-molecules/resonance.html)
-- [5.7 VSEPR theory and shapes of some simple molecules (BeF<sub>2</sub>, BF<sub>3</sub>, CH<sub>4</sub>, CH<sub>3</sub>Cl, PCl<sub>5</sub>, SF<sub>6</sub>, H<sub>2</sub>O, NH<sub>3</sub>, CO<sub>2</sub>, H<sub>2</sub>S, PH<sub>3</sub>)](./general-and-physical/chemical-bonding-and-shapes-of-molecules/vsepr-theory.html)
-- [5.8 Elementary idea of Valence Bond Theory](./general-and-physical/chemical-bonding-and-shapes-of-molecules/valence-bond-theory.html)
-- [5.9 Hybridization involving s and p orbitals only](./general-and-physical/chemical-bonding-and-shapes-of-molecules/hybridization.html)
-- [5.10 Bond characteristics](./general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics.html)
+- [5.1 Valence shell, valence electron and octet theory](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/valence-shell/)
+- [5.2 Ionic bond and its properties](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/ionic-bond/)
+- [5.3 Covalent bond and coordinate covalent bond](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/covalent-bond/)
+- [5.4 Properties of covalent compounds](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/properties-covalent-compounds/)
+- [5.5 Lewis dot structure of some common compounds of s and p block elements](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/lewis-structures/)
+- [5.6 Resonance](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/resonance/)
+- [5.7 VSEPR theory and shapes of some simple molecules (BeF<sub>2</sub>, BF<sub>3</sub>, CH<sub>4</sub>, CH<sub>3</sub>Cl, PCl<sub>5</sub>, SF<sub>6</sub>, H<sub>2</sub>O, NH<sub>3</sub>, CO<sub>2</sub>, H<sub>2</sub>S, PH<sub>3</sub>)](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/vsepr-theory/)
+- [5.8 Elementary idea of Valence Bond Theory](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/valence-bond-theory/)
+- [5.9 Hybridization involving s and p orbitals only](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/hybridization/)
+- [5.10 Bond characteristics](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics/)
 
-  - [5.10.1 Bond length](./general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics/bond-length.html)
-  - [5.10.2 Ionic character](./general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics/ionic-character.html)
-  - [5.10.3 Dipole moment](./general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics/dipole-moment.html)
+  - [5.10.1 Bond length](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics/bond-length/)
+  - [5.10.2 Ionic character](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics/ionic-character/)
+  - [5.10.3 Dipole moment](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics/dipole-moment/)
 
-- [5.11 Vander Waal’s force and molecular solids](./general-and-physical/chemical-bonding-and-shapes-of-molecules/vanderwaals-force.html)
-- [5.12 Hydrogen bonding and its application](./general-and-physical/chemical-bonding-and-shapes-of-molecules/hydrogen-bonding.html)
-- [5.13 Metallic bonding and properties of metallic solids](./general-and-physical/chemical-bonding-and-shapes-of-molecules/metallic-bonding.html)
+- [5.11 Vander Waal’s force and molecular solids](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/vanderwaals-force/)
+- [5.12 Hydrogen bonding and its application](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/hydrogen-bonding/)
+- [5.13 Metallic bonding and properties of metallic solids](/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/metallic-bonding/)
 
 ---
 
 ### 6. Oxidation and Reduction
 
-- [6.1 General and electronic concept of oxidation and reduction](./general-and-physical/oxidation-and-reduction/general-concept.html)
-- [6.2 Oxidation number and rules for assigning oxidation number](./general-and-physical/oxidation-and-reduction/oxidation-numbers.html)
-- [6.3 Balancing redox reactions by oxidation number and ion-electron (half reaction) method](./general-and-physical/oxidation-and-reduction/balancing-reactions.html)
-- [6.4 Electrolysis](./general-and-physical/oxidation-and-reduction/electrolysis.html)
+- [6.1 General and electronic concept of oxidation and reduction](/notes/neb/chemistry11/general-and-physical/oxidation-and-reduction/general-concept/)
+- [6.2 Oxidation number and rules for assigning oxidation number](/notes/neb/chemistry11/general-and-physical/oxidation-and-reduction/oxidation-numbers/)
+- [6.3 Balancing redox reactions by oxidation number and ion-electron (half reaction) method](/notes/neb/chemistry11/general-and-physical/oxidation-and-reduction/balancing-reactions/)
+- [6.4 Electrolysis](/notes/neb/chemistry11/general-and-physical/oxidation-and-reduction/electrolysis/)
 
-  - [6.4.1 Qualitative aspect](./general-and-physical/oxidation-and-reduction/electrolysis/qualitative-aspect.html)
-  - [6.4.2 Quantitative aspect (Faraday's laws of electrolysis)](./general-and-physical/oxidation-and-reduction/electrolysis/quantitative-aspect.html)
+  - [6.4.1 Qualitative aspect](/notes/neb/chemistry11/general-and-physical/oxidation-and-reduction/electrolysis/qualitative-aspect/)
+  - [6.4.2 Quantitative aspect (Faraday's laws of electrolysis)](/notes/neb/chemistry11/general-and-physical/oxidation-and-reduction/electrolysis/quantitative-aspect/)
 
 ---
 
@@ -140,17 +140,17 @@ layout: "non_math_mode"
 
 - [7.1 Gaseous state](general-physical-chemistry/states-of-matter/gaseous-state.html)
 
-  - [7.1.1 Kinetic theory of gas and its postulates](./general-and-physical/states-of-matter/gaseous-state/kinetic-theory.html)
+  - [7.1.1 Kinetic theory of gas and its postulates](/notes/neb/chemistry11/general-and-physical/states-of-matter/gaseous-state/kinetic-theory/)
 
   - **7.1.2 Gas laws**
-    - [7.1.2.1 Boyle’s law and Charles' law](./general-and-physical/states-of-matter/gaseous-state/gas%20laws/boyles-law-and-charles-law.html)
-    - [7.1.2.2 Avogadro's law](./general-and-physical/states-of-matter/gaseous-state/gas%20laws/avogadros-law.html)
-    - [7.1.2.3 Combined gas equation](./general-and-physical/states-of-matter/gaseous-state/gas%20laws/combined-gas-equation.html)
-    - [7.1.2.4 Dalton's law of partial pressure](./general-and-physical/states-of-matter/gaseous-state/gas%20laws/daltons-law.html)
-    - [7.1.2.5 Graham's law of diffusion](./general-and-physical/states-of-matter/gaseous-state/gas%20laws/grahams-law.html)
-  - [7.1.3 Ideal gas and ideal gas equation](./general-and-physical/states-of-matter/gaseous-state/ideal-gas.html)
-  - [7.1.4 Universal gas constant and its significance](./general-and-physical/states-of-matter/gaseous-state/universal-gas-constant.html)
-  - [7.1.5 Deviation of real gas from ideality](./general-and-physical/states-of-matter/gaseous-state/real-gas.html)
+    - [7.1.2.1 Boyle’s law and Charles' law](/notes/neb/chemistry11/general-and-physical/states-of-matter/gaseous-state/gas-laws/boyles-law-and-charles-law/)
+    - [7.1.2.2 Avogadro's law](/notes/neb/chemistry11/general-and-physical/states-of-matter/gaseous-state/gas-laws/avogadros-law/)
+    - [7.1.2.3 Combined gas equation](/notes/neb/chemistry11/general-and-physical/states-of-matter/gaseous-state/gas-laws/combined-gas-equation/)
+    - [7.1.2.4 Dalton's law of partial pressure](/notes/neb/chemistry11/general-and-physical/states-of-matter/gaseous-state/gas-laws/daltons-law/)
+    - [7.1.2.5 Graham's law of diffusion](/notes/neb/chemistry11/general-and-physical/states-of-matter/gaseous-state/gas-laws/grahams-law/)
+  - [7.1.3 Ideal gas and ideal gas equation](/notes/neb/chemistry11/general-and-physical/states-of-matter/gaseous-state/ideal-gas/)
+  - [7.1.4 Universal gas constant and its significance](/notes/neb/chemistry11/general-and-physical/states-of-matter/gaseous-state/universal-gas-constant/)
+  - [7.1.5 Deviation of real gas from ideality](/notes/neb/chemistry11/general-and-physical/states-of-matter/gaseous-state/real-gas/)
 
 - **7.2 Liquid state**
 

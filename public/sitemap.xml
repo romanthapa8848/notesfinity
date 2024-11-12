@@ -2,7 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends/atomic-radii/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/atomic-structure/probability-concept/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/atomic-structure/aufbau-principle/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/stoichiometry/avogadros-law-and-some-deductions/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/oxidation-and-reduction/balancing-reactions/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/foundation-and-fundamentals/basic-concepts-of-chemistry/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics/bond-length/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/states-of-matter/gaseous-state/gas-laws/boyles-law-and-charles-law/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/stoichiometry/formula-calculations/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/stoichiometry/calculations/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/cs-os/concept-of-software/categories/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/periodic-table/modern/classification-of-elements/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/programming-concepts-logics/programming-concepts/compiler-interpreter/</loc>
@@ -14,16 +47,64 @@
     <loc>http://localhost:1313/notes/neb/cs11/cs-os/open-sources/concept/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/notes/neb/cs11/programming-concepts-logics/programming-concepts/control-structures/</loc>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/covalent-bond/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/cs-os/windows-os/customize-screen/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/stoichiometry/daltons-atomic-theory-and-its-postulates/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/atomic-structure/bohr-theory-defects/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/cs-os/concept-of-software/definition/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics/dipole-moment/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/oxidation-and-reduction/electrolysis/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/oxidation-and-reduction/electrolysis/qualitative-aspect/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends/electron-affinity/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends/electronegativity/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/atomic-structure/de-broglies/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/valence-bond-theory/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/cs-os/concept-of-os/functions/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/oxidation-and-reduction/general-concept/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/foundation-and-fundamentals/general-introduction-of-chemistry/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/atomic-structure/heisenberg-principle/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/atomic-structure/hunds-rule/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/hybridization/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/hydrogen-bonding/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/foundation-and-fundamentals/importance-and-scope-of-chemistry/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/cs-os/windows-os/install-remove-devices/</loc>
@@ -53,7 +134,37 @@
     <loc>http://localhost:1313/notes/neb/cs11/programming-concepts-logics/programming-concepts/introduction/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/ionic-bond/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/bond-characteristics/ionic-character/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends/ionic-radii/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends/ionization-energy/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/periodic-table/iupac-classification/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/states-of-matter/gaseous-state/kinetic-theory/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/number-system/boolean-logic/boolean-laws/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/stoichiometry/laws-of-stoichiometry/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/lewis-structures/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/atomic-structure/limitations-rutherford/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/stoichiometry/limiting-reactant/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/cs-os/open-sources/linux-distributions/</loc>
@@ -68,7 +179,31 @@
     <loc>http://localhost:1313/notes/neb/cs11/cs-os/windows-os/file-explorer/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/metallic-bonding/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends/metallic-character/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/periodic-table/classification-modern-periodic-law/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/stoichiometry/mole-relations/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/stoichiometry/avogadros/molecular-mass-particles/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/stoichiometry/avogadros/molecular-mass-and-vapour-density/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/stoichiometry/avogadros/molecular-mass-and-volume-of-gas/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/periodic-table/nuclear-charge/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -77,7 +212,43 @@
     <loc>http://localhost:1313/notes/neb/cs11/cs-os/concept-of-os/terminology/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/atomic-structure/orbitals/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/oxidation-and-reduction/oxidation-numbers/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/atomic-structure/pauli-exclusion-principle/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/foundation-and-fundamentals/percentage-composition-from-molecular-formula/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/atomic-structure/bohr-model/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/properties-covalent-compounds/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/oxidation-and-reduction/electrolysis/quantitative-aspect/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/atomic-structure/quantum-numbers/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/resonance/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/cs-os/concept-of-os/role/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/atomic-structure/rutherford-model/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/atomic-structure/hydrogen-spectrum/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/number-system/boolean-logic/laws-verification/</loc>
@@ -86,10 +257,22 @@
     <loc>http://localhost:1313/notes/neb/cs11/programming-concepts-logics/programming-concepts/syntax/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/stoichiometry/yield/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/cs-os/open-sources/types/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/cs-os/windows-os/control-panel/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/valence-shell/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/vanderwaals-force/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-bonding-and-shapes-of-molecules/vsepr-theory/</loc>
     <lastmod>2024-11-12T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/cs-os/windows-os/desktop-application/</loc>
@@ -1185,6 +1368,8 @@
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/number-system/boolean-logic/logic-gates/</loc>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/programming-concepts-logics/programming-concepts/control-structures/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>

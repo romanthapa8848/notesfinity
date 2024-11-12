@@ -121,28 +121,28 @@ The **electron configuration** determines the block in which an element is place
 ### 1. What are s-block elements?
 
 - A) Elements that have their outermost electrons in the p orbital.
-- B) **Elements that have their outermost electrons in the s orbital (✓)**.
+- B) **Elements that have their outermost electrons in the s orbital. (✓)**
 - C) Elements that have their outermost electrons in the d orbital.
 - D) None of the above.
 
 ### 2. Which of the following is true for p-block elements?
 
 - A) They are found in Groups 1 and 2.
-- B) **They have their outermost electrons in the p orbital (✓)**.
+- B) **They have their outermost electrons in the p orbital. (✓)**
 - C) They are found in Groups 3 to 12.
 - D) None of the above.
 
 ### 3. What is the main characteristic of d-block elements?
 
 - A) They have their outermost electrons in the s orbital.
-- B) **They are transition metals found in Groups 3 to 12 (✓)**.
+- B) **They are transition metals found in Groups 3 to 12. (✓)**
 - C) They are nonmetals.
 - D) They are radioactive elements.
 
 ### 4. Where are the lanthanides and actinides found in the periodic table?
 
 - A) In Groups 1 and 2.
-- B) **At the bottom of the periodic table (✓)**.
+- B) **At the bottom of the periodic table. (✓)**
 - C) In Groups 13 to 18.
 - D) In Periods 4 and 5.
 
@@ -156,7 +156,7 @@ The **electron configuration** determines the block in which an element is place
 ### 6. What is the basis of IUPAC classification?
 
 - A) The atomic mass of elements.
-- B) **The atomic number and electron configuration (✓)**.
+- B) **The atomic number and electron configuration. (✓)**
 - C) The density of elements.
 - D) The boiling point of elements.
 
