@@ -41,56 +41,56 @@ layout: "non_math_mode"
 
 ### 1. Foundation and Fundamentals
 
-- [1.1 General introduction of chemistry](./././general-and-physical/foundation-and-fundamentals/general-introduction-of-chemistry.html)
-- [1.2 Importance and scope of chemistry](./././general-and-physical/foundation-and-fundamentals/importance-and-scope-of-chemistry.html)
-- [1.3 Basic concepts of chemistry (atoms, molecules, relative masses of atoms and molecules, atomic mass unit (amu), radicals, molecular formula, empirical formula)](./././general-and-physical/foundation-and-fundamentals/basic-concepts-of-chemistry.html)
-- [1.4 Percentage composition from molecular formula](./././general-and-physical/foundation-and-fundamentals/percentage-composition-from-molecular-formula.html)
+- [1.1 General introduction of chemistry](/notes/neb/chemistry11/general-and-physical/foundation-and-fundamentals/general-introduction-of-chemistry/)
+- [1.2 Importance and scope of chemistry](/notes/neb/chemistry11/general-and-physical/foundation-and-fundamentals/importance-and-scope-of-chemistry/)
+- [1.3 Basic concepts of chemistry (atoms, molecules, relative masses of atoms and molecules, atomic mass unit (amu), radicals, molecular formula, empirical formula)](/notes/neb/chemistry11/general-and-physical/foundation-and-fundamentals/basic-concepts-of-chemistry/)
+- [1.4 Percentage composition from molecular formula](/notes/neb/chemistry11/general-and-physical/foundation-and-fundamentals/percentage-composition-from-molecular-formula/)
 
 ---
 
 ### 2. Stoichiometry
 
-- [2.1 Dalton’s atomic theory and its postulates](./././general-and-physical/stoichiometry/daltons-atomic-theory-and-its-postulates.html)
-- [2.2 Laws of stoichiometry](./././general-and-physical/stoichiometry/laws-of-stoichiometry.html)
-- [2.3 Avogadro’s law and some deductions](./././general-and-physical/stoichiometry/avogadros-law-and-some-deductions.html)
+- [2.1 Dalton’s atomic theory and its postulates](/notes/neb/chemistry11/general-and-physical/stoichiometry/daltons-atomic-theory-and-its-postulates/)
+- [2.2 Laws of stoichiometry](/notes/neb/chemistry11/general-and-physical/stoichiometry/laws-of-stoichiometry/)
+- [2.3 Avogadro’s law and some deductions](/notes/neb/chemistry11/general-and-physical/stoichiometry/avogadros-law-and-some-deductions/)
 
-  - [2.3.1 Molecular mass and vapour density](./././general-and-physical/stoichiometry/avogadros/molecular-mass-and-vapour-density.html)
-  - [2.3.2 Molecular mass and volume of gas](./././general-and-physical/stoichiometry/avogadros/molecular-mass-and-volume-of-gas.html)
-  - [2.3.3 Molecular mass and number of particles](./././general-and-physical/stoichiometry/avogadros/molecular-mass-particles.html)
+  - [2.3.1 Molecular mass and vapour density](/notes/neb/chemistry11/general-and-physical/stoichiometry/avogadros/molecular-mass-and-vapour-density/)
+  - [2.3.2 Molecular mass and volume of gas](/notes/neb/chemistry11/general-and-physical/stoichiometry/avogadros/molecular-mass-and-volume-of-gas/)
+  - [2.3.3 Molecular mass and number of particles](/notes/neb/chemistry11/general-and-physical/stoichiometry/avogadros/molecular-mass-particles/)
 
-- [2.4 Mole and its relation with mass, volume and number of particles](./././general-and-physical/stoichiometry/mole-relations.html)
-- [2.5 Calculations based on mole concept](./././general-and-physical/stoichiometry/calculations.html)
-- [2.6 Limiting reactant and excess reactant](./././general-and-physical/stoichiometry/limiting-reactant.html)
-- [2.7 Theoretical yield, experimental yield and % yield](./././general-and-physical/stoichiometry/yield.html)
-- [2.8 Calculation of empirical and molecular formula from % composition](./././general-and-physical/stoichiometry/formula-calculations.html)
+- [2.4 Mole and its relation with mass, volume and number of particles](/notes/neb/chemistry11/general-and-physical/stoichiometry/mole-relations/)
+- [2.5 Calculations based on mole concept](/notes/neb/chemistry11/general-and-physical/stoichiometry/calculations/)
+- [2.6 Limiting reactant and excess reactant](/notes/neb/chemistry11/general-and-physical/stoichiometry/limiting-reactant/)
+- [2.7 Theoretical yield, experimental yield and % yield](/notes/neb/chemistry11/general-and-physical/stoichiometry/yield/)
+- [2.8 Calculation of empirical and molecular formula from % composition](/notes/neb/chemistry11/general-and-physical/stoichiometry/formula-calculations/)
 
 ---
 
 ### 3. Atomic Structure
 
-- [3.1 Rutherford's atomic model](./general-and-physical/atomic-structure/rutherford-model.html)
-- [3.2 Limitations of Rutherford's atomic model](./general-and-physical/atomic-structure/limitations-rutherford.html)
-- [3.3 Postulates of Bohr’s atomic model and its application](./general-and-physical/atomic-structure/bohr-model.html)
-- [3.4 Spectrum of hydrogen atom](./general-and-physical/atomic-structure/hydrogen-spectrum.html)
-- [3.5 Defects of Bohr’s theory](./general-and-physical/atomic-structure/bohr-theory-defects.html)
-- [3.6 Elementary idea of quantum mechanical model: De Broglie's wave equation](./general-and-physical/atomic-structure/de-broglies.html)
-- [3.7 Heisenberg's Uncertainty Principle](./general-and-physical/atomic-structure/heisenberg-principle.html)
-- [3.8 Concept of probability](./general-and-physical/atomic-structure/probability-concept.html)
-- [3.9 Quantum Numbers](./general-and-physical/atomic-structure/quantum-numbers.html)
-- [3.10 Orbitals and shape of s and p orbitals only](./general-and-physical/atomic-structure/orbitals.html)
-- [3.11 Aufbau Principle](./general-and-physical/atomic-structure/aufbau-principle.html)
-- [3.12 Pauli’s exclusion principle](./general-and-physical/atomic-structure/pauli-exclusion-principle.html)
-- [3.13 Hund’s rule and electronic configurations of atoms and ions (up to atomic no. 30)](./general-and-physical/atomic-structure/hunds-rule.html)
+- [3.1 Rutherford's atomic model](/notes/neb/chemistry11/general-and-physical/atomic-structure/rutherford-model/)
+- [3.2 Limitations of Rutherford's atomic model](/notes/neb/chemistry11/general-and-physical/atomic-structure/limitations-rutherford/)
+- [3.3 Postulates of Bohr’s atomic model and its application](/notes/neb/chemistry11/general-and-physical/atomic-structure/bohr-model/)
+- [3.4 Spectrum of hydrogen atom](/notes/neb/chemistry11/general-and-physical/atomic-structure/hydrogen-spectrum/)
+- [3.5 Defects of Bohr’s theory](/notes/neb/chemistry11/general-and-physical/atomic-structure/bohr-theory-defects/)
+- [3.6 Elementary idea of quantum mechanical model: De Broglie's wave equation](/notes/neb/chemistry11/general-and-physical/atomic-structure/de-broglies/)
+- [3.7 Heisenberg's Uncertainty Principle](/notes/neb/chemistry11/general-and-physical/atomic-structure/heisenberg-principle/)
+- [3.8 Concept of probability](/notes/neb/chemistry11/general-and-physical/atomic-structure/probability-concept/)
+- [3.9 Quantum Numbers](/notes/neb/chemistry11/general-and-physical/atomic-structure/quantum-numbers/)
+- [3.10 Orbitals and shape of s and p orbitals only](/notes/neb/chemistry11/general-and-physical/atomic-structure/orbitals/)
+- [3.11 Aufbau Principle](/notes/neb/chemistry11/general-and-physical/atomic-structure/aufbau-principle/)
+- [3.12 Pauli’s exclusion principle](/notes/neb/chemistry11/general-and-physical/atomic-structure/pauli-exclusion-principle/)
+- [3.13 Hund’s rule and electronic configurations of atoms and ions (up to atomic no. 30)](/notes/neb/chemistry11/general-and-physical/atomic-structure/hunds-rule/)
 
 ---
 
 ### 4. Classification of Elements and Periodic Table
 
-- [4.1 Modern periodic law and modern periodic table](./general-and-physical/periodic-table/classification-modern-periodic-law.html)
-- [4.1.1 Classification of elements into different groups, periods and blocks](./general-and-physical/periodic-table/modern/classification-of-elements.html)
-- [4.2 IUPAC classification of elements](./general-and-physical/periodic-table/iupac-classification.html)
-- [4.3 Nuclear charge and effective nuclear charge](./general-and-physical/periodic-table/nuclear-charge.html)
-- [4.4 Periodic trend and periodicity](./general-and-physical/periodic-table/periodic-trends.html)
+- [4.1 Modern periodic law and modern periodic table](/notes/neb/chemistry11/general-and-physical/periodic-table/classification-modern-periodic-law/)
+  - [4.1.1 Classification of elements into different groups, periods and blocks](/notes/neb/chemistry11/general-and-physical/periodic-table/modern/classification-of-elements/)
+- [4.2 IUPAC classification of elements](/notes/neb/chemistry11/general-and-physical/periodic-table/iupac-classification/)
+- [4.3 Nuclear charge and effective nuclear charge](/notes/neb/chemistry11/general-and-physical/periodic-table/nuclear-charge/)
+- [4.4 Periodic trend and periodicity](/notes/neb/chemistry11/general-and-physical/periodic-table/periodic-trends.html)
 
   - [4.4.1 Atomic radii](./general-and-physical/periodic-table/periodic-trends/atomic-radii.html)
   - [4.4.2 Ionic radii](./general-and-physical/periodic-table/periodic-trends/ionic-radii.html)

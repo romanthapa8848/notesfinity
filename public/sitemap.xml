@@ -2,6 +2,99 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/concept-of-software/categories/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/programming-concepts-logics/programming-concepts/compiler-interpreter/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/open-sources/mobile-os/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/open-sources/concept/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/programming-concepts-logics/programming-concepts/control-structures/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/windows-os/customize-screen/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/concept-of-software/definition/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/concept-of-os/functions/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/windows-os/install-remove-devices/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/number-system/boolean-logic/boolean-algebra/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/number-system/boolean-logic/boolean-values/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/application-package/domain-specific-tools/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/windows-os/introduction/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/open-sources/linux-unix/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/application-package/office-package/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/concept-of-os/introduction/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/programming-concepts-logics/programming-concepts/introduction/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/number-system/boolean-logic/boolean-laws/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/open-sources/linux-distributions/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/programming-concepts-logics/programming-concepts/languages/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/windows-os/manage-passwords/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/windows-os/file-explorer/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/concept-of-os/terminology/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/concept-of-os/role/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/number-system/boolean-logic/laws-verification/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/programming-concepts-logics/programming-concepts/syntax/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/open-sources/types/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/windows-os/control-panel/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/cs-os/windows-os/desktop-application/</loc>
+    <lastmod>2024-11-12T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/computer-system/io-devices/bus-system/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -30,12 +123,6 @@
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/computer-system/io-devices/microprocessor/</loc>
-    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/notes/</loc>
-    <lastmod>2024-11-11T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-11T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/computer-system/io-devices/output-devices/</loc>
@@ -1096,6 +1183,8 @@
   </url><url>
     <loc>http://localhost:1313/notes/neb/bio11/</loc>
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/cs11/number-system/boolean-logic/logic-gates/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
