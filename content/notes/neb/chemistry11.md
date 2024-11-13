@@ -255,35 +255,35 @@ layout: "non_math_mode"
 
 #### 10.1 Metals and Metallurgical Principles
 
-- [10.1.1 Definition of metallurgy and its types (hydrometallurgy, pyrometallurgy, electrometallurgy)](./inorganic/chemistry-of-metals/definition-of-metallurgy-and-its-types.html)
-- [10.1.2 Introduction of ores](./inorganic/chemistry-of-metals/introduction-of-ores.html)
-- [10.1.3 Gangue or matrix, flux and slag, alloy and amalgam](./inorganic/chemistry-of-metals/gangue-matrix-flux-and-slag-alloy-and-amalgam.html)
-- [10.1.4 General principles of extraction of metals (different processes involved in metallurgy) – concentration, calcination and roasting, smelting, carbon reduction, thermite and electrochemical reduction](./inorganic/chemistry-of-metals/general-principles-of-extraction-of-metals.html)
-- [10.1.5 Refining of metals (poling and electro-refinement)](./inorganic/chemistry-of-metals/refining-of-metals.html)
+- [10.1.1 Definition of metallurgy and its types (hydrometallurgy, pyrometallurgy, electrometallurgy)](/notes/neb/chemistry11/inorganic/chemistry-of-metals/metals-metallurgical/definition-of-metallurgy-and-its-types/)
+- [10.1.2 Introduction of ores](/notes/neb/chemistry11/inorganic/chemistry-of-metals/metals-metallurgical/introduction-of-ores/)
+- [10.1.3 Gangue or matrix, flux and slag, alloy and amalgam](/notes/neb/chemistry11/inorganic/chemistry-of-metals/metals-metallurgical/gangue-matrix-flux-and-slag-alloy-and-amalgam/)
+- [10.1.4 General principles of extraction of metals (different processes involved in metallurgy) – concentration, calcination and roasting, smelting, carbon reduction, thermite and electrochemical reduction](/notes/neb/chemistry11/inorganic/chemistry-of-metals/metals-metallurgical/general-principles-of-extraction-of-metals/)
+- [10.1.5 Refining of metals (poling and electro-refinement)](/notes/neb/chemistry11/inorganic/chemistry-of-metals/metals-metallurgical/refining-of-metals/)
 
 #### 10.2 Alkali Metals
 
-- [10.2.1 General characteristics of alkali metals](./inorganic/chemistry-of-metals/general-characteristics-of-alkali-metals.html)
-- [10.2.2 Sodium [extraction from Down's process, properties (action with Oxygen, water, acids nonmetals and ammonia) and uses]](./inorganic/chemistry-of-metals/sodium.html)
-- [10.2.3 Properties (precipitation reaction and action with carbon monoxide) and uses of sodium hydroxide](./inorganic/chemistry-of-metals/sodium-hydroxide.html)
-- [10.2.4 Properties (action with (CO<sub>2</sub>), (SO<sub>2</sub>), water, precipitation reactions) and uses of sodium carbonate](./inorganic/chemistry-of-metals/sodium-carbonate.html)
+- [10.2.1 General characteristics of alkali metals](/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkali-metals/general-characteristics/)
+- [10.2.2 Sodium [extraction from Down's process, properties (action with Oxygen, water, acids nonmetals and ammonia) and uses]](/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkali-metals/sodium/)
+- [10.2.3 Properties (precipitation reaction and action with carbon monoxide) and uses of sodium hydroxide](/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkali-metals/sodium-hydroxide/)
+- [10.2.4 Properties (action with (CO<sub>2</sub>), (SO<sub>2</sub>), water, precipitation reactions) and uses of sodium carbonate](/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkali-metals/sodium-carbonate/)
 
 #### 10.3 Alkaline Earth Metals
 
-- [10.3.1 General characteristics of alkaline earth metals](./inorganic/chemistry-of-metals/general-characteristics-of-alkaline-earth-metals.html)
-- [10.3.2 Molecular formula and uses of (quick lime, bleaching powder, magnesia, plaster of paris and epsom salt)](./inorganic/chemistry-of-metals/molecular-formulas-and-uses.html)
-- [10.3.3 Solubility of hydroxides, carbonates and sulphates of alkaline earth metals (general trend with explanation)](./inorganic/chemistry-of-metals/alkaline-earth-solubility.html)
-- [10.3.4 Stability of carbonate and nitrate of alkaline earth metals (general trend with explanation)](./inorganic/chemistry-of-metals/alkaline-earth-stability.html)
+- [10.3.1 General characteristics of alkaline earth metals](/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkaline/general-characteristics/)
+- [10.3.2 Molecular formula and uses of (quick lime, bleaching powder, magnesia, plaster of paris and epsom salt)](/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkaline/molecular-formulas-and-uses/)
+- [10.3.3 Solubility of hydroxides, carbonates and sulphates of alkaline earth metals (general trend with explanation)](/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkaline/alkaline-earth-solubility/)
+- [10.3.4 Stability of carbonate and nitrate of alkaline earth metals (general trend with explanation)](/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkaline/alkaline-earth-stability/)
 
 ---
 
 ### 11. Bio-inorganic Chemistry
 
-- [11.1 Introduction to Bio-inorganic Chemistry](./inorganic/bio-inorganic/introduction-to-bio-inorganic-chemistry.html)
-- [11.2 Micro and macro nutrients](./inorganic/bio-inorganic/micro-and-macro-nutrients.html)
-- [11.3 Importance of metal ions in biological systems (ions of Na, K, Mg, Ca, Fe, Cu, Zn, Ni, Co, Cr)](./inorganic/bio-inorganic/importance-of-metal-ions-in-biological-systems.html)
-- [11.4 Ion pumps (sodium-potassium and sodium-glucose pump)](./inorganic/bio-inorganic/ion-pumps.html)
-- [11.5 Metal toxicity (toxicity due to iron, arsenic, mercury, lead and cadmium)](./inorganic/bio-inorganic/metal-toxicity.html)
+- [11.1 Introduction to Bio-inorganic Chemistry](/notes/neb/chemistry11/inorganic/bio-inorganic/introduction-to-bio-inorganic-chemistry/)
+- [11.2 Micro and macro nutrients](/notes/neb/chemistry11/inorganic/bio-inorganic/micro-and-macro-nutrients/)
+- [11.3 Importance of metal ions in biological systems (ions of Na, K, Mg, Ca, Fe, Cu, Zn, Ni, Co, Cr)](/notes/neb/chemistry11/inorganic/bio-inorganic/importance-of-metal-ions-in-biological-systems/)
+- [11.4 Ion pumps (sodium-potassium and sodium-glucose pump)](/notes/neb/chemistry11/inorganic/bio-inorganic/ion-pumps/)
+- [11.5 Metal toxicity (toxicity due to iron, arsenic, mercury, lead and cadmium)](/notes/neb/chemistry11/inorganic/bio-inorganic/metal-toxicity/)
 
 ---
 
@@ -293,13 +293,13 @@ layout: "non_math_mode"
 
 ### 12. Basic Concept of Organic Chemistry
 
-- [12.1 Introduction to organic chemistry and organic compounds](./organic/basic-concept/introduction-to-organic-chemistry-and-organic-compounds.html)
-- [12.2 Reasons for the separate study of organic compounds from inorganic compounds](./organic/basic-concept/reasons-for-the-separate-study-of-organic-compounds-from-inorganic-compounds.html)
-- [12.3 Tetra-covalency and catenation properties of carbon](./organic/basic-concept/tetra-covalency-and-catenation-properties-of-carbon.html)
-- [12.4 Classification of organic compounds](./organic/basic-concept/classification-of-organic-compounds.html)
-- [12.5 Alkyl groups, functional groups and homologous series](./organic/basic-concept/alkyl-groups-functional-groups-and-homologous-series.html)
-- [12.6 Idea of structural formula, contracted formula and bond line structural formula](./organic/basic-concept/idea-of-structural-formula-contracted-formula-and-bond-line-structural-formula.html)
-- [12.7 Preliminary idea of cracking and reforming, quality of gasoline, octane number, cetane number and gasoline additive](./organic/basic-concept/preliminary-idea-of-cracking-and-reforming-quality-of-gasoline-octane-number-cetane-number-and-gasoline-additive.html)
+- [12.1 Introduction to organic chemistry and organic compounds](/notes/neb/chemistry11/organic/basic-concept/introduction/)
+- [12.2 Reasons for the separate study of organic compounds from inorganic compounds](/notes/neb/chemistry11/organic/basic-concept/reasons-for-the-separate-study/)
+- [12.3 Tetra-covalency and catenation properties of carbon](/notes/neb/chemistry11/organic/basic-concept/tetra-covalency/)
+- [12.4 Classification of organic compounds](/notes/neb/chemistry11/organic/basic-concept/classification-of-organic-compounds/)
+- [12.5 Alkyl groups, functional groups and homologous series](/notes/neb/chemistry11/organic/basic-concept/alkyl-groups-functional-groups-and-homologous-series/)
+- [12.6 Idea of structural formula, contracted formula and bond line structural formula](/notes/neb/chemistry11/organic/basic-concept/idea-of-structural-formula-contracted-formula-and-bond-line-structural-formula/)
+- [12.7 Preliminary idea of cracking and reforming, quality of gasoline, octane number, cetane number and gasoline additive](/notes/neb/chemistry11/organic/basic-concept/preliminary-idea-of-cracking-and-reforming-quality-of-gasoline-octane-number-cetane-number-and-gasoline-additive/)
 
 ---
 
