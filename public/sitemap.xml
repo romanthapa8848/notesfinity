@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/carbon/carbon-allotropes/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/phosphorus/phosphorus-allotropes/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/sulphur/sulphur-allotropes/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/oxygen/allotropy-and-examples/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -17,6 +26,9 @@
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/oxygen/hydrogen-peroxide/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/halogens/halogens-properties-uses/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ammonia-properties/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,6 +36,9 @@
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/hydrogen/atomic-and-nascent-hydrogen/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/halogens/comparative-study/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/states-of-matter/solid-state/crystallization/</loc>
@@ -41,10 +56,19 @@
     <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-equilibrium/equilibrium-constant/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/halogens/halogens-general/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/halogens/halogens-preparation/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ammonia-harmful-effects/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/hydrogen/heavy-water/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/sulphur/hydrogen-sulphide/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/states-of-matter/solid-state/unit-cell/</loc>
@@ -86,16 +110,34 @@
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/ozone/preparation-of-ozone/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/phosphorus/phosphine/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/carbon/carbon-monoxide/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/nitrogen/nitrogen-inertness/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-equilibrium/kp-kc/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/sulphur/sodium-thiosulphate/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/ozone/structure-of-ozone/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/sulphur/sulphur-dioxide/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/sulphur/sulphuric-acid/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/states-of-matter/liquid-state/physical-properties/surface-tension-and-viscosity/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/halogens/halogens-test/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/ozone/test-for-ozone/</loc>
