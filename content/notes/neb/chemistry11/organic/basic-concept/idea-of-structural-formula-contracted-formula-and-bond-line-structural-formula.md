@@ -56,6 +56,24 @@ CH₃-CH₂-OH
 
 ---
 
+ carbon atoms are understood to be at the vertices (ends or intersections) of the lines. The hydrogen atoms are implied and are not shown explicitly.
+
+---
+
+## Comparison Table
+
+| Feature                        | Structural Formula                                  | Contracted Formula                           | Bond-Line Structural Formula                          |
+|---------------------------------|----------------------------------------------------|---------------------------------------------|--------------------------------------------------------|
+| **Definition**                  | Shows the exact bonding and arrangement of atoms.  | Simplified version showing atom counts only. | Simplified, showing only the skeletal structure.       |
+| **Detail Level**                | High detail, shows all atoms and bonds.            | Medium detail, omits some bonds.            | Low detail, focuses on carbon skeleton and functional groups. |
+| **Atoms Representation**       | All atoms (including hydrogen) are explicitly shown. | Hydrogen atoms are not shown.               | Carbon atoms are implied at the ends and intersections of lines. |
+| **Bond Representation**        | All bonds are shown, including single, double, and triple bonds. | Bonds are implied based on atom count.      | Bonds are shown as lines between carbon atoms, hydrogen is implied. |
+| **Use**                         | Detailed molecular structure, useful for small molecules. | Simple representation, useful for shorthand. | Common in organic chemistry for large molecules.        |
+| **Ease of Drawing**            | Complex to draw, especially for large molecules.   | Easy to write, though some information is lost. | Very simple, especially for large organic molecules.    |
+| **Example (Ethanol)**           | H–C–C–O–H                                           | C₂H₅OH                                       | CH₃–CH₂–OH                                            |
+
+---
+
 ## Summary
 - The **structural formula** shows the exact arrangement and bonding between atoms.
 - The **contracted formula** simplifies this arrangement by omitting bond details, showing only the types and number of atoms.

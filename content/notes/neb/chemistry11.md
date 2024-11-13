@@ -299,7 +299,7 @@ layout: "non_math_mode"
 - [12.4 Classification of organic compounds](/notes/neb/chemistry11/organic/basic-concept/classification-of-organic-compounds/)
 - [12.5 Alkyl groups, functional groups and homologous series](/notes/neb/chemistry11/organic/basic-concept/alkyl-functional-homologous/)
 - [12.6 Idea of structural formula, contracted formula and bond line structural formula](/notes/neb/chemistry11/organic/basic-concept/idea-of-structural-formula-contracted-formula-and-bond-line-structural-formula/)
-- [12.7 Preliminary idea of cracking and reforming, quality of gasoline, octane number, cetane number and gasoline additive](/notes/neb/chemistry11/organic/basic-concept/preliminary-idea-of-cracking-and-reforming-quality-of-gasoline-octane-number-cetane-number-and-gasoline-additive/)
+- [12.7 Preliminary idea of cracking and reforming, quality of gasoline, octane number, cetane number and gasoline additive](/notes/neb/chemistry11/organic/basic-concept/preliminary-ideas/)
 
 ---
 
