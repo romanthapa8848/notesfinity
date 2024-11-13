@@ -322,22 +322,22 @@ layout: "non_math_mode"
 
 ### 14. Hydrocarbons
 
-- [14.1 Saturated Hydrocarbons (Alkanes)](./organic/hydrocarbons/saturated-hydrocarbons.html)
+- [14.1 Saturated Hydrocarbons (Alkanes)](/notes/neb/chemistry11/organic/hydrocarbons/saturated-hydrocarbons/)
 
-  - [14.1.1 Alkanes: Preparation from haloalkanes (Reduction and Wurtz reaction), Decarboxylation, Catalytic hydrogenation of alkene and alkyne](./organic/hydrocarbons/alkanes.html)
-  - [14.1.2 Chemical properties: Substitution reactions (halogenation, nitration & sulphonation only), oxidation of ethane](./organic/hydrocarbons/chemical-properties-of-alkanes.html)
+  - [14.1.1 Alkanes: Preparation from haloalkanes (Reduction and Wurtz reaction), Decarboxylation, Catalytic hydrogenation of alkene and alkyne](/notes/neb/chemistry11/organic/hydrocarbons/saturated-hydrocarbons/alkanes/)
+  - [14.1.2 Chemical properties: Substitution reactions (halogenation, nitration & sulphonation only), oxidation of ethane](/notes/neb/chemistry11/organic/hydrocarbons/saturated-hydrocarbons/chemical-properties-of-alkanes/)
 
-- [14.2 Unsaturated hydrocarbons (Alkenes & Alkynes)](./organic/hydrocarbons/unsaturated-hydrocarbons.html)
+- [14.2 Unsaturated hydrocarbons (Alkenes & Alkynes)](/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/)
 
-  - [14.2.1 Alkenes: Preparation by Dehydration of alcohol, Dehydrohalogenation, Catalytic hydrogenation of alkyne](./organic/hydrocarbons/alkenes.html)
-    - [14.2.1.1 Chemical properties: Addition reaction with HX (Markovnikov’s addition and peroxide effect), H<sub>2</sub>O, O<sub>3</sub>, H<sub>2</sub>SO<sub>4</sub> only](./organic/hydrocarbons/chemical-properties-of-alkenes.html)
-  - [14.3 Alkynes: Preparation from carbon and hydrogen, 1,2 dibromoethane, chloroform/iodoform only](./organic/hydrocarbons/alkynes.html)
+  - [14.2.1 Alkenes: Preparation by Dehydration of alcohol, Dehydrohalogenation, Catalytic hydrogenation of alkyne](/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/alkenes/)
+    - [14.2.1.1 Chemical properties: Addition reaction with HX (Markovnikov’s addition and peroxide effect), H<sub>2</sub>O, O<sub>3</sub>, H<sub>2</sub>SO<sub>4</sub> only](/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/alkenes/chemical-properties-of-alkenes/)
+  - [14.3 Alkynes: Preparation from carbon and hydrogen, 1,2 dibromoethane, chloroform/iodoform only](/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/alkynes/)
 
-    - [14.3.1 Chemical properties: Addition reaction with (H<sub>2</sub>, HX, H<sub>2</sub>O), Acidic nature (action with Sodium, ammoniacal AgNO<sub>3</sub> and ammoniacal Cu<sub>2</sub>Cl<sub>2</sub>)](./organic/hydrocarbons/chemical-properties-of-alkynes.html)
+    - [14.3.1 Chemical properties: Addition reaction with (H<sub>2</sub>, HX, H<sub>2</sub>O), Acidic nature (action with Sodium, ammoniacal AgNO<sub>3</sub> and ammoniacal Cu<sub>2</sub>Cl<sub>2</sub>)](/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/chemical-properties-of-alkynes/)
 
-- [14.4 Test of unsaturation (ethene & ethyne): bromine water test and Baeyer's test](./organic/hydrocarbons/test-of-unsaturation.html)
-- [14.5 Comparative studies of physical properties of alkane, alkene and alkyne](./organic/hydrocarbons/comparative-studies-of-physical-properties-of-alkanes-alkenes-and-alkynes.html)
-- [14.6 Kolbe's electrolysis methods for the preparation of alkane, alkene and alkynes](./organic/hydrocarbons/kolbes-electrolysis-methods.html)
+- [14.4 Test of unsaturation (ethene & ethyne): bromine water test and Baeyer's test](/notes/neb/chemistry11/organic/hydrocarbons/test-of-unsaturation/)
+- [14.5 Comparative studies of physical properties of alkane, alkene and alkyne](/notes/neb/chemistry11/organic/hydrocarbons/comparative-studies-of-physical-properties-of-alkanes-alkenes-and-alkynes/)
+- [14.6 Kolbe's electrolysis methods for the preparation of alkane, alkene and alkynes](/notes/neb/chemistry11/organic/hydrocarbons/kolbes-electrolysis-methods/)
 
 ---
 
