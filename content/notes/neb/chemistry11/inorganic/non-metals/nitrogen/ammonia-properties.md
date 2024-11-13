@@ -128,6 +128,26 @@ Ammonia forms a black stain on mercurous nitrate paper due to the formation of m
 
 Ammonia reacts with oxygen to form nitrogen monoxide (NO) and water (H₂O).
 
+### 6. What type of complex is formed when ammonia reacts with copper(II) sulfate?
+
+Ammonia reacts with copper(II) sulfate to form an ammoniacal copper complex, which has a deep blue color.
+
+### 7. Is the reaction between ammonia and hydrochloric acid endothermic or exothermic?
+
+The reaction between ammonia and hydrochloric acid is exothermic, producing white fumes of ammonium chloride.
+
+### 8. Why does ammonia produce a deep blue solution with CuSO₄?
+
+The deep blue color is due to the formation of the $\text{Cu(NH}_3)_4^{2+}$ complex ion.
+
+### 9. What gas is formed when ammonia is burned in the presence of oxygen?
+
+Ammonia, when burned with oxygen at high temperatures, forms nitrogen gas and water.
+
+### 10. What indicates the presence of ammonia on mercurous nitrate paper?
+
+A black stain appears on mercurous nitrate paper when exposed to ammonia, confirming its presence.
+
 ---
 
 ## MCQs
@@ -201,3 +221,4 @@ Ammonia reacts with oxygen to form nitrogen monoxide (NO) and water (H₂O).
 - B) Mercuric chloride
 - C) Ammonium nitrate
 - D) Mercurous chloride
+

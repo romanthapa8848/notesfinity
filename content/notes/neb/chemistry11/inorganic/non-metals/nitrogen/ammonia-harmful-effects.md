@@ -140,3 +140,77 @@ In case of ammonia inhalation, the affected individual should be moved to fresh 
 ### 10. How does ammonia affect soil?
 
 Ammonia can acidify the soil when overapplied, reducing soil quality and harming plant growth.
+
+---
+
+## MCQs
+
+### 1. What effect does ammonia have on the respiratory system?
+
+- A) **Causes irritation and difficulty breathing (✓)**
+- B) Enhances lung function
+- C) Prevents infections
+- D) Has no effect
+
+### 2. What happens to ammonia when it reacts with water in mucous membranes?
+
+- A) Forms oxygen
+- B) **Forms ammonium hydroxide (✓)**
+- C) Forms hydrogen
+- D) Dissolves without reaction
+
+### 3. How does ammonia affect aquatic organisms?
+
+- A) Enhances growth
+- B) Has no effect
+- C) **Toxic, disrupts respiratory system (✓)**
+- D) Only affects plants
+
+### 4. What environmental issue does ammonia contribute to?
+
+- A) Deforestation
+- B) Soil erosion
+- C) **Eutrophication (✓)**
+- D) Climate change
+
+### 5. Which is a risk posed by ammonia in industrial settings?
+
+- A) Non-corrosive nature
+- B) Increased plant growth
+- C) **Risk of fire and explosion (✓)**
+- D) No impact on metals
+
+### 6. What type of exposure to ammonia can cause chemical burns?
+
+- A) Long-term only
+- B) Short-term only
+- C) **Both acute and chronic (✓)**
+- D) Does not cause burns
+
+### 7. How does ammonia affect soil?
+
+- A) Improves soil quality
+- B) Has no impact
+- C) **Causes soil acidification (✓)**
+- D) Enhances plant growth directly
+
+### 8. What is the primary health risk for agricultural workers exposed to ammonia?
+
+- A) Enhanced lung function
+- B) No health risks
+- C) **Respiratory issues and skin irritation (✓)**
+- D) Increased immunity
+
+### 9. What can long-term exposure to ammonia cause?
+
+- A) Improved respiratory health
+- B) **Chronic respiratory issues (✓)**
+- C) Enhanced vision
+- D) Stronger immune response
+
+### 10. What should be done if someone inhales ammonia accidentally?
+
+- A) Wait it out
+- B) Apply ice
+- C) **Move to fresh air immediately (✓)**
+- D) Ingest water to neutralize

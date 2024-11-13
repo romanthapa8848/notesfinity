@@ -156,6 +156,18 @@ Ammonia is used in the textile industry for dyeing and finishing processes, impr
 
 Ammonia is a key ingredient in the production of ammonium nitrate, which is used in explosives for mining and construction.
 
+### 8. How does ammonia help in cleaning grease and oils?
+
+Ammonia breaks down grease and oils into simpler components, making it easier to wipe away stains.
+
+### 9. What is the chemical reaction used for ammonia in water treatment?
+
+Ammonia reacts with chlorine to form monochloramine, which is used as a disinfectant.
+
+### 10. What industries use ammonia in their processes?
+
+Ammonia is used in agriculture, refrigeration, medicine, cleaning, water treatment, textile, and explosives industries.
+
 ---
 
 ## MCQs

@@ -225,29 +225,29 @@ layout: "non_math_mode"
 
 #### 9.5 Halogens
 
-- [9.5.1 General characteristics of halogens](./inorganic/non-metals/halogens/halogens-general.html)
-- [9.5.2 Comparative study on preparation (no diagram and description is required)](./inorganic/non-metals/halogens/halogens-preparation.html)
-- [9.5.2.1 Chemical properties [with water, alkali, ammonia, oxidizing character, bleaching action] and uses of halogens (Cl<sub>2</sub>, Br<sub>2</sub> and I<sub>2</sub>)](./inorganic/non-metals/halogens/halogens-properties-uses.html)
-- [9.5.3 Test for Cl<sub>2</sub>, Br<sub>2</sub> and I<sub>2</sub>](./inorganic/non-metals/halogens/halogens-test.html)
-- [9.5.4 Comparative study on preparation (no diagram and description is required), properties (reducing strength, acidic nature and solubility) and uses of haloacids (HCl, HBr and HI)](./inorganic/non-metals/halogens/comparative-study.html)
+- [9.5.1 General characteristics of halogens](/notes/neb/chemistry11/inorganic/non-metals/halogens/halogens-general/)
+- [9.5.2 Comparative study on preparation (no diagram and description is required)](/notes/neb/chemistry11/inorganic/non-metals/halogens/halogens-preparation/)
+- [9.5.2.1 Chemical properties [with water, alkali, ammonia, oxidizing character, bleaching action] and uses of halogens (Cl<sub>2</sub>, Br<sub>2</sub> and I<sub>2</sub>)](/notes/neb/chemistry11/inorganic/non-metals/halogens/halogens-properties-uses/)
+- [9.5.3 Test for Cl<sub>2</sub>, Br<sub>2</sub> and I<sub>2</sub>](/notes/neb/chemistry11/inorganic/non-metals/halogens/halogens-test/)
+- [9.5.4 Comparative study on preparation (no diagram and description is required), properties (reducing strength, acidic nature and solubility) and uses of haloacids (HCl, HBr and HI)](/notes/neb/chemistry11/inorganic/non-metals/halogens/comparative-study/)
 
 #### 9.6 Carbon
 
-- [9.6.1 Allotropes of carbon (crystalline and amorphous) including fullerenes (structure, general properties and uses only)](./inorganic/non-metals/carbon/carbon-allotropes.html)
-- [9.6.2 Properties (reducing action, reaction with metals and nonmetals) and uses of carbon monoxide](./inorganic/non-metals/carbon/carbon-monoxide.html)
+- [9.6.1 Allotropes of carbon (crystalline and amorphous) including fullerenes (structure, general properties and uses only)](/notes/neb/chemistry11/inorganic/non-metals/carbon/carbon-allotropes/)
+- [9.6.2 Properties (reducing action, reaction with metals and nonmetals) and uses of carbon monoxide](/notes/neb/chemistry11/inorganic/non-metals/carbon/carbon-monoxide/)
 
 #### 9.7 Phosphorus
 
-- [9.7.1 Allotropes of phosphorus (name only)](./inorganic/non-metals/phosphorus/phosphorus-allotropes.html)
-- [9.7.2 Preparation (no diagram and description is required), properties (basic nature, reducing nature, action with halogens and oxygen) and uses of phosphine](./inorganic/non-metals/phosphorus/phosphine.html)
+- [9.7.1 Allotropes of phosphorus (name only)](/notes/neb/chemistry11/inorganic/non-metals/phosphorus/phosphorus-allotropes/)
+- [9.7.2 Preparation (no diagram and description is required), properties (basic nature, reducing nature, action with halogens and oxygen) and uses of phosphine](/notes/neb/chemistry11/inorganic/non-metals/phosphorus/phosphine/)
 
 #### 9.8 Sulphur
 
-- [9.8.1 Allotropes of sulphur (name only) and uses of sulphur](./inorganic/non-metals/sulphur/sulphur-allotropes.html)
-- [9.8.2 Hydrogen sulphide (preparation from Kipp's apparatus with diagram), properties (Acidic nature, reducing nature, analytical reagent) and uses](./inorganic/non-metals/sulphur/hydrogen-sulphide.html)
-- [9.8.3 Sulphur dioxide its properties (acidic nature, reducing nature, oxidising nature and bleaching action) and uses](./inorganic/non-metals/sulphur/sulphur-dioxide.html)
-- [9.8.4 Sulphuric acid and its properties (acidic nature, oxidising nature, dehydrating nature) and uses](./inorganic/non-metals/sulphur/sulphuric-acid.html)
-- [9.8.5 Sodium thiosulphate (formula and uses)](./inorganic/non-metals/sulphur/sodium-thiosulphate.html)
+- [9.8.1 Allotropes of sulphur (name only) and uses of sulphur](/notes/neb/chemistry11/inorganic/non-metals/sulphur/sulphur-allotropes/)
+- [9.8.2 Hydrogen sulphide (preparation from Kipp's apparatus with diagram), properties (Acidic nature, reducing nature, analytical reagent) and uses](/notes/neb/chemistry11/inorganic/non-metals/sulphur/hydrogen-sulphide/)
+- [9.8.3 Sulphur dioxide its properties (acidic nature, reducing nature, oxidising nature and bleaching action) and uses](/notes/neb/chemistry11/inorganic/non-metals/sulphur/sulphur-dioxide/)
+- [9.8.4 Sulphuric acid and its properties (acidic nature, oxidising nature, dehydrating nature) and uses](/notes/neb/chemistry11/inorganic/non-metals/sulphur/sulphuric-acid/)
+- [9.8.5 Sodium thiosulphate (formula and uses)](/notes/neb/chemistry11/inorganic/non-metals/sulphur/sodium-thiosulphate/)
 
 ---
 
