@@ -9,6 +9,13 @@
     <lastBuildDate>Wed, 13 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Alkyl Groups, Functional Groups, and Homologous Series</title>
+      <link>http://localhost:1313/notes/neb/chemistry11/organic/basic-concept/alkyl-functional-homologous/</link>
+      <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry11/organic/basic-concept/alkyl-functional-homologous/</guid>
+      <description>&lt;h1 id=&#34;alkyl-groups-functional-groups-and-homologous-series&#34;&gt;Alkyl Groups, Functional Groups, and Homologous Series&lt;/h1&gt;&#xA;&lt;h2 id=&#34;alkyl-groups&#34;&gt;Alkyl Groups&lt;/h2&gt;&#xA;&lt;p&gt;Alkyl groups are derived from alkanes (saturated hydrocarbons) by removing one hydrogen atom. They are often denoted by the symbol $R$, representing a group of carbon and hydrogen atoms attached to a molecule. Some key alkyl groups include:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Methyl ($CH_3$)&lt;/strong&gt;: Derived from methane ($CH_4$).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Ethyl ($C_2H_5$)&lt;/strong&gt;: Derived from ethane ($C_2H_6$).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Propyl ($C_3H_7$)&lt;/strong&gt;: Derived from propane ($C_3H_8$), existing as n-propyl or isopropyl.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Butyl ($C_4H_9$)&lt;/strong&gt;: Derived from butane ($C_4H_{10}$), existing as n-butyl, isobutyl, sec-butyl, and tert-butyl.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;functional-groups&#34;&gt;Functional Groups&lt;/h2&gt;&#xA;&lt;p&gt;Functional groups are specific groups of atoms within molecules that are responsible for the characteristic reactions of those molecules. Some important functional groups include:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Allotropes of Carbon (Crystalline and Amorphous) Including Fullerenes</title>
       <link>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/carbon/carbon-allotropes/</link>
       <pubDate>Wed, 13 Nov 2024 00:00:00 +0000</pubDate>
@@ -3744,6 +3751,13 @@
       <link>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ring-test-nitrate-ion-test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ring-test-nitrate-ion-test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/notes/neb/chemistry11/organic/basic-concept/idea-of-structural-formula-contracted-formula-and-bond-line-structural-formula/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry11/organic/basic-concept/idea-of-structural-formula-contracted-formula-and-bond-line-structural-formula/</guid>
       <description></description>
     </item>
     <item>
