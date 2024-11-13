@@ -154,33 +154,33 @@ layout: "non_math_mode"
 
 - **7.2 Liquid state**
 
-  - [7.2.1 Physical properties of liquids](general-physical-chemistry/states-of-matter/liquid-properties.html)
+  - [7.2.1 Physical properties of liquids](/notes/neb/chemistry11/general-physical-chemistry/states-of-matter/liquid-state/liquid-properties/)
 
-    - [7.2.1.1 Evaporation and condensation](./general-and-physical/states-of-matter/liquid-state/physical-properties/evaporation-and-condensation.html)
-    - [7.2.1.2 Vapour pressure and boiling point](./general-and-physical/states-of-matter/liquid-state/physical-properties/vapour-pressure-and-boiling-point.html)
-    - [7.2.1.3 Surface tension and viscosity (qualitative idea only)](./general-and-physical/states-of-matter/liquid-state/physical-properties/surface-tension-and-viscosity.html)
+    - [7.2.1.1 Evaporation and condensation](/notes/neb/chemistry11/general-and-physical/states-of-matter/liquid-state/physical-properties/evaporation-and-condensation/)
+    - [7.2.1.2 Vapour pressure and boiling point](/notes/neb/chemistry11/general-and-physical/states-of-matter/liquid-state/physical-properties/vapour-pressure-and-boiling-point/)
+    - [7.2.1.3 Surface tension and viscosity (qualitative idea only)](/notes/neb/chemistry11/general-and-physical/states-of-matter/liquid-state/physical-properties/surface-tension-and-viscosity/)
 
-  - [7.2.2 Liquid crystals and their applications](./general-and-physical/states-of-matter/liquid-state/liquid-crystals.html)
+  - [7.2.2 Liquid crystals and their applications](/notes/neb/chemistry11/general-and-physical/states-of-matter/liquid-state/liquid-crystals/)
 
 - **7.3 Solid state**
 
-  - [7.3.1 Types of solids](./general-and-physical/states-of-matter/solid-state/types-of-solids.html)
-  - [7.3.2 Amorphous and crystalline solids](./general-and-physical/states-of-matter/solid-state/amorphous-crystalline.html)
-  - [7.3.3 Efflorescent, Deliquescent and Hygroscopic solids](./general-and-physical/states-of-matter/solid-state/efflorescent-deliquescent.html)
-  - [7.3.4 Crystallization and crystal growth](./general-and-physical/states-of-matter/solid-state/crystallization.html)
-  - [7.3.5 Water of crystallization](./general-and-physical/states-of-matter/solid-state/water-crystallization.html)
-  - [7.3.6 Introduction to unit crystal lattice and unit cell](./general-and-physical/states-of-matter/solid-state/unit-cell.html)
+  - [7.3.1 Types of solids](/notes/neb/chemistry11/general-and-physical/states-of-matter/solid-state/types-of-solids/)
+  - [7.3.2 Amorphous and crystalline solids](/notes/neb/chemistry11/general-and-physical/states-of-matter/solid-state/amorphous-crystalline/)
+  - [7.3.3 Efflorescent, Deliquescent and Hygroscopic solids](/notes/neb/chemistry11/general-and-physical/states-of-matter/solid-state/efflorescent-deliquescent/)
+  - [7.3.4 Crystallization and crystal growth](/notes/neb/chemistry11/general-and-physical/states-of-matter/solid-state/crystallization/)
+  - [7.3.5 Water of crystallization](/notes/neb/chemistry11/general-and-physical/states-of-matter/solid-state/water-crystallization/)
+  - [7.3.6 Introduction to unit crystal lattice and unit cell](/notes/neb/chemistry11/general-and-physical/states-of-matter/solid-state/unit-cell/)
 
 ---
 
 ### 8. Chemical Equilibrium
 
-- [8.1 Physical and chemical equilibrium](./general-and-physical/chemical-equilibrium/physical-chemical-equilibrium.html)
-- [8.2 Dynamic nature of chemical equilibrium](./general-and-physical/chemical-equilibrium/dynamic-nature.html)
-- [8.3 Law of mass action](./general-and-physical/chemical-equilibrium/law-of-mass-action.html)
-- [8.4 Expression for equilibrium constant and its importance](./general-and-physical/chemical-equilibrium/equilibrium-constant.html)
-- [8.5 Relationship between K<sub>p</sub> and K<sub>c</sub>](./general-and-physical/chemical-equilibrium/kp-kc.html)
-- [8.6 Le Chatelier’s Principle (Numericals not required)](./general-and-physical/chemical-equilibrium/le-chateliers-principle.html)
+- [8.1 Physical and chemical equilibrium](/notes/neb/chemistry11/general-and-physical/chemical-equilibrium/physical-chemical-equilibrium/)
+- [8.2 Dynamic nature of chemical equilibrium](/notes/neb/chemistry11/general-and-physical/chemical-equilibrium/dynamic-nature/)
+- [8.3 Law of mass action](/notes/neb/chemistry11/general-and-physical/chemical-equilibrium/law-of-mass-action/)
+- [8.4 Expression for equilibrium constant and its importance](/notes/neb/chemistry11/general-and-physical/chemical-equilibrium/equilibrium-constant/)
+- [8.5 Relationship between K<sub>p</sub> and K<sub>c</sub>](/notes/neb/chemistry11/general-and-physical/chemical-equilibrium/kp-kc/)
+- [8.6 Le Chatelier’s Principle (Numericals not required)](/notes/neb/chemistry11/general-and-physical/chemical-equilibrium/le-chateliers-principle/)
 
 ---
 
@@ -192,36 +192,36 @@ layout: "non_math_mode"
 
 #### 9.1 Hydrogen
 
-- [9.1.1 Chemistry of atomic and nascent hydrogen](./inorganic/non-metals/hydrogen/atomic-and-nascent-hydrogen.html)
-- [9.1.2 Isotopes of hydrogen and their uses](./inorganic/non-metals/hydrogen/isotopes-of-hydrogen.html)
-- [9.1.3 Application of hydrogen as fuel](./inorganic/non-metals/hydrogen/hydrogen-as-fuel.html)
-- [9.1.4 Heavy water and its applications](./inorganic/non-metals/hydrogen/heavy-water.html)
+- [9.1.1 Chemistry of atomic and nascent hydrogen](/notes/neb/chemistry11/inorganic/non-metals/hydrogen/atomic-and-nascent-hydrogen/)
+- [9.1.2 Isotopes of hydrogen and their uses](/notes/neb/chemistry11/inorganic/non-metals/hydrogen/isotopes-of-hydrogen/)
+- [9.1.3 Application of hydrogen as fuel](/notes/neb/chemistry11/inorganic/non-metals/hydrogen/hydrogen-as-fuel/)
+- [9.1.4 Heavy water and its applications](/notes/neb/chemistry11/inorganic/non-metals/hydrogen/heavy-water/)
 
 #### 9.2 Allotropes of Oxygen
 
-- [9.2.1 Definition of allotropy and examples](./inorganic/non-metals/oxygen/allotropy-and-examples.html)
-- [9.2.2 Oxygen: Types of oxides (acidic, basic, neutral, amphoteric, peroxide and mixed oxides)](./inorganic/non-metals/oxygen/types-of-oxides.html)
-- [9.2.3 Applications of hydrogen peroxide](./inorganic/non-metals/oxygen/hydrogen-peroxide.html)
-- [9.2.4 Medical and industrial application of oxygen](./inorganic/non-metals/oxygen/application-of-oxygen.html)
+- [9.2.1 Definition of allotropy and examples](/notes/neb/chemistry11/inorganic/non-metals/oxygen/allotropy-and-examples/)
+- [9.2.2 Oxygen: Types of oxides (acidic, basic, neutral, amphoteric, peroxide and mixed oxides)](/notes/neb/chemistry11/inorganic/non-metals/oxygen/types-of-oxides/)
+- [9.2.3 Applications of hydrogen peroxide](/notes/neb/chemistry11/inorganic/non-metals/oxygen/hydrogen-peroxide/)
+- [9.2.4 Medical and industrial application of oxygen](/notes/neb/chemistry11/inorganic/non-metals/oxygen/application-of-oxygen/)
 
 #### 9.3 Ozone
 
-- [9.3.1 Occurrence](./inorganic/non-metals/ozone/occurance-of-ozone.html)
-- [9.3.2 Preparation of ozone from oxygen](./inorganic/non-metals/ozone/preparation-of-ozone.html)
-- [9.3.3 Structure of ozone](./inorganic/non-metals/ozone/structure-of-ozone.html)
-- [9.3.4 Test for ozone](./inorganic/non-metals/ozone/test-for-ozone.html)
-- [9.3.5 Ozone layer depletion (causes, effects and control measures)](./inorganic/non-metals/ozone/ozone-layer-depletion.html)
-- [9.3.6 Uses of ozone](./inorganic/non-metals/ozone/ozone-uses.html)
+- [9.3.1 Occurrence](/notes/neb/chemistry11/inorganic/non-metals/ozone/occurance-of-ozone/)
+- [9.3.2 Preparation of ozone from oxygen](/notes/neb/chemistry11/inorganic/non-metals/ozone/preparation-of-ozone/)
+- [9.3.3 Structure of ozone](/notes/neb/chemistry11/inorganic/non-metals/ozone/structure-of-ozone/)
+- [9.3.4 Test for ozone](/notes/neb/chemistry11/inorganic/non-metals/ozone/test-for-ozone/)
+- [9.3.5 Ozone layer depletion (causes, effects and control measures)](/notes/neb/chemistry11/inorganic/non-metals/ozone/ozone-layer-depletion/)
+- [9.3.6 Uses of ozone](/notes/neb/chemistry11/inorganic/non-metals/ozone/ozone-uses/)
 
 #### 9.4 Nitrogen
 
-- [9.4.1 Reason for inertness of nitrogen and active nitrogen](./inorganic/non-metals/nitrogen/nitrogen-inertness.html)
-- [9.4.2 Chemical properties of ammonia [Action with (CuSO<sub>4</sub>) solution, water, (FeCl<sub>3</sub>) solution, Conc. HCl, Mercurous nitrate paper, (O<sub>2</sub>)]](./inorganic/non-metals/nitrogen/ammonia-properties.html)
-- [9.4.3 Applications of ammonia](./inorganic/non-metals/nitrogen/ammonia-applications.html)
-- [9.4.4 Harmful effects of ammonia](./inorganic/non-metals/nitrogen/ammonia-harmful-effects.html)
-- [9.4.5 Oxy-acids of nitrogen (name and formula)](./inorganic/non-metals/nitrogen/oxy-acids-nitrogen.html)
-- [9.4.6 Chemical properties of nitric acid [(HNO<sub>3</sub>) as an acid and oxidizing agent (action with zinc, magnesium, iron, copper, sulphur, carbon, SO<sub>2</sub> and H<sub>2</sub>S)]](./inorganic/non-metals/nitrogen/nitric-acid-properties.html)
-- [9.4.7 Ring test for nitrate ion](./inorganic/non-metals/nitrogen/ring-test-nitrate-ion-test.html)
+- [9.4.1 Reason for inertness of nitrogen and active nitrogen](/notes/neb/chemistry11/inorganic/non-metals/nitrogen/nitrogen-inertness/)
+- [9.4.2 Chemical properties of ammonia [Action with (CuSO<sub>4</sub>) solution, water, (FeCl<sub>3</sub>) solution, Conc. HCl, Mercurous nitrate paper, (O<sub>2</sub>)]](/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ammonia-properties/)
+- [9.4.3 Applications of ammonia](/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ammonia-applications/)
+- [9.4.4 Harmful effects of ammonia](/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ammonia-harmful-effects/)
+- [9.4.5 Oxy-acids of nitrogen (name and formula)](/notes/neb/chemistry11/inorganic/non-metals/nitrogen/oxy-acids-nitrogen/)
+- [9.4.6 Chemical properties of nitric acid [(HNO<sub>3</sub>) as an acid and oxidizing agent (action with zinc, magnesium, iron, copper, sulphur, carbon, SO<sub>2</sub> and H<sub>2</sub>S)]](/notes/neb/chemistry11/inorganic/non-metals/nitrogen/nitric-acid-properties/)
+- [9.4.7 Ring test for nitrate ion](/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ring-test-nitrate-ion-test/)
 
 #### 9.5 Halogens
 

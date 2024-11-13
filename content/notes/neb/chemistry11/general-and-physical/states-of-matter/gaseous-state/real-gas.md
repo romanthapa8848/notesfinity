@@ -99,7 +99,7 @@ For an ideal gas, the compressibility factor **Z = 1**. For real gases:
 
 ---
 
-## Conclusion
+## Summary
 
 Real gases deviate from ideal gas behavior due to intermolecular forces and the finite volume of gas molecules. The **Van der Waals equation** provides a more accurate description of real gases, incorporating these factors. The **compressibility factor** is also used to quantify the deviation from ideality. Real gases behave more ideally at low pressure and high temperature, where intermolecular interactions are minimized.
 
