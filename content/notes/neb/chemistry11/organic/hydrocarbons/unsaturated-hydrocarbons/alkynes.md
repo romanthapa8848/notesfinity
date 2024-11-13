@@ -12,7 +12,7 @@ keywords:
     "Chloroform",
     "Iodoform",
   ]
-layout: "non_math_mode"
+layout: "math_mode"
 ---
 
 # Preparation of Alkynes
@@ -82,6 +82,24 @@ In the **haloform reaction**, chloroform reacts with methyl ketones under basic 
 ### 4. How is iodoform used in the preparation of alkynes?
 Iodoform reacts similarly to chloroform but is more reactive, facilitating the formation of alkynes from methyl ketones in the presence of a strong base.
 
+### 5. What are the conditions required for the preparation of alkynes using dehydrogenation?
+Dehydrogenation requires the presence of a catalyst such as **platinum (Pt)** or **nickel (Ni)** and often heat to remove hydrogen atoms from alkenes, forming alkynes.
+
+### 6. Can alkynes be prepared directly from hydrocarbons?
+Yes, alkynes can be prepared directly from hydrocarbons by strong heating in the presence of a catalyst.
+
+### 7. What is the main difference between chloroform and iodoform in the haloform reaction?
+**Iodoform** is more reactive than **chloroform** and is often used in industrial-scale alkyne production.
+
+### 8. Can alkynes be synthesized from alkanes?
+Yes, alkynes can be synthesized from alkanes, but the process is usually more complex and requires harsher conditions compared to alkenes.
+
+### 9. What is the role of the strong base in the preparation of alkynes from 1,2-dibromoethane?
+The strong base, like **KOH** or **NaNH₂**, removes halogen atoms (HX), creating a triple bond and forming an alkyne.
+
+### 10. What type of reaction occurs during the preparation of alkynes from methyl ketones?
+The reaction is a **haloform reaction**, where the methyl ketone reacts with chloroform or iodoform in the presence of a base, leading to the formation of an alkyne.
+
 ---
 
 ## MCQs
@@ -115,3 +133,33 @@ Iodoform reacts similarly to chloroform but is more reactive, facilitating the f
 - B) Methane
 - C) Propane
 - D) Butyne
+
+### 6. What is the general method for preparing alkynes from alkenes?
+- A) **Dehydrogenation (✓)**
+- B) Hydrogenation
+- C) Halogenation
+- D) Polymerization
+
+### 7. Which of the following methods involves the removal of two molecules of HBr?
+- A) **Double dehydrohalogenation of 1,2-dibromoethane (✓)**
+- B) Hydrohalogenation of alkynes
+- C) Hydrogenation of alkenes
+- D) Halogenation of alkynes
+
+### 8. What is the reaction that uses chloroform and a base to form alkynes?
+- A) **Haloform reaction (✓)**
+- B) Friedel-Crafts reaction
+- C) Aldol condensation
+- D) Grignard reaction
+
+### 9. Which catalyst is commonly used in the dehydrogenation of alkenes to form alkynes?
+- A) Copper (Cu)
+- B) **Platinum (Pt) (✓)**
+- C) Magnesium (Mg)
+- D) Zinc (Zn)
+
+### 10. What is the starting material for the preparation of alkynes through the haloform reaction?
+- A) **Methyl ketones (✓)**
+- B) Alcohols
+- C) Aromatic compounds
+- D) Aldehydes

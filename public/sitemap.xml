@@ -2,6 +2,15 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/organic/hydrocarbons/saturated-hydrocarbons/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/organic/hydrocarbons/saturated-hydrocarbons/alkanes/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/alkenes/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/organic/basic-concept/alkyl-functional-homologous/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -32,10 +41,16 @@
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/halogens/halogens-properties-uses/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/alkenes/chemical-properties-of-alkenes/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ammonia-properties/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/nitrogen/nitric-acid-properties/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/organic/hydrocarbons/saturated-hydrocarbons/chemical-properties-of-alkanes/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/hydrogen/atomic-and-nascent-hydrogen/</loc>
@@ -179,6 +194,9 @@
     <loc>http://localhost:1313/notes/neb/chemistry11/organic/fundamental-principles/preliminary-idea-of-reaction-mechanism/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/alkynes/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/ozone/preparation-of-ozone/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -255,6 +273,9 @@
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/states-of-matter/solid-state/types-of-solids/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/ozone/ozone-uses/</loc>
