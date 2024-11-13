@@ -313,10 +313,10 @@ layout: "non_math_mode"
 - [13.6 Concept of geometrical isomerism (cis & trans) & optical isomerism (d & l form)](/notes/neb/chemistry11/organic/fundamental-principles/geometrical-and-optical-isomerism/)
 - [13.7 Preliminary Idea of Reaction Mechanism](/notes/neb/chemistry11/organic/fundamental-principles/preliminary-idea-of-reaction-mechanism/)
 
-  - [13.7.1 Homolytic and heterolytic fission](/notes/neb/chemistry11/organic/fundamental-principles/homolytic-and-heterolytic-fission/)
-  - [13.7.2 Electrophiles, nucleophiles and free-radicals](/notes/neb/chemistry11/organic/fundamental-principles/electrophiles-nucleophiles-and-free-radicals/)
-  - [13.7.3 Inductive effect: +I and –I effect](/notes/neb/chemistry11/organic/fundamental-principles/inductive-effect/)
-  - [13.7.4 Resonance effect: +R and –R effect](/notes/neb/chemistry11/organic/fundamental-principles/resonance-effect/)
+  - [13.7.1 Homolytic and heterolytic fission](/notes/neb/chemistry11/organic/fundamental-principles/reaction-mechanism/homolytic-and-heterolytic-fission/)
+  - [13.7.2 Electrophiles, nucleophiles and free-radicals](/notes/neb/chemistry11/organic/fundamental-principles/reaction-mechanism/electrophiles-nucleophiles-and-free-radicals/)
+  - [13.7.3 Inductive effect: +I and –I effect](/notes/neb/chemistry11/organic/fundamental-principles/reaction-mechanism/inductive-effect/)
+  - [13.7.4 Resonance effect: +R and –R effect](/notes/neb/chemistry11/organic/fundamental-principles/reaction-mechanism/resonance-effect/)
 
 ---
 
