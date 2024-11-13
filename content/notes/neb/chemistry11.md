@@ -305,18 +305,18 @@ layout: "non_math_mode"
 
 ### 13. Fundamental Principles of Organic Chemistry
 
-- [13.1 IUPAC Nomenclature of Organic Compounds (up to chain having 6-carbon atoms)](./organic/fundamental-principles/iupac.html)
-- [13.2 Qualitative analysis of organic compounds (detection of N, S and halogens by Lassaigne's test)](./organic/fundamental-principles/qualitative-analysis.html)
-- [13.3 Isomerism in Organic Compounds](./organic/fundamental-principles/isomerism-in-organic-compounds.html)
-- [13.4 Definition and classification of isomerism](./organic/fundamental-principles/definition-and-classification-of-isomerism.html)
-- [13.5 Structural isomerism and its types: chain, position, functional, metamerism and tautomerism](./organic/fundamental-principles/structural-isomerism.html)
-- [13.6 Concept of geometrical isomerism (cis & trans) & optical isomerism (d & l form)](./organic/fundamental-principles/geometrical-and-optical-isomerism.html)
-- [13.7 Preliminary Idea of Reaction Mechanism](./organic/fundamental-principles/preliminary-idea-of-reaction-mechanism.html)
+- [13.1 IUPAC Nomenclature of Organic Compounds (up to chain having 6-carbon atoms)](/notes/neb/chemistry11/organic/fundamental-principles/iupac/)
+- [13.2 Qualitative analysis of organic compounds (detection of N, S and halogens by Lassaigne's test)](/notes/neb/chemistry11/organic/fundamental-principles/qualitative-analysis/)
+- [13.3 Isomerism in Organic Compounds](/notes/neb/chemistry11/organic/fundamental-principles/isomerism-in-organic-compounds/)
+- [13.4 Definition and classification of isomerism](/notes/neb/chemistry11/organic/fundamental-principles/definition-and-classification-of-isomerism/)
+- [13.5 Structural isomerism and its types: chain, position, functional, metamerism and tautomerism](/notes/neb/chemistry11/organic/fundamental-principles/structural-isomerism/)
+- [13.6 Concept of geometrical isomerism (cis & trans) & optical isomerism (d & l form)](/notes/neb/chemistry11/organic/fundamental-principles/geometrical-and-optical-isomerism/)
+- [13.7 Preliminary Idea of Reaction Mechanism](/notes/neb/chemistry11/organic/fundamental-principles/preliminary-idea-of-reaction-mechanism/)
 
-  - [13.7.1 Homolytic and heterolytic fission](./organic/fundamental-principles/homolytic-and-heterolytic-fission.html)
-  - [13.7.2 Electrophiles, nucleophiles and free-radicals](./organic/fundamental-principles/electrophiles-nucleophiles-and-free-radicals.html)
-  - [13.7.3 Inductive effect: +I and –I effect](./organic/fundamental-principles/inductive-effect.html)
-  - [13.7.4 Resonance effect: +R and –R effect](./organic/fundamental-principles/resonance-effect.html)
+  - [13.7.1 Homolytic and heterolytic fission](/notes/neb/chemistry11/organic/fundamental-principles/homolytic-and-heterolytic-fission/)
+  - [13.7.2 Electrophiles, nucleophiles and free-radicals](/notes/neb/chemistry11/organic/fundamental-principles/electrophiles-nucleophiles-and-free-radicals/)
+  - [13.7.3 Inductive effect: +I and –I effect](/notes/neb/chemistry11/organic/fundamental-principles/inductive-effect/)
+  - [13.7.4 Resonance effect: +R and –R effect](/notes/neb/chemistry11/organic/fundamental-principles/resonance-effect/)
 
 ---
 

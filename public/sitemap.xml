@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/organic/basic-concept/alkyl-functional-homologous/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/carbon/carbon-allotropes/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,10 +41,19 @@
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/hydrogen/atomic-and-nascent-hydrogen/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/organic/basic-concept/classification-of-organic-compounds/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/halogens/comparative-study/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/organic/basic-concept/preliminary-ideas/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/states-of-matter/solid-state/crystallization/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/chemistry-of-metals/metals-metallurgical/definition-of-metallurgy-and-its-types/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-equilibrium/dynamic-nature/</loc>
@@ -56,7 +68,19 @@
     <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-equilibrium/equilibrium-constant/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/chemistry-of-metals/metals-metallurgical/gangue-matrix-flux-and-slag-alloy-and-amalgam/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkali-metals/general-characteristics/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkaline/general-characteristics/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/halogens/halogens-general/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/chemistry-of-metals/metals-metallurgical/general-principles-of-extraction-of-metals/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/halogens/halogens-preparation/</loc>
@@ -71,7 +95,22 @@
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/sulphur/hydrogen-sulphide/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/bio-inorganic/importance-of-metal-ions-in-biological-systems/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/chemistry-of-metals/metals-metallurgical/introduction-of-ores/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/bio-inorganic/introduction-to-bio-inorganic-chemistry/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/organic/basic-concept/introduction/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/states-of-matter/solid-state/unit-cell/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/bio-inorganic/ion-pumps/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/hydrogen/isotopes-of-hydrogen/</loc>
@@ -87,6 +126,15 @@
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/oxygen/application-of-oxygen/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/bio-inorganic/metal-toxicity/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/bio-inorganic/micro-and-macro-nutrients/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkaline/molecular-formulas-and-uses/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/</loc>
@@ -116,13 +164,37 @@
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/carbon/carbon-monoxide/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkali-metals/sodium-carbonate/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkali-metals/sodium-hydroxide/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/nitrogen/nitrogen-inertness/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/organic/basic-concept/reasons-for-the-separate-study/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/chemistry-of-metals/metals-metallurgical/refining-of-metals/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/general-and-physical/chemical-equilibrium/kp-kc/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/sulphur/sodium-thiosulphate/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkali-metals/sodium/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkaline/alkaline-earth-solubility/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/chemistry-of-metals/alkaline/alkaline-earth-stability/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/organic/basic-concept/idea-of-structural-formula-contracted-formula-and-bond-line-structural-formula/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/ozone/structure-of-ozone/</loc>
@@ -141,6 +213,9 @@
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/ozone/test-for-ozone/</loc>
+    <lastmod>2024-11-13T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry11/organic/basic-concept/tetra-covalency/</loc>
     <lastmod>2024-11-13T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/oxygen/types-of-oxides/</loc>
