@@ -16,6 +16,27 @@
       <description>&lt;h1 id=&#34;alkynes-chemical-properties&#34;&gt;Alkynes: Chemical Properties&lt;/h1&gt;&#xA;&lt;p&gt;Alkynes, characterized by carbon-carbon triple bonds, exhibit specific chemical properties such as &lt;strong&gt;addition reactions&lt;/strong&gt; and &lt;strong&gt;acidic behavior&lt;/strong&gt;. This section discusses the mechanisms and outcomes of these reactions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-addition-reactions&#34;&gt;1. Addition Reactions&lt;/h2&gt;&#xA;&lt;h3 id=&#34;i-addition-of-hydrogen-hydrogenation&#34;&gt;(i) Addition of Hydrogen (Hydrogenation)&lt;/h3&gt;&#xA;&lt;p&gt;In hydrogenation, alkynes add hydrogen atoms across the triple bond, converting them into either &lt;strong&gt;alkenes&lt;/strong&gt; or &lt;strong&gt;alkanes&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Partial Hydrogenation&lt;/strong&gt;:&#xA;&lt;/p&gt;&#xA;$$ \text{RC} \equiv \text{CR} + \text{H}_2 \xrightarrow{\text{Pd/BaSO}_4, \text{quinoline}} \text{RCH=CHR} $$&lt;p&gt;Partial hydrogenation yields &lt;strong&gt;cis-alkenes&lt;/strong&gt; in the presence of a poisoned catalyst such as &lt;strong&gt;Pd/BaSO₄&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Application of Solubility Product Principle and Common Ion Effect in Precipitation Reactions</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/application-solubility-product/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/application-solubility-product/</guid>
+      <description>&lt;h1 id=&#34;application-of-solubility-product-principle-and-common-ion-effect-in-precipitation-reactions&#34;&gt;Application of Solubility Product Principle and Common Ion Effect in Precipitation Reactions&lt;/h1&gt;&#xA;&lt;p&gt;The &lt;strong&gt;solubility product principle&lt;/strong&gt; and the &lt;strong&gt;common ion effect&lt;/strong&gt; are crucial in determining the conditions under which salts precipitate from solutions. These principles are applied to selectively precipitate salts in qualitative inorganic analysis, manage solubility in industrial processes, and understand environmental systems like the formation of kidney stones.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;solubility-product-principle-ksp-and-precipitation&#34;&gt;Solubility Product Principle (Ksp) and Precipitation&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;solubility product constant&lt;/strong&gt; ($K_{\text{sp}}$) is the equilibrium constant for the dissociation of a sparingly soluble salt in water. It is given by the product of the molar concentrations of the ions produced in solution:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Brønsted–Lowry Definition of Acids and Bases</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/bronsted-lowry-definition/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/bronsted-lowry-definition/</guid>
+      <description>&lt;h1 id=&#34;brønstedlowry-definition-of-acids-and-bases&#34;&gt;Brønsted–Lowry Definition of Acids and Bases&lt;/h1&gt;&#xA;&lt;p&gt;The Brønsted–Lowry theory, proposed by Johannes Nicolaus Brønsted and Thomas Martin Lowry in 1923, defines acids and bases in terms of proton ($H^+$) transfer rather than the focus on $H^+$ and $OH^-$ ions as in the Arrhenius theory. According to this theory:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Acids&lt;/strong&gt; are proton donors. An acid donates a hydrogen ion ($H^+$) to another species.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bases&lt;/strong&gt; are proton acceptors. A base accepts a hydrogen ion ($H^+$) from another species.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This theory expands the concept of acids and bases to reactions in non-aqueous solvents and those involving species that don’t fit the traditional definition.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Buffer Solution and Its Application</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/buffer-solution/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/buffer-solution/</guid>
+      <description>&lt;h1 id=&#34;buffer-solution-and-its-application&#34;&gt;Buffer Solution and Its Application&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;buffer solution&lt;/strong&gt; is a solution that resists changes in pH when small amounts of acid or base are added. Buffers are important in maintaining the pH of biological fluids and in many chemical processes where a stable pH is essential.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;definition-of-buffer-solution&#34;&gt;Definition of Buffer Solution&lt;/h2&gt;&#xA;&lt;p&gt;A buffer solution consists of a &lt;strong&gt;weak acid&lt;/strong&gt; and its &lt;strong&gt;conjugate base&lt;/strong&gt; or a &lt;strong&gt;weak base&lt;/strong&gt; and its &lt;strong&gt;conjugate acid&lt;/strong&gt;. It helps maintain the pH of a solution by neutralizing added acids or bases. The buffer capacity is the amount of acid or base a buffer can absorb without a significant change in pH.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Cash Flow in the Production Cycle</title>
       <link>http://localhost:1313/notes/neb/chemistry11/applied/fundamentals/cash-flow-in-the-production-cycle/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
@@ -37,11 +58,32 @@
       <description>&lt;h1 id=&#34;chemical-industry-and-its-importance&#34;&gt;Chemical Industry and Its Importance&lt;/h1&gt;&#xA;&lt;p&gt;The chemical industry is one of the largest and most diverse industries globally, playing a vital role in the economy. It involves the production of chemicals and chemical products from raw materials, transforming them into useful substances for a wide range of applications. This industry provides essential products for various sectors, including agriculture, healthcare, manufacturing, energy, and environmental protection.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-components-of-the-chemical-industry&#34;&gt;Key Components of the Chemical Industry&lt;/h2&gt;&#xA;&lt;p&gt;The chemical industry is divided into several key sectors, including:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Chemical Kinetics: Introduction</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/introduction/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/introduction/</guid>
+      <description>&lt;h1 id=&#34;chemical-kinetics-introduction&#34;&gt;Chemical Kinetics: Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Chemical kinetics is the branch of chemistry that deals with the study of the rates of chemical reactions and the factors that influence these rates. It helps us understand how fast a reaction occurs, what influences the speed of the reaction, and how the concentration of reactants and products changes over time.&lt;/p&gt;&#xA;&lt;p&gt;The rate of a chemical reaction refers to the change in concentration of a reactant or product per unit time. The rate can be influenced by several factors, including:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chemical Properties of Benzene</title>
       <link>http://localhost:1313/notes/neb/chemistry11/organic/aromatic-hydrocarbons/chemical-properties-of-benzene/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry11/organic/aromatic-hydrocarbons/chemical-properties-of-benzene/</guid>
       <description>&lt;h1 id=&#34;chemical-properties-of-benzene&#34;&gt;Chemical Properties of Benzene&lt;/h1&gt;&#xA;&lt;p&gt;Benzene ($\text{C}_6\text{H}_6$) exhibits distinct chemical properties due to its aromatic nature. These include addition reactions, electrophilic substitution reactions, and combustion reactions. Benzene&amp;rsquo;s unique stability comes from its conjugated $\pi$-electron system, which participates in these reactions under specific conditions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;addition-reactions&#34;&gt;Addition Reactions&lt;/h2&gt;&#xA;&lt;p&gt;Benzene, being an aromatic compound, is relatively resistant to addition reactions due to its stable $\pi$-electron system. However, it can undergo some addition reactions under specific conditions:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Collision Theory, Concept of Activation Energy, and Activated Complex</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/collision-theory-activation-energy/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/collision-theory-activation-energy/</guid>
+      <description>&lt;h1 id=&#34;collision-theory-concept-of-activation-energy-and-activated-complex&#34;&gt;Collision Theory, Concept of Activation Energy, and Activated Complex&lt;/h1&gt;&#xA;&lt;p&gt;The &lt;strong&gt;collision theory&lt;/strong&gt; explains how chemical reactions occur when molecules collide with sufficient energy and proper orientation. For a reaction to take place, molecules must collide with enough energy to overcome the activation energy barrier. The &lt;strong&gt;activation energy&lt;/strong&gt; ($E_a$) is the minimum energy required for a reaction to occur. The &lt;strong&gt;activated complex&lt;/strong&gt; (also called the transition state) is a high-energy, unstable arrangement of atoms that forms as reactants transition into products.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Common Ion Effect</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/common-ion-effect/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/common-ion-effect/</guid>
+      <description>&lt;h1 id=&#34;common-ion-effect&#34;&gt;Common Ion Effect&lt;/h1&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Common Ion Effect&lt;/strong&gt; refers to the reduction in the solubility of a salt when a solution already contains one of the ions involved in the salt&amp;rsquo;s dissociation. This effect is based on &lt;strong&gt;Le Chatelier’s principle&lt;/strong&gt;, which states that if a system at equilibrium is disturbed by adding or removing a substance, the system will adjust to counteract the disturbance.&lt;/p&gt;&#xA;&lt;p&gt;In the case of salt dissociation, the addition of a common ion shifts the equilibrium, resulting in a decrease in the solubility of the salt.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Comparative Studies of Physical Properties of Alkanes, Alkenes, and Alkynes</title>
@@ -58,6 +100,20 @@
       <description>&lt;h1 id=&#34;concentration-of-solution-and-its-units&#34;&gt;Concentration of Solution and Its Units&lt;/h1&gt;&#xA;&lt;p&gt;The concentration of a solution is a measure of the amount of solute present in a given amount of solvent or solution. Various units are used to express concentration depending on the type of solution and the required precision, including percentage, g/L, molarity, molality, normality, formality, ppm, and ppb.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-percentage-concentration&#34;&gt;1. Percentage Concentration&lt;/h2&gt;&#xA;&lt;h3 id=&#34;mass-percentage--ww&#34;&gt;Mass Percentage (% w/w)&lt;/h3&gt;&#xA;&lt;p&gt;Mass percentage is defined as the mass of solute divided by the total mass of the solution, multiplied by 100.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Concept of pKa and pKb</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/concept-pka-pkb/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/concept-pka-pkb/</guid>
+      <description>&lt;h1 id=&#34;concept-of-pka-and-pkb&#34;&gt;Concept of pKa and pKb&lt;/h1&gt;&#xA;&lt;p&gt;The concepts of $pK_a$ and $pK_b$ are derived from the acid dissociation constant ($K_a$) and the base dissociation constant ($K_b$) to provide a more convenient way of expressing the strength of acids and bases. Both $pK_a$ and $pK_b$ are used to determine the relative strength of acids and bases in aqueous solutions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;pka-acid-dissociation-constant-in-ph-scale&#34;&gt;pKa (Acid Dissociation Constant in pH Scale)&lt;/h3&gt;&#xA;&lt;p&gt;The $pK_a$ of an acid is defined as the negative logarithm of its acid dissociation constant ($K_a$):&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conjugate Acid–Base Pairs</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/conjugate-acid-base-pairs/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/conjugate-acid-base-pairs/</guid>
+      <description>&lt;h1 id=&#34;conjugate-acidbase-pairs&#34;&gt;Conjugate Acid–Base Pairs&lt;/h1&gt;&#xA;&lt;p&gt;In acid-base chemistry, the concept of conjugate acid-base pairs is crucial in understanding how acids and bases interact in solution. According to the Brønsted-Lowry definition:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;An &lt;strong&gt;acid&lt;/strong&gt; is a substance that &lt;strong&gt;donates a proton ($H^+$)&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;A &lt;strong&gt;base&lt;/strong&gt; is a substance that &lt;strong&gt;accepts a proton ($H^+$)&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;When an acid donates a proton, it forms its &lt;strong&gt;conjugate base&lt;/strong&gt;, and when a base accepts a proton, it forms its &lt;strong&gt;conjugate acid&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Continuous and Batch Processing</title>
       <link>http://localhost:1313/notes/neb/chemistry11/applied/fundamentals/continuous-and-batch-processing/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
@@ -70,6 +126,13 @@
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry11/applied/fundamentals/designing-a-chemical-plant/</guid>
       <description>&lt;h1 id=&#34;designing-a-chemical-plant&#34;&gt;Designing a Chemical Plant&lt;/h1&gt;&#xA;&lt;p&gt;Designing a chemical plant involves the detailed planning and engineering of a facility that can efficiently and safely produce chemicals. It includes various stages, such as conceptual design, detailed design, and final installation. The goal is to create a plant that meets production requirements, adheres to safety standards, and operates efficiently.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-stages-in-designing-a-chemical-plant&#34;&gt;1. Stages in Designing a Chemical Plant&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-conceptual-design&#34;&gt;a) &lt;strong&gt;Conceptual Design&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The first stage of designing a chemical plant involves the conceptual design, where the basic plan of the plant is created. This includes:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dissociation Constant of Acid and Base (Ka &amp; Kb)</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/dissociation-constant/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/dissociation-constant/</guid>
+      <description>&lt;h1 id=&#34;dissociation-constant-of-acid-and-base-ka--kb&#34;&gt;Dissociation Constant of Acid and Base (Ka &amp;amp; Kb)&lt;/h1&gt;&#xA;&lt;p&gt;The dissociation constants of acids and bases, denoted as $K_a$ and $K_b$, respectively, are equilibrium constants that measure the degree of dissociation of an acid or a base in water. They are used to describe the strength of acids and bases.&lt;/p&gt;&#xA;&lt;h3 id=&#34;acid-dissociation-constant-k_a&#34;&gt;Acid Dissociation Constant ($K_a$)&lt;/h3&gt;&#xA;&lt;p&gt;For an acid dissociating in water, the equilibrium can be represented as:&lt;/p&gt;&#xA;$$&#xD;&#xA;HA (aq) + H_2O (l) \rightleftharpoons H_3O^+ (aq) + A^- (aq)&#xD;&#xA;$$&lt;p&gt;The acid dissociation constant ($K_a$) is given by:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Economics of Production</title>
@@ -100,11 +163,39 @@
       <description>&lt;h1 id=&#34;fundamentals-of-applied-chemistry&#34;&gt;Fundamentals of Applied Chemistry&lt;/h1&gt;&#xA;&lt;p&gt;Applied chemistry is the branch of chemistry that deals with the application of chemical knowledge to real-world problems. It bridges the gap between theoretical chemistry and its practical use in industries, research, and everyday life. This field focuses on chemical processes, the production of chemicals, and the design of materials, as well as understanding their impacts on the environment and society.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;importance-of-applied-chemistry&#34;&gt;Importance of Applied Chemistry&lt;/h2&gt;&#xA;&lt;p&gt;Applied chemistry plays a critical role in industries like pharmaceuticals, agriculture, food, energy, and environmental science. By using chemical knowledge, scientists can design new materials, improve industrial processes, and develop technologies that benefit humanity. Some key areas where applied chemistry is crucial include:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Half-life of Zero and First Order Reactions</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/half-life-zero-first-order/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/half-life-zero-first-order/</guid>
+      <description>&lt;h1 id=&#34;half-life-of-zero-and-first-order-reactions&#34;&gt;Half-life of Zero and First Order Reactions&lt;/h1&gt;&#xA;&lt;p&gt;The &lt;strong&gt;half-life&lt;/strong&gt; ($t_{1/2}$) of a reaction is the time required for half of the reactant to be consumed in the reaction. The concept of half-life is crucial in understanding the progression of a chemical reaction. For different orders of reactions, the half-life expression varies, depending on how the concentration of reactants influences the rate of the reaction.&lt;/p&gt;&#xA;&lt;h3 id=&#34;zero-order-reaction&#34;&gt;Zero-Order Reaction&lt;/h3&gt;&#xA;&lt;p&gt;For a &lt;strong&gt;zero-order reaction&lt;/strong&gt;, the rate of reaction is independent of the concentration of the reactant. The rate law is:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Hückel&#39;s Rule of Aromaticity</title>
       <link>http://localhost:1313/notes/neb/chemistry11/organic/aromatic-hydrocarbons/h%C3%BCckels-rule-of-aromaticity/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry11/organic/aromatic-hydrocarbons/h%C3%BCckels-rule-of-aromaticity/</guid>
       <description>&lt;h1 id=&#34;hückels-rule-of-aromaticity&#34;&gt;Hückel&amp;rsquo;s Rule of Aromaticity&lt;/h1&gt;&#xA;&lt;p&gt;Hückel&amp;rsquo;s rule is a key concept in organic chemistry that helps determine whether a compound is aromatic or not. The rule states that a planar, cyclic compound is aromatic if it contains a total of $4n + 2$ $\pi$-electrons, where $n$ is a non-negative integer. Aromatic compounds are particularly stable due to the delocalization of $\pi$-electrons over the entire ring, which results in a lower energy state.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hydrolysis of Salts</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis-of-salts/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis-of-salts/</guid>
+      <description>&lt;h1 id=&#34;hydrolysis-of-salts&#34;&gt;Hydrolysis of Salts&lt;/h1&gt;&#xA;&lt;p&gt;Hydrolysis of salts is a process in which a salt reacts with water to form either an acidic or basic solution, depending on the nature of the salt. This process occurs when salts dissociate in water, and their ions interact with water molecules, either releasing $\mathrm{H^+}$ ions or $\mathrm{OH^-}$ ions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;types-of-hydrolysis&#34;&gt;Types of Hydrolysis&lt;/h2&gt;&#xA;&lt;p&gt;Hydrolysis can be classified into the following types:&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-acidic-hydrolysis&#34;&gt;1. Acidic Hydrolysis&lt;/h3&gt;&#xA;&lt;p&gt;Acidic hydrolysis occurs when the cation of the salt reacts with water to produce $\mathrm{H^+}$ ions, thus making the solution acidic. This typically happens with salts formed from a strong acid and a weak base.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Indicators and Selection of Indicators in Acid-Base Titration</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/indicators-selection/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/indicators-selection/</guid>
+      <description>&lt;h1 id=&#34;indicators-and-selection-of-indicators-in-acid-base-titration&#34;&gt;Indicators and Selection of Indicators in Acid-Base Titration&lt;/h1&gt;&#xA;&lt;p&gt;In acid-base titrations, indicators are used to identify the endpoint of the titration by changing color at a specific pH range. The selection of the appropriate indicator is crucial for ensuring accurate results.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;what-is-an-indicator&#34;&gt;What is an Indicator?&lt;/h2&gt;&#xA;&lt;p&gt;An &lt;strong&gt;indicator&lt;/strong&gt; is a substance that changes color when the pH of the solution it is in changes. This color change occurs within a narrow pH range, and the pH at which the color changes is called the &lt;strong&gt;endpoint&lt;/strong&gt;. Indicators are typically weak acids or bases, which dissociate in solution and show different colors based on their protonation state.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Integrated Rate Equation for Zero and First Order Reactions</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/integrated-rate-equation/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/integrated-rate-equation/</guid>
+      <description>&lt;h1 id=&#34;integrated-rate-equation-for-zero-and-first-order-reactions&#34;&gt;Integrated Rate Equation for Zero and First Order Reactions&lt;/h1&gt;&#xA;&lt;p&gt;In chemical kinetics, the &lt;strong&gt;integrated rate equations&lt;/strong&gt; provide a mathematical description of how the concentration of reactants changes over time for different types of reactions. These equations are essential in determining the concentration of reactants at any given time during the reaction.&lt;/p&gt;&#xA;&lt;h3 id=&#34;zero-order-reaction&#34;&gt;Zero-Order Reaction&lt;/h3&gt;&#xA;&lt;p&gt;For a &lt;strong&gt;zero-order reaction&lt;/strong&gt;, the rate of the reaction is constant and independent of the concentration of reactants. The rate law for a zero-order reaction is:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Introduction and Characteristics of Aromatic Compounds</title>
@@ -128,6 +219,20 @@
       <description>&lt;h1 id=&#34;introduction-to-gravimetric-analysis-volumetric-analysis-and-equivalent-weight&#34;&gt;Introduction to Gravimetric Analysis, Volumetric Analysis, and Equivalent Weight&lt;/h1&gt;&#xA;&lt;p&gt;Gravimetric and volumetric analyses are fundamental quantitative techniques in analytical chemistry, used to determine the amount of a substance in a sample. The concept of &lt;strong&gt;equivalent weight&lt;/strong&gt; is essential in these analyses, particularly in stoichiometric calculations.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-gravimetric-analysis&#34;&gt;1. Gravimetric Analysis&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Gravimetric Analysis&lt;/strong&gt; is a technique used to measure the mass of an analyte or its derivative to determine the quantity of a substance in a sample. This process often involves converting the analyte into a stable, insoluble form and measuring its weight.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Ionic Product of Water (Kw)</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/ionic-product-water/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/ionic-product-water/</guid>
+      <description>&lt;h1 id=&#34;ionic-product-of-water-kw&#34;&gt;Ionic Product of Water (Kw)&lt;/h1&gt;&#xA;&lt;p&gt;The ionic product of water ($K_w$) is the equilibrium constant for the autoionization of water. Water, although neutral, undergoes a slight ionization into hydronium ions ($H_3O^+$) and hydroxide ions ($OH^-$), even in pure form. This ionization can be represented as:&lt;/p&gt;&#xA;$$&#xD;&#xA;2H_2O (l) \rightleftharpoons H_3O^+ (aq) + OH^- (aq)&#xD;&#xA;$$&lt;p&gt;At 25°C, the concentrations of $H_3O^+$ and $OH^-$ ions in pure water are both $1 \times 10^{-7} \, \text{mol/L}$. The ionic product of water is defined as:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Ionization of Weak Electrolyte (Ostwald&#39;s Dilution Law)</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/ionization-weak-electrolyte/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/ionization-weak-electrolyte/</guid>
+      <description>&lt;h1 id=&#34;ionization-of-weak-electrolyte-ostwalds-dilution-law&#34;&gt;Ionization of Weak Electrolyte (Ostwald&amp;rsquo;s Dilution Law)&lt;/h1&gt;&#xA;&lt;p&gt;Weak electrolytes are substances that partially ionize in solution. The degree of ionization depends on factors such as the concentration of the electrolyte and the dilution of the solution. Ostwald’s dilution law provides a relationship between the ionization constant ($K_a$), the degree of ionization ($\alpha$), and the concentration of the electrolyte.&lt;/p&gt;&#xA;&lt;h3 id=&#34;ostwalds-dilution-law&#34;&gt;Ostwald&amp;rsquo;s Dilution Law:&lt;/h3&gt;&#xA;&lt;p&gt;Ostwald&amp;rsquo;s dilution law states that for a weak electrolyte, the degree of ionization ($\alpha$) increases with dilution, and the ionization constant ($K_a$) remains constant at a given temperature. The law is mathematically expressed as:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Kekulé Structure of Benzene</title>
       <link>http://localhost:1313/notes/neb/chemistry11/organic/aromatic-hydrocarbons/kekul%C3%A9-structure-of-benzene/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
@@ -147,6 +252,13 @@
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/volumetric-analysis/law-normality/</guid>
       <description>&lt;h1 id=&#34;law-of-equivalence-and-normality-equation&#34;&gt;Law of Equivalence and Normality Equation&lt;/h1&gt;&#xA;&lt;p&gt;In analytical chemistry, titration is a method of determining the concentration of an unknown solution by reacting it with a solution of known concentration. The &lt;strong&gt;Law of Equivalence&lt;/strong&gt; and &lt;strong&gt;Normality Equation&lt;/strong&gt; are key concepts in titrations, particularly in acid-base and redox reactions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;law-of-equivalence&#34;&gt;Law of Equivalence&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Law of Equivalence&lt;/strong&gt; states that at the equivalence point in a titration, the amount of substance (in equivalents) in the titrant is equal to the amount of substance (in equivalents) in the analyte.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lewis Definition of Acids and Bases</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/lewis-definition/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/lewis-definition/</guid>
+      <description>&lt;h1 id=&#34;lewis-definition-of-acids-and-bases&#34;&gt;Lewis Definition of Acids and Bases&lt;/h1&gt;&#xA;&lt;p&gt;The Lewis definition of acids and bases is based on the concept of electron pairs. Unlike the Brønsted-Lowry theory, which defines acids as proton donors and bases as proton acceptors, the Lewis theory defines acids and bases in terms of &lt;strong&gt;electron pair donation&lt;/strong&gt; and &lt;strong&gt;acceptance&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;A &lt;strong&gt;Lewis acid&lt;/strong&gt; is a substance that &lt;strong&gt;accepts an electron pair&lt;/strong&gt; from a Lewis base to form a coordinate bond.&lt;/li&gt;&#xA;&lt;li&gt;A &lt;strong&gt;Lewis base&lt;/strong&gt; is a substance that &lt;strong&gt;donates an electron pair&lt;/strong&gt; to a Lewis acid to form a coordinate bond.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;examples-of-lewis-acids-and-bases&#34;&gt;Examples of Lewis Acids and Bases:&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;$BF_3$ (boron trifluoride)&lt;/strong&gt; is a Lewis acid because boron has an empty orbital and can accept an electron pair.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;$NH_3$ (ammonia)&lt;/strong&gt; is a Lewis base because nitrogen has a lone pair of electrons that it can donate to a Lewis acid.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;p&gt;For instance:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Limitations of Arrhenius Concepts of Acids and Bases</title>
@@ -198,6 +310,20 @@
       <description>&lt;h1 id=&#34;modern-chemical-manufactures&#34;&gt;Modern Chemical Manufactures&lt;/h1&gt;&#xA;&lt;p&gt;Modern chemical manufacturing involves advanced processes and technologies to produce chemicals that meet the demands of society, industry, and the environment. The chemical industry plays a crucial role in producing raw materials and products used in various sectors, including agriculture, pharmaceuticals, energy, and materials.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-key-processes-in-modern-chemical-manufacturing&#34;&gt;1. Key Processes in Modern Chemical Manufacturing&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-continuous-processing&#34;&gt;a) &lt;strong&gt;Continuous Processing&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Continuous processing is used in the production of chemicals that require a steady flow of raw materials and a consistent output of products. This process is commonly used in the production of bulk chemicals such as acids, alkalis, and polymers.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Order and Molecularity</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/order-and-molecularity/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/order-and-molecularity/</guid>
+      <description>&lt;h1 id=&#34;order-and-molecularity&#34;&gt;Order and Molecularity&lt;/h1&gt;&#xA;&lt;p&gt;In chemical kinetics, the concepts of &lt;strong&gt;order&lt;/strong&gt; and &lt;strong&gt;molecularity&lt;/strong&gt; are used to describe the nature of a chemical reaction. While both terms describe how the concentration of reactants affects the rate of reaction, they differ in their definition and application.&lt;/p&gt;&#xA;&lt;h3 id=&#34;order-of-reaction&#34;&gt;Order of Reaction&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;order of a reaction&lt;/strong&gt; is the sum of the exponents of the concentrations of reactants in the rate law expression. It indicates how the rate of the reaction is affected by the concentration of each reactant. The order of a reaction can be determined experimentally and does not necessarily relate to the stoichiometric coefficients of the reactants in the balanced chemical equation.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>pH value: pH of strong and weak acids, pH of strong and weak bases</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/ph-value/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/ph-value/</guid>
+      <description>&lt;h1 id=&#34;ph-value-ph-of-strong-and-weak-acids-ph-of-strong-and-weak-bases&#34;&gt;pH value: pH of strong and weak acids, pH of strong and weak bases&lt;/h1&gt;&#xA;&lt;p&gt;The pH value of a solution is a measure of its acidity or alkalinity. It is based on the concentration of hydrogen ions ($\mathrm{H^+}$) or hydronium ions ($\mathrm{H_3O^+}$) in a solution.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;ph-of-strong-acids&#34;&gt;pH of Strong Acids&lt;/h3&gt;&#xA;&lt;p&gt;Strong acids, like hydrochloric acid ($\mathrm{HCl}$) or sulfuric acid ($\mathrm{H_2SO_4}$), completely dissociate in water, meaning they release all their $\mathrm{H^+}$ ions into the solution. The pH of a strong acid can be calculated using the following formula:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Physical Properties of Benzene</title>
       <link>http://localhost:1313/notes/neb/chemistry11/organic/aromatic-hydrocarbons/physical-properties-of-benzene/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
@@ -219,11 +345,39 @@
       <description>&lt;h1 id=&#34;primary-and-secondary-standard-substances&#34;&gt;Primary and Secondary Standard Substances&lt;/h1&gt;&#xA;&lt;p&gt;In analytical chemistry, standard substances are crucial for preparing solutions of known concentration. These solutions, called standard solutions, are used to determine the concentration of unknown solutions. There are two types of standard substances: &lt;strong&gt;primary&lt;/strong&gt; and &lt;strong&gt;secondary&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-primary-standard-substances&#34;&gt;1. Primary Standard Substances&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;primary standard substance&lt;/strong&gt; is one that is pure, stable, non-hygroscopic, and can be weighed accurately. These substances have a known, high degree of purity, which allows them to be used to prepare standard solutions directly. Primary standards are typically used to calibrate secondary standards.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Rate Constant and Its Unit and Significance</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/rate-constant-significance/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/rate-constant-significance/</guid>
+      <description>&lt;h1 id=&#34;rate-constant-and-its-unit-and-significance&#34;&gt;Rate Constant and Its Unit and Significance&lt;/h1&gt;&#xA;&lt;p&gt;The &lt;strong&gt;rate constant&lt;/strong&gt; (denoted as $k$) is a proportionality constant in the rate law equation that relates the rate of a reaction to the concentrations of reactants. It is a crucial factor in chemical kinetics as it provides information about the speed of the reaction and is dependent on various factors such as temperature, the nature of the reactants, and the reaction mechanism.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rate Law and Its Expressions</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/rate-law-expressions/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/rate-law-expressions/</guid>
+      <description>&lt;h1 id=&#34;rate-law-and-its-expressions&#34;&gt;Rate Law and Its Expressions&lt;/h1&gt;&#xA;&lt;p&gt;In chemical kinetics, the &lt;strong&gt;rate law&lt;/strong&gt; (or rate expression) defines the relationship between the rate of a reaction and the concentration of its reactants. The rate law provides insight into the mechanism of the reaction and helps in determining the order of the reaction with respect to each reactant.&lt;/p&gt;&#xA;&lt;h3 id=&#34;definition-of-rate-law&#34;&gt;Definition of Rate Law&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;rate law&lt;/strong&gt; is an equation that links the rate of a reaction to the concentrations of reactants. For a general reaction:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Rate of Reactions: Average and Instantaneous Rate of Reactions</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/rate-of-reactions/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/rate-of-reactions/</guid>
+      <description>&lt;h1 id=&#34;rate-of-reactions-average-and-instantaneous-rate-of-reactions&#34;&gt;Rate of Reactions: Average and Instantaneous Rate of Reactions&lt;/h1&gt;&#xA;&lt;p&gt;The rate of a chemical reaction is a measure of how quickly the concentration of a reactant or product changes over time. It is an essential concept in chemical kinetics, helping us understand how fast reactions occur under different conditions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;average-rate-of-reaction&#34;&gt;Average Rate of Reaction&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;average rate&lt;/strong&gt; of a reaction is calculated over a period of time. It measures the change in concentration of reactants or products over a specified time interval. Mathematically, it is expressed as:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Relationship Between Equivalent Weight, Atomic Weight, and Valency</title>
       <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/volumetric-analysis/equivalent-weight/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/volumetric-analysis/equivalent-weight/</guid>
       <description>&lt;h1 id=&#34;relationship-between-equivalent-weight-atomic-weight-and-valency&#34;&gt;Relationship Between Equivalent Weight, Atomic Weight, and Valency&lt;/h1&gt;&#xA;&lt;p&gt;In chemistry, equivalent weight plays a crucial role in understanding how elements and compounds react. This relationship between equivalent weight, atomic weight, and valency is foundational for stoichiometric calculations and is frequently applied in various types of quantitative analyses.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-definitions&#34;&gt;1. Definitions&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Atomic Weight (Atomic Mass)&lt;/strong&gt;: The average mass of an element&amp;rsquo;s atom, usually expressed in atomic mass units (amu).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Valency&lt;/strong&gt;: The ability of an atom to bond with other atoms, usually based on the number of electrons it can gain, lose, or share.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Equivalent Weight&lt;/strong&gt;: The mass of an element or compound that can either supply or react with one mole of $H^+$ ions (protons) in a reaction.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;2-formula-for-equivalent-weight&#34;&gt;2. Formula for Equivalent Weight&lt;/h2&gt;&#xA;&lt;p&gt;The relationship between &lt;strong&gt;equivalent weight (EW)&lt;/strong&gt;, &lt;strong&gt;atomic weight (AW)&lt;/strong&gt;, and &lt;strong&gt;valency (V)&lt;/strong&gt; is expressed by the formula:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Relative Strength of Acids and Bases</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/relative-strength-acids-bases/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/relative-strength-acids-bases/</guid>
+      <description>&lt;h1 id=&#34;relative-strength-of-acids-and-bases&#34;&gt;Relative Strength of Acids and Bases&lt;/h1&gt;&#xA;&lt;p&gt;The strength of an acid or a base is determined by its ability to dissociate in water and the extent to which it donates or accepts protons. In aqueous solutions, the strength of acids and bases is related to their dissociation constants:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Strong acids&lt;/strong&gt; completely dissociate in water to release $H^+$ ions.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Weak acids&lt;/strong&gt; only partially dissociate in water.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The strength of a base is similarly defined by its ability to accept protons ($H^+$) or dissociate to produce $OH^-$ ions in solution.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Resonance and Isomerism</title>
@@ -238,6 +392,34 @@
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry11/applied/fundamentals/running-a-chemical-plant/</guid>
       <description>&lt;h1 id=&#34;running-a-chemical-plant&#34;&gt;Running a Chemical Plant&lt;/h1&gt;&#xA;&lt;p&gt;Running a chemical plant involves various key elements that ensure the production of chemicals is efficient, safe, and economically viable. From managing day-to-day operations to adhering to safety standards, plant managers and operators must balance multiple tasks. This involves monitoring production processes, optimizing resource use, and ensuring regulatory compliance.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-key-aspects-of-running-a-chemical-plant&#34;&gt;1. Key Aspects of Running a Chemical Plant&lt;/h2&gt;&#xA;&lt;h3 id=&#34;a-plant-operations&#34;&gt;a) &lt;strong&gt;Plant Operations&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The primary function of a chemical plant is the continuous production of chemicals. This involves several stages such as mixing raw materials, controlling chemical reactions, and purifying products. Efficient operations are essential to maximize throughput while minimizing waste and energy consumption.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Salts of Strong Acid and Strong Base (Solving Related Numerical Problems)</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-strong-acid-strong-base/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-strong-acid-strong-base/</guid>
+      <description>&lt;h1 id=&#34;salts-of-strong-acid-and-strong-base-solving-related-numerical-problems&#34;&gt;Salts of Strong Acid and Strong Base (Solving Related Numerical Problems)&lt;/h1&gt;&#xA;&lt;p&gt;When a strong acid reacts with a strong base, a salt and water are formed in what is called a &lt;strong&gt;neutralization reaction&lt;/strong&gt;. These salts, like $\text{NaCl}$ and $\text{KNO}_3$, completely dissociate in water to form their constituent ions. Since both the cation and anion come from strong electrolytes, they do not react with water, leading to a solution with a pH close to neutral (7). This neutrality is due to the fact that the ions do not hydrolyze or affect the $\text{H}^+$ or $\text{OH}^-$ concentrations in the solution.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Salts of Weak Acid and Strong Base (Solving Related Numerical Problems)</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-acid-strong-base/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-acid-strong-base/</guid>
+      <description>&lt;h1 id=&#34;salts-of-weak-acid-and-strong-base-solving-related-numerical-problems&#34;&gt;Salts of Weak Acid and Strong Base (Solving Related Numerical Problems)&lt;/h1&gt;&#xA;&lt;p&gt;When a weak acid reacts with a strong base, a &lt;strong&gt;basic salt&lt;/strong&gt; is formed. These salts partially hydrolyze in water, causing the solution to be slightly basic (pH &amp;gt; 7). Examples include sodium acetate ($\text{CH}_3\text{COONa}$) and potassium carbonate ($\text{K}_2\text{CO}_3$). Unlike neutral salts, these salts affect the $\text{OH}^-$ ion concentration due to hydrolysis, and understanding their behavior is crucial in calculating pH and solving related chemistry problems.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Salts of Weak Base and Strong Acid (Solving Related Numerical Problems)</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-base-strong-acid/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-base-strong-acid/</guid>
+      <description>&lt;h1 id=&#34;salts-of-weak-base-and-strong-acid-solving-related-numerical-problems&#34;&gt;Salts of Weak Base and Strong Acid (Solving Related Numerical Problems)&lt;/h1&gt;&#xA;&lt;p&gt;Salts formed from weak bases and strong acids are &lt;strong&gt;acidic salts&lt;/strong&gt;. These salts undergo hydrolysis in water, resulting in an acidic solution with a pH below 7. Common examples include ammonium chloride ($\text{NH}_4\text{Cl}$) and ammonium sulfate ($\text{(NH}_4)_2\text{SO}_4$). These salts dissociate in water, and the cation from the weak base undergoes hydrolysis, producing $\text{H}^+$ ions, which makes the solution acidic.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solubility and Solubility Product Principle</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/solubility-solubility-product/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/solubility-solubility-product/</guid>
+      <description>&lt;h1 id=&#34;solubility-and-solubility-product-principle&#34;&gt;Solubility and Solubility Product Principle&lt;/h1&gt;&#xA;&lt;p&gt;Solubility refers to the maximum amount of a substance (solute) that can dissolve in a given quantity of solvent at a specific temperature, forming a saturated solution. Solubility product ($K_{sp}$) is a constant that represents the equilibrium between the dissolved ions and the undissolved solid in a saturated solution of an ionic compound.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;solubility&#34;&gt;Solubility&lt;/h2&gt;&#xA;&lt;p&gt;When an ionic compound dissolves in water, it dissociates into its constituent ions. The solubility of the compound is the concentration of these ions in a saturated solution. For example, the solubility of sodium chloride ($\mathrm{NaCl}$) can be described as:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stages in Producing a New Product</title>
@@ -259,6 +441,13 @@
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/volumetric-analysis/titration-types/</guid>
       <description>&lt;h1 id=&#34;titration-and-its-types-acid-base-titration-redox-titration-related-numerical-problems&#34;&gt;Titration and its Types: Acid-base Titration, Redox Titration (Related Numerical Problems)&lt;/h1&gt;&#xA;&lt;p&gt;Titration is a laboratory technique used to determine the concentration of an unknown solution by reacting it with a solution of known concentration. The point at which the reaction is complete is called the equivalence point, where the amount of titrant added is stoichiometrically equivalent to the amount of analyte present in the solution.&lt;/p&gt;&#xA;&lt;h2 id=&#34;types-of-titration&#34;&gt;Types of Titration&lt;/h2&gt;&#xA;&lt;p&gt;There are several types of titrations, but two important ones are &lt;strong&gt;acid-base titration&lt;/strong&gt; and &lt;strong&gt;redox titration&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Types of Salts: Acidic Salts, Basic Salts, Simple Salts, Complex Salts</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/types-of-salts/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/types-of-salts/</guid>
+      <description>&lt;h1 id=&#34;types-of-salts-acidic-salts-basic-salts-simple-salts-complex-salts&#34;&gt;Types of Salts: Acidic Salts, Basic Salts, Simple Salts, Complex Salts&lt;/h1&gt;&#xA;&lt;p&gt;Salts are compounds formed from the neutralization reaction between an acid and a base. Based on their composition and the nature of the acid and base involved, salts can be classified into several types. These types include &lt;strong&gt;acidic salts&lt;/strong&gt;, &lt;strong&gt;basic salts&lt;/strong&gt;, &lt;strong&gt;simple salts&lt;/strong&gt;, and &lt;strong&gt;complex salts&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-acidic-salts&#34;&gt;1. Acidic Salts&lt;/h2&gt;&#xA;&lt;p&gt;Acidic salts are formed when a strong acid reacts with a weak base. These salts have an excess of hydrogen ions ($\mathrm{H^+}$) or they can hydrolyze in water to release $\mathrm{H^+}$ ions, making the solution acidic.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Alkanes: Preparation from Haloalkanes, Decarboxylation, Catalytic Hydrogenation of Alkenes and Alkynes</title>

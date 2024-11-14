@@ -80,17 +80,17 @@ layout: "non_math_mode"
 
 ### 3. Chemical Kinetics
 
-- [3.1 Introduction](./general-and-physical/chemical-kinetics/introduction.html)
-- [3.2 Rate of reactions: Average and instantaneous rate of reactions](./general-and-physical/chemical-kinetics/rate-of-reactions.html)
-- [3.3 Rate law and its expressions](./general-and-physical/chemical-kinetics/rate-law-expressions.html)
-- [3.4 Rate constant and its unit and significance](./general-and-physical/chemical-kinetics/rate-constant-significance.html)
-- [3.5 Order and molecularity](./general-and-physical/chemical-kinetics/order-and-molecularity.html)
-- [3.6 Integrated rate equation for zero and first order reaction](./general-and-physical/chemical-kinetics/integrated-rate-equation.html)
-- [3.7 Half-life of zero and first order reactions](./general-and-physical/chemical-kinetics/half-life-zero-first-order.html)
-- [3.8 Collision theory, concept of activation energy and activated complex](./general-and-physical/chemical-kinetics/collision-theory-activation-energy.html)
-- [3.9 Factors affecting rate of reactions: Effect of concentration, temperature (Arrhenius Equation) and effect of catalyst (energy profile diagram)](./general-and-physical/chemical-kinetics/factors-affecting-rate.html)
-- [3.10 Catalysis and types of catalysis: homogeneous, heterogeneous and enzyme catalysis](./general-and-physical/chemical-kinetics/catalysis-types.html)
-- [3.11 Solving related numerical problems based on rate, rate constant and order of zero and first order reactions](./general-and-physical/chemical-kinetics/numerical-problems.html)
+- [3.1 Introduction](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/introduction/)
+- [3.2 Rate of reactions: Average and instantaneous rate of reactions](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/rate-of-reactions/)
+- [3.3 Rate law and its expressions](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/rate-law-expressions/)
+- [3.4 Rate constant and its unit and significance](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/rate-constant-significance/)
+- [3.5 Order and molecularity](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/order-and-molecularity/)
+- [3.6 Integrated rate equation for zero and first order reaction](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/integrated-rate-equation/)
+- [3.7 Half-life of zero and first order reactions](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/half-life-zero-first-order/)
+- [3.8 Collision theory, concept of activation energy and activated complex](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/collision-theory-activation-energy/)
+- [3.9 Factors affecting rate of reactions: Effect of concentration, temperature (Arrhenius Equation) and effect of catalyst (energy profile diagram)](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/factors-affecting-rate/)
+- [3.10 Catalysis and types of catalysis: homogeneous, heterogeneous and enzyme catalysis](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/catalysis-types/)
+- [3.11 Solving related numerical problems based on rate, rate constant and order of zero and first order reactions](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/numerical-problems/)
 
 ---
 
