@@ -17,6 +17,9 @@
     <loc>http://localhost:1313/notes/neb/chemistry11/applied/fundamentals/cash-flow-in-the-production-cycle/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/catalysis-types/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/applied/mcm/mcm/fertilizers/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -59,13 +62,34 @@
     <loc>http://localhost:1313/notes/neb/chemistry11/applied/fundamentals/economics-of-production/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/energy-in-reactions/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/enthalpy-changes/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/enthalpy-reaction-formation-combustion/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/entropy-spontaneity/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/applied/fundamentals/environmental-impact-of-the-chemical-industry/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/volumetric-analysis/equivalent-weight-compounds/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/factors-affecting-rate/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/first-law/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/applied/fundamentals/fundamentals-of-applied-chemistry/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/gibbs-free-energy/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/half-life-zero-first-order/</loc>
@@ -83,6 +107,9 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/integrated-rate-equation/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/internal-energy/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/organic/aromatic-hydrocarbons/introduction-and-characteristics/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -90,6 +117,9 @@
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/volumetric-analysis/introduction/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/introduction/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/ionic-product-water/</loc>
@@ -105,6 +135,9 @@
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/volumetric-analysis/law-normality/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/laws-thermochemistry/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/lewis-definition/</loc>
@@ -161,6 +194,9 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/rate-of-reactions/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/delta-g-equilibrium/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/volumetric-analysis/equivalent-weight/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
@@ -182,7 +218,13 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-base-strong-acid/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/second-law/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/solubility-solubility-product/</loc>
+    <lastmod>2024-11-14T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/numerical-problems/</loc>
     <lastmod>2024-11-14T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/applied/fundamentals/stages-in-producing-a-new-product/</loc>

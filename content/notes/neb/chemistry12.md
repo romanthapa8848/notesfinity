@@ -96,17 +96,17 @@ layout: "non_math_mode"
 
 ### 4. Thermodynamics
 
-- [4.1 Introduction](./general-and-physical/thermodynamics/introduction.html)
-- [4.2 Energy in chemical reactions](./general-and-physical/thermodynamics/energy-in-reactions.html)
-- [4.3 Internal energy](./general-and-physical/thermodynamics/internal-energy.html)
-- [4.4 First law of thermodynamics](./general-and-physical/thermodynamics/first-law.html)
-- [4.5 Enthalpy and enthalpy changes: Endothermic and exothermic processes](./general-and-physical/thermodynamics/enthalpy-changes.html)
-- [4.6 Enthalpy of reaction, enthalpy of solution, enthalpy of formation, enthalpy of combustion](./general-and-physical/thermodynamics/enthalpy-reaction-formation-combustion.html)
-- [4.7 Laws of thermochemistry (Laplace Law’s and Hess’s law)](./general-and-physical/thermodynamics/laws-thermochemistry.html)
-- [4.8 Entropy and spontaneity](./general-and-physical/thermodynamics/entropy-spontaneity.html)
-- [4.9 Second law of thermodynamics](./general-and-physical/thermodynamics/second-law.html)
-- [4.10 Gibbs' free energy and prediction of spontaneity](./general-and-physical/thermodynamics/gibbs-free-energy.html)
-- [4.11 Relationship between ∆G and equilibrium constant (Solving related numerical problems)](./general-and-physical/thermodynamics/delta-g-equilibrium.html)
+- [4.1 Introduction](/notes/neb/chemistry12/general-and-physical/thermodynamics/introduction/)
+- [4.2 Energy in chemical reactions](/notes/neb/chemistry12/general-and-physical/thermodynamics/energy-in-reactions/)
+- [4.3 Internal energy](/notes/neb/chemistry12/general-and-physical/thermodynamics/internal-energy/)
+- [4.4 First law of thermodynamics](/notes/neb/chemistry12/general-and-physical/thermodynamics/first-law/)
+- [4.5 Enthalpy and enthalpy changes: Endothermic and exothermic processes](/notes/neb/chemistry12/general-and-physical/thermodynamics/enthalpy-changes/)
+- [4.6 Enthalpy of reaction, enthalpy of solution, enthalpy of formation, enthalpy of combustion](/notes/neb/chemistry12/general-and-physical/thermodynamics/enthalpy-reaction-formation-combustion/)
+- [4.7 Laws of thermochemistry (Laplace Law’s and Hess’s law)](/notes/neb/chemistry12/general-and-physical/thermodynamics/laws-thermochemistry/)
+- [4.8 Entropy and spontaneity](/notes/neb/chemistry12/general-and-physical/thermodynamics/entropy-spontaneity/)
+- [4.9 Second law of thermodynamics](/notes/neb/chemistry12/general-and-physical/thermodynamics/second-law/)
+- [4.10 Gibbs' free energy and prediction of spontaneity](/notes/neb/chemistry12/general-and-physical/thermodynamics/gibbs-free-energy/)
+- [4.11 Relationship between ∆G and equilibrium constant (Solving related numerical problems)](/notes/neb/chemistry12/general-and-physical/thermodynamics/delta-g-equilibrium/)
 
 ---
 

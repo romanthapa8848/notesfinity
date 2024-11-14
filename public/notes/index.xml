@@ -44,6 +44,13 @@
       <description>&lt;h1 id=&#34;cash-flow-in-the-production-cycle&#34;&gt;Cash Flow in the Production Cycle&lt;/h1&gt;&#xA;&lt;p&gt;In any industrial operation, including chemical manufacturing, &lt;strong&gt;cash flow&lt;/strong&gt; is a crucial aspect of financial management. It refers to the movement of money into and out of a business as part of the production cycle. Managing cash flow effectively is essential to ensure that a company can meet its financial obligations, invest in growth, and sustain its operations.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-understanding-the-production-cycle&#34;&gt;1. Understanding the Production Cycle&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;production cycle&lt;/strong&gt; is the series of steps that a company takes to produce goods. It includes stages like raw material procurement, manufacturing, inventory management, and distribution. Cash flows occur at each stage, and understanding how they work helps in managing the financial health of the business.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Catalysis and Types of Catalysis: Homogeneous, Heterogeneous, and Enzyme Catalysis</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/catalysis-types/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/catalysis-types/</guid>
+      <description>&lt;h1 id=&#34;catalysis-and-types-of-catalysis-homogeneous-heterogeneous-and-enzyme-catalysis&#34;&gt;Catalysis and Types of Catalysis: Homogeneous, Heterogeneous, and Enzyme Catalysis&lt;/h1&gt;&#xA;&lt;p&gt;Catalysis is a process that increases the rate of a chemical reaction by using a substance known as a &lt;strong&gt;catalyst&lt;/strong&gt;. Catalysts function by providing an alternative pathway for the reaction with a lower activation energy, thus enabling more molecules to react at a given temperature. Catalysts are not consumed in the reaction and can be classified into several types, including homogeneous, heterogeneous, and enzyme catalysis.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Chemical Fertilizers, Types of Chemical Fertilizers, and Production of Urea</title>
       <link>http://localhost:1313/notes/neb/chemistry11/applied/mcm/mcm/fertilizers/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
@@ -142,6 +149,34 @@
       <description>&lt;h1 id=&#34;economics-of-production&#34;&gt;Economics of Production&lt;/h1&gt;&#xA;&lt;p&gt;In the field of applied chemistry, the &lt;strong&gt;economics of production&lt;/strong&gt; refers to the study of how production processes for chemical products are managed and optimized for cost efficiency. It focuses on understanding the costs involved in production and how to minimize these costs while maximizing output. Several factors impact the economics of production, including raw materials, labor, machinery, energy, and technology.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-factors-of-production&#34;&gt;1. Factors of Production&lt;/h2&gt;&#xA;&lt;p&gt;The main &lt;strong&gt;factors of production&lt;/strong&gt; in the chemical industry are:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Energy in Chemical Reactions</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/energy-in-reactions/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/energy-in-reactions/</guid>
+      <description>&lt;h1 id=&#34;energy-in-chemical-reactions&#34;&gt;Energy in Chemical Reactions&lt;/h1&gt;&#xA;&lt;p&gt;In chemical reactions, energy is either absorbed or released when bonds are broken and formed. This energy change is a key aspect of thermodynamics and is crucial in determining whether a reaction will proceed spontaneously or not. The energy involved in chemical reactions can be classified into different forms, such as heat, work, and internal energy.&lt;/p&gt;&#xA;&lt;p&gt;The heat energy released or absorbed during a chemical reaction is called the &lt;strong&gt;heat of reaction&lt;/strong&gt; or &lt;strong&gt;enthalpy change&lt;/strong&gt; ($\Delta H$). If energy is absorbed during the reaction, it is called an &lt;strong&gt;endothermic reaction&lt;/strong&gt; (positive $\Delta H$), and if energy is released, it is called an &lt;strong&gt;exothermic reaction&lt;/strong&gt; (negative $\Delta H$). The enthalpy change is typically measured under constant pressure.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Enthalpy and Enthalpy Changes: Endothermic and Exothermic Processes</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/enthalpy-changes/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/enthalpy-changes/</guid>
+      <description>&lt;h1 id=&#34;enthalpy-and-enthalpy-changes-endothermic-and-exothermic-processes&#34;&gt;Enthalpy and Enthalpy Changes: Endothermic and Exothermic Processes&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Enthalpy ($H$)&lt;/strong&gt; is a thermodynamic quantity that represents the total heat content of a system at constant pressure. It is a state function, meaning that it depends only on the state of the system, not on the path taken to reach that state.&lt;/p&gt;&#xA;&lt;p&gt;The &lt;strong&gt;enthalpy change ($\Delta H$)&lt;/strong&gt; is defined as the difference between the enthalpy of the products and the enthalpy of the reactants:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Enthalpy of Reaction, Enthalpy of Solution, Enthalpy of Formation, Enthalpy of Combustion</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/enthalpy-reaction-formation-combustion/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/enthalpy-reaction-formation-combustion/</guid>
+      <description>&lt;h1 id=&#34;enthalpy-of-reaction-enthalpy-of-solution-enthalpy-of-formation-enthalpy-of-combustion&#34;&gt;Enthalpy of Reaction, Enthalpy of Solution, Enthalpy of Formation, Enthalpy of Combustion&lt;/h1&gt;&#xA;&lt;h3 id=&#34;enthalpy-of-reaction&#34;&gt;Enthalpy of Reaction&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;enthalpy of reaction&lt;/strong&gt; ($\Delta H_{\text{reaction}}$) refers to the heat absorbed or released during a chemical reaction at constant pressure. It is the difference between the enthalpy of the products and the enthalpy of the reactants:&lt;/p&gt;&#xA;$$ \Delta H_{\text{reaction}} = H_{\text{products}} - H_{\text{reactants}} $$&lt;p&gt;For example, in a combustion reaction, energy is released as heat, making the reaction exothermic and resulting in a negative $\Delta H_{\text{reaction}}$.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Entropy and Spontaneity</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/entropy-spontaneity/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/entropy-spontaneity/</guid>
+      <description>&lt;h1 id=&#34;entropy-and-spontaneity&#34;&gt;Entropy and Spontaneity&lt;/h1&gt;&#xA;&lt;h2 id=&#34;entropy&#34;&gt;Entropy&lt;/h2&gt;&#xA;&lt;p&gt;Entropy ($S$) is a thermodynamic quantity that measures the degree of disorder or randomness in a system. It is a state function, meaning its value depends only on the current state of the system, not the path taken to reach that state. In simpler terms, entropy can be thought of as the measure of the dispersal of energy in a system.&lt;/p&gt;&#xA;&lt;h3 id=&#34;mathematical-expression&#34;&gt;Mathematical Expression:&lt;/h3&gt;&#xA;&lt;p&gt;The change in entropy, $\Delta S$, for a reversible process is given by:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Environmental Impact of the Chemical Industry</title>
       <link>http://localhost:1313/notes/neb/chemistry11/applied/fundamentals/environmental-impact-of-the-chemical-industry/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
@@ -156,11 +191,32 @@
       <description>&lt;h1 id=&#34;equivalent-weight-of-compounds-acids-bases-salts-oxidizing-and-reducing-agents&#34;&gt;Equivalent Weight of Compounds: Acids, Bases, Salts, Oxidizing and Reducing Agents&lt;/h1&gt;&#xA;&lt;p&gt;Equivalent weight is a crucial concept in chemistry that helps determine the amount of a compound needed to react completely with other substances. For different types of compounds like acids, bases, salts, oxidizing agents, and reducing agents, the equivalent weight is calculated differently depending on the nature of their reaction.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-equivalent-weight-of-acids&#34;&gt;1. Equivalent Weight of Acids&lt;/h2&gt;&#xA;&lt;p&gt;The equivalent weight of an acid is the mass of the acid that can donate one mole of hydrogen ions ($H^+$). It is calculated using the formula:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Factors Affecting Rate of Reactions: Effect of Concentration, Temperature (Arrhenius Equation), and Effect of Catalyst (Energy Profile Diagram)</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/factors-affecting-rate/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/factors-affecting-rate/</guid>
+      <description>&lt;h1 id=&#34;factors-affecting-rate-of-reactions-effect-of-concentration-temperature-arrhenius-equation-and-effect-of-catalyst-energy-profile-diagram&#34;&gt;Factors Affecting Rate of Reactions: Effect of Concentration, Temperature (Arrhenius Equation), and Effect of Catalyst (Energy Profile Diagram)&lt;/h1&gt;&#xA;&lt;p&gt;The rate of a chemical reaction can be influenced by several factors, including the concentration of reactants, temperature, and the presence of a catalyst. Each of these factors affects the frequency and energy of molecular collisions, impacting the speed at which products are formed.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-effect-of-concentration&#34;&gt;1. Effect of Concentration&lt;/h3&gt;&#xA;&lt;p&gt;According to the collision theory, a higher concentration of reactants increases the likelihood of collisions between molecules. As concentration increases, the reaction rate generally increases because more molecules are available to react. This relationship can be represented by the &lt;strong&gt;rate law&lt;/strong&gt; for the reaction:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>First Law of Thermodynamics</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/first-law/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/first-law/</guid>
+      <description>&lt;h1 id=&#34;first-law-of-thermodynamics&#34;&gt;First Law of Thermodynamics&lt;/h1&gt;&#xA;&lt;p&gt;The &lt;strong&gt;First Law of Thermodynamics&lt;/strong&gt; is a statement of the law of conservation of energy, which states that energy cannot be created or destroyed; it can only be converted from one form to another. This law is fundamental to understanding the energy changes that occur during chemical reactions and physical processes.&lt;/p&gt;&#xA;&lt;h3 id=&#34;statement-of-the-first-law&#34;&gt;Statement of the First Law:&lt;/h3&gt;&#xA;&lt;p&gt;The first law of thermodynamics can be stated as:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;Energy cannot be created or destroyed; it can only be converted from one form to another.&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Fundamentals of Applied Chemistry</title>
       <link>http://localhost:1313/notes/neb/chemistry11/applied/fundamentals/fundamentals-of-applied-chemistry/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry11/applied/fundamentals/fundamentals-of-applied-chemistry/</guid>
       <description>&lt;h1 id=&#34;fundamentals-of-applied-chemistry&#34;&gt;Fundamentals of Applied Chemistry&lt;/h1&gt;&#xA;&lt;p&gt;Applied chemistry is the branch of chemistry that deals with the application of chemical knowledge to real-world problems. It bridges the gap between theoretical chemistry and its practical use in industries, research, and everyday life. This field focuses on chemical processes, the production of chemicals, and the design of materials, as well as understanding their impacts on the environment and society.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;importance-of-applied-chemistry&#34;&gt;Importance of Applied Chemistry&lt;/h2&gt;&#xA;&lt;p&gt;Applied chemistry plays a critical role in industries like pharmaceuticals, agriculture, food, energy, and environmental science. By using chemical knowledge, scientists can design new materials, improve industrial processes, and develop technologies that benefit humanity. Some key areas where applied chemistry is crucial include:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gibbs&#39; Free Energy and Prediction of Spontaneity</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/gibbs-free-energy/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/gibbs-free-energy/</guid>
+      <description>&lt;h1 id=&#34;gibbs-free-energy-and-prediction-of-spontaneity&#34;&gt;Gibbs&amp;rsquo; Free Energy and Prediction of Spontaneity&lt;/h1&gt;&#xA;&lt;p&gt;Gibbs&amp;rsquo; free energy ($G$) is a thermodynamic quantity that combines enthalpy ($H$), entropy ($S$), and temperature ($T$) to predict whether a chemical reaction will occur spontaneously. The equation for Gibbs&amp;rsquo; free energy is:&lt;/p&gt;&#xA;$$&#xD;&#xA;G = H - TS&#xD;&#xA;$$&lt;p&gt;Where:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;$G$ is the Gibbs free energy,&lt;/li&gt;&#xA;&lt;li&gt;$H$ is the enthalpy,&lt;/li&gt;&#xA;&lt;li&gt;$T$ is the temperature in Kelvin,&lt;/li&gt;&#xA;&lt;li&gt;$S$ is the entropy.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;statement-of-the-gibbs-free-energy&#34;&gt;Statement of the Gibbs&amp;rsquo; Free Energy:&lt;/h3&gt;&#xA;&lt;p&gt;Gibbs&amp;rsquo; free energy helps determine the spontaneity of a process by examining the changes in enthalpy and entropy at a constant temperature. It predicts the direction of a reaction:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Half-life of Zero and First Order Reactions</title>
@@ -198,6 +254,13 @@
       <description>&lt;h1 id=&#34;integrated-rate-equation-for-zero-and-first-order-reactions&#34;&gt;Integrated Rate Equation for Zero and First Order Reactions&lt;/h1&gt;&#xA;&lt;p&gt;In chemical kinetics, the &lt;strong&gt;integrated rate equations&lt;/strong&gt; provide a mathematical description of how the concentration of reactants changes over time for different types of reactions. These equations are essential in determining the concentration of reactants at any given time during the reaction.&lt;/p&gt;&#xA;&lt;h3 id=&#34;zero-order-reaction&#34;&gt;Zero-Order Reaction&lt;/h3&gt;&#xA;&lt;p&gt;For a &lt;strong&gt;zero-order reaction&lt;/strong&gt;, the rate of the reaction is constant and independent of the concentration of reactants. The rate law for a zero-order reaction is:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Internal Energy</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/internal-energy/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/internal-energy/</guid>
+      <description>&lt;h1 id=&#34;internal-energy&#34;&gt;Internal Energy&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Internal energy&lt;/strong&gt; ($U$) refers to the total energy contained within a system due to both the motion of its particles (kinetic energy) and the potential energy associated with the interactions between the particles. It includes the energy stored in the chemical bonds, the energy associated with the vibrations of atoms, and the energy due to the system&amp;rsquo;s temperature.&lt;/p&gt;&#xA;&lt;p&gt;In thermodynamics, the change in internal energy ($\Delta U$) of a system is important in understanding how energy is transferred during chemical reactions or physical processes. According to the &lt;strong&gt;first law of thermodynamics&lt;/strong&gt;, energy cannot be created or destroyed, only transferred between the system and its surroundings. This law is expressed as:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Introduction and Characteristics of Aromatic Compounds</title>
       <link>http://localhost:1313/notes/neb/chemistry11/organic/aromatic-hydrocarbons/introduction-and-characteristics/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
@@ -217,6 +280,13 @@
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/volumetric-analysis/introduction/</guid>
       <description>&lt;h1 id=&#34;introduction-to-gravimetric-analysis-volumetric-analysis-and-equivalent-weight&#34;&gt;Introduction to Gravimetric Analysis, Volumetric Analysis, and Equivalent Weight&lt;/h1&gt;&#xA;&lt;p&gt;Gravimetric and volumetric analyses are fundamental quantitative techniques in analytical chemistry, used to determine the amount of a substance in a sample. The concept of &lt;strong&gt;equivalent weight&lt;/strong&gt; is essential in these analyses, particularly in stoichiometric calculations.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-gravimetric-analysis&#34;&gt;1. Gravimetric Analysis&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Gravimetric Analysis&lt;/strong&gt; is a technique used to measure the mass of an analyte or its derivative to determine the quantity of a substance in a sample. This process often involves converting the analyte into a stable, insoluble form and measuring its weight.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Introduction to Thermodynamics</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/introduction/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/introduction/</guid>
+      <description>&lt;h1 id=&#34;introduction-to-thermodynamics&#34;&gt;Introduction to Thermodynamics&lt;/h1&gt;&#xA;&lt;p&gt;Thermodynamics is the branch of chemistry that deals with the study of energy and its transformations. It is concerned with the relationship between heat, work, temperature, and energy in chemical processes. Thermodynamics provides important insights into the spontaneity of reactions, equilibrium, and the efficiency of energy conversion.&lt;/p&gt;&#xA;&lt;p&gt;A thermodynamic system is defined as a part of the universe that is under study, and it is separated from its surroundings by a boundary. The study of thermodynamics helps in understanding the changes that occur in energy during chemical reactions and physical changes, and how these changes affect the state of matter.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Ionic Product of Water (Kw)</title>
@@ -252,6 +322,13 @@
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/volumetric-analysis/law-normality/</guid>
       <description>&lt;h1 id=&#34;law-of-equivalence-and-normality-equation&#34;&gt;Law of Equivalence and Normality Equation&lt;/h1&gt;&#xA;&lt;p&gt;In analytical chemistry, titration is a method of determining the concentration of an unknown solution by reacting it with a solution of known concentration. The &lt;strong&gt;Law of Equivalence&lt;/strong&gt; and &lt;strong&gt;Normality Equation&lt;/strong&gt; are key concepts in titrations, particularly in acid-base and redox reactions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;law-of-equivalence&#34;&gt;Law of Equivalence&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Law of Equivalence&lt;/strong&gt; states that at the equivalence point in a titration, the amount of substance (in equivalents) in the titrant is equal to the amount of substance (in equivalents) in the analyte.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Laws of Thermochemistry (Laplace&#39;s Law and Hess&#39;s Law)</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/laws-thermochemistry/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/laws-thermochemistry/</guid>
+      <description>&lt;h1 id=&#34;laws-of-thermochemistry-laplaces-law-and-hesss-law&#34;&gt;Laws of Thermochemistry (Laplace&amp;rsquo;s Law and Hess&amp;rsquo;s Law)&lt;/h1&gt;&#xA;&lt;h2 id=&#34;laplaces-law&#34;&gt;Laplace&amp;rsquo;s Law&lt;/h2&gt;&#xA;&lt;p&gt;Laplace&amp;rsquo;s Law, also known as the &lt;strong&gt;law of constant heat summation&lt;/strong&gt;, states that if a chemical reaction can be represented as the sum of two or more individual reactions, the total heat change of the overall reaction is equal to the sum of the heat changes of the individual reactions. In other words, the enthalpy change of a reaction is independent of the pathway taken between the initial and final states.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lewis Definition of Acids and Bases</title>
@@ -366,6 +443,13 @@
       <description>&lt;h1 id=&#34;rate-of-reactions-average-and-instantaneous-rate-of-reactions&#34;&gt;Rate of Reactions: Average and Instantaneous Rate of Reactions&lt;/h1&gt;&#xA;&lt;p&gt;The rate of a chemical reaction is a measure of how quickly the concentration of a reactant or product changes over time. It is an essential concept in chemical kinetics, helping us understand how fast reactions occur under different conditions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;average-rate-of-reaction&#34;&gt;Average Rate of Reaction&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;average rate&lt;/strong&gt; of a reaction is calculated over a period of time. It measures the change in concentration of reactants or products over a specified time interval. Mathematically, it is expressed as:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Relationship Between ∆G and Equilibrium Constant (Solving Related Numerical Problems)</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/delta-g-equilibrium/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/delta-g-equilibrium/</guid>
+      <description>&lt;h1 id=&#34;relationship-between-delta-g-and-equilibrium-constant-solving-related-numerical-problems&#34;&gt;Relationship Between $\Delta G$ and Equilibrium Constant (Solving Related Numerical Problems)&lt;/h1&gt;&#xA;&lt;p&gt;The relationship between the change in Gibbs&amp;rsquo; free energy ($\Delta G$) and the equilibrium constant ($K$) of a chemical reaction can be expressed using the following equation:&lt;/p&gt;&#xA;$$&#xD;&#xA;\Delta G = -RT \ln K&#xD;&#xA;$$&lt;p&gt;Where:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;$\Delta G$ is the change in Gibbs free energy,&lt;/li&gt;&#xA;&lt;li&gt;$R$ is the universal gas constant (8.314 J/mol·K),&lt;/li&gt;&#xA;&lt;li&gt;$T$ is the temperature in Kelvin,&lt;/li&gt;&#xA;&lt;li&gt;$K$ is the equilibrium constant.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;This equation allows us to predict the spontaneity of a reaction at equilibrium based on the value of $K$:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Relationship Between Equivalent Weight, Atomic Weight, and Valency</title>
       <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/volumetric-analysis/equivalent-weight/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
@@ -415,11 +499,25 @@
       <description>&lt;h1 id=&#34;salts-of-weak-base-and-strong-acid-solving-related-numerical-problems&#34;&gt;Salts of Weak Base and Strong Acid (Solving Related Numerical Problems)&lt;/h1&gt;&#xA;&lt;p&gt;Salts formed from weak bases and strong acids are &lt;strong&gt;acidic salts&lt;/strong&gt;. These salts undergo hydrolysis in water, resulting in an acidic solution with a pH below 7. Common examples include ammonium chloride ($\text{NH}_4\text{Cl}$) and ammonium sulfate ($\text{(NH}_4)_2\text{SO}_4$). These salts dissociate in water, and the cation from the weak base undergoes hydrolysis, producing $\text{H}^+$ ions, which makes the solution acidic.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Second Law of Thermodynamics</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/second-law/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/thermodynamics/second-law/</guid>
+      <description>&lt;h1 id=&#34;second-law-of-thermodynamics&#34;&gt;Second Law of Thermodynamics&lt;/h1&gt;&#xA;&lt;p&gt;The second law of thermodynamics is a fundamental principle that governs the direction of natural processes. It states that the total entropy of an isolated system always increases over time for a spontaneous process. In simple terms, entropy, or disorder, tends to increase in natural processes, and the process can only move in the direction that increases entropy.&lt;/p&gt;&#xA;&lt;h3 id=&#34;statement-of-the-second-law&#34;&gt;Statement of the Second Law:&lt;/h3&gt;&#xA;&lt;p&gt;The second law of thermodynamics can be stated in various ways, but one common form is:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Solubility and Solubility Product Principle</title>
       <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/solubility-solubility-product/</link>
       <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/solubility-solubility-product/</guid>
       <description>&lt;h1 id=&#34;solubility-and-solubility-product-principle&#34;&gt;Solubility and Solubility Product Principle&lt;/h1&gt;&#xA;&lt;p&gt;Solubility refers to the maximum amount of a substance (solute) that can dissolve in a given quantity of solvent at a specific temperature, forming a saturated solution. Solubility product ($K_{sp}$) is a constant that represents the equilibrium between the dissolved ions and the undissolved solid in a saturated solution of an ionic compound.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;solubility&#34;&gt;Solubility&lt;/h2&gt;&#xA;&lt;p&gt;When an ionic compound dissolves in water, it dissociates into its constituent ions. The solubility of the compound is the concentration of these ions in a saturated solution. For example, the solubility of sodium chloride ($\mathrm{NaCl}$) can be described as:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solving Related Numerical Problems Based on Rate, Rate Constant, and Order of Zero and First-Order Reactions</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/numerical-problems/</link>
+      <pubDate>Thu, 14 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/chemical-kinetics/numerical-problems/</guid>
+      <description>&lt;h1 id=&#34;solving-related-numerical-problems-based-on-rate-rate-constant-and-order-of-zero-and-first-order-reactions&#34;&gt;Solving Related Numerical Problems Based on Rate, Rate Constant, and Order of Zero and First-Order Reactions&lt;/h1&gt;&#xA;&lt;p&gt;In this section, we will focus on solving numerical problems related to the rate of reactions, rate constant, and order of zero and first-order reactions. These problems involve understanding the mathematical expressions that describe reaction rates, as well as applying the integrated rate equations for zero and first-order reactions to calculate quantities such as concentration, time, and rate constant.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stages in Producing a New Product</title>
