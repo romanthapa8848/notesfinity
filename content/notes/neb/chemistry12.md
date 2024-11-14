@@ -72,8 +72,8 @@ layout: "non_math_mode"
 - [2.17 Types of salts: Acidic salts, basic salts, simple salts, complex salts (introduction and examples)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/types-of-salts/)
 - [2.18 Hydrolysis of salts](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis-of-salts/)
 
-  - [2.18.1 Salts of strong acid and strong base](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-strong-acid-strong-base/)
-  - [2.18.2 Salts of weak acid and strong base](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-acid-strong-base/)
+  - [2.18.1 Salts of strong acid and strong base (solving related numerical problems)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-strong-acid-strong-base/)
+  - [2.18.2 Salts of weak acid and strong base (solving related numerical problems)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-acid-strong-base/)
   - [2.18.3 Salts of weak base and strong acid (solving related numerical problems)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-base-strong-acid/)
 
 ---
