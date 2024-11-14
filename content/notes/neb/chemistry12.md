@@ -41,40 +41,40 @@ layout: "non_math_mode"
 
 ### 1. Volumetric Analysis
 
-- [1.1 Introduction to gravimetric analysis, volumetric analysis and equivalent weight](./general-and-physical/volumetric-analysis/introduction.html)
-- [1.2 Relationship between equivalent weight, atomic weight and valency](./general-and-physical/volumetric-analysis/equivalent-weight.html)
-- [1.3 Equivalent weight of compounds (acid, base, salt, oxidizing and reducing agents)](./general-and-physical/volumetric-analysis/equivalent-weight-compounds.html)
-- [1.4 Concentration of solution and its units in terms of: Percentage, g/L, molarity, molality, normality and formality, ppm and ppb](./general-and-physical/volumetric-analysis/concentration.html)
-- [1.5 Primary and secondary standard substances](./general-and-physical/volumetric-analysis/standards.html)
-- [1.6 Law of equivalence and normality equation](./general-and-physical/volumetric-analysis/law-normality.html)
-- [1.7 Titration and its types: Acid-base titration, redox titration (related numerical problems)](./general-and-physical/volumetric-analysis/titration-types.html)
+- [1.1 Introduction to gravimetric analysis, volumetric analysis and equivalent weight](/notes/neb/chemistry12/general-and-physical/volumetric-analysis/introduction/)
+- [1.2 Relationship between equivalent weight, atomic weight and valency](/notes/neb/chemistry12/general-and-physical/volumetric-analysis/equivalent-weight/)
+- [1.3 Equivalent weight of compounds (acid, base, salt, oxidizing and reducing agents)](/notes/neb/chemistry12/general-and-physical/volumetric-analysis/equivalent-weight-compounds/)
+- [1.4 Concentration of solution and its units in terms of: Percentage, g/L, molarity, molality, normality and formality, ppm and ppb](/notes/neb/chemistry12/general-and-physical/volumetric-analysis/concentration/)
+- [1.5 Primary and secondary standard substances](/notes/neb/chemistry12/general-and-physical/volumetric-analysis/standards/)
+- [1.6 Law of equivalence and normality equation](/notes/neb/chemistry12/general-and-physical/volumetric-analysis/law-normality/)
+- [1.7 Titration and its types: Acid-base titration, redox titration (related numerical problems)](/notes/neb/chemistry12/general-and-physical/volumetric-analysis/titration-types/)
 
 ---
 
 ### 2. Ionic Equilibrium
 
-- [2.1 Introduction to Acids and Bases](./general-and-physical/ionic-equilibrium/introduction-acids-bases.html)
-- [2.2 Limitation of Arrhenius concepts of acids and bases](./general-and-physical/ionic-equilibrium/limitation-arrhenius.html)
-- [2.3 Brønsted–Lowry definition of acids and bases](./general-and-physical/ionic-equilibrium/bronsted-lowry-definition.html)
-- [2.4 Relative strength of acids and bases](./general-and-physical/ionic-equilibrium/relative-strength-acids-bases.html)
-- [2.5 Conjugate acid–base pairs](./general-and-physical/ionic-equilibrium/conjugate-acid-base-pairs.html)
-- [2.6 Lewis definition of acids and bases](./general-and-physical/ionic-equilibrium/lewis-definition.html)
-- [2.7 Ionization of weak electrolyte (Ostwald's dilution law)](./general-and-physical/ionic-equilibrium/ionization-weak-electrolyte.html)
-- [2.8 Ionic product of water (K<sub>w</sub>)](./general-and-physical/ionic-equilibrium/ionic-product-water.html)
-- [2.9 Dissociation constant of acid and base (K<sub>a</sub> & K<sub>b</sub>)](./general-and-physical/ionic-equilibrium/dissociation-constant.html)
-- [2.10 Concept of pK<sub>a</sub> and pK<sub>b</sub>](./general-and-physical/ionic-equilibrium/concept-pKa-pKb.html)
-- [2.11 pH value: pH of strong and weak acids, pH of strong and weak bases](./general-and-physical/ionic-equilibrium/pH-value.html)
-- [2.12 Solubility and solubility product principle](./general-and-physical/ionic-equilibrium/solubility-solubility-product.html)
-- [2.13 Common Ion effect](./general-and-physical/ionic-equilibrium/common-ion-effect.html)
-- [2.14 Application of solubility product principle and common ion effect in precipitation reactions](./general-and-physical/ionic-equilibrium/application-solubility-product.html)
-- [2.15 Buffer solution and its application](./general-and-physical/ionic-equilibrium/buffer-solution.html)
-- [2.16 Indicators and selection of indicators in acid-base titration](./general-and-physical/ionic-equilibrium/indicators-selection.html)
-- [2.17 Types of salts: Acidic salts, basic salts, simple salts, complex salts (introduction and examples)](./general-and-physical/ionic-equilibrium/types-of-salts.html)
-- [2.18 Hydrolysis of salts](./general-and-physical/ionic-equilibrium/hydrolysis-of-salts.html)
+- [2.1 Introduction to Acids and Bases](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/introduction-acids-bases/)
+- [2.2 Limitation of Arrhenius concepts of acids and bases](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/limitation-arrhenius/)
+- [2.3 Brønsted–Lowry definition of acids and bases](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/bronsted-lowry-definition/)
+- [2.4 Relative strength of acids and bases](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/relative-strength-acids-bases/)
+- [2.5 Conjugate acid–base pairs](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/conjugate-acid-base-pairs/)
+- [2.6 Lewis definition of acids and bases](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/lewis-definition/)
+- [2.7 Ionization of weak electrolyte (Ostwald's dilution law)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/ionization-weak-electrolyte/)
+- [2.8 Ionic product of water (K<sub>w</sub>)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/ionic-product-water/)
+- [2.9 Dissociation constant of acid and base (K<sub>a</sub> & K<sub>b</sub>)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/dissociation-constant/)
+- [2.10 Concept of pK<sub>a</sub> and pK<sub>b</sub>](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/concept-pKa-pKb/)
+- [2.11 pH value: pH of strong and weak acids, pH of strong and weak bases](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/pH-value/)
+- [2.12 Solubility and solubility product principle](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/solubility-solubility-product/)
+- [2.13 Common Ion effect](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/common-ion-effect/)
+- [2.14 Application of solubility product principle and common ion effect in precipitation reactions](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/application-solubility-product/)
+- [2.15 Buffer solution and its application](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/buffer-solution/)
+- [2.16 Indicators and selection of indicators in acid-base titration](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/indicators-selection/)
+- [2.17 Types of salts: Acidic salts, basic salts, simple salts, complex salts (introduction and examples)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/types-of-salts/)
+- [2.18 Hydrolysis of salts](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis-of-salts/)
 
-  - [2.18.1 Salts of strong acid and strong base](./general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-strong-acid-strong-base.html)
-  - [2.18.2 Salts of weak acid and strong base](./general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-acid-strong-base.html)
-  - [2.18.3 Salts of weak base and strong acid (solving related numerical problems)](./general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-base-strong-acid.html)
+  - [2.18.1 Salts of strong acid and strong base](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-strong-acid-strong-base/)
+  - [2.18.2 Salts of weak acid and strong base](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-acid-strong-base/)
+  - [2.18.3 Salts of weak base and strong acid (solving related numerical problems)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-base-strong-acid/)
 
 ---
 
