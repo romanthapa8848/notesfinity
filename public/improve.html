@@ -3,10 +3,10 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Report | OpenKitab</title>
+    <title>Help Improve | OpenKitab</title>
     <meta
       name="description"
-      content="Report any mistakes or issues in our notes on Notesfinity."
+      content="Help improve the website by reporting any mistakes or issues in our notes."
     />
     <!-- Custom CSS -->
     <link rel="stylesheet" href="/css/header.css" />
@@ -33,7 +33,7 @@
     </script>
 
     <style>
-      .report-form {
+      .improve-form {
         max-width: 600px;
         margin: 40px auto;
         padding: 20px;
@@ -42,13 +42,13 @@
         box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
         background-color: #f9f9f9;
       }
-      .report-form h1 {
+      .improve-form h1 {
         text-align: center;
         margin-bottom: 20px;
       }
-      .report-form input,
-      .report-form textarea,
-      .report-form button {
+      .improve-form input,
+      .improve-form textarea,
+      .improve-form button {
         width: 100%;
         margin: 10px 0;
         padding: 10px;
@@ -56,18 +56,18 @@
         border-radius: 4px;
         box-sizing: border-box;
       }
-      .report-form textarea {
+      .improve-form textarea {
         resize: vertical;
         min-height: 120px;
       }
-      .report-form button {
+      .improve-form button {
         background-color: #4caf50;
         color: white;
         border: none;
         cursor: pointer;
         transition: background-color 0.3s;
       }
-      .report-form button:hover {
+      .improve-form button:hover {
         background-color: #45a049;
       }
       .error {
@@ -101,13 +101,12 @@
       </header>
 
       <main class="content">
-        <div class="report-form">
-          <h1>Report mistake(s)</h1>
+        <div class="improve-form">
+          <h1>How do you want to improve this website?</h1>
           <p>
-            Found an issue in our notes? Please let us know by filling out this
-            form. Your feedback helps us improve!
+            Found an issue in our notes or have suggestions? Let us know by filling out this form. Your feedback helps us improve!
           </p>
-          <form id="reportForm">
+          <form id="improveForm">
             <input
               type="text"
               name="name"
@@ -125,10 +124,10 @@
             <textarea
               name="message"
               id="message"
-              placeholder="Describe the mistake or issue..."
+              placeholder="Describe the issue or suggestion..."
               required
             ></textarea>
-            <button type="submit">Submit Report</button>
+            <button type="submit">Submit</button>
           </form>
           <p id="formResponse" style="margin-top: 15px"></p>
         </div>
@@ -153,7 +152,7 @@
     <script>
       // Handle form submission using EmailJS
       document
-        .getElementById("reportForm")
+        .getElementById("improveForm")
         .addEventListener("submit", function (e) {
           e.preventDefault(); // Prevent the default form submission
 
@@ -186,7 +185,7 @@
             .then((response) => {
               formResponse.textContent = "Thank you for your feedback!";
               formResponse.classList.remove("error");
-              document.getElementById("reportForm").reset(); // Reset the form
+              document.getElementById("improveForm").reset(); // Reset the form
               console.log("SUCCESS!", response.status, response.text);
             })
             .catch((error) => {
