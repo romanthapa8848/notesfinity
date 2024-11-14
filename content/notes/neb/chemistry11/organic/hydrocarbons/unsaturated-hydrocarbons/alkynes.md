@@ -26,7 +26,7 @@ Alkynes are a class of hydrocarbons that contain a carbon-carbon triple bond. Th
 Alkynes can be prepared by the dehydrogenation of alkanes or alkenes. One of the simplest methods for preparing alkynes is the dehydrogenation of **alkenes** in the presence of a catalyst, usually **platinum (Pt)** or **nickel (Ni)**. The process involves the removal of hydrogen atoms from the molecule, leading to the formation of a triple bond.
 
 - **Example Reaction**:
-  - $$\text{CH}_2=\text{CH}_2 \xrightarrow{\text{Pt/Ni}} \text{CH} \equiv \text{CH}$$
+  - $\text{CH}_2=\text{CH}_2 \xrightarrow{\text{Pt/Ni}} \text{CH} \equiv \text{CH}$
   - In this reaction, **ethene (C₂H₄)** is converted into **ethyne (acetylene, C₂H₂)** by dehydrogenation.
 
 This method is typically used to convert alkenes into alkynes, and sometimes, alkynes can be directly synthesized from hydrocarbons using strong heating in the presence of a catalyst.
@@ -41,7 +41,7 @@ Alkynes can also be synthesized by the **double dehydrohalogenation** of **1,2-d
   - The **1,2-dibromoethane** undergoes dehydrohalogenation in the presence of a strong base, such as **potassium hydroxide (KOH)** or **sodium amide (NaNH₂)**, leading to the formation of an alkyne.
 
 - **Example Reaction**:
-  - $$\text{CH}_2\text{BrCH}_2\text{Br} \xrightarrow{\text{KOH/NaNH}_2} \text{CH} \equiv \text{CH}$$
+  - $\text{CH}_2\text{BrCH}_2\text{Br} \xrightarrow{\text{KOH/NaNH}_2} \text{CH} \equiv \text{CH}$
   - In this case, **1,2-dibromoethane** is converted into **ethyne (acetylene, C₂H₂)**.
 
 ---
@@ -54,7 +54,7 @@ Another method for preparing alkynes is through the **haloform reaction** with c
   - The base abstracts a proton from the methyl ketone, leading to the formation of an intermediate enolate. This intermediate then reacts with chloroform, undergoing a series of steps to form an alkyne.
   
 - **Example Reaction**:
-  - $$\text{CH}_3\text{COCH}_3 + \text{CHCl}_3 \xrightarrow{\text{Base}} \text{CH}_2\text{C} \equiv \text{CH}$$
+  - $\text{CH}_3\text{COCH}_3 + \text{CHCl}_3 \xrightarrow{\text{Base}} \text{CH}_2\text{C} \equiv \text{CH}$
   - In this case, **acetone** reacts with **chloroform** in the presence of a base, forming **ethyne (acetylene, C₂H₂)**.
 
 - **Reaction with Iodoform**:

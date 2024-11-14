@@ -333,23 +333,23 @@ layout: "non_math_mode"
     - [14.2.1.1 Chemical properties: Addition reaction with HX (Markovnikov’s addition and peroxide effect), H<sub>2</sub>O, O<sub>3</sub>, H<sub>2</sub>SO<sub>4</sub> only](/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/alkenes/chemical-properties-of-alkenes/)
   - [14.3 Alkynes: Preparation from carbon and hydrogen, 1,2 dibromoethane, chloroform/iodoform only](/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/alkynes/)
 
-    - [14.3.1 Chemical properties: Addition reaction with (H<sub>2</sub>, HX, H<sub>2</sub>O), Acidic nature (action with Sodium, ammoniacal AgNO<sub>3</sub> and ammoniacal Cu<sub>2</sub>Cl<sub>2</sub>)](/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/chemical-properties-of-alkynes/)
+    - [14.3.1 Chemical properties: Addition reaction with (H<sub>2</sub>, HX, H<sub>2</sub>O), Acidic nature (action with Sodium, ammoniacal AgNO<sub>3</sub> and ammoniacal Cu<sub>2</sub>Cl<sub>2</sub>)](/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/alkynes/chemical-properties/)
 
-- [14.4 Test of unsaturation (ethene & ethyne): bromine water test and Baeyer's test](/notes/neb/chemistry11/organic/hydrocarbons/test-of-unsaturation/)
-- [14.5 Comparative studies of physical properties of alkane, alkene and alkyne](/notes/neb/chemistry11/organic/hydrocarbons/comparative-studies-of-physical-properties-of-alkanes-alkenes-and-alkynes/)
-- [14.6 Kolbe's electrolysis methods for the preparation of alkane, alkene and alkynes](/notes/neb/chemistry11/organic/hydrocarbons/kolbes-electrolysis-methods/)
+- [14.4 Test of unsaturation (ethene & ethyne): bromine water test and Baeyer's test](/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/test-of-unsaturation/)
+- [14.5 Comparative studies of physical properties of alkane, alkene and alkyne](/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/comparative-studies/)
+- [14.6 Kolbe's electrolysis methods for the preparation of alkane, alkene and alkynes](/notes/neb/chemistry11/organic/hydrocarbons/unsaturated-hydrocarbons/kolbes-electrolysis/)
 
 ---
 
 ### 15. Aromatic Hydrocarbons
 
-- [15.1 Introduction and characteristics of aromatic compounds](./organic/aromatic-hydrocarbons/introduction-and-characteristics-of-aromatic-compounds.html)
-- [15.2 Hückel's rule of aromaticity](./organic/aromatic-hydrocarbons/hückels-rule-of-aromaticity.html)
-- [15.3 Kekulé structure of benzene](./organic/aromatic-hydrocarbons/kekulé-structure-of-benzene.html)
-- [15.4 Resonance and isomerism](./organic/aromatic-hydrocarbons/resonance-and-isomerism.html)
-- [15.5 Preparation of benzene from decarboxylation of sodium benzoate, phenol, and ethyne only](./organic/aromatic-hydrocarbons/preparation-of-benzene.html)
-- [15.6 Physical properties of benzene](./organic/aromatic-hydrocarbons/physical-properties-of-benzene.html)
-- [15.7 Chemical properties of benzene: Addition reaction: hydrogen, halogen, Electrophilic substitution reactions: orientation of benzene derivatives (o, m & p), nitration, sulphonation, halogenations, Friedal-Craft's reaction (alkylation and acylation), combustion of benzene (free combustion only) and uses](./organic/aromatic-hydrocarbons/chemical-properties-of-benzene.html)
+- [15.1 Introduction and characteristics of aromatic compounds](/notes/neb/chemistry11/organic/aromatic-hydrocarbons/introduction-and-characteristics/)
+- [15.2 Hückel's rule of aromaticity](/notes/neb/chemistry11/organic/aromatic-hydrocarbons/hückels-rule-of-aromaticity)
+- [15.3 Kekulé structure of benzene](/notes/neb/chemistry11/organic/aromatic-hydrocarbons/kekulé-structure-of-benzene)
+- [15.4 Resonance and isomerism](/notes/neb/chemistry11/organic/aromatic-hydrocarbons/resonance-and-isomerism)
+- [15.5 Preparation of benzene from decarboxylation of sodium benzoate, phenol, and ethyne only](/notes/neb/chemistry11/organic/aromatic-hydrocarbons/preparation-of-benzene)
+- [15.6 Physical properties of benzene](/notes/neb/chemistry11/organic/aromatic-hydrocarbons/physical-properties-of-benzene)
+- [15.7 Chemical properties of benzene: Addition reaction: hydrogen, halogen, Electrophilic substitution reactions: orientation of benzene derivatives (o, m & p), nitration, sulphonation, halogenations, Friedal-Craft's reaction (alkylation and acylation), combustion of benzene (free combustion only) and uses](/notes/neb/chemistry11/organic/aromatic-hydrocarbons/chemical-properties-of-benzene)
 
 ---
 
@@ -359,24 +359,24 @@ layout: "non_math_mode"
 
 ### 16. Fundamentals of Applied Chemistry
 
-- [16.1 Fundamentals of Applied Chemistry](./applied/fundamentals/fundamentals-of-applied-chemistry.html)
-- [16.1.2 Chemical industry and its importance](./applied/fundamentals/chemical-industry-and-its-importance.html)
-- [16.1.3 Stages in producing a new product](./applied/fundamentals/stages-in-producing-a-new-product.html)
-- [16.1.4 Economics of production](./applied/fundamentals/economics-of-production.html)
-- [16.1.5 Cash flow in the production cycle](./applied/fundamentals/cash-flow-in-the-production-cycle.html)
-- [16.1.6 Running a chemical plant](./applied/fundamentals/running-a-chemical-plant.html)
-- [16.1.7 Designing a chemical plant](./applied/fundamentals/designing-a-chemical-plant.html)
-- [16.1.8 Continuous and batch processing](./applied/fundamentals/continuous-and-batch-processing.html)
-- [16.1.9 Environmental impact of the chemical industry](./applied/fundamentals/environmental-impact-of-the-chemical-industry.html)
+- [16.1 Fundamentals of Applied Chemistry](/notes/neb/chemistry11/applied/fundamentals/fundamentals-of-applied-chemistry/)
+- [16.1.2 Chemical industry and its importance](/notes/neb/chemistry11/applied/fundamentals/chemical-industry-and-its-importance/)
+- [16.1.3 Stages in producing a new product](/notes/neb/chemistry11/applied/fundamentals/stages-in-producing-a-new-product/)
+- [16.1.4 Economics of production](/notes/neb/chemistry11/applied/fundamentals/economics-of-production/)
+- [16.1.5 Cash flow in the production cycle](/notes/neb/chemistry11/applied/fundamentals/cash-flow-in-the-production-cycle/)
+- [16.1.6 Running a chemical plant](/notes/neb/chemistry11/applied/fundamentals/running-a-chemical-plant/)
+- [16.1.7 Designing a chemical plant](/notes/neb/chemistry11/applied/fundamentals/designing-a-chemical-plant/)
+- [16.1.8 Continuous and batch processing](/notes/neb/chemistry11/applied/fundamentals/continuous-and-batch-processing/)
+- [16.1.9 Environmental impact of the chemical industry](/notes/neb/chemistry11/applied/fundamentals/environmental-impact-of-the-chemical-industry/)
 
 ---
 
 ### 17. Modern Chemical Manufactures
 
-- [17.1 Modern Chemical Manufactures (principle and flow sheet diagram only)](./applied/mcm/mcm.html)
-- [17.1.1 Manufacture of ammonia by Haber's process](./applied/mcm/habers.html)
-- [17.1.2 Manufacture of nitric acid by Ostwald's process](./applied/mcm/ostwalds.html)
-- [17.1.3 Manufacture of sulphuric acid by contact process](./applied/mcm/contact.html)
-- [17.1.4 Manufacture of sodium hydroxide by Diaphragm Cell](./applied/mcm/diaphragm.html)
-- [17.1.5 Manufacture of sodium carbonate by ammonia soda or Solvay process](./applied/mcm/solvay.html)
-- [17.2 Fertilizers (Chemical fertilizers, types of chemical fertilizers, production of urea with flow-sheet diagram)](./applied/mcm/fertilizers.html)
+- [17.1 Modern Chemical Manufactures (principle and flow sheet diagram only)](/notes/neb/chemistry11/applied/mcm/mcm/)
+ - [17.1.1 Manufacture of ammonia by Haber's process](/notes/neb/chemistry11/applied/mcm/mcm/habers/)
+ - [17.1.2 Manufacture of nitric acid by Ostwald's process](/notes/neb/chemistry11/applied/mcm/mcm/ostwalds/)
+ - [17.1.3 Manufacture of sulphuric acid by contact process](/notes/neb/chemistry11/applied/mcm/mcm/contact/)
+ - [17.1.4 Manufacture of sodium hydroxide by Diaphragm Cell](/notes/neb/chemistry11/applied/mcm/mcm/diaphragm/)
+ - [17.1.5 Manufacture of sodium carbonate by ammonia soda or Solvay process](/notes/neb/chemistry11/applied/mcm/mcm/solvay/)
+- [17.2 Fertilizers (Chemical fertilizers, types of chemical fertilizers, production of urea with flow-sheet diagram)](./applied/mcm/mcm/fertilizers/)
