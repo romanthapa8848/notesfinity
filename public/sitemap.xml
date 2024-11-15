@@ -14,6 +14,9 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/characteristics/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/chemical-properties/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/mercury/mercury-calomel-corrosive-sublimate/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -38,10 +41,22 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/electrochemistry/electrode-potential/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/elimination-reactions/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/formation/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/introduction/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/iron/steel-manufacture/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/nomenclature/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/</loc>
@@ -68,7 +83,13 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/oxidation-states/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/physical-properties/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/silver/silver-chloride-nitrate/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/preparation/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/zinc/zinc-properties-uses/</loc>
@@ -1995,6 +2016,8 @@
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ring-test-nitrate-ion-test/</loc>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/trichloromethane-preparation/</loc>
   </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/number-system/boolean-logic/logic-gates/</loc>
   </url><url>
