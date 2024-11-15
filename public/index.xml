@@ -44,6 +44,13 @@
       <description>&lt;h1 id=&#34;blue-vitriol-copper-sulfate-preparation-properties-and-uses&#34;&gt;Blue Vitriol (Copper Sulfate): Preparation, Properties, and Uses&lt;/h1&gt;&#xA;&lt;p&gt;Blue vitriol, commonly known as &lt;strong&gt;copper sulfate&lt;/strong&gt; ($\ce{CuSO_4}$), is a bright blue chemical compound with a variety of applications in industries and laboratories. It is primarily used in agriculture, as a fungicide, and in several chemical processes.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;preparation-of-blue-vitriol&#34;&gt;Preparation of Blue Vitriol&lt;/h2&gt;&#xA;&lt;p&gt;Copper sulfate can be prepared in several ways:&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-from-copper-ore-copper-pyrite&#34;&gt;1. &lt;strong&gt;From Copper Ore (Copper Pyrite)&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;Copper sulfate can be obtained by the &lt;strong&gt;roasting of copper pyrite&lt;/strong&gt; ($\ce{CuFeS_2}$) in the presence of oxygen. This reaction forms copper oxide ($\ce{CuO}$) and sulfur dioxide ($\ce{SO_2}$), which is then converted into copper sulfate.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Catalytic Dehydrogenation of 1º and 2º Alcohols and Dehydration of 3º Alcohols</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/catalytic-dehydrogenation/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/catalytic-dehydrogenation/</guid>
+      <description>&lt;h1 id=&#34;catalytic-dehydrogenation-of-1º-and-2º-alcohols-and-dehydration-of-3º-alcohols&#34;&gt;Catalytic Dehydrogenation of 1º and 2º Alcohols and Dehydration of 3º Alcohols&lt;/h1&gt;&#xA;&lt;p&gt;The catalytic dehydrogenation and dehydration of alcohols are important reactions in organic synthesis, as they lead to the formation of &lt;strong&gt;carbon-carbon double bonds&lt;/strong&gt; or &lt;strong&gt;carbonyl compounds&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-catalytic-dehydrogenation-of-primary-and-secondary-alcohols&#34;&gt;1. Catalytic Dehydrogenation of Primary and Secondary Alcohols&lt;/h2&gt;&#xA;&lt;h3 id=&#34;primary-alcohols&#34;&gt;Primary Alcohols:&lt;/h3&gt;&#xA;&lt;p&gt;Primary alcohols undergo &lt;strong&gt;dehydrogenation&lt;/strong&gt; in the presence of a catalyst (e.g., &lt;strong&gt;Cu&lt;/strong&gt;, &lt;strong&gt;Cr₂O₃&lt;/strong&gt;) to form &lt;strong&gt;aldehydes&lt;/strong&gt;. The general reaction is:&lt;/p&gt;&#xA;$$ \ce{R-CH_2OH \xrightarrow{Cu, \Delta} R-CHO + H_2} $$&lt;p&gt;&lt;br&gt;&#xA;(Primary alcohol to aldehyde)&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Catalytic Properties of Transition Metals</title>
       <link>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/catalytic-properties/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
@@ -133,6 +140,13 @@
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/definition-terms/</guid>
       <description>&lt;h1 id=&#34;common-terms-related-to-alcohols&#34;&gt;Common Terms Related to Alcohols&lt;/h1&gt;&#xA;&lt;p&gt;In the context of alcohols, various terms refer to specific types and uses of alcohol. Below are the definitions of some of the most commonly used terms related to alcohol.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-absolute-alcohol&#34;&gt;1. &lt;strong&gt;Absolute Alcohol&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Absolute alcohol&lt;/strong&gt; refers to &lt;strong&gt;pure ethanol&lt;/strong&gt; that is nearly free from water. It is typically obtained by removing the water from ethanol through a drying agent like anhydrous calcium oxide or by using &lt;strong&gt;distillation&lt;/strong&gt;. Absolute alcohol is highly volatile and is used in laboratories, as a solvent, and in some industrial applications.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Dehydration of Alcohols</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/dehydration/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/dehydration/</guid>
+      <description>&lt;h1 id=&#34;dehydration-of-alcohols&#34;&gt;Dehydration of Alcohols&lt;/h1&gt;&#xA;&lt;p&gt;Dehydration of alcohols is a &lt;strong&gt;elimination reaction&lt;/strong&gt; in which an alcohol loses a molecule of water, resulting in the formation of an &lt;strong&gt;alkene&lt;/strong&gt;. This reaction is typically facilitated by &lt;strong&gt;heat&lt;/strong&gt; and the presence of &lt;strong&gt;concentrated sulfuric acid (H₂SO₄)&lt;/strong&gt; or &lt;strong&gt;phosphoric acid (H₃PO₄)&lt;/strong&gt; as a catalyst. The process is an important method in organic synthesis to produce alkenes from alcohols.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mechanism-of-dehydration&#34;&gt;Mechanism of Dehydration&lt;/h2&gt;&#xA;&lt;p&gt;The dehydration of alcohols generally proceeds through a two-step mechanism:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Distinction of Primary, Secondary, and Tertiary Alcohols by Victor Meyer&#39;s Method</title>
@@ -287,6 +301,13 @@
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/copper/copper-compounds/</guid>
       <description>&lt;h1 id=&#34;other-compounds-of-copper-red-oxide-and-black-oxide---formula-and-uses&#34;&gt;Other Compounds of Copper (Red Oxide and Black Oxide) - Formula and Uses&lt;/h1&gt;&#xA;&lt;p&gt;Copper compounds include various oxides, two important ones being copper(I) oxide (red oxide) and copper(II) oxide (black oxide). These oxides differ in their chemical properties and are used in various industrial and chemical applications.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;copperi-oxide-red-oxide&#34;&gt;Copper(I) Oxide (Red Oxide)&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Chemical Formula&lt;/strong&gt;: $\ce{Cu_2O}$&lt;/p&gt;&#xA;&lt;p&gt;Copper(I) oxide, also known as cuprous oxide, is a red or reddish-brown solid. It is less stable than copper(II) oxide and is formed when copper reacts with oxygen in the air at a low temperature.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Oxidation of Primary, Secondary, and Tertiary Alcohols with Mild Oxidizing Agents</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/oxidation/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/oxidation/</guid>
+      <description>&lt;h1 id=&#34;oxidation-of-primary-secondary-and-tertiary-alcohols-with-mild-oxidizing-agents&#34;&gt;Oxidation of Primary, Secondary, and Tertiary Alcohols with Mild Oxidizing Agents&lt;/h1&gt;&#xA;&lt;p&gt;The oxidation of alcohols with &lt;strong&gt;mild oxidizing agents&lt;/strong&gt;, such as &lt;strong&gt;acidified potassium permanganate (KMnO₄)&lt;/strong&gt; and &lt;strong&gt;acidified potassium dichromate (K₂Cr₂O₇)&lt;/strong&gt;, is an important reaction in organic chemistry. These reagents can selectively oxidize alcohols, depending on the nature of the alcohol (primary, secondary, or tertiary).&lt;/p&gt;&#xA;&lt;h2 id=&#34;general-reaction-with-mild-oxidizing-agents&#34;&gt;General Reaction with Mild Oxidizing Agents&lt;/h2&gt;&#xA;&lt;p&gt;Mild oxidizing agents like &lt;strong&gt;KMnO₄&lt;/strong&gt; or &lt;strong&gt;K₂Cr₂O₇&lt;/strong&gt; oxidize alcohols through the following steps:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Oxidation States of Transition Metals</title>
@@ -4857,6 +4878,13 @@
       <link>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ring-test-nitrate-ion-test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ring-test-nitrate-ion-test/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/esterification/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/esterification/</guid>
       <description></description>
     </item>
     <item>
