@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/action-reactive-metals/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/chloral-reaction/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -14,6 +17,9 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/copper/blue-vitriol/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/catalytic-dehydrogenation/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/catalytic-properties/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -24,6 +30,9 @@
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/chemical-properties/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/trichloromethane-properties/</loc>
@@ -47,6 +56,12 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/d-orbitals/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/definition-terms/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/dehydration/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/victor-meyer/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -60,6 +75,9 @@
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/elimination-reactions/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/esterification/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/formation/</loc>
@@ -78,6 +96,9 @@
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/physical-properties/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/industrial-preparation/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/nucleophilic-substitution/</loc>
@@ -116,10 +137,16 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/copper/copper-compounds/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/oxidation/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/oxidation-states/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/physical-properties/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/physical-properties/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/silver/silver-chloride-nitrate/</loc>
@@ -129,6 +156,9 @@
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/preparation/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/preparation/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/trichloromethane-preparation/</loc>
@@ -146,6 +176,9 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/mercury/mercury-properties/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/reaction-hx/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/colour-of-compounds/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -156,6 +189,9 @@
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/shapes-complex-ions/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/test-ethanol/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/introduction/</loc>

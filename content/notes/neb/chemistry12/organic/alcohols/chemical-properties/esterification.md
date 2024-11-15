@@ -99,7 +99,7 @@ The ester formed is **ethyl acetate**.
 - D) Alcohol  
 
 ### 2. Which catalyst is used in the esterification of acetic acid and ethanol?  
-- A) $\ce{H_2SO_4}$ (✓)  
+- A) **$\ce{H_2SO_4}$ (✓)**  
 - B) NaOH  
 - C) Cu  
 - D) $\ce{Cr_2O_3}$  
