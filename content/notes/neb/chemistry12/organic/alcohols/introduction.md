@@ -94,62 +94,96 @@ Alcohols are a significant class of organic compounds, characterized by the pres
 
 ## FAQs
 
+### 1. What are alcohols?  
+Alcohols are organic compounds that contain one or more hydroxyl ($\ce{-OH}$) groups attached to a saturated carbon atom. They play a crucial role in both biological and industrial processes.
+
+### 2. What is the general structure of alcohols?  
+Alcohols have the general formula $\ce{C_nH_{2n+1}OH}$, where $\ce{-OH}$ is the hydroxyl group attached to a saturated carbon atom.
+
+### 3. What are the different classifications of alcohols?  
+Alcohols can be classified based on the number of hydroxyl groups (monohydric, dihydric, trihydric) and based on the number of alkyl groups attached to the hydroxyl group (primary, secondary, tertiary).
+
+### 4. Where are alcohols found?  
+Alcohols are found in natural sources like alcoholic beverages, plant oils, and animal fats. They are also synthetically produced for industrial use.
+
+### 5. What are some examples of alcohols?  
+Common alcohols include **methanol** ($\ce{CH_3OH}$), **ethanol** ($\ce{C_2H_5OH}$), **glycerol** ($\ce{C_3H_8O_3}$), and **isopropanol** ($\ce{C_3H_7OH}$).
+
+### 6. How do alcohols differ in terms of their boiling and melting points?  
+Alcohols generally have higher boiling and melting points than hydrocarbons due to hydrogen bonding between their molecules.
+
+### 7. What are the uses of alcohols in everyday life?  
+Alcohols are used in the production of fuels, solvents, antiseptics, and are integral to various chemical processes in the pharmaceutical and cosmetic industries.
+
+### 8. What is the role of ethanol in the fuel industry?  
+Ethanol is used as a biofuel, mixed with gasoline to improve combustion and reduce environmental impact.
+
+### 9. How do alcohols differ from other organic compounds?  
+Alcohols are different from hydrocarbons and other organic compounds due to the presence of the hydroxyl group ($\ce{-OH}$), which influences their chemical and physical properties.
+
+### 10. Why is glycerol important?  
+Glycerol is a trihydric alcohol used in pharmaceutical formulations, cosmetics, and as a food additive due to its moisturizing properties.
+
+---
+
+## MCQs
+
 ### 1. What is the general formula for alcohols?  
-A) **$\ce{C_nH_{2n+1}OH}$ (✓)**  
-B) $\ce{C_nH_{2n+2}OH}$  
-C) $\ce{C_nH_{2n-1}OH}$  
-D) $\ce{C_nH_{2n-2}OH}$  
+- A) **$\ce{C_nH_{2n+1}OH}$ (✓)**  
+- B) $\ce{C_nH_{2n+2}OH}$  
+- C) $\ce{C_nH_{2n-1}OH}$  
+- D) $\ce{C_nH_{2n-2}OH}$  
 
 ### 2. Which of the following is a primary alcohol?  
-A) **Ethanol** ($\ce{C_2H_5OH}$) (✓)  
-B) Isopropanol  
-C) Glycerol  
-D) Tert-butyl alcohol  
+- A) **Ethanol ($\ce{C_2H_5OH}$) (✓)**  
+- B) Isopropanol  
+- C) Glycerol  
+- D) Tert-butyl alcohol  
 
 ### 3. What is a characteristic property of alcohols?  
-A) **Presence of hydroxyl group ($\ce{-OH}$) (✓)**  
-B) Presence of amino group  
-C) Presence of carbonyl group  
-D) Presence of halogen group  
+- A) **Presence of hydroxyl group ($\ce{-OH}$) (✓)**  
+- B) Presence of amino group  
+- C) Presence of carbonyl group  
+- D) Presence of halogen group  
 
 ### 4. Which alcohol is commonly used in alcoholic beverages?  
-A) **Ethanol** ($\ce{C_2H_5OH}$) (✓)  
-B) Methanol  
-C) Isopropanol  
-D) Butanol  
+- A) **Ethanol ($\ce{C_2H_5OH}$) (✓)**  
+- B) Methanol  
+- C) Isopropanol  
+- D) Butanol  
 
 ### 5. Which alcohol is used as an antiseptic?  
-A) Methanol  
-B) **Isopropyl alcohol** ($\ce{C_3H_7OH}$) (✓)  
-C) Glycerol  
-D) Butanol  
+- A) Methanol  
+- B) **Isopropyl alcohol ($\ce{C_3H_7OH}$) (✓)**  
+- C) Glycerol  
+- D) Butanol  
 
 ### 6. What is a dihydric alcohol?  
-A) **Ethylene glycol** ($\ce{HOCH_2CH_2OH}$) (✓)  
-B) Glycerol  
-C) Methanol  
-D) Propanol  
+- A) **Ethylene glycol ($\ce{HOCH_2CH_2OH}$) (✓)**  
+- B) Glycerol  
+- C) Methanol  
+- D) Propanol  
 
 ### 7. Which alcohol is used as a solvent in the pharmaceutical industry?  
-A) **Ethanol** ($\ce{C_2H_5OH}$) (✓)  
-B) Glycerol  
-C) Methanol  
-D) Tert-butyl alcohol  
+- A) **Ethanol ($\ce{C_2H_5OH}$) (✓)**  
+- B) Glycerol  
+- C) Methanol  
+- D) Tert-butyl alcohol  
 
 ### 8. What makes alcohols have higher boiling points compared to hydrocarbons?  
-A) **Hydrogen bonding (✓)**  
-B) Presence of halogen groups  
-C) Presence of double bonds  
-D) Aromaticity  
+- A) **Hydrogen bonding (✓)**  
+- B) Presence of halogen groups  
+- C) Presence of double bonds  
+- D) Aromaticity  
 
 ### 9. Which alcohol contains three hydroxyl groups?  
-A) **Glycerol** ($\ce{C_3H_8O_3}$) (✓)  
-B) Ethanol  
-C) Isopropanol  
-D) Methanol  
+- A) **Glycerol ($\ce{C_3H_8O_3}$) (✓)**  
+- B) Ethanol  
+- C) Isopropanol  
+- D) Methanol  
 
 ### 10. What is the use of ethanol in the fuel industry?  
-A) **Biofuel (✓)**  
-B) Solvent  
-C) Refrigerant  
-D) Polymers
+- A) **Biofuel (✓)**  
+- B) Solvent  
+- C) Refrigerant  
+- D) Polymers

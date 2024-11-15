@@ -85,62 +85,96 @@ Monohydric alcohols are characterized by the presence of one hydroxyl group atta
 
 ## FAQs
 
+### 1. What is a monohydric alcohol?  
+Monohydric alcohols are organic compounds that contain one hydroxyl ($\ce{-OH}$) group attached to a carbon atom.
+
+### 2. How do you name monohydric alcohols?  
+Monohydric alcohols are named based on the longest carbon chain containing the $\ce{-OH}$ group, with the position of the hydroxyl group indicated by a number, and the suffix "-ol" added.
+
+### 3. What is the simplest monohydric alcohol?  
+**Methanol** ($\ce{CH_3OH}$) is the simplest monohydric alcohol, containing only one carbon atom.
+
+### 4. What types of isomerism are seen in monohydric alcohols?  
+Monohydric alcohols exhibit **structural isomerism** (chain and positional isomerism) and sometimes **stereoisomerism**.
+
+### 5. What is the difference between primary, secondary, and tertiary alcohols?  
+Primary alcohols have the $\ce{-OH}$ group on a carbon bonded to one other carbon, secondary alcohols have it on a carbon bonded to two other carbons, and tertiary alcohols have it on a carbon bonded to three other carbons.
+
+### 6. Can monohydric alcohols have stereoisomers?  
+Yes, monohydric alcohols can have stereoisomers if there is a chiral center, as seen in compounds like **Butan-2-ol**.
+
+### 7. What is an example of a chain isomer of butanol?  
+**1-Butanol** and **2-Butanol** are chain isomers of butanol ($\ce{C_4H_9OH}$).
+
+### 8. What is the functional group of alcohols?  
+The functional group of alcohols is the **hydroxyl group ($\ce{-OH}$)**.
+
+### 9. How are positional isomers of alcohols different from chain isomers?  
+Positional isomers have the same carbon chain but differ in the position of the hydroxyl group, while chain isomers have different carbon chain arrangements.
+
+### 10. What is the IUPAC suffix for alcohols?  
+The IUPAC suffix for alcohols is **"-ol"**, indicating the presence of a hydroxyl group.
+
+---
+
+## MCQs
+
 ### 1. What is the general formula of monohydric alcohols?  
-A) **$\ce{C_nH_{2n+1}OH}$ (✓)**  
-B) $\ce{C_nH_{2n+2}OH}$  
-C) $\ce{C_nH_{2n-1}OH}$  
-D) $\ce{C_nH_{2n-2}OH}$  
+- A) **$\ce{C_nH_{2n+1}OH}$ (✓)**  
+- B) $\ce{C_nH_{2n+2}OH}$  
+- C) $\ce{C_nH_{2n-1}OH}$  
+- D) $\ce{C_nH_{2n-2}OH}$  
 
 ### 2. Which alcohol is a primary alcohol?  
-A) **Ethanol** ($\ce{C_2H_5OH}$) (✓)  
-B) Isopropanol  
-C) Tert-butyl alcohol  
-D) 2-Propanol  
+- A) **Ethanol ($\ce{C_2H_5OH}$) (✓)** 
+- B) Isopropanol  
+- C) Tert-butyl alcohol  
+- D) 2-Propanol  
 
 ### 3. What type of isomerism is observed in **butanol** ($\ce{C_4H_9OH}$)?  
-A) **Chain isomerism (✓)**  
-B) Stereoisomerism  
-C) Functional group isomerism  
-D) Positional isomerism  
+- A) **Chain isomerism (✓)**  
+- B) Stereoisomerism  
+- C) Functional group isomerism  
+- D) Positional isomerism  
 
-### 4. Which of the following alcohols is secondary?  
-A) **2-Propanol** ($\ce{CH_3CHOHCH_3}$) (✓)  
-B) Ethanol  
-C) Tert-butyl alcohol  
-D) 1-Propanol  
+### 4. Which of the following is a tertiary alcohol?  
+- A) 2-Propanol  
+- B) 1-Butanol  
+- C) **Tert-butyl alcohol (✓)**  
+- D) 1-Propanol  
 
-### 5. Which alcohol is tertiary?  
-A) **Tert-butyl alcohol** ($\ce{C_4H_{10}O}$) (✓)  
-B) 2-Butanol  
-C) 1-Propanol  
-D) Methanol  
+### 5. What is the suffix used for naming alcohols?  
+- A) **-ol (✓)**  
+- B) -ene  
+- C) -ane  
+- D) -ene  
 
-### 6. What is the suffix used in the IUPAC name of alcohols?  
-A) **-ol (✓)**  
-B) -ane  
-C) -ene  
-D) -al  
+### 6. Which alcohol has two isomers, **1-Propanol** and **2-Propanol**?  
+- A) **Propanol (✓)**  
+- B) Butanol  
+- C) Ethanol  
+- D) Methanol  
 
-### 7. How are isomers of alcohols different?  
-A) **They have the same molecular formula but different structural arrangements (✓)**  
-B) They have different molecular formulas  
-C) They contain different functional groups  
-D) They are always the same in structure  
+### 7. Which alcohol contains a hydroxyl group attached to a carbon bonded to three other carbons?  
+- A) **Tertiary alcohol (✓)** 
+- B) Secondary alcohol  
+- C) Primary alcohol  
+- D) None of the above  
 
-### 8. What is the functional group present in alcohols?  
-A) **Hydroxyl group ($\ce{-OH}$) (✓)**  
-B) Carbonyl group  
-C) Amino group  
-D) Aldehyde group  
+### 8. Which of the following is an example of a structural isomer?  
+- A) **1-Butanol and 2-Butanol (✓)**  
+- B) Butan-2-ol and Butan-3-ol  
+- C) Methanol and Ethanol  
+- D) None of the above  
 
-### 9. Which of the following is a chain isomer of butanol?  
-A) **1-Butanol** ($\ce{CH_3CH_2CH_2CH_2OH}$) (✓)  
-B) 2-Butanol  
-C) 2-Methylpropanol  
-D) 3-Butanol  
+### 9. What is the classification of **ethanol** ($\ce{C_2H_5OH}$)?  
+- A) **Primary alcohol (✓)** 
+- B) Secondary alcohol  
+- C) Tertiary alcohol  
+- D) None of the above  
 
-### 10. What type of isomerism occurs when alcohols have the same molecular formula but different positions for the $\ce{-OH}$ group?  
-A) **Positional isomerism (✓)**  
-B) Chain isomerism  
-C) Functional group isomerism  
-D) Optical isomerism  
+### 10. Which alcohol is classified as a secondary alcohol?  
+- A) Methanol  
+- B) **2-Propanol (✓)**
+- C) Ethanol  
+- D) Tert-butyl alcohol 

@@ -84,62 +84,96 @@ Victor Meyer's method is a useful qualitative test for distinguishing primary, s
 
 ## FAQs
 
+### 1. What is Victor Meyer's method used for?  
+Victor Meyer's method is used to distinguish between primary, secondary, and tertiary alcohols based on their reactivity with chlorine and phosphorus trichloride.
+
+### 2. How does the test differentiate between alcohol types?  
+The test differentiates alcohols by the color change observed after reacting with chlorine and phosphorus trichloride, followed by ammonia treatment.
+
+### 3. What color is produced by primary alcohols in the test?  
+Primary alcohols produce a yellow color when reacting with the reagent mixture.
+
+### 4. What is the color change observed for secondary alcohols?  
+Secondary alcohols produce a red color in the reaction.
+
+### 5. Do tertiary alcohols produce a color change?  
+Tertiary alcohols do not produce a significant color change and may result in no color or a green solution.
+
+### 6. What reagents are used in Victor Meyer's method?  
+The reagents used are chlorine and phosphorus trichloride.
+
+### 7. Why is ammonia added to the reaction mixture?  
+Ammonia is added to neutralize the mixture and to help form a colored product from the intermediate compound.
+
+### 8. What is the intermediate formed in the reaction?  
+The intermediate can be an aldehyde for primary alcohols, a ketone for secondary alcohols, and no intermediate for tertiary alcohols.
+
+### 9. Can this method distinguish between different types of alcohols in all cases?  
+Yes, Victor Meyer's method can reliably distinguish between primary, secondary, and tertiary alcohols based on their reactivity.
+
+### 10. Is this method suitable for quantitative analysis of alcohols?  
+No, Victor Meyer's method is qualitative and is used for identifying the type of alcohol rather than for quantitative analysis.
+
+---
+
+## MCQs
+
 ### 1. What is the main principle behind Victor Meyer's method?  
-A) **Alcohols react with chlorine and phosphorus trichloride to form colored compounds (✓)**  
-B) Alcohols react with water to form colored solutions  
-C) Alcohols react with sodium hydroxide to form colored products  
-D) Alcohols undergo oxidation to form colored products  
+- A) **Alcohols react with chlorine and phosphorus trichloride to form colored compounds (✓)**  
+- B) Alcohols react with water to form colored solutions  
+- C) Alcohols react with sodium hydroxide to form colored products  
+- D) Alcohols undergo oxidation to form colored products  
 
 ### 2. What color indicates the presence of a primary alcohol in Victor Meyer's method?  
-A) **Yellow (✓)**  
-B) Red  
-C) Green  
-D) Blue  
+- A) **Yellow (✓)**  
+- B) Red  
+- C) Green  
+- D) Blue  
 
 ### 3. Which of the following alcohols will produce a red color in Victor Meyer's method?  
-A) **2-Propanol (✓)**  
-B) Methanol  
-C) Tert-butyl alcohol  
-D) Ethanol  
+- A) **2-Propanol (✓)**  
+- B) Methanol  
+- C) Tert-butyl alcohol  
+- D) Ethanol  
 
 ### 4. Which alcohol does not produce a color change in Victor Meyer's method?  
-A) **Tert-butyl alcohol (✓)**  
-B) 1-Propanol  
-C) 2-Propanol  
-D) Methanol  
+- A) **Tert-butyl alcohol (✓)**  
+- B) 1-Propanol  
+- C) 2-Propanol  
+- D) Methanol  
 
 ### 5. What reagent mixture is used in Victor Meyer's method?  
-A) **Chlorine and phosphorus trichloride (✓)**  
-B) Sodium hydroxide and chlorine  
-C) Hydrogen and oxygen  
-D) Ammonia and chlorine  
+- A) **Chlorine and phosphorus trichloride (✓)**  
+- B) Sodium hydroxide and chlorine  
+- C) Hydrogen and oxygen  
+- D) Ammonia and chlorine  
 
 ### 6. What is the role of ammonia in Victor Meyer's method?  
-A) To neutralize the excess chlorine  
-B) **To react with the intermediate product to form a colored solution (✓)**  
-C) To convert alcohols to aldehydes  
-D) To dissolve the alcohol  
+- A) To neutralize the excess chlorine  
+- B) **To react with the intermediate product to form a colored solution (✓)**  
+- C) To convert alcohols to aldehydes  
+- D) To dissolve the alcohol  
 
 ### 7. Which alcohol produces a yellow color in Victor Meyer's method?  
-A) 2-Butanol  
-B) **Ethanol (✓)**  
-C) Tert-butyl alcohol  
-D) 2-Propanol  
+- A) 2-Butanol  
+- B) **Ethanol (✓)**  
+- C) Tert-butyl alcohol  
+- D) 2-Propanol  
 
 ### 8. What is the significance of the color change in Victor Meyer's method?  
-A) **It helps to identify the type of alcohol (✓)**  
-B) It indicates the temperature of the reaction  
-C) It shows the amount of chlorine used  
-D) It measures the acidity of the alcohol  
+- A) **It helps to identify the type of alcohol (✓)**  
+- B) It indicates the temperature of the reaction  
+- C) It shows the amount of chlorine used  
+- D) It measures the acidity of the alcohol  
 
 ### 9. Why do tertiary alcohols produce no color in Victor Meyer's method?  
-A) They react too slowly  
-B) **They do not form an intermediate (✓)**  
-C) They form a colorless aldehyde  
-D) They are not reactive with chlorine  
+- A) They react too slowly  
+- B) **They do not form an intermediate (✓)**  
+- C) They form a colorless aldehyde  
+- D) They are not reactive with chlorine  
 
 ### 10. Which of the following is a characteristic feature of Victor Meyer's method?  
-A) **It distinguishes between primary, secondary, and tertiary alcohols (✓)**  
-B) It measures the boiling points of alcohols  
-C) It determines the solubility of alcohols  
-D) It tests the oxidation state of alcohols  
+- A) **It distinguishes between primary, secondary, and tertiary alcohols (✓)**  
+- B) It measures the boiling points of alcohols  
+- C) It determines the solubility of alcohols  
+- D) It tests the oxidation state of alcohols  

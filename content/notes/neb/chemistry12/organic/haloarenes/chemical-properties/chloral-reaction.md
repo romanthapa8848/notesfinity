@@ -57,62 +57,97 @@ The reaction of **chloral** with **haloarenes** typically involves electrophilic
 
 ## FAQs
 
+### 1. What is chloral?  
+Chloral is a colorless, volatile liquid with a pungent odor. It is an electrophilic compound commonly used in organic synthesis, particularly in reactions with haloarenes.
+
+### 2. How does chloral react with haloarenes?  
+Chloral typically undergoes electrophilic substitution reactions with haloarenes, where the halogen atom on the haloarene is replaced by the chloral group.
+
+### 3. What is the role of chloral in organic reactions?  
+Chloral acts as an electrophile in reactions with electron-rich aromatic compounds, where it can replace halogen atoms or react in condensation mechanisms.
+
+### 4. Can chloral react with aldehydes?  
+Yes, chloral can undergo condensation reactions with aromatic aldehydes, leading to the formation of chloral condensation products.
+
+### 5. What is a chloral derivative?  
+A chloral derivative is a compound formed by the substitution or condensation of chloral onto other molecules, such as aromatic compounds.
+
+### 6. What is the nature of the bond formed during chloral condensation reactions?  
+The bond formed during chloral condensation reactions is typically a new **C-C bond** between the carbonyl group of chloral and the aromatic compound.
+
+### 7. How does the presence of an electron-donating group affect the reactivity of haloarenes with chloral?  
+Electron-donating groups on the aromatic ring make the ring more reactive towards electrophiles like chloral, enhancing the reaction rate.
+
+### 8. What is formed when chloral reacts with chlorobenzene?  
+The product of the reaction between chloral and chlorobenzene is a **chloral-substituted phenyl compound**.
+
+### 9. Why is chloral used in organic synthesis?  
+Chloral is used in organic synthesis because of its high reactivity, particularly as an electrophilic species that can participate in various substitution and condensation reactions.
+
+### 10. What is an example of a reaction between chloral and another compound?  
+An example is the reaction between chloral and benzaldehyde, forming a **chloral condensation product**.
+Now the FAQ answers are properly formatted without dashes. Let me know if you need any further
+
+---
+
+## MCQs
+
 ### 1. What type of reaction does chloral undergo with haloarenes?  
-A) **Electrophilic substitution (✓)**  
-B) Nucleophilic substitution  
-C) Addition reaction  
-D) Redox reaction  
+- A) **Electrophilic substitution (✓)**  
+- B) Nucleophilic substitution  
+- C) Addition reaction  
+- D) Redox reaction  
 
 ### 2. What is the role of chloral in its reactions with haloarenes?  
-A) **Electrophile (✓)**  
-B) Nucleophile  
-C) Base  
-D) Catalyst  
+- A) **Electrophile (✓)**  
+- B) Nucleophile  
+- C) Base  
+- D) Catalyst  
 
 ### 3. What is typically formed when chloral reacts with haloarenes?  
-A) **Chloral derivatives of aromatic compounds (✓)**  
-B) Hydroxylated products  
-C) Alkylated products  
-D) Ketones  
+- A) **Chloral derivatives of aromatic compounds (✓)**  
+- B) Hydroxylated products  
+- C) Alkylated products  
+- D) Ketones  
 
 ### 4. What does chloral add to haloarenes?  
-A) Alkyl group  
-B) **Chloral group (✓)**  
-C) Hydroxyl group  
-D) Amino group  
+- A) Alkyl group  
+- B) **Chloral group (✓)**  
+- C) Hydroxyl group  
+- D) Amino group  
 
 ### 5. What type of group does chloral contain?  
-A) **Carbonyl group (✓)**  
-B) Hydroxyl group  
-C) Amino group  
-D) Alkyl group  
+- A) **Carbonyl group (✓)**  
+- B) Hydroxyl group  
+- C) Amino group  
+- D) Alkyl group  
 
 ### 6. What is the nature of chloral in reactions with haloarenes?  
-A) **Electrophilic (✓)**  
-B) Nucleophilic  
-C) Basic  
-D) Neutral  
+- A) **Electrophilic (✓)**  
+- B) Nucleophilic  
+- C) Basic  
+- D) Neutral  
 
 ### 7. What happens to the halogen in haloarenes during the reaction with chloral?  
-A) **It is replaced by the chloral group (✓)**  
-B) It remains unaffected  
-C) It is oxidized  
-D) It forms a new bond  
+- A) **It is replaced by the chloral group (✓)**  
+- B) It remains unaffected  
+- C) It is oxidized  
+- D) It forms a new bond  
 
 ### 8. Which group on the haloarene makes it more reactive towards chloral?  
-A) Electron-withdrawing groups  
-B) **Electron-donating groups (✓)**  
-C) Alkyl groups  
-D) Hydroxyl groups  
+- A) Electron-withdrawing groups  
+- B) **Electron-donating groups (✓)**  
+- C) Alkyl groups  
+- D) Hydroxyl groups  
 
 ### 9. What type of compound is produced in the reaction between chloral and aromatic aldehydes?  
-A) Alcohol  
-B) **Chloral condensation products (✓)**  
-C) Carboxylic acid  
-D) Ester  
+- A) Alcohol  
+- B) **Chloral condensation products (✓)**  
+- C) Carboxylic acid  
+- D) Ester  
 
 ### 10. What is the product when chloral reacts with benzaldehyde?  
-A) **Chloral condensation product (✓)**  
-B) Toluene  
-C) Styrene  
-D) Biphenyl
+- A) **Chloral condensation product (✓)**  
+- B) Toluene  
+- C) Styrene  
+- D) Biphenyl

@@ -66,62 +66,106 @@ The **Fittig reaction** is the coupling of two **aryl halides** using sodium to 
 
 ## FAQs
 
+### 1. What is the difference between the Fittig and Wurtz-Fittig reactions?
+
+The main difference is that the **Fittig reaction** involves coupling two **aryl halides**, while the **Wurtz-Fittig reaction** involves coupling **alkyl halides** with **aryl halides**.
+
+### 2. What is the role of sodium in the Fittig and Wurtz-Fittig reactions?
+
+Sodium acts as an electron donor in both reactions, facilitating the formation of **radicals** or **anions** from the halides, which then couple to form new **C-C bonds**.
+
+### 3. Can the Fittig reaction be carried out with alkyl halides?
+
+No, the Fittig reaction specifically involves **aryl halides** (aromatic halogen compounds) and does not work with **alkyl halides**.
+
+### 4. What solvent is typically used in these reactions?
+
+Both the **Fittig** and **Wurtz-Fittig reactions** are typically carried out in **ether**, which acts as the solvent.
+
+### 5. Can the Fittig reaction be performed with a catalyst?
+
+No, the Fittig reaction does not require a catalyst. **Sodium** is the main reactant and provides the necessary electrons for the reaction.
+
+### 6. What types of compounds are produced in the Fittig reaction?
+
+The **Fittig reaction** produces **biaryl compounds**, where two aromatic rings are connected by a single bond.
+
+### 7. What is the main application of the Wurtz-Fittig reaction?
+
+The **Wurtz-Fittig reaction** is used to prepare **alkylated biaryl compounds**, such as **ethylbenzene** or **methylbenzene**, which have applications in the synthesis of various organic compounds.
+
+### 8. Is the Wurtz-Fittig reaction more versatile than the Fittig reaction?
+
+Yes, the **Wurtz-Fittig reaction** is more versatile because it can couple **alkyl halides** with **aryl halides**, expanding the range of products that can be synthesized compared to the **Fittig reaction**, which only works with aryl halides.
+
+### 9. Can the Wurtz-Fittig reaction produce symmetrical biaryls?
+
+No, the **Wurtz-Fittig reaction** typically produces **alkylated biaryls**, which are not symmetrical unless the alkyl halide used is symmetrical.
+
+### 10. What is the product when methyl chloride reacts with phenyl chloride in the Wurtz-Fittig reaction?
+
+When **methyl chloride** reacts with **phenyl chloride** in the **Wurtz-Fittig reaction**, the product is **toluene** (methylbenzene).
+
+---
+
+## MCQs
+
 ### 1. What type of compounds are formed in the Fittig reaction?  
-A) Alkylated products  
-B) **Biaryl compounds (✓)**  
-C) Aryl ketones  
-D) Alkyl alcohols  
+- A) Alkylated products  
+- B) **Biaryl compounds (✓)**  
+- C) Aryl ketones  
+- D) Alkyl alcohols  
 
 ### 2. What is the role of sodium in the Fittig reaction?  
-A) Acts as a catalyst  
-B) **Donates electrons to form radicals (✓)**  
-C) Forms a covalent bond with halogens  
-D) Breaks the carbon-halogen bond  
+- A) Acts as a catalyst  
+- B) **Donates electrons to form radicals (✓)**  
+- C) Forms a covalent bond with halogens  
+- D) Breaks the carbon-halogen bond  
 
 ### 3. What are the reagents used in the Fittig reaction?  
-A) NaOH and ether  
-B) **Na and ether (✓)**  
-C) NaCl and ether  
-D) NaCl and ethanol  
+- A) NaOH and ether  
+- B) **Na and ether (✓)**  
+- C) NaCl and ether  
+- D) NaCl and ethanol  
 
 ### 4. Which of the following is a product of the Fittig reaction?  
-A) **Biphenyl (✓)**  
-B) Ethylbenzene  
-C) Toluene  
-D) Styrene  
+- A) **Biphenyl (✓)**  
+- B) Ethylbenzene  
+- C) Toluene  
+- D) Styrene  
 
 ### 5. What is the product of the Wurtz-Fittig reaction?  
-A) **Alkylated biaryl compound (✓)**  
-B) Biphenyl  
-C) Aryl ketone  
-D) Aryl alcohol  
+- A) **Alkylated biaryl compound (✓)**  
+- B) Biphenyl  
+- C) Aryl ketone  
+- D) Aryl alcohol  
 
 ### 6. What does the Wurtz-Fittig reaction combine?  
-A) **Wurtz and Fittig reactions (✓)**  
-B) Friedel-Crafts alkylation and nitration  
-C) Friedel-Crafts alkylation and halogenation  
-D) Nitration and sulfonation  
+- A) **Wurtz and Fittig reactions (✓)**  
+- B) Friedel-Crafts alkylation and nitration  
+- C) Friedel-Crafts alkylation and halogenation  
+- D) Nitration and sulfonation  
 
 ### 7. What type of coupling occurs in the Fittig reaction?  
-A) **Aryl-aryl coupling (✓)**  
-B) Alkyl-alkyl coupling  
-C) Aryl-alkyl coupling  
-D) Aryl-alkyl anion coupling  
+- A) **Aryl-aryl coupling (✓)**  
+- B) Alkyl-alkyl coupling  
+- C) Aryl-alkyl coupling  
+- D) Aryl-alkyl anion coupling  
 
 ### 8. Which of the following halides can be used in the Wurtz-Fittig reaction?  
-A) **Aryl halides and alkyl halides (✓)**  
-B) Only alkyl halides  
-C) Only aryl halides  
-D) Aryl halides and alkyl alcohols  
+- A) **Aryl halides and alkyl halides (✓)**  
+- B) Only alkyl halides  
+- C) Only aryl halides  
+- D) Aryl halides and alkyl alcohols  
 
 ### 9. What is the solvent used in both the Fittig and Wurtz-Fittig reactions?  
-A) Water  
-B) Alcohol  
-C) **Ether (✓)**  
-D) Acetone  
+- A) Water  
+- B) Alcohol  
+- C) **Ether (✓)**  
+- D) Acetone  
 
 ### 10. What is the main difference between the Fittig and Wurtz-Fittig reactions?  
-A) The Fittig reaction involves alkyl halides only  
-B) **The Wurtz-Fittig reaction involves both alkyl and aryl halides (✓)**  
-C) The Fittig reaction requires a catalyst  
-D) There is no difference  
+- A) The Fittig reaction involves alkyl halides only  
+- B) **The Wurtz-Fittig reaction involves both alkyl and aryl halides (✓)**  
+- C) The Fittig reaction requires a catalyst  
+- D) There is no difference

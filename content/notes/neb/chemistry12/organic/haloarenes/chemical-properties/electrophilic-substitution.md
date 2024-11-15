@@ -78,64 +78,98 @@ The electrophilic substitution reactions of haloarenes include halogenation, nit
 
 ---
 
+## FAQs
+
+### 1. What is the general mechanism of electrophilic substitution in haloarenes?  
+The electrophile attacks the electron-rich benzene ring, forming an arenium ion, which then loses a proton to restore aromaticity.
+
+### 2. How does the halogen atom influence the electrophilic substitution reactions of haloarenes?  
+The halogen atom is electron-donating through resonance, making the ring more reactive toward electrophilic substitution and directing the substitution to the ortho and para positions.
+
+### 3. Why does halogenation in haloarenes occur at the ortho and para positions?  
+Halogen atoms donate electrons to the ring through resonance, which stabilizes the intermediate arenium ion at the ortho and para positions, making these positions more reactive.
+
+### 4. What is the reagent used for halogenation of haloarenes?  
+**Cl₂** (chlorine) is used in the presence of a catalyst like **FeCl₃** or **AlCl₃**.
+
+### 5. What is the outcome of nitration of haloarenes?  
+The reaction produces **ortho-** and **para-nitro** derivatives of the haloarene.
+
+### 6. How does the halogen atom affect the nitration of haloarenes?  
+The halogen atom directs the incoming nitronium ion ($NO_2^+$) to the ortho and para positions due to its electron-donating resonance effect.
+
+### 7. What is the product formed when chlorobenzene undergoes sulfonation?  
+**Ortho-** and **para-chlorobenzenesulfonic acid** are formed.
+
+### 8. What does the Friedel-Crafts acylation reaction produce?  
+Friedel-Crafts acylation of haloarenes produces **aryl ketones**.
+
+### 9. What catalyst is required for Friedel-Crafts alkylation?  
+The catalyst used in Friedel-Crafts alkylation is **AlCl₃**.
+
+### 10. What is the effect of halogen on the reactivity of haloarenes towards electrophilic substitution?  
+The halogen atom increases the reactivity of haloarenes towards electrophilic substitution, especially at the ortho and para positions due to its resonance electron-donating effect.
+
+---
+
 ## MCQs
 
 ### 1. What is the effect of a halogen atom on the reactivity of haloarenes?  
 - A) Increases nucleophilic substitution  
-B) **Decreases electrophilic substitution (✓)**  
-C) Increases electrophilic substitution  
-D) No effect  
+- B) **Decreases electrophilic substitution (✓)**  
+- C) Increases electrophilic substitution  
+- D) No effect  
 
 ### 2. Which position does the halogen direct electrophilic substitution to?  
-A) Meta position  
-B) **Ortho and para positions (✓)**  
-C) Any position  
-D) None of the above  
+- A) Meta position  
+- B) **Ortho and para positions (✓)**  
+- C) Any position  
+- D) None of the above  
 
 ### 3. What is the reagent used in the halogenation of haloarenes?  
-A) **Cl₂ and FeCl₃ (✓)**  
-B) NaOH  
-C) H₂SO₄  
-D) HNO₃  
+- A) **Cl₂ and FeCl₃ (✓)**  
+- B) NaOH  
+- C) H₂SO₄  
+- D) HNO₃  
 
 ### 4. What is formed when chlorobenzene undergoes nitration?  
-A) **Ortho- and para-nitrochlorobenzene (✓)**  
-B) Ortho- and para-chlorobenzene  
-C) Biphenyl  
-D) Phenol  
+- A) **Ortho- and para-nitrochlorobenzene (✓)**  
+- B) Ortho- and para-chlorobenzene  
+- C) Biphenyl  
+- D) Phenol  
 
 ### 5. What is the product of sulfonation of chlorobenzene?  
-A) **Ortho- and para-chlorobenzenesulfonic acid (✓)**  
-B) Ortho- and para-nitrochlorobenzene  
-C) Phenol  
-D) Biphenyl  
+- A) **Ortho- and para-chlorobenzenesulfonic acid (✓)**  
+- B) Ortho- and para-nitrochlorobenzene  
+- C) Phenol  
+- D) Biphenyl  
 
 ### 6. Which catalyst is used in the Friedel-Crafts acylation of haloarenes?  
-A) **AlCl₃ (✓)**  
-B) FeCl₃  
-C) NaOH  
-D) H₂SO₄  
+- A) **AlCl₃ (✓)**  
+- B) FeCl₃  
+- C) NaOH  
+- D) H₂SO₄  
 
-### 7. What does the halogen atom do in electrophilic substitution reactions?  
-A) Acts as an electrophile  
-B) **Directs the substitution to ortho and para positions (✓)**  
-C) Prevents substitution  
-D) Adds an alkyl group  
+### 7. What product is obtained from the Friedel-Crafts alkylation of haloarenes?  
+- A) **Alkylated benzene (✓)**  
+- B) Aryl ketone  
+- C) Nitrobenzene  
+- D) Chlorobenzene  
 
-### 8. What type of products are formed in Friedel-Crafts alkylation of haloarenes?  
-A) **Alkylated benzene (✓)**  
-B) Aryl ketones  
-C) Nitro compounds  
-D) Sulfonic acids  
+### 8. Which electrophile is involved in the nitration of haloarenes?  
+- A) **NO₂⁺ (✓)**  
+- B) Cl⁺  
+- C) H⁺  
+- D) CH₃⁺  
 
-### 9. Which of the following reactions is used to introduce a nitro group to a haloarene?  
-A) **Nitration (✓)**  
-B) Halogenation  
-C) Friedel-Crafts alkylation  
-D) Sulfonation  
+### 9. In the electrophilic substitution reaction, what intermediate is formed?  
+- A) Carbanion  
+- B) **Arenium ion (✓)**  
+- C) Alkyl ion  
+- D) Benzyl carbocation  
 
-### 10. Why are haloarenes more reactive towards electrophilic substitution than alkylbenzenes?  
-A) **Due to the electron-donating resonance effect of the halogen (✓)**  
-B) Because of the inductive effect  
-C) Due to the presence of alkyl groups  
-D) No difference in reactivity  
+### 10. What is the primary effect of the halogen atom on the electrophilic substitution in haloarenes?  
+- A) Directs substitution to the meta position  
+- B) **Directs substitution to the ortho and para positions (✓)**  
+- C) Makes the ring less reactive  
+- D) Inhibits the reaction
