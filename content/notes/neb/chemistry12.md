@@ -112,13 +112,13 @@ layout: "non_math_mode"
 
 ### 5. Electrochemistry
 
-- [5.1 Electrode potential and standard electrode potential](./general-and-physical/electrochemistry/electrode-potential.html)
-- [5.2 Types of electrodes: Standard hydrogen electrode and calomel electrodes](./general-and-physical/electrochemistry/types-of-electrodes.html)
-- [5.3 Electrochemical series and its applications](./general-and-physical/electrochemistry/electrochemical-series.html)
-- [5.4 Voltaic cell: Zn-Cu cell, Ag-Cu cell](./general-and-physical/electrochemistry/voltaic-cells.html)
-- [5.5 Cell potential and standard cell potential](./general-and-physical/electrochemistry/cell-potential.html)
-- [5.6 Relationship between cell potential and free energy](./general-and-physical/electrochemistry/cell-potential-free-energy.html)
-- [5.7 Commercial batteries and fuel cells (hydrogen/oxygen)](./general-and-physical/electrochemistry/commercial-batteries-fuel-cells.html)
+- [5.1 Electrode potential and standard electrode potential](/notes/neb/chemistry12/general-and-physical/electrochemistry/electrode-potential/)
+- [5.2 Types of electrodes: Standard hydrogen electrode and calomel electrodes](/notes/neb/chemistry12/general-and-physical/electrochemistry/types-of-electrodes/)
+- [5.3 Electrochemical series and its applications](/notes/neb/chemistry12/general-and-physical/electrochemistry/electrochemical-series/)
+- [5.4 Voltaic cell: Zn-Cu cell, Ag-Cu cell](/notes/neb/chemistry12/general-and-physical/electrochemistry/voltaic-cells/)
+- [5.5 Cell potential and standard cell potential](/notes/neb/chemistry12/general-and-physical/electrochemistry/cell-potential/)
+- [5.6 Relationship between cell potential and free energy](/notes/neb/chemistry12/general-and-physical/electrochemistry/cell-potential-free-energy/)
+- [5.7 Commercial batteries and fuel cells (hydrogen/oxygen)](/notes/neb/chemistry12/general-and-physical/electrochemistry/commercial-batteries-fuel-cells/)
 
 ---
 
@@ -128,14 +128,14 @@ layout: "non_math_mode"
 
 ### 6. Transition Metals
 
-- [6.1 Introduction](./inorganic/transition-metals/introduction.html)
-- [6.2 Characteristics of transition metals](./inorganic/transition-metals/characteristics.html)
-- [6.3 Oxidation states of transition metals](./inorganic/transition-metals/oxidation-states.html)
-- [6.4 Complex ions and metal complexes](./inorganic/transition-metals/complex-ions.html)
-- [6.5 Shapes of complex ions](./inorganic/transition-metals/shapes-complex-ions.html)
-- [6.6 d-orbitals in complex ions (simple explanation by crystal field theory) for octahedral complex](./inorganic/transition-metals/d-orbitals.html)
-- [6.7 Reasons for the colour of transition metal compounds](./inorganic/transition-metals/colour-of-compounds.html)
-- [6.8 Catalytic properties of transition metals](./inorganic/transition-metals/catalytic-properties.html)
+- [6.1 Introduction](/notes/neb/chemistry12/inorganic/transition-metals/introduction/)
+- [6.2 Characteristics of transition metals](/notes/neb/chemistry12/inorganic/transition-metals/characteristics/)
+- [6.3 Oxidation states of transition metals](/notes/neb/chemistry12/inorganic/transition-metals/oxidation-states/)
+- [6.4 Complex ions and metal complexes](/notes/neb/chemistry12/inorganic/transition-metals/complex-ions/)
+- [6.5 Shapes of complex ions](/notes/neb/chemistry12/inorganic/transition-metals/shapes-complex-ions/)
+- [6.6 d-orbitals in complex ions (simple explanation by crystal field theory) for octahedral complex](/notes/neb/chemistry12/inorganic/transition-metals/d-orbitals/)
+- [6.7 Reasons for the colour of transition metal compounds](/notes/neb/chemistry12/inorganic/transition-metals/colour-of-compounds/)
+- [6.8 Catalytic properties of transition metals](/notes/neb/chemistry12/inorganic/transition-metals/catalytic-properties/)
 
 ---
 
@@ -143,16 +143,16 @@ layout: "non_math_mode"
 
 #### 7.1 Copper
 
-- [7.1.1 Occurrence and extraction of copper from copper pyrite](./inorganic/heavy-metals/copper/copper-occurrence-extraction.html)
-- [7.1.2 Properties (with air, acids, aqueous ammonia and metal ions) and uses of copper](./inorganic/heavy-metals/copper/copper-properties-uses.html)
-- [7.1.3 Chemistry (preparation, properties and uses) of blue vitriol](./inorganic/heavy-metals/copper/blue-vitriol.html)
-- [7.1.4 Other compounds of copper (red oxide and black oxide) - formula and uses](./inorganic/heavy-metals/copper/copper-compounds.html)
+- [7.1.1 Occurrence and extraction of copper from copper pyrite](/notes/neb/chemistry12/inorganic/heavy-metals/copper/copper-occurrence-extraction/)
+- [7.1.2 Properties (with air, acids, aqueous ammonia and metal ions) and uses of copper](/notes/neb/chemistry12/inorganic/heavy-metals/copper/copper-properties-uses/)
+- [7.1.3 Chemistry (preparation, properties and uses) of blue vitriol](/notes/neb/chemistry12/inorganic/heavy-metals/copper/blue-vitriol/)
+- [7.1.4 Other compounds of copper (red oxide and black oxide) - formula and uses](/notes/neb/chemistry12/inorganic/heavy-metals/copper/copper-compounds/)
 
 #### 7.2 Zinc
 
-- [7.2.1 Occurrence and extraction of zinc from zinc blende](./inorganic/heavy-metals/zinc/zinc-occurrence-extraction.html)
-- [7.2.2 Properties (with air, acid, alkali, displacement reaction) and uses of zinc](./inorganic/heavy-metals/zinc/zinc-properties-uses.html)
-- [7.2.3 Chemistry (preparation, properties and uses) of white vitriol](./inorganic/heavy-metals/zinc/white-vitriol.html)
+- [7.2.1 Occurrence and extraction of zinc from zinc blende](/notes/neb/chemistry12/inorganic/heavy-metals/zinc/zinc-occurrence-extraction/)
+- [7.2.2 Properties (with air, acid, alkali, displacement reaction) and uses of zinc](/notes/neb/chemistry12/inorganic/heavy-metals/zinc/zinc-properties-uses/)
+- [7.2.3 Chemistry (preparation, properties and uses) of white vitriol](/notes/neb/chemistry12/inorganic/heavy-metals/zinc/white-vitriol/)
 
 #### 7.3 Mercury
 
