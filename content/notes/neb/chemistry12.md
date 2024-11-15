@@ -212,7 +212,7 @@ layout: "non_math_mode"
 
 ### 10. Alcohols
 
-- [10.1 Introduction](./organic/alcohols/introduction.html)
+- [10.1 Introduction](./organic/alcohols/introduction/)
 - [10.2 Nomenclature, isomerism, and classification of monohydric alcohols](./organic/alcohols/nomenclature.html)
 - [10.3 Distinction of primary, secondary, and tertiary alcohols by Victor Meyer's Method](./organic/alcohols/victor-meyer.html)
 - [10.4 Preparation of monohydric alcohols from haloalkane, primary amines, and esters](./organic/alcohols/preparation.html)
