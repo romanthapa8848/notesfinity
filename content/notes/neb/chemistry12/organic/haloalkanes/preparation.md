@@ -101,34 +101,34 @@ Monohaloalkanes can also be prepared from alcohols by **substitution reactions**
 ## FAQs
 
 ### 1. What is the general method to prepare monohaloalkanes from alkanes?
-- Monohaloalkanes can be prepared from alkanes by reacting them with halogens ($\ce{Cl_2}$, $\ce{Br_2}$) in the presence of ultraviolet light or heat.
+Monohaloalkanes can be prepared from alkanes by reacting them with halogens ($\ce{Cl_2}$, $\ce{Br_2}$) in the presence of ultraviolet light or heat.
 
 ### 2. How can monohaloalkanes be prepared from alkenes?
-- Monohaloalkanes are prepared from alkenes by electrophilic addition of halogens such as chlorine or bromine to the double bond of the alkene.
+Monohaloalkanes are prepared from alkenes by electrophilic addition of halogens such as chlorine or bromine to the double bond of the alkene.
 
 ### 3. What role does UV light play in the preparation of monohaloalkanes from alkanes?
-- UV light helps to break the halogen molecule ($\ce{Cl_2}$, $\ce{Br_2}$) into free radicals, which then react with the alkane to form monohaloalkanes.
+UV light helps to break the halogen molecule ($\ce{Cl_2}$, $\ce{Br_2}$) into free radicals, which then react with the alkane to form monohaloalkanes.
 
 ### 4. Can alcohols be used to prepare monohaloalkanes?
-- Yes, alcohols can be converted to monohaloalkanes by reacting with hydrogen halides ($\ce{HX}$), where the hydroxyl group is replaced by a halogen.
+Yes, alcohols can be converted to monohaloalkanes by reacting with hydrogen halides ($\ce{HX}$), where the hydroxyl group is replaced by a halogen.
 
 ### 5. What is the condition required for halogenation of alkenes?
-- The halogenation of alkenes typically occurs in a non-polar solvent like $\ce{CCl_4}$ at room temperature.
+The halogenation of alkenes typically occurs in a non-polar solvent like $\ce{CCl_4}$ at room temperature.
 
 ### 6. What is Markovnikov's rule in halogenation of alkenes?
-- Markovnikov's rule states that in the addition of a halogen to an unsymmetrical alkene, the halogen will add to the carbon with the fewer hydrogen atoms attached.
+Markovnikov's rule states that in the addition of a halogen to an unsymmetrical alkene, the halogen will add to the carbon with the fewer hydrogen atoms attached.
 
 ### 7. What are the products of the halogenation of ethene?
-- The halogenation of ethene with chlorine produces **1,2-dichloroethane**, but under controlled conditions, it can also produce **monohaloethane**.
+The halogenation of ethene with chlorine produces **1,2-dichloroethane**, but under controlled conditions, it can also produce **monohaloethane**.
 
 ### 8. What is the role of heat in the preparation of monohaloalkanes from alcohols?
-- Heat is required to drive the reaction between alcohols and hydrogen halides to form monohaloalkanes and water.
+Heat is required to drive the reaction between alcohols and hydrogen halides to form monohaloalkanes and water.
 
 ### 9. What reagent is used to prepare chloroethane from ethanol?
-- **Hydrogen chloride (HCl)** is used to prepare **chloroethane** from ethanol.
+**Hydrogen chloride (HCl)** is used to prepare **chloroethane** from ethanol.
 
 ### 10. How can primary, secondary, and tertiary alcohols affect the formation of monohaloalkanes?
-- **Primary alcohols** react more slowly and may require stronger conditions, while **secondary and tertiary alcohols** form carbocations more readily, making the substitution process faster.
+**Primary alcohols** react more slowly and may require stronger conditions, while **secondary and tertiary alcohols** form carbocations more readily, making the substitution process faster.
 
 ---
 

@@ -65,34 +65,34 @@ Haloalkanes can be classified based on the type of halogen and the number of hal
 ## FAQs
 
 ### 1. What are haloalkanes?
-- Haloalkanes are organic compounds in which one or more halogen atoms are attached to an alkane carbon chain.
+Haloalkanes are organic compounds in which one or more halogen atoms are attached to an alkane carbon chain.
 
 ### 2. What is the general formula of haloalkanes?
-- The general formula of haloalkanes is **$\ce{C_nH_{2n+1}X}$**, where $\ce{X}$ is a halogen atom.
+The general formula of haloalkanes is **$\ce{C_nH_{2n+1}X}$**, where $\ce{X}$ is a halogen atom.
 
 ### 3. What are the different types of haloalkanes?
-- The different types of haloalkanes include **monohaloalkanes** and **polyhaloalkanes**, based on the number of halogen atoms attached to the alkyl chain.
+The different types of haloalkanes include **monohaloalkanes** and **polyhaloalkanes**, based on the number of halogen atoms attached to the alkyl chain.
 
 ### 4. What are chloroalkanes?
-- Chloroalkanes are haloalkanes containing chlorine as the halogen, such as chloroform ($\ce{CHCl_3}$).
+Chloroalkanes are haloalkanes containing chlorine as the halogen, such as chloroform ($\ce{CHCl_3}$).
 
 ### 5. Are haloalkanes soluble in water?
-- Haloalkanes are generally **not soluble in water** but are soluble in organic solvents like ethanol and acetone.
+Haloalkanes are generally **not soluble in water** but are soluble in organic solvents like ethanol and acetone.
 
 ### 6. What type of reaction do haloalkanes undergo?
-- Haloalkanes undergo **nucleophilic substitution** reactions, where the halogen is replaced by a nucleophile.
+Haloalkanes undergo **nucleophilic substitution** reactions, where the halogen is replaced by a nucleophile.
 
 ### 7. How are haloalkanes used in industry?
-- Haloalkanes are used as **solvents, refrigerants,** and in **pharmaceuticals** and **pesticides**.
+Haloalkanes are used as **solvents, refrigerants,** and in **pharmaceuticals** and **pesticides**.
 
 ### 8. What is the difference between chloroalkanes and bromoalkanes?
-- **Chloroalkanes** contain chlorine, while **bromoalkanes** contain bromine as the halogen.
+**Chloroalkanes** contain chlorine, while **bromoalkanes** contain bromine as the halogen.
 
 ### 9. Can haloalkanes undergo elimination reactions?
-- Yes, haloalkanes can undergo **elimination reactions** to form alkenes under suitable conditions.
+Yes, haloalkanes can undergo **elimination reactions** to form alkenes under suitable conditions.
 
 ### 10. Are haloalkanes toxic?
-- Many haloalkanes are **toxic**, and exposure to some, such as chloroform, can lead to health issues.
+Many haloalkanes are **toxic**, and exposure to some, such as chloroform, can lead to health issues.
 
 ---
 

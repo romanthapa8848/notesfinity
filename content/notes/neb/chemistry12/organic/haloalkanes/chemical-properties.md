@@ -78,34 +78,34 @@ Monohaloalkanes undergo **nucleophilic substitution reactions** where a halogen 
 ## FAQs
 
 ### 1. What is the main difference between SN1 and SN2 reactions?
-- SN1 reactions involve the formation of a carbocation intermediate, while SN2 reactions occur in a single step without any intermediate.
+SN1 reactions involve the formation of a carbocation intermediate, while SN2 reactions occur in a single step without any intermediate.
 
 ### 2. Which halides undergo SN1 reactions more easily?
-- **Tertiary halides** undergo SN1 reactions more easily due to the stability of the resulting carbocation.
+**Tertiary halides** undergo SN1 reactions more easily due to the stability of the resulting carbocation.
 
 ### 3. What type of solvents are best for SN1 reactions?
-- **Polar protic solvents** (such as water or alcohol) are best for SN1 reactions because they stabilize the carbocation.
+**Polar protic solvents** (such as water or alcohol) are best for SN1 reactions because they stabilize the carbocation.
 
 ### 4. Which halides undergo SN2 reactions more easily?
-- **Methyl and primary halides** undergo SN2 reactions more easily because they do not form stable carbocations.
+**Methyl and primary halides** undergo SN2 reactions more easily because they do not form stable carbocations.
 
 ### 5. What is the key feature of SN2 reaction mechanisms?
-- SN2 reactions occur in a **single step**, where the nucleophile attacks the carbon simultaneously as the leaving group departs.
+SN2 reactions occur in a **single step**, where the nucleophile attacks the carbon simultaneously as the leaving group departs.
 
 ### 6. What happens to the product configuration in SN2 reactions?
-- In SN2 reactions, the product configuration undergoes **inversion**, meaning the nucleophile attaches to the opposite side of the leaving group.
+In SN2 reactions, the product configuration undergoes **inversion**, meaning the nucleophile attaches to the opposite side of the leaving group.
 
 ### 7. How does the rate of SN1 reactions depend on the substrate?
-- The rate of SN1 reactions depends only on the concentration of the substrate and increases with the stability of the carbocation formed.
+The rate of SN1 reactions depends only on the concentration of the substrate and increases with the stability of the carbocation formed.
 
 ### 8. Can polar aprotic solvents be used for SN1 reactions?
-- **No**, polar aprotic solvents are not suitable for SN1 reactions because they do not stabilize the carbocation.
+**No**, polar aprotic solvents are not suitable for SN1 reactions because they do not stabilize the carbocation.
 
 ### 9. What is racemization in the context of SN1 reactions?
-- **Racemization** refers to the formation of both enantiomers (opposite configurations) in equal amounts when the nucleophile attacks the carbocation in an SN1 reaction.
+**Racemization** refers to the formation of both enantiomers (opposite configurations) in equal amounts when the nucleophile attacks the carbocation in an SN1 reaction.
 
 ### 10. How does the nucleophile affect the rate of SN2 reactions?
-- In SN2 reactions, the rate depends on the concentration and strength of the nucleophile, with stronger nucleophiles leading to faster reactions.
+In SN2 reactions, the rate depends on the concentration and strength of the nucleophile, with stronger nucleophiles leading to faster reactions.
 
 ---
 

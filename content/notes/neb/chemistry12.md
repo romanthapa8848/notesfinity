@@ -194,19 +194,19 @@ layout: "non_math_mode"
 
 ### 9. Haloarenes
 
-- [9.1 Introduction](./organic/haloarenes/introduction.html)
-- [9.2 Nomenclature and isomerism of haloarenes](./organic/haloarenes/nomenclature.html)
-- [9.3 Preparation of chlorobenzene from benzene and benzene diazonium chloride](./organic/haloarenes/preparation-chlorobenzene.html)
-- [9.4 Physical properties](./organic/haloarenes/physical-properties.html)
-- [9.5 Chemical properties](./organic/haloarenes/chemical-properties.html)
+- [9.1 Introduction](/notes/neb/chemistry12/organic/haloarenes/introduction/)
+- [9.2 Nomenclature and isomerism of haloarenes](/notes/neb/chemistry12/organic/haloarenes/nomenclature/)
+- [9.3 Preparation of chlorobenzene from benzene and benzene diazonium chloride](/notes/neb/chemistry12/organic/haloarenes/preparation-chlorobenzene/)
+- [9.4 Physical properties](/notes/neb/chemistry12/organic/haloarenes/physical-properties/)
+- [9.5 Chemical properties](/notes/neb/chemistry12/organic/haloarenes/chemical-properties/)
 
-  - [9.5.1 Low reactivity of haloarenes as compared to haloalkanes in terms of nucleophilic substitution reaction](./organic/haloarenes/chemical-properties/nucleophilic-substitution.html)
-  - [9.5.2 Reduction of chlorobenzene](./organic/haloarenes/chemical-properties/reduction-chlorobenzene.html)
-  - [9.5.3 Electrophilic substitution reactions](./organic/haloarenes/chemical-properties/electrophilic-substitution.html)
-  - [9.5.4 Action with Na (Fittig and Wurtz-Fittig reaction)](./organic/haloarenes/chemical-properties/fittig-reaction.html)
-  - [9.5.5 Action with chloral](./organic/haloarenes/chemical-properties/chloral-reaction.html)
+  - [9.5.1 Low reactivity of haloarenes as compared to haloalkanes in terms of nucleophilic substitution reaction](/notes/neb/chemistry12/organic/haloarenes/chemical-properties/nucleophilic-substitution/)
+  - [9.5.2 Reduction of chlorobenzene](/notes/neb/chemistry12/organic/haloarenes/chemical-properties/reduction-chlorobenzene/)
+  - [9.5.3 Electrophilic substitution reactions](/notes/neb/chemistry12/organic/haloarenes/chemical-properties/electrophilic-substitution/)
+  - [9.5.4 Action with Na (Fittig and Wurtz-Fittig reaction)](/notes/neb/chemistry12/organic/haloarenes/chemical-properties/fittig-reaction/)
+  - [9.5.5 Action with chloral](/notes/neb/chemistry12/organic/haloarenes/chemical-properties/chloral-reaction/)
 
-- [9.6 Uses of haloarenes](./organic/haloarenes/uses.html)
+- [9.6 Uses of haloarenes](/notes/neb/chemistry12/organic/haloarenes/uses/)
 
 ---
 

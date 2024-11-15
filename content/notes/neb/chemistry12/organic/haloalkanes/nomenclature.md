@@ -88,34 +88,34 @@ In tertiary haloalkanes, the halogen atom is attached to a carbon atom that is b
 ## FAQs
 
 ### 1. What is the general rule for naming monohaloalkanes?
-- Monohaloalkanes are named by identifying the longest carbon chain, numbering it to give the halogen the lowest possible number, and adding the halogen prefix (fluoro-, chloro-, bromo-, iodo-).
+Monohaloalkanes are named by identifying the longest carbon chain, numbering it to give the halogen the lowest possible number, and adding the halogen prefix (fluoro-, chloro-, bromo-, iodo-).
 
 ### 2. What is positional isomerism in monohaloalkanes?
-- **Positional isomerism** occurs when the halogen is attached to different carbon atoms in the same carbon chain, resulting in different compounds.
+**Positional isomerism** occurs when the halogen is attached to different carbon atoms in the same carbon chain, resulting in different compounds.
 
 ### 3. Can monohaloalkanes exhibit chain isomerism?
-- Yes, **chain isomerism** occurs when the carbon chain can be arranged in different ways, giving different compounds with the same molecular formula.
+Yes, **chain isomerism** occurs when the carbon chain can be arranged in different ways, giving different compounds with the same molecular formula.
 
 ### 4. What are primary, secondary, and tertiary haloalkanes?
-- **Primary haloalkanes** have the halogen attached to a terminal carbon, **secondary haloalkanes** have the halogen attached to a carbon bonded to two other carbons, and **tertiary haloalkanes** have the halogen attached to a carbon bonded to three other carbons.
+**Primary haloalkanes** have the halogen attached to a terminal carbon, **secondary haloalkanes** have the halogen attached to a carbon bonded to two other carbons, and **tertiary haloalkanes** have the halogen attached to a carbon bonded to three other carbons.
 
 ### 5. What is the prefix used for chlorine in haloalkane nomenclature?
-- The prefix used for chlorine in haloalkane nomenclature is **"chloro-"**.
+The prefix used for chlorine in haloalkane nomenclature is **"chloro-"**.
 
 ### 6. How does the position of the halogen affect the reactivity of haloalkanes?
-- The position of the halogen can affect the reactivity of haloalkanes, as primary, secondary, and tertiary haloalkanes react differently in nucleophilic substitution reactions.
+The position of the halogen can affect the reactivity of haloalkanes, as primary, secondary, and tertiary haloalkanes react differently in nucleophilic substitution reactions.
 
 ### 7. How is 1-Bromopropane different from 2-Bromopropane?
-- **1-Bromopropane** has the bromine atom attached to the first carbon of the chain, while **2-Bromopropane** has the bromine atom attached to the second carbon.
+**1-Bromopropane** has the bromine atom attached to the first carbon of the chain, while **2-Bromopropane** has the bromine atom attached to the second carbon.
 
 ### 8. What type of isomerism do 1-Chloropropane and 2-Chloropropane exhibit?
-- 1-Chloropropane and 2-Chloropropane exhibit **positional isomerism**, as the chlorine atom is attached to different positions in the carbon chain.
+1-Chloropropane and 2-Chloropropane exhibit **positional isomerism**, as the chlorine atom is attached to different positions in the carbon chain.
 
 ### 9. Can the halogen atom be attached to any carbon in the chain in monohaloalkanes?
-- The halogen atom in monohaloalkanes is typically attached to one of the carbons in the chain, and the position of this halogen determines the isomerism of the compound.
+The halogen atom in monohaloalkanes is typically attached to one of the carbons in the chain, and the position of this halogen determines the isomerism of the compound.
 
 ### 10. How are monohaloalkanes classified in terms of reactivity?
-- Monohaloalkanes are classified into **primary, secondary,** and **tertiary** based on the number of carbon atoms bonded to the carbon bearing the halogen, with tertiary haloalkanes generally being more reactive in nucleophilic substitution reactions.
+Monohaloalkanes are classified into **primary, secondary,** and **tertiary** based on the number of carbon atoms bonded to the carbon bearing the halogen, with tertiary haloalkanes generally being more reactive in nucleophilic substitution reactions.
 
 ---
 

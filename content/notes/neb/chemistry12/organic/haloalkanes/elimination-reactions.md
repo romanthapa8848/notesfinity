@@ -82,34 +82,34 @@ This reaction is useful for synthesizing alkanes with an even number of carbon a
 ## FAQs
 
 ### 1. What is an elimination reaction in organic chemistry?
-- An elimination reaction involves the removal of a group (such as a halogen) from a molecule, forming a double bond (alkene).
+An elimination reaction involves the removal of a group (such as a halogen) from a molecule, forming a double bond (alkene).
 
 ### 2. What is Saytzeff's rule?
-- Saytzeff's rule states that in a dehydrohalogenation reaction, the more substituted alkene (the one with more alkyl groups) is the major product.
+Saytzeff's rule states that in a dehydrohalogenation reaction, the more substituted alkene (the one with more alkyl groups) is the major product.
 
 ### 3. What reagents are used in reduction reactions to convert aldehydes to alcohols?
-- Hydrogen gas ($\ce{H2}$) in the presence of a catalyst like palladium on carbon ($\ce{Pd/C}$) is used to reduce aldehydes to alcohols.
+Hydrogen gas ($\ce{H2}$) in the presence of a catalyst like palladium on carbon ($\ce{Pd/C}$) is used to reduce aldehydes to alcohols.
 
 ### 4. Can reduction reactions be used to convert ketones to alcohols?
-- Yes, ketones can be reduced to secondary alcohols by adding hydrogen with a catalyst.
+Yes, ketones can be reduced to secondary alcohols by adding hydrogen with a catalyst.
 
 ### 5. What is the Wurtz reaction used for?
-- The Wurtz reaction is used to synthesize alkanes by coupling two alkyl halides in the presence of sodium metal.
+The Wurtz reaction is used to synthesize alkanes by coupling two alkyl halides in the presence of sodium metal.
 
 ### 6. Which halides react in the Wurtz reaction?
-- Alkyl halides (such as alkyl bromides or chlorides) react with sodium metal in the Wurtz reaction.
+Alkyl halides (such as alkyl bromides or chlorides) react with sodium metal in the Wurtz reaction.
 
 ### 7. What type of product is obtained in the Wurtz reaction?
-- Symmetric alkanes are obtained in the Wurtz reaction, as two identical alkyl groups are coupled.
+Symmetric alkanes are obtained in the Wurtz reaction, as two identical alkyl groups are coupled.
 
 ### 8. How does Saytzeff’s rule affect the outcome of dehydrohalogenation reactions?
-- Saytzeff’s rule predicts that the more substituted alkene is the major product in dehydrohalogenation reactions due to its increased stability.
+Saytzeff’s rule predicts that the more substituted alkene is the major product in dehydrohalogenation reactions due to its increased stability.
 
 ### 9. What is the primary product of a dehydrohalogenation reaction?
-- The primary product of a dehydrohalogenation reaction is an alkene.
+The primary product of a dehydrohalogenation reaction is an alkene.
 
 ### 10. How does the Wurtz reaction work to form alkanes?
-- The Wurtz reaction works by using sodium metal to generate free radicals from alkyl halides, which then couple to form alkanes.
+The Wurtz reaction works by using sodium metal to generate free radicals from alkyl halides, which then couple to form alkanes.
 
 ---
 

@@ -131,34 +131,34 @@ These transformations provide a broad range of organic compounds from a simple h
 ## FAQs
 
 ### 1. How can alcohols be formed from haloalkanes?
-- Alcohols can be formed by reacting haloalkanes with hydroxide ions ($\ce{OH^-}$), leading to nucleophilic substitution.
+Alcohols can be formed by reacting haloalkanes with hydroxide ions ($\ce{OH^-}$), leading to nucleophilic substitution.
 
 ### 2. What reagent is used to form nitriles from haloalkanes?
-- Cyanide ions ($\ce{CN^-}$) are used to form nitriles from haloalkanes.
+Cyanide ions ($\ce{CN^-}$) are used to form nitriles from haloalkanes.
 
 ### 3. How can amines be synthesized from haloalkanes?
-- Amines are formed by reacting haloalkanes with ammonia ($\ce{NH3}$), leading to nucleophilic substitution.
+Amines are formed by reacting haloalkanes with ammonia ($\ce{NH3}$), leading to nucleophilic substitution.
 
 ### 4. Which reagents are used to form ethers from haloalkanes?
-- Alkoxides ($\ce{RO^-}$) are used to form ethers from haloalkanes.
+Alkoxides ($\ce{RO^-}$) are used to form ethers from haloalkanes.
 
 ### 5. What is the product when haloalkanes react with thiolate ions?
-- **Thioethers** are formed when haloalkanes react with thiolate ions ($\ce{RSH^-}$).
+**Thioethers** are formed when haloalkanes react with thiolate ions ($\ce{RSH^-}$).
 
 ### 6. How are carbylamines formed from haloalkanes?
-- Carbylamines are formed by reacting haloalkanes with ammonia ($\ce{NH3}$) under an alcohol medium.
+Carbylamines are formed by reacting haloalkanes with ammonia ($\ce{NH3}$) under an alcohol medium.
 
 ### 7. What product is obtained when haloalkanes react with nitrite ions?
-- **Nitrites** are formed when haloalkanes react with nitrite ions ($\ce{NO2^-}$).
+**Nitrites** are formed when haloalkanes react with nitrite ions ($\ce{NO2^-}$).
 
 ### 8. How are nitroalkanes formed from haloalkanes?
-- Nitroalkanes are formed when haloalkanes react with sodium nitrite ($\ce{NaNO2}$) in an alkaline medium.
+Nitroalkanes are formed when haloalkanes react with sodium nitrite ($\ce{NaNO2}$) in an alkaline medium.
 
 ### 9. Can carbylamines be formed from primary haloalkanes?
-- Yes, carbylamines can be formed from primary haloalkanes when they react with ammonia.
+Yes, carbylamines can be formed from primary haloalkanes when they react with ammonia.
 
 ### 10. What is the general mechanism for the formation of alcohols from haloalkanes?
-- The formation of alcohols from haloalkanes involves a nucleophilic substitution reaction where $\ce{OH^-}$ replaces the halogen.
+The formation of alcohols from haloalkanes involves a nucleophilic substitution reaction where $\ce{OH^-}$ replaces the halogen.
 
 ---
 
