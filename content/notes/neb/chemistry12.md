@@ -156,9 +156,9 @@ layout: "non_math_mode"
 
 #### 7.3 Mercury
 
-- [7.3.1 Occurrence and extraction of mercury from cinnabar](./inorganic/heavy-metals/mercury/mercury-occurrence-extraction.html)
-- [7.3.2 Properties of mercury](./inorganic/heavy-metals/mercury/mercury-properties.html)
-- [7.3.3 Chemistry (preparation, properties and uses) of calomel and corrosive sublimate](./inorganic/heavy-metals/mercury/mercury-calomel-corrosive-sublimate.html)
+- [7.3.1 Occurrence and extraction of mercury from cinnabar](/notes/neb/chemistry12/inorganic/heavy-metals/mercury/mercury-occurrence-extraction/)
+- [7.3.2 Properties of mercury](/notes/neb/chemistry12/inorganic/heavy-metals/mercury/mercury-properties/)
+- [7.3.3 Chemistry (preparation, properties and uses) of calomel and corrosive sublimate](/notes/neb/chemistry12/inorganic/heavy-metals/mercury/mercury-calomel-corrosive-sublimate/)
 
 #### 7.4 Iron
 

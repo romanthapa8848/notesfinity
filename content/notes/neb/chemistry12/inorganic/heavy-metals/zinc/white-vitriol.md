@@ -14,6 +14,8 @@ layout: "math_mode"
 
 **White vitriol**, also known as **zinc sulfate** ($\ce{ZnSO_4}$), is a chemical compound consisting of zinc, sulfur, and oxygen. It commonly appears as a white, crystalline solid and is widely used in various industries.
 
+---
+
 ## Preparation of White Vitriol
 
 White vitriol is primarily obtained from the mineral **zinc blende** ($\ce{ZnS}$), through the following steps:
@@ -35,6 +37,8 @@ White vitriol is primarily obtained from the mineral **zinc blende** ($\ce{ZnS}$
 
 4. **Crystallization**: The zinc sulfate solution is then allowed to crystallize, resulting in the formation of **white vitriol** ($\ce{ZnSO_4.7H_2O}$).
 
+---
+
 ## Properties of White Vitriol
 
 - **Chemical Formula**: $\ce{ZnSO_4}$ (anhydrous) or $\ce{ZnSO_4.7H_2O}$ (heptahydrate).
@@ -51,6 +55,8 @@ White vitriol is primarily obtained from the mineral **zinc blende** ($\ce{ZnS}$
     $$
     \ce{ZnSO_4 + (NH_4)_2S -> ZnS (s) + (NH_4)_2SO_4}
     $$
+
+---
 
 ## Uses of White Vitriol
 
@@ -128,7 +134,7 @@ Zinc sulfate is used as a **micronutrient** in fertilizers to help prevent zinc 
 
 ### 1. What is the chemical formula of white vitriol?
 
-- A) $\ce{ZnSO_4}$ (✓)
+- A) **$\ce{ZnSO_4}$ (✓)**
 - B) $\ce{ZnO}$
 - C) $\ce{ZnCl_2}$
 - D) $\ce{ZnSO_4.7H_2O}$
