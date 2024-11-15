@@ -14,6 +14,9 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/characteristics/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/mercury/mercury-calomel-corrosive-sublimate/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/zinc/white-vitriol/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -21,6 +24,9 @@
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/complex-ions/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/iron/iron-corrosion-prevention/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/d-orbitals/</loc>
@@ -35,10 +41,22 @@
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/iron/steel-manufacture/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/copper/copper-occurrence-extraction/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/iron/iron-occurrence-extraction/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/mercury/mercury-occurrence-extraction/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/silver/silver-occurrence-extraction/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/zinc/zinc-occurrence-extraction/</loc>
@@ -50,10 +68,19 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/oxidation-states/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/silver/silver-chloride-nitrate/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/zinc/zinc-properties-uses/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/copper/copper-properties-uses/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/iron/iron-properties-uses/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/mercury/mercury-properties/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/colour-of-compounds/</loc>
@@ -1968,8 +1995,6 @@
     <lastmod>2024-10-04T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ring-test-nitrate-ion-test/</loc>
-  </url><url>
-    <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/mercury/mercury-occurrence-extraction/</loc>
   </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/number-system/boolean-logic/logic-gates/</loc>
   </url><url>

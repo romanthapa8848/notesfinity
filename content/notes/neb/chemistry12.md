@@ -162,15 +162,15 @@ layout: "non_math_mode"
 
 #### 7.4 Iron
 
-- [7.4.1 Occurrence and extraction of iron](./inorganic/heavy-metals/iron/iron-occurrence-extraction.html)
-- [7.4.2 Properties and uses of iron](./inorganic/heavy-metals/iron/iron-properties-uses.html)
-- [7.4.3 Manufacture of steel by Basic Oxygen Method and Open Hearth Process](./inorganic/heavy-metals/iron/steel-manufacture.html)
-- [7.4.4 Corrosion of iron and its prevention](./inorganic/heavy-metals/iron/iron-corrosion-prevention.html)
+- [7.4.1 Occurrence and extraction of iron](/notes/neb/chemistry12/inorganic/heavy-metals/iron/iron-occurrence-extraction/)
+- [7.4.2 Properties and uses of iron](/notes/neb/chemistry12/inorganic/heavy-metals/iron/iron-properties-uses/)
+- [7.4.3 Manufacture of steel by Basic Oxygen Method and Open Hearth Process](/notes/neb/chemistry12/inorganic/heavy-metals/iron/steel-manufacture/)
+- [7.4.4 Corrosion of iron and its prevention](/notes/neb/chemistry12/inorganic/heavy-metals/iron/iron-corrosion-prevention/)
 
 #### 7.5 Silver
 
-- [7.5.1 Occurrence and extraction of silver by cyanide process](./inorganic/heavy-metals/silver/silver-occurrence-extraction.html)
-- [7.5.2 Preparation and uses of silver chloride and silver nitrate](./inorganic/heavy-metals/silver/silver-chloride-nitrate.html)
+- [7.5.1 Occurrence and extraction of silver by cyanide process](/notes/neb/chemistry12/inorganic/heavy-metals/silver/silver-occurrence-extraction/)
+- [7.5.2 Preparation and uses of silver chloride and silver nitrate](/notes/neb/chemistry12/inorganic/heavy-metals/silver/silver-chloride-nitrate/)
 
 ---
 
@@ -180,15 +180,15 @@ layout: "non_math_mode"
 
 ### 8. Haloalkanes
 
-- [8.1 Introduction](./organic/haloalkanes/introduction.html)
-- [8.2 Nomenclature, isomerism, and classification of monohaloalkanes](./organic/haloalkanes/nomenclature.html)
-- [8.3 Preparation of monohaloalkanes from alkanes, alkenes, and alcohols](./organic/haloalkanes/preparation.html)
-- [8.4 Physical properties of monohaloalkanes](./organic/haloalkanes/physical-properties.html)
-- [8.5 Chemical properties, substitution reactions SN1 and SN2 reactions (basic concept only)](./organic/haloalkanes/chemical-properties.html)
-- [8.6 Formation of alcohol, nitrile, amine, ether, thioether, carbylamines, nitrite, and nitro alkane using haloalkanes](./organic/haloalkanes/formation.html)
-- [8.7 Elimination reaction (dehydrohalogenation - Saytzeff's rule), Reduction reactions, Wurtz reaction](./organic/haloalkanes/elimination-reactions.html)
-- [8.8 Preparation of trichloromethane from ethanol and propanone](./organic/haloalkanes/trichloromethane-preparation.html)
-- [8.9 Chemical properties of trichloromethane: oxidation, reduction, action on silver powder, conc. nitric acid, propanone, and aqueous alkali](./organic/haloalkanes/trichloromethane-properties.html)
+- [8.1 Introduction](/notes/neb/chemistry12/organic/haloalkanes/introduction/)
+- [8.2 Nomenclature, isomerism, and classification of monohaloalkanes](/notes/neb/chemistry12/organic/haloalkanes/nomenclature/)
+- [8.3 Preparation of monohaloalkanes from alkanes, alkenes, and alcohols](/notes/neb/chemistry12/organic/haloalkanes/preparation/)
+- [8.4 Physical properties of monohaloalkanes](/notes/neb/chemistry12/organic/haloalkanes/physical-properties/)
+- [8.5 Chemical properties, substitution reactions SN1 and SN2 reactions (basic concept only)](/notes/neb/chemistry12/organic/haloalkanes/chemical-properties/)
+- [8.6 Formation of alcohol, nitrile, amine, ether, thioether, carbylamines, nitrite, and nitro alkane using haloalkanes](/notes/neb/chemistry12/organic/haloalkanes/formation/)
+- [8.7 Elimination reaction (dehydrohalogenation - Saytzeff's rule), Reduction reactions, Wurtz reaction](/notes/neb/chemistry12/organic/haloalkanes/elimination-reactions/)
+- [8.8 Preparation of trichloromethane from ethanol and propanone](/notes/neb/chemistry12/organic/haloalkanes/trichloromethane-preparation/)
+- [8.9 Chemical properties of trichloromethane: oxidation, reduction, action on silver powder, conc. nitric acid, propanone, and aqueous alkali](/notes/neb/chemistry12/organic/haloalkanes/trichloromethane-properties/)
 
 ---
 
