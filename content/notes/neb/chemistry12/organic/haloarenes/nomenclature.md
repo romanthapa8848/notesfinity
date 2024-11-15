@@ -69,9 +69,13 @@ Example:
 ### 4. **Geometrical Isomerism**
 Geometrical isomerism (cis-trans isomerism) is not common in haloarenes due to the rigid structure of the aromatic ring. However, in certain cases with bulky groups attached, this type of isomerism can arise.
 
+---
+
 ## Summary
 
 The nomenclature of haloarenes follows the same basic principles as for other aromatic compounds. The position of the halogen atoms and the number of halogens are specified to give the compound a unique name. Haloarenes can exhibit position isomerism, and in rare cases, optical or geometrical isomerism, depending on the specific substituents attached to the ring.
+
+---
 
 ## FAQs
 
@@ -106,6 +110,8 @@ Geometrical isomerism is rare in haloarenes due to the rigid nature of the benze
 
 ### 10. What is the difference between functional group isomerism and position isomerism?
 **Functional group isomerism** occurs when different functional groups are attached to the same carbon chain, while **position isomerism** occurs when substituents are attached to different positions on the same ring.
+
+---
 
 ## MCQs
 

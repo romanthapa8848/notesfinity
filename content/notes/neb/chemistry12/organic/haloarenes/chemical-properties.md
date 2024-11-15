@@ -117,61 +117,61 @@ Ortho and para products are predominant because the halogen directs the electrop
 ## MCQs
 
 ### 1. Which reaction involves the reaction of haloarenes with alkyl halides and sodium metal?  
-A) Fittig reaction  
-B) **Wurtz-Fittig reaction (✓)**  
-C) Grignard reaction  
-D) Nitration reaction  
+- A) Fittig reaction  
+- B) **Wurtz-Fittig reaction (✓)**  
+- C) Grignard reaction  
+- D) Nitration reaction  
 
 ### 2. What type of substitution is common in haloarenes?  
-A) Nucleophilic substitution  
-B) **Electrophilic substitution (✓)**  
-C) Free radical substitution  
+- A) Nucleophilic substitution  
+- B) **Electrophilic substitution (✓)**  
+- C) Free radical substitution  
 D) Elimination  
 
 ### 3. What happens when chlorobenzene reacts with aqueous NaOH under heat and pressure?  
-A) **Phenol is formed (✓)**  
-B) Benzene is formed  
-C) Diphenyl is formed  
-D) No reaction occurs  
+- A) **Phenol is formed (✓)**  
+- B) Benzene is formed  
+- C) Diphenyl is formed  
+- D) No reaction occurs  
 
 ### 4. What is the product of Fittig reaction?  
-A) Alkylated benzene  
-B) **Diphenyl (✓)**  
-C) Phenol  
-D) Nitrobenzene  
+- A) Alkylated benzene  
+- B) **Diphenyl (✓)**  
+- C) Phenol  
+- D) Nitrobenzene  
 
 ### 5. What is formed when haloarenes react with Grignard reagents?  
-A) Alcohols  
-B) Alkanes  
-C) **Substituted aromatic compounds (✓)**  
-D) Ketones  
+- A) Alcohols  
+- B) Alkanes  
+- C) **Substituted aromatic compounds (✓)**  
+- D) Ketones  
 
 ### 6. Why are haloarenes ortho and para directing in electrophilic substitution?  
-A) **Due to resonance effect (✓)**  
-B) Due to inductive effect  
-C) Due to steric hindrance  
-D) Due to hydrogen bonding  
+- A) **Due to resonance effect (✓)**  
+- B) Due to inductive effect  
+- C) Due to steric hindrance  
+- D) Due to hydrogen bonding  
 
 ### 7. Which reagent is used to convert chlorobenzene to diphenyl?  
-A) **Sodium in dry ether (✓)**  
-B) NaOH  
-C) Zn/acid  
-D) Mg in ether  
+- A) **Sodium in dry ether (✓)**  
+- B) NaOH  
+- C) Zn/acid  
+- D) Mg in ether  
 
 ### 8. What is the major product when chlorobenzene reacts with sulfuric acid?  
-A) Phenol  
-B) Benzene  
-C) **Chlorobenzenesulfonic acid (✓)**  
-D) Dichlorobenzene  
+- A) Phenol  
+- B) Benzene  
+- C) **Chlorobenzenesulfonic acid (✓)**  
+- D) Dichlorobenzene  
 
 ### 9. What reduces haloarenes to benzene?  
-A) Grignard reagent  
-B) Wurtz reaction  
-C) **Zinc and acid (✓)**  
-D) Hydrogen and platinum  
+- A) Grignard reagent  
+- B) Wurtz reaction  
+- C) **Zinc and acid (✓)**  
+- D) Hydrogen and platinum  
 
 ### 10. Which of the following enhances nucleophilic substitution in haloarenes?  
-A) Electron-donating groups  
-B) **Electron-withdrawing groups (✓)**  
-C) Hydrogen atoms  
-D) Halogens  
+- A) Electron-donating groups  
+- B) **Electron-withdrawing groups (✓)**  
+- C) Hydrogen atoms  
+- D) Halogens  

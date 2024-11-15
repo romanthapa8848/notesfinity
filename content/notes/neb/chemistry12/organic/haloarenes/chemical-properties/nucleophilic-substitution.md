@@ -86,61 +86,61 @@ Yes, but they are **less reactive** compared to haloalkanes due to **resonance s
 ## MCQs
 
 ### 1. Why are haloarenes less reactive in nucleophilic substitution reactions than haloalkanes?  
-A) **Due to the resonance effect (✓)**  
-B) Due to steric hindrance
-C) Due to bond strength  
-D) Due to polarizability  
+- A) **Due to the resonance effect (✓)**  
+- B) Due to steric hindrance
+- C) Due to bond strength  
+- D) Due to polarizability  
 
 ### 2. What effect does the resonance of haloarenes have on their reactivity?  
-A) Increases reactivity  
-B) **Decreases reactivity (✓)**  
-C) No effect  
-D) Increases electrophilicity  
+- A) Increases reactivity  
+- B) **Decreases reactivity (✓)**  
+- C) No effect  
+- D) Increases electrophilicity  
 
 ### 3. What is the key difference in the hybridization of carbon in haloarenes and haloalkanes?  
-A) **sp² in haloarenes, sp³ in haloalkanes (✓)**  
-B) sp² in both  
-C) sp³ in both  
-D) sp in both  
+- A) **sp² in haloarenes, sp³ in haloalkanes (✓)**  
+- B) sp² in both  
+- C) sp³ in both  
+- D) sp in both  
 
 ### 4. Why is the C-X bond in haloarenes stronger than in haloalkanes?  
-A) **Due to resonance stabilization (✓)**  
-B) Due to inductive effect
-C) Due to bond length 
-D) Due to steric hindrance  
+- A) **Due to resonance stabilization (✓)**  
+- B) Due to inductive effect
+- C) Due to bond length 
+- D) Due to steric hindrance  
 
 ### 5. What happens to the electrophilicity of haloarenes due to resonance?  
-A) **Decreases (✓)**  
-B) Increases  
-C) Remains the same  
-D) Depends on the halogen  
+- A) **Decreases (✓)**  
+- B) Increases  
+- C) Remains the same  
+- D) Depends on the halogen  
 
 ### 6. Which type of substitution occurs more readily in haloalkanes?  
-A) **Nucleophilic substitution (✓)**  
-B) Electrophilic substitution  
-C) Elimination  
-D) Addition  
+- A) **Nucleophilic substitution (✓)**  
+- B) Electrophilic substitution  
+- C) Elimination  
+- D) Addition  
 
 ### 7. What makes haloarenes less reactive toward nucleophilic substitution?  
-A) **Resonance stabilization and bond strength (✓)**  
-B) Weak C-X bond  
-C) High electronegativity of halogens  
-D) Small carbon-halogen bond  
+- A) **Resonance stabilization and bond strength (✓)**  
+- B) Weak C-X bond  
+- C) High electronegativity of halogens  
+- D) Small carbon-halogen bond  
 
 ### 8. How does steric hindrance affect nucleophilic substitution in haloarenes?  
-A) **Reduces reactivity (✓)**  
-B) Increases reactivity  
-C) Has no effect  
-D) Makes the substitution faster  
+- A) **Reduces reactivity (✓)**  
+- B) Increases reactivity  
+- C) Has no effect  
+- D) Makes the substitution faster  
 
 ### 9. Which of the following is more reactive toward nucleophilic substitution?  
-A) Haloalkanes  
-B) **Haloarenes (✓)**  
-C) Alcohols  
-D) Alkyl groups  
+- A) Haloalkanes  
+- B) **Haloarenes (✓)**  
+- C) Alcohols  
+- D) Alkyl groups  
 
 ### 10. What is the effect of the inductive effect on the reactivity of haloalkanes?  
-A) **Increases reactivity (✓)**  
-B) Decreases reactivity  
-C) No effect  
-D) Makes bond stronger
+- A) **Increases reactivity (✓)**  
+- B) Decreases reactivity  
+- C) No effect  
+- D) Makes bond stronger

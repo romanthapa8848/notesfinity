@@ -78,10 +78,10 @@ The electrophilic substitution reactions of haloarenes include halogenation, nit
 
 ---
 
-## FAQs
+## MCQs
 
 ### 1. What is the effect of a halogen atom on the reactivity of haloarenes?  
-A) Increases nucleophilic substitution  
+- A) Increases nucleophilic substitution  
 B) **Decreases electrophilic substitution (✓)**  
 C) Increases electrophilic substitution  
 D) No effect  
