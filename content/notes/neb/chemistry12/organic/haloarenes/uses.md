@@ -84,62 +84,96 @@ Haloarenes are versatile compounds with numerous applications in **pharmaceutica
 
 ## FAQs
 
+### 1. What are haloarenes?  
+Haloarenes are aromatic compounds in which one or more halogen atoms (fluorine, chlorine, bromine, or iodine) are attached to a benzene ring.
+
+### 2. What is the primary use of haloarenes in the pharmaceutical industry?  
+Haloarenes are used in the synthesis of various drugs, such as antibiotics, antiviral agents, and anti-inflammatory drugs.
+
+### 3. Can haloarenes be used in agrochemicals?  
+Yes, haloarenes are important components in the production of pesticides and herbicides, improving the chemical stability and potency of these compounds.
+
+### 4. How are haloarenes used as solvents?  
+Haloarenes like chlorobenzene and bromobenzene are used as solvents in chemical synthesis and in the production of other organic chemicals due to their ability to dissolve a wide range of substances.
+
+### 5. What is the role of haloarenes in the polymer industry?  
+Haloarenes are used in the production of heat-resistant plastics and polymers, such as polycarbonate plastics, due to their high thermal and chemical stability.
+
+### 6. How do haloarenes contribute to the dye industry?  
+Haloarenes undergo chemical reactions that produce vivid colors, making them useful in synthesizing dyes and pigments, particularly in the textile industry.
+
+### 7. What fine chemicals can be synthesized using haloarenes?  
+Haloarenes are used as intermediates in the synthesis of fine chemicals, including pharmaceutical intermediates and agricultural chemicals.
+
+### 8. Are haloarenes toxic?  
+Some haloarenes can be toxic, particularly when they are not handled properly or used in excess, which is why their usage is regulated.
+
+### 9. What are the benefits of halogen atoms in haloarenes?  
+The halogen atoms increase the stability, reactivity, and solubility of haloarenes, making them useful in various industrial applications.
+
+### 10. Can haloarenes be used in medicine?  
+Yes, haloarenes are used in the pharmaceutical industry for the development of drugs such as antibiotics, anti-cancer agents, and antiviral medications.
+
+---
+
+## MCQs
+
 ### 1. What is the main application of haloarenes in the pharmaceutical industry?  
-A) **Synthesis of drugs (✓)**  
-B) Production of plastic  
-C) Synthesis of dyes  
-D) Agrochemical formulation  
+- A) **Synthesis of drugs (✓)**  
+- B) Production of plastic  
+- C) Synthesis of dyes  
+- D) Agrochemical formulation  
 
 ### 2. Which haloarene is commonly used in the production of herbicides?  
-A) **2,4-Dichlorophenoxyacetic acid (✓)**  
-B) Iodobenzene  
-C) Fluorobenzene  
-D) Toluene  
+- A) **2,4-Dichlorophenoxyacetic acid (✓)**  
+- B) Iodobenzene  
+- C) Fluorobenzene  
+- D) Toluene  
 
 ### 3. What role do haloarenes play in agrochemicals?  
-A) **They are used in pesticides and herbicides (✓)**  
-B) They are used in fertilizers  
-C) They are used in animal feed  
-D) They are used in biofuels  
+- A) **They are used in pesticides and herbicides (✓)**  
+- B) They are used in fertilizers  
+- C) They are used in animal feed  
+- D) They are used in biofuels  
 
 ### 4. Which haloarene is used as a solvent in chemical synthesis?  
-A) **Chlorobenzene (✓)**  
-B) Toluene  
-C) Phenol  
-D) Acetone  
+- A) **Chlorobenzene (✓)**  
+- B) Toluene  
+- C) Phenol  
+- D) Acetone  
 
 ### 5. What are haloarenes used for in the polymer industry?  
-A) **Production of heat-resistant plastics (✓)**  
-B) Synthesis of rubber  
-C) Production of synthetic fibers  
-D) Manufacture of paints  
+- A) **Production of heat-resistant plastics (✓)**  
+- B) Synthesis of rubber  
+- C) Production of synthetic fibers  
+- D) Manufacture of paints  
 
 ### 6. Which of the following is a haloarene used as a dye?  
-A) **Chloranil (✓)**  
-B) Tetrahydrofuran  
-C) Styrene  
-D) Cyclohexane  
+- A) **Chloranil (✓)**  
+- B) Tetrahydrofuran  
+- C) Styrene  
+- D) Cyclohexane  
 
 ### 7. Why are haloarenes important in the synthesis of fine chemicals?  
-A) **They are reactive intermediates (✓)**  
-B) They are used as solvents  
-C) They are cheap and abundant  
-D) They are non-toxic  
+- A) **They are reactive intermediates (✓)**  
+- B) They are used as solvents  
+- C) They are cheap and abundant  
+- D) They are non-toxic  
 
 ### 8. Which haloarene is commonly used to make polymers?  
-A) **Chlorobenzene (✓)**  
-B) Iodobenzene  
-C) Fluorobenzene  
-D) Methylbenzene  
+- A) **Chlorobenzene (✓)**  
+- B) Iodobenzene  
+- C) Fluorobenzene  
+- D) Methylbenzene  
 
 ### 9. What is the effect of halogen atoms on haloarenes?  
-A) **They increase the stability and reactivity of the compounds (✓)**  
-B) They make the compounds volatile  
-C) They decrease the solubility  
-D) They make the compounds colorless  
+- A) **They increase the stability and reactivity of the compounds (✓)**  
+- B) They make the compounds volatile  
+- C) They decrease the solubility  
+- D) They make the compounds colorless  
 
 ### 10. Which haloarene is used in the production of anti-cancer drugs?  
-A) Chlorobenzene  
-B) **Bromobenzene (✓)**  
-C) Iodobenzene  
-D) Fluorobenzene
+- A) Chlorobenzene  
+- B) **Bromobenzene (✓)**  
+- C) Iodobenzene  
+- D) Fluorobenzene
