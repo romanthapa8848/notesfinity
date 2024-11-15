@@ -81,35 +81,35 @@ Both **silver chloride** ($\ce{AgCl}$) and **silver nitrate** ($\ce{AgNO_3}$) ar
 ## FAQs
 
 ### 1. How is silver chloride ($\ce{AgCl}$) prepared?
-- Silver chloride is prepared by reacting silver nitrate ($\ce{AgNO_3}$) with sodium chloride ($\ce{NaCl}$), resulting in the formation of a white precipitate.
+Silver chloride is prepared by reacting silver nitrate ($\ce{AgNO_3}$) with sodium chloride ($\ce{NaCl}$), resulting in the formation of a white precipitate.
 
 ### 2. What happens to silver chloride when exposed to light?
-- Silver chloride undergoes photochemical decomposition, breaking down into silver metal and chlorine gas when exposed to light:
+Silver chloride undergoes photochemical decomposition, breaking down into silver metal and chlorine gas when exposed to light:
   $$ \ce{2AgCl (s)} \xrightarrow{\text{light}} \ce{2Ag (s)} + \ce{Cl_2 (g)} $$
 
 ### 3. What is the primary use of silver nitrate?
-- Silver nitrate is primarily used as a reagent in chemical analysis, especially for identifying halide ions in solution, and it is also used in electroplating and medical applications.
+Silver nitrate is primarily used as a reagent in chemical analysis, especially for identifying halide ions in solution, and it is also used in electroplating and medical applications.
 
 ### 4. Can silver nitrate be used in photography?
-- Yes, silver nitrate is used in the preparation of photographic films due to its light-sensitive properties.
+Yes, silver nitrate is used in the preparation of photographic films due to its light-sensitive properties.
 
 ### 5. Is silver chloride soluble in water?
-- No, silver chloride is insoluble in water.
+No, silver chloride is insoluble in water.
 
 ### 6. What is the appearance of silver nitrate?
 - Silver nitrate appears as a colorless crystalline solid.
 
 ### 7. How can silver nitrate be prepared?
-- Silver nitrate can be prepared by dissolving silver in nitric acid or by reacting silver chloride with dilute nitric acid.
+Silver nitrate can be prepared by dissolving silver in nitric acid or by reacting silver chloride with dilute nitric acid.
 
 ### 8. Is silver nitrate used as an oxidizing agent?
-- Yes, silver nitrate is a strong oxidizing agent and can cause combustion in the presence of flammable substances.
+Yes, silver nitrate is a strong oxidizing agent and can cause combustion in the presence of flammable substances.
 
 ### 9. What are the uses of silver chloride in medical treatments?
-- Silver chloride is used in antiseptic preparations to prevent bacterial growth in wounds and burns.
+Silver chloride is used in antiseptic preparations to prevent bacterial growth in wounds and burns.
 
 ### 10. What is the reaction for preparing silver chloride from silver nitrate?
-- The reaction is:
+The reaction is:
   $$ \ce{AgNO_3 (aq)} + \ce{NaCl (aq)} \rightarrow \ce{AgCl (s)} + \ce{NaNO_3 (aq)} $$
 
 ---

@@ -99,36 +99,36 @@ The **cyanide process** is a highly effective method for extracting silver from 
 ## FAQs
 
 ### 1. What is the cyanide process used for?
-- The cyanide process is used for extracting silver (and gold) from their ores by dissolving them in a cyanide solution.
+The cyanide process is used for extracting silver (and gold) from their ores by dissolving them in a cyanide solution.
 
 ### 2. What is the chemical reaction involved in the cyanide process for silver extraction?
-- The main reaction is:
+The main reaction is:
   $$ \ce{Ag_2S (s)} + 4\ce{NaCN (aq)} + O_2 (g) \rightarrow 2\ce{Na[Ag(CN)_2]} (aq) + Na_2SO_4 (aq) $$
 
 ### 3. How is silver separated from the cyanide solution?
-- Silver is separated by adding **zinc**, which displaces silver from the cyanide complex:
+Silver is separated by adding **zinc**, which displaces silver from the cyanide complex:
   $$ \ce{Na[Ag(CN)_2]} (aq) + \ce{Zn} (s) \rightarrow \ce{Ag} (s) + \ce{Zn(CN)_2} (aq) $$
 
 ### 4. What are the environmental concerns of the cyanide process?
-- **Cyanide** is toxic and must be carefully managed to prevent contamination of water sources and harm to wildlife.
+**Cyanide** is toxic and must be carefully managed to prevent contamination of water sources and harm to wildlife.
 
 ### 5. Can the cyanide process be used for all types of silver ores?
-- No, the cyanide process is mainly used for ores with low concentrations of silver or those that are difficult to process by other methods.
+No, the cyanide process is mainly used for ores with low concentrations of silver or those that are difficult to process by other methods.
 
 ### 6. What is a common silver ore?
-- Common silver ores include **argentite** ($\ce{Ag_2S}$) and **cerargyrite** ($\ce{AgCl}$).
+Common silver ores include **argentite** ($\ce{Ag_2S}$) and **cerargyrite** ($\ce{AgCl}$).
 
 ### 7. Is the cyanide process economical?
-- Yes, the cyanide process is generally cost-effective, especially for low-grade ores.
+Yes, the cyanide process is generally cost-effective, especially for low-grade ores.
 
 ### 8. What is the role of zinc in the cyanide process?
-- Zinc is used to displace silver from the cyanide complex, leading to the precipitation of silver.
+Zinc is used to displace silver from the cyanide complex, leading to the precipitation of silver.
 
 ### 9. How is the silver purified after extraction?
-- After extraction, silver is purified by **smelting** or further chemical processes to remove impurities.
+After extraction, silver is purified by **smelting** or further chemical processes to remove impurities.
 
 ### 10. Is the cyanide process still widely used?
-- Yes, the cyanide process remains one of the most widely used methods for extracting silver and gold.
+Yes, the cyanide process remains one of the most widely used methods for extracting silver and gold.
 
 ---
 

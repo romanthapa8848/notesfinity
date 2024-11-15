@@ -94,34 +94,34 @@ Corrosion of iron, commonly known as rusting, is a natural process that occurs w
 ## FAQs
 
 ### 1. What is the chemical formula of rust?
-- The chemical formula of rust is generally written as **$\ce{Fe_2O_3.3H_2O}$**, which is iron(III) oxide-hydrate.
+The chemical formula of rust is generally written as **$\ce{Fe_2O_3.3H_2O}$**, which is iron(III) oxide-hydrate.
 
 ### 2. What causes the corrosion of iron?
-- The corrosion of iron is caused by a **reaction between iron, water, and oxygen**, leading to the formation of iron oxides (rust).
+The corrosion of iron is caused by a **reaction between iron, water, and oxygen**, leading to the formation of iron oxides (rust).
 
 ### 3. How can the corrosion of iron be prevented?
-- The corrosion of iron can be prevented by methods such as **galvanization**, **painting**, **electroplating**, **sacrificial anodes**, and using **corrosion inhibitors**.
+The corrosion of iron can be prevented by methods such as **galvanization**, **painting**, **electroplating**, **sacrificial anodes**, and using **corrosion inhibitors**.
 
 ### 4. What is galvanization?
-- **Galvanization** is the process of coating iron with a layer of **zinc** to protect it from corrosion.
+**Galvanization** is the process of coating iron with a layer of **zinc** to protect it from corrosion.
 
 ### 5. How does electroplating protect iron from corrosion?
-- **Electroplating** involves coating iron with a layer of **corrosion-resistant metals** like nickel or chrome, providing a durable protective barrier.
+**Electroplating** involves coating iron with a layer of **corrosion-resistant metals** like nickel or chrome, providing a durable protective barrier.
 
 ### 6. What is the role of sacrificial anodes in preventing corrosion?
-- **Sacrificial anodes** are more reactive metals that corrode instead of iron, protecting the iron from rusting.
+**Sacrificial anodes** are more reactive metals that corrode instead of iron, protecting the iron from rusting.
 
 ### 7. Why does rusting occur more in the presence of water?
-- Rusting occurs more in the presence of water because water acts as an **electrolyte** that facilitates the movement of electrons, allowing the corrosion process to continue.
+Rusting occurs more in the presence of water because water acts as an **electrolyte** that facilitates the movement of electrons, allowing the corrosion process to continue.
 
 ### 8. How does painting prevent iron from rusting?
-- **Painting** creates a physical barrier, blocking **water and oxygen** from coming into contact with the iron surface, thereby preventing rust formation.
+**Painting** creates a physical barrier, blocking **water and oxygen** from coming into contact with the iron surface, thereby preventing rust formation.
 
 ### 9. What is the role of chromium in preventing iron corrosion?
-- **Chromium** forms a **protective oxide layer** on the surface of iron (making stainless steel) that prevents corrosion.
+**Chromium** forms a **protective oxide layer** on the surface of iron (making stainless steel) that prevents corrosion.
 
 ### 10. Can rust be removed from iron?
-- Yes, rust can be removed through methods such as **abrasive cleaning**, **sandblasting**, or by using chemical rust removers.
+Yes, rust can be removed through methods such as **abrasive cleaning**, **sandblasting**, or by using chemical rust removers.
 
 ---
 

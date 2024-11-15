@@ -96,34 +96,34 @@ Zinc is used in the **chemical industry** to produce **zinc sulfate**, **zinc ch
 ## FAQs
 
 ### 1. What is the reaction of zinc with air?
-- Zinc reacts with oxygen in the air to form **zinc oxide** (**$\ce{ZnO}$**).
+Zinc reacts with oxygen in the air to form **zinc oxide** (**$\ce{ZnO}$**).
 
 ### 2. What happens when zinc reacts with dilute acids?
-- Zinc reacts with dilute acids to release **hydrogen gas** and form a corresponding zinc salt.
+Zinc reacts with dilute acids to release **hydrogen gas** and form a corresponding zinc salt.
 
 ### 3. What is the product when zinc reacts with alkali?
-- When zinc reacts with alkali, it forms a **zincate ion** (**$\ce{[Zn(OH)_4]^{2-}}$**) and releases **hydrogen gas**.
+When zinc reacts with alkali, it forms a **zincate ion** (**$\ce{[Zn(OH)_4]^{2-}}$**) and releases **hydrogen gas**.
 
 ### 4. What is a displacement reaction involving zinc?
-- Zinc can displace less reactive metals from their salts, such as displacing copper from copper sulfate to form zinc sulfate and copper metal.
+Zinc can displace less reactive metals from their salts, such as displacing copper from copper sulfate to form zinc sulfate and copper metal.
 
 ### 5. What is galvanization?
-- Galvanization is the process of coating iron or steel with a layer of zinc to prevent rusting.
+Galvanization is the process of coating iron or steel with a layer of zinc to prevent rusting.
 
 ### 6. What are some common uses of zinc in alloys?
-- Zinc is used in the production of **brass**, an alloy of copper and zinc, and in **zinc die-casting alloys** for parts in automotive and electronics industries.
+Zinc is used in the production of **brass**, an alloy of copper and zinc, and in **zinc die-casting alloys** for parts in automotive and electronics industries.
 
 ### 7. What is the role of zinc in batteries?
-- Zinc is used as the **anode** in **dry cell** and **zinc-carbon** batteries.
+Zinc is used as the **anode** in **dry cell** and **zinc-carbon** batteries.
 
 ### 8. How is zinc used in agriculture?
-- Zinc is used in fertilizers to promote plant growth and is a vital micronutrient for plants.
+Zinc is used in fertilizers to promote plant growth and is a vital micronutrient for plants.
 
 ### 9. What is the role of zinc oxide in medicine?
-- Zinc oxide is used in **topical ointments** for treating skin conditions like acne and eczema.
+Zinc oxide is used in **topical ointments** for treating skin conditions like acne and eczema.
 
 ### 10. What is zinc's role in the chemical industry?
-- Zinc is used in producing chemicals like **zinc sulfate** and **zinc chloride**, which are essential for various industrial processes.
+Zinc is used in producing chemicals like **zinc sulfate** and **zinc chloride**, which are essential for various industrial processes.
 
 ---
 

@@ -90,34 +90,34 @@ Iron is a versatile metal with unique physical and chemical properties, such as 
 ## FAQs
 
 ### 1. What is the density of iron?
-- The density of iron is **7.87 g/cm³**.
+The density of iron is **7.87 g/cm³**.
 
 ### 2. What happens when iron reacts with oxygen in the air?
-- Iron reacts with oxygen and moisture to form **iron oxide** or rust ($\ce{Fe2O3}$).
+Iron reacts with oxygen and moisture to form **iron oxide** or rust ($\ce{Fe2O3}$).
 
 ### 3. What is iron's role in the production of steel?
-- Iron is the primary component of **steel**, which is used in construction, automobiles, and many other applications.
+Iron is the primary component of **steel**, which is used in construction, automobiles, and many other applications.
 
 ### 4. Is iron magnetic?
-- Yes, iron is **ferromagnetic**, meaning it can be magnetized.
+Yes, iron is **ferromagnetic**, meaning it can be magnetized.
 
 ### 5. What is the chemical formula for rust?
-- The chemical formula for rust is **$\ce{Fe2O3}$**.
+The chemical formula for rust is **$\ce{Fe2O3}$**.
 
 ### 6. What is the most common use of iron in everyday life?
-- Iron is commonly used in the production of **steel**, which is used in buildings, bridges, automobiles, and various machinery.
+Iron is commonly used in the production of **steel**, which is used in buildings, bridges, automobiles, and various machinery.
 
 ### 7. Can iron be used to make cookware?
-- Yes, **cast iron** is commonly used to make **cookware** such as pots, pans, and skillets.
+Yes, **cast iron** is commonly used to make **cookware** such as pots, pans, and skillets.
 
 ### 8. How does iron react with acids?
-- Iron reacts with dilute acids like **hydrochloric acid** to form iron salts and hydrogen gas. Example: $$ \ce{Fe + 2HCl -> FeCl2 + H2} $$
+Iron reacts with dilute acids like **hydrochloric acid** to form iron salts and hydrogen gas. Example: $$ \ce{Fe + 2HCl -> FeCl2 + H2} $$
 
 ### 9. What is the primary alloy of iron used in construction?
-- The primary alloy of iron used in construction is **steel**.
+The primary alloy of iron used in construction is **steel**.
 
 ### 10. What is stainless steel made from?
-- **Stainless steel** is made by adding **chromium** and **nickel** to iron, making it resistant to corrosion.
+**Stainless steel** is made by adding **chromium** and **nickel** to iron, making it resistant to corrosion.
 
 ---
 

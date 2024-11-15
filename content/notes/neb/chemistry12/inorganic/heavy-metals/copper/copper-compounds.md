@@ -60,34 +60,34 @@ Copper(II) oxide, or cupric oxide, is a black solid that is more stable than cop
 ## FAQs
 
 ### 1. What is the formula of copper(I) oxide?
-- The formula of copper(I) oxide is **$\ce{Cu_2O}$**.
+The formula of copper(I) oxide is **$\ce{Cu_2O}$**.
 
 ### 2. How is copper(I) oxide used in agriculture?
-- Copper(I) oxide is used as a **fungicide** and algaecide to protect crops from fungal infections and algae growth.
+Copper(I) oxide is used as a **fungicide** and algaecide to protect crops from fungal infections and algae growth.
 
 ### 3. What is the color of copper(I) oxide?
-- Copper(I) oxide appears as a **red or reddish-brown** solid.
+Copper(I) oxide appears as a **red or reddish-brown** solid.
 
 ### 4. What is the formula of copper(II) oxide?
-- The formula of copper(II) oxide is **$\ce{CuO}$**.
+The formula of copper(II) oxide is **$\ce{CuO}$**.
 
 ### 5. How is copper(II) oxide used in batteries?
-- Copper(II) oxide is used in **dry cell batteries** (such as alkaline batteries) as one of the components for producing energy.
+Copper(II) oxide is used in **dry cell batteries** (such as alkaline batteries) as one of the components for producing energy.
 
 ### 6. Is copper(II) oxide toxic?
-- Yes, copper(II) oxide can be **toxic** if ingested or inhaled in large amounts.
+Yes, copper(II) oxide can be **toxic** if ingested or inhaled in large amounts.
 
 ### 7. What is the color of copper(II) oxide?
-- Copper(II) oxide is a **black** solid.
+Copper(II) oxide is a **black** solid.
 
 ### 8. Can copper(I) oxide be used to make copper metal?
-- Yes, copper(I) oxide is used in **copper extraction** to obtain pure copper metal from ores.
+Yes, copper(I) oxide is used in **copper extraction** to obtain pure copper metal from ores.
 
 ### 9. Does copper(II) oxide react with acids?
-- Yes, copper(II) oxide reacts with **acids** to form copper salts and water.
+Yes, copper(II) oxide reacts with **acids** to form copper salts and water.
 
 ### 10. Is copper(I) oxide stable at high temperatures?
-- No, copper(I) oxide is less stable at **high temperatures** compared to copper(II) oxide.
+No, copper(I) oxide is less stable at **high temperatures** compared to copper(II) oxide.
 
 ---
 

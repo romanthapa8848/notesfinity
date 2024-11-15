@@ -99,35 +99,35 @@ The **Basic Oxygen Method** is the most modern and efficient method for producin
 ## FAQs
 
 ### 1. What is the main difference between the Basic Oxygen Method and the Open Hearth Process?
-- The **Basic Oxygen Method** is faster, more efficient, and produces higher-quality steel compared to the **Open Hearth Process**, which is slower and less energy-efficient.
+The **Basic Oxygen Method** is faster, more efficient, and produces higher-quality steel compared to the **Open Hearth Process**, which is slower and less energy-efficient.
 
 ### 2. How long does it take to produce steel using the Basic Oxygen Method?
-- It takes approximately **30 minutes** to produce steel using the **Basic Oxygen Method**.
+It takes approximately **30 minutes** to produce steel using the **Basic Oxygen Method**.
 
 ### 3. What are the main impurities removed in the Basic Oxygen Method?
-- In the **Basic Oxygen Method**, **carbon**, **silicon**, and **sulfur** are the main impurities removed from molten iron.
+In the **Basic Oxygen Method**, **carbon**, **silicon**, and **sulfur** are the main impurities removed from molten iron.
 
 ### 4. What reactions occur in the Basic Oxygen Method?
-- The main reactions in the **Basic Oxygen Method** involve the oxidation of carbon, silicon, and sulfur. For example:
+The main reactions in the **Basic Oxygen Method** involve the oxidation of carbon, silicon, and sulfur. For example:
   $$ \ce{C + O2} \rightarrow \ce{CO2} $$
 
 ### 5. What is the main disadvantage of the Open Hearth Process?
-- The **Open Hearth Process** is **time-consuming** and requires more energy compared to the Basic Oxygen Method.
+The **Open Hearth Process** is **time-consuming** and requires more energy compared to the Basic Oxygen Method.
 
 ### 6. Can the Open Hearth Process be used for large-scale steel production?
-- Yes, the **Open Hearth Process** can handle large quantities of iron and scrap, but it is less efficient than modern methods.
+Yes, the **Open Hearth Process** can handle large quantities of iron and scrap, but it is less efficient than modern methods.
 
 ### 7. What is the role of oxygen in the Basic Oxygen Method?
-- Oxygen is blown into molten iron to oxidize impurities like carbon, silicon, and sulfur, which are removed as gases.
+Oxygen is blown into molten iron to oxidize impurities like carbon, silicon, and sulfur, which are removed as gases.
 
 ### 8. Why is the Basic Oxygen Method preferred over the Open Hearth Process?
-- The **Basic Oxygen Method** is preferred because it is faster, more energy-efficient, and produces high-quality steel with a controlled carbon content.
+The **Basic Oxygen Method** is preferred because it is faster, more energy-efficient, and produces high-quality steel with a controlled carbon content.
 
 ### 9. What are the main raw materials used in the Basic Oxygen Method?
-- The main raw materials are **molten pig iron**, **oxygen**, and **fluxes**.
+The main raw materials are **molten pig iron**, **oxygen**, and **fluxes**.
 
 ### 10. Can the Open Hearth Process be used to produce high-quality steel?
-- Yes, but it is slower and less efficient than the **Basic Oxygen Method** in producing high-quality steel.
+Yes, but it is slower and less efficient than the **Basic Oxygen Method** in producing high-quality steel.
 
 ---
 

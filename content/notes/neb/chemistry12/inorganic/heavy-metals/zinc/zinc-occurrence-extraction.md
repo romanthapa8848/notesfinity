@@ -69,34 +69,34 @@ The zinc obtained from the reduction process is impure and contains several othe
 ## FAQs
 
 ### 1. What is zinc blende?
-- Zinc blende is a mineral consisting of **zinc sulfide ($\ce{ZnS}$)** and is the main ore of zinc.
+Zinc blende is a mineral consisting of **zinc sulfide ($\ce{ZnS}$)** and is the main ore of zinc.
 
 ### 2. How is zinc extracted from zinc blende?
-- Zinc is extracted from zinc blende by roasting the ore to form zinc oxide, followed by reduction using carbon.
+Zinc is extracted from zinc blende by roasting the ore to form zinc oxide, followed by reduction using carbon.
 
 ### 3. What is the chemical formula of zinc blende?
-- The chemical formula of zinc blende is **$\ce{ZnS}$**.
+The chemical formula of zinc blende is **$\ce{ZnS}$**.
 
 ### 4. What happens during the roasting of zinc blende?
-- During roasting, zinc sulfide ($\ce{ZnS}$) is heated with oxygen to produce zinc oxide ($\ce{ZnO}$) and sulfur dioxide ($\ce{SO_2}$).
+During roasting, zinc sulfide ($\ce{ZnS}$) is heated with oxygen to produce zinc oxide ($\ce{ZnO}$) and sulfur dioxide ($\ce{SO_2}$).
 
 ### 5. What is used to reduce zinc oxide to zinc metal?
-- **Carbon** (usually in the form of coke) is used to reduce zinc oxide to zinc metal.
+**Carbon** (usually in the form of coke) is used to reduce zinc oxide to zinc metal.
 
 ### 6. How is zinc purified after extraction?
-- Zinc is purified by an **electrolytic refining** process, where impure zinc is used as the anode and pure zinc is deposited at the cathode.
+Zinc is purified by an **electrolytic refining** process, where impure zinc is used as the anode and pure zinc is deposited at the cathode.
 
 ### 7. What is the role of froth flotation in zinc extraction?
-- Froth flotation is used to concentrate the zinc ore by separating zinc blende from the impurities.
+Froth flotation is used to concentrate the zinc ore by separating zinc blende from the impurities.
 
 ### 8. What are the byproducts of the roasting process?
-- The byproducts of the roasting process are **sulfur dioxide ($\ce{SO_2}$)**, which can be used in the production of sulfuric acid.
+The byproducts of the roasting process are **sulfur dioxide ($\ce{SO_2}$)**, which can be used in the production of sulfuric acid.
 
 ### 9. What is the final product of zinc extraction?
-- The final product of zinc extraction is **zinc metal**, which is used in various industrial applications.
+The final product of zinc extraction is **zinc metal**, which is used in various industrial applications.
 
 ### 10. What is the main use of zinc?
-- Zinc is mainly used for **galvanizing** iron and steel to prevent rusting, and in the production of batteries, alloys, and as a catalyst in various chemical reactions.
+Zinc is mainly used for **galvanizing** iron and steel to prevent rusting, and in the production of batteries, alloys, and as a catalyst in various chemical reactions.
 
 ---
 

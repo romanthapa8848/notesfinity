@@ -68,34 +68,34 @@ The extraction of iron from its ores is a vital process in metallurgy, with iron
 ## FAQs
 
 ### 1. What is the most common ore of iron?
-- The most common ores of iron are **hematite** ($\ce{Fe2O3}$) and **magnetite** ($\ce{Fe3O4}$).
+The most common ores of iron are **hematite** ($\ce{Fe2O3}$) and **magnetite** ($\ce{Fe3O4}$).
 
 ### 2. What is the role of coke in the extraction of iron?
-- Coke is used as a **carbon source** to produce carbon monoxide ($\ce{CO}$), which reduces iron ore to iron.
+Coke is used as a **carbon source** to produce carbon monoxide ($\ce{CO}$), which reduces iron ore to iron.
 
 ### 3. What is the function of limestone in the blast furnace?
-- Limestone is used to **remove impurities** like silica by forming slag.
+Limestone is used to **remove impurities** like silica by forming slag.
 
 ### 4. What is pig iron?
-- Pig iron is the **molten iron** collected at the bottom of the blast furnace after the reduction of iron ore.
+Pig iron is the **molten iron** collected at the bottom of the blast furnace after the reduction of iron ore.
 
 ### 5. What is slag?
-- Slag is a **waste product** formed when impurities like silica react with lime in the blast furnace.
+Slag is a **waste product** formed when impurities like silica react with lime in the blast furnace.
 
 ### 6. How is the iron ore prepared before extraction?
-- Iron ore is prepared by **crushing**, **grinding**, and **separating** impurities through methods like magnetic separation and flotation.
+Iron ore is prepared by **crushing**, **grinding**, and **separating** impurities through methods like magnetic separation and flotation.
 
 ### 7. What gases are produced in the blast furnace?
-- The gases produced in the blast furnace include **carbon dioxide** ($\ce{CO2}$) and **carbon monoxide** ($\ce{CO}$).
+The gases produced in the blast furnace include **carbon dioxide** ($\ce{CO2}$) and **carbon monoxide** ($\ce{CO}$).
 
 ### 8. What is the temperature required in a blast furnace?
-- The temperature inside a blast furnace reaches up to **2000°C** to facilitate the reduction of iron ore.
+The temperature inside a blast furnace reaches up to **2000°C** to facilitate the reduction of iron ore.
 
 ### 9. What is the main product of the blast furnace process?
-- The main product of the blast furnace process is **pig iron**.
+The main product of the blast furnace process is **pig iron**.
 
 ### 10. Can iron be extracted by direct reduction in a laboratory?
-- In a laboratory, iron can be reduced from iron oxide by using **hydrogen** or **carbon**, but in industry, the blast furnace method is more efficient.
+In a laboratory, iron can be reduced from iron oxide by using **hydrogen** or **carbon**, but in industry, the blast furnace method is more efficient.
 
 ---
 

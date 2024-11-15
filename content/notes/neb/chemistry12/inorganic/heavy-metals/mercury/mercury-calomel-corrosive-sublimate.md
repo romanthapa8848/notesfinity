@@ -79,34 +79,34 @@ Calomel ($\ce{Hg2Cl2}$) and corrosive sublimate ($\ce{HgCl2}$) are both importan
 ## FAQs
 
 ### 1. What is the formula of calomel?
-- The formula of calomel is $\ce{Hg2Cl2}$.
+The formula of calomel is $\ce{Hg2Cl2}$.
 
 ### 2. What is the main use of calomel in modern times?
-- Calomel is mainly used in **calomel electrodes** and in the preparation of mercury salts.
+Calomel is mainly used in **calomel electrodes** and in the preparation of mercury salts.
 
 ### 3. What is the toxicity level of corrosive sublimate?
-- **Corrosive sublimate** ($\ce{HgCl2}$) is **highly toxic** and should be handled with care.
+**Corrosive sublimate** ($\ce{HgCl2}$) is **highly toxic** and should be handled with care.
 
 ### 4. How is corrosive sublimate prepared?
-- Corrosive sublimate is prepared by the direct reaction of mercury with chlorine gas ($\ce{Hg + Cl2 -> HgCl2}$).
+Corrosive sublimate is prepared by the direct reaction of mercury with chlorine gas ($\ce{Hg + Cl2 -> HgCl2}$).
 
 ### 5. Can calomel be used as a medicine?
-- Calomel was historically used in medicine but is no longer commonly used due to its toxic properties.
+Calomel was historically used in medicine but is no longer commonly used due to its toxic properties.
 
 ### 6. What is the appearance of corrosive sublimate?
-- Corrosive sublimate is a **white, crystalline solid**.
+Corrosive sublimate is a **white, crystalline solid**.
 
 ### 7. How does calomel react with moisture?
-- Calomel slowly decomposes into mercuric chloride ($\ce{HgCl2}$) when exposed to moisture.
+Calomel slowly decomposes into mercuric chloride ($\ce{HgCl2}$) when exposed to moisture.
 
 ### 8. What is a common use of mercuric chloride in the past?
-- **Mercuric chloride** was used in the past as a **preservative** and disinfectant.
+**Mercuric chloride** was used in the past as a **preservative** and disinfectant.
 
 ### 9. What is the solubility of calomel in water?
-- **Calomel** is **insoluble** in water.
+**Calomel** is **insoluble** in water.
 
 ### 10. Is mercuric chloride soluble in alcohol?
-- Yes, **mercuric chloride** is soluble in **alcohol** and **ether**.
+Yes, **mercuric chloride** is soluble in **alcohol** and **ether**.
 
 ---
 
