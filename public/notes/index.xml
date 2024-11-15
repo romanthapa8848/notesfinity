@@ -9,6 +9,20 @@
     <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>Action with Chloral</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/chloral-reaction/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/chloral-reaction/</guid>
+      <description>&lt;h1 id=&#34;action-with-chloral&#34;&gt;Action with Chloral&lt;/h1&gt;&#xA;&lt;p&gt;Chloral (CCl₃CHO) is an important reagent in organic chemistry, particularly in reactions involving &lt;strong&gt;haloarenes&lt;/strong&gt;. It is a highly reactive electrophile and can participate in various substitution reactions. One of the notable reactions involving chloral is its reaction with haloarenes, which leads to the formation of chloral derivatives.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-chloral-addition-reaction-to-haloarenes&#34;&gt;1. &lt;strong&gt;Chloral Addition Reaction to Haloarenes&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;In this reaction, haloarenes, especially those with an electron-donating group on the aromatic ring, can undergo addition reactions with chloral. The halogen on the haloarene is replaced by the chloral group, leading to the formation of chloral derivatives of aromatic compounds.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Action with Na: Fittig and Wurtz-Fittig Reactions</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/fittig-reaction/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/fittig-reaction/</guid>
+      <description>&lt;h1 id=&#34;action-with-na-fittig-and-wurtz-fittig-reactions&#34;&gt;Action with Na: Fittig and Wurtz-Fittig Reactions&lt;/h1&gt;&#xA;&lt;p&gt;The reactions of haloarenes with sodium are important organic reactions that form carbon-carbon bonds. Two notable reactions that involve sodium are the &lt;strong&gt;Fittig reaction&lt;/strong&gt; and the &lt;strong&gt;Wurtz-Fittig reaction&lt;/strong&gt;. Both reactions involve the coupling of aryl halides but differ in their types of coupling.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-fittig-reaction&#34;&gt;1. &lt;strong&gt;Fittig Reaction&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;The Fittig reaction is a coupling reaction of &lt;strong&gt;aryl halides&lt;/strong&gt; with &lt;strong&gt;sodium&lt;/strong&gt; in the presence of dry &lt;strong&gt;ether&lt;/strong&gt; to form &lt;strong&gt;biaryl&lt;/strong&gt; compounds (two aromatic rings connected by a single bond).&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Blue Vitriol (Copper Sulfate): Preparation, Properties, and Uses</title>
       <link>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/copper/blue-vitriol/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
@@ -107,6 +121,13 @@
       <description>&lt;h1 id=&#34;electrode-potential-and-standard-electrode-potential&#34;&gt;Electrode Potential and Standard Electrode Potential&lt;/h1&gt;&#xA;&lt;h2 id=&#34;electrode-potential&#34;&gt;Electrode Potential&lt;/h2&gt;&#xA;&lt;p&gt;Electrode potential refers to the ability of an electrode to either lose or gain electrons when it is in contact with its ions in a solution. This potential is crucial in electrochemistry, as it helps us determine the direction of electron flow during redox reactions.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Oxidation&lt;/strong&gt;: When a substance loses electrons, this occurs at the &lt;strong&gt;anode&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Reduction&lt;/strong&gt;: When a substance gains electrons, this occurs at the &lt;strong&gt;cathode&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The &lt;strong&gt;electrode potential&lt;/strong&gt; is a numerical value that helps measure the tendency of a substance to either gain or lose electrons. A &lt;strong&gt;positive potential&lt;/strong&gt; indicates a strong tendency to gain electrons (reduction), while a &lt;strong&gt;negative potential&lt;/strong&gt; suggests a tendency to lose electrons (oxidation).&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Electrophilic Substitution Reactions of Haloarenes</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/electrophilic-substitution/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/electrophilic-substitution/</guid>
+      <description>&lt;h1 id=&#34;electrophilic-substitution-reactions-of-haloarenes&#34;&gt;Electrophilic Substitution Reactions of Haloarenes&lt;/h1&gt;&#xA;&lt;p&gt;Electrophilic substitution reactions are a key characteristic of aromatic compounds such as haloarenes. In these reactions, an electrophile attacks the benzene ring, replacing one of its hydrogen atoms. The presence of the halogen atom in haloarenes significantly influences the reactivity and the position where the electrophile attacks the ring.&lt;/p&gt;&#xA;&lt;h2 id=&#34;mechanism-of-electrophilic-substitution&#34;&gt;Mechanism of Electrophilic Substitution&lt;/h2&gt;&#xA;&lt;p&gt;The general mechanism of electrophilic substitution involves the following steps:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Generation of the Electrophile&lt;/strong&gt;: An electrophile is generated from a suitable reagent. For example, in halogenation, the electrophile is a halogen cation (e.g., $Cl^+$).&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Elimination Reaction (Dehydrohalogenation - Saytzeff&#39;s Rule), Reduction Reactions, Wurtz Reaction</title>
       <link>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/elimination-reactions/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
@@ -128,6 +149,13 @@
       <description>&lt;h1 id=&#34;haloalkanes-introduction&#34;&gt;Haloalkanes: Introduction&lt;/h1&gt;&#xA;&lt;p&gt;Haloalkanes, also known as alkyl halides, are a group of organic compounds in which one or more halogen atoms (fluorine, chlorine, bromine, or iodine) are attached to a carbon atom of an alkane chain. These compounds play an important role in industrial chemistry and are involved in various applications, from solvents to pharmaceuticals.&lt;/p&gt;&#xA;&lt;h2 id=&#34;structure-of-haloalkanes&#34;&gt;Structure of Haloalkanes&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;General Formula&lt;/strong&gt;: The general molecular formula of haloalkanes is $\ce{C_nH_{2n+1}X}$, where $\ce{X}$ represents a halogen atom, and $\ce{C_nH_{2n+1}}$ represents an alkyl group.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Types&lt;/strong&gt;:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Monohaloalkanes&lt;/strong&gt;: Contain only one halogen atom (e.g., chloroform $\ce{CHCl_3}$).&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Polyhaloalkanes&lt;/strong&gt;: Contain more than one halogen atom (e.g., dichloromethane $\ce{CH_2Cl_2}$).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;types-of-haloalkanes&#34;&gt;Types of Haloalkanes&lt;/h2&gt;&#xA;&lt;p&gt;Haloalkanes can be classified based on the type of halogen and the number of halogen atoms attached to the alkyl chain:&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Haloarenes: Chemical Properties</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/</guid>
+      <description>&lt;h1 id=&#34;haloarenes-chemical-properties&#34;&gt;Haloarenes: Chemical Properties&lt;/h1&gt;&#xA;&lt;p&gt;Haloarenes are aromatic compounds containing halogen atoms bonded to a benzene ring. Their chemical properties are influenced by the resonance effect, inductive effect, and the nature of the halogen atom. The main types of reactions shown by haloarenes include nucleophilic substitution, electrophilic substitution, and reactions involving the halogen atom.&lt;/p&gt;&#xA;&lt;h2 id=&#34;chemical-properties-of-haloarenes&#34;&gt;Chemical Properties of Haloarenes&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-nucleophilic-substitution-reactions&#34;&gt;1. &lt;strong&gt;Nucleophilic Substitution Reactions&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Haloarenes are less reactive toward nucleophilic substitution compared to alkyl halides. This is due to the resonance stabilization of the benzene ring and the partial double-bond character of the carbon-halogen bond.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Haloarenes: Introduction</title>
       <link>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/introduction/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
@@ -140,6 +168,13 @@
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/physical-properties/</guid>
       <description>&lt;h1 id=&#34;haloarenes-physical-properties&#34;&gt;Haloarenes: Physical Properties&lt;/h1&gt;&#xA;&lt;p&gt;Haloarenes are aromatic compounds in which one or more hydrogen atoms in the benzene ring are replaced by halogen atoms (fluorine, chlorine, bromine, or iodine). Their physical properties are influenced by the nature of the halogen and the aromatic ring.&lt;/p&gt;&#xA;&lt;h2 id=&#34;physical-properties-of-haloarenes&#34;&gt;Physical Properties of Haloarenes&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-boiling-points&#34;&gt;1. &lt;strong&gt;Boiling Points&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The boiling points of haloarenes are higher than those of the corresponding hydrocarbons, but lower than those of aliphatic halides. This is due to the presence of the electronegative halogen atoms which cause dipole-dipole interactions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Low Reactivity of Haloarenes in Nucleophilic Substitution Reactions</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/nucleophilic-substitution/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/nucleophilic-substitution/</guid>
+      <description>&lt;h1 id=&#34;low-reactivity-of-haloarenes-in-nucleophilic-substitution-reactions&#34;&gt;Low Reactivity of Haloarenes in Nucleophilic Substitution Reactions&lt;/h1&gt;&#xA;&lt;p&gt;Haloarenes are less reactive in nucleophilic substitution reactions compared to &lt;strong&gt;haloalkanes&lt;/strong&gt; due to several factors, including the &lt;strong&gt;resonance effect&lt;/strong&gt;, &lt;strong&gt;bond strength&lt;/strong&gt;, and &lt;strong&gt;steric hindrance&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;reasons-for-low-reactivity-of-haloarenes&#34;&gt;Reasons for Low Reactivity of Haloarenes&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-resonance-effect-in-haloarenes&#34;&gt;1. &lt;strong&gt;Resonance Effect in Haloarenes&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;In haloarenes, the &lt;strong&gt;halogen atom&lt;/strong&gt; participates in &lt;strong&gt;resonance&lt;/strong&gt; with the benzene ring, resulting in &lt;strong&gt;electron delocalization&lt;/strong&gt;. This resonance effect stabilizes the &lt;strong&gt;carbon-halogen bond&lt;/strong&gt;, making it &lt;strong&gt;stronger&lt;/strong&gt; and less susceptible to nucleophilic attack.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Manufacture of Steel by Basic Oxygen Method and Open Hearth Process</title>
@@ -282,6 +317,13 @@
       <description>&lt;h1 id=&#34;reasons-for-the-colour-of-transition-metal-compounds&#34;&gt;Reasons for the Colour of Transition Metal Compounds&lt;/h1&gt;&#xA;&lt;p&gt;Transition metal compounds are often brightly colored, and this color arises due to electronic transitions between d-orbitals. These transitions are influenced by several factors, including the &lt;strong&gt;ligand field&lt;/strong&gt; (according to Crystal Field Theory) and the &lt;strong&gt;oxidation state&lt;/strong&gt; of the metal. The color we observe is the result of the absorption of specific wavelengths of visible light, and the energy gap between these d-orbitals plays a crucial role in determining which wavelengths are absorbed.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Reduction of Chlorobenzene</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/reduction-chlorobenzene/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/reduction-chlorobenzene/</guid>
+      <description>&lt;h1 id=&#34;reduction-of-chlorobenzene&#34;&gt;Reduction of Chlorobenzene&lt;/h1&gt;&#xA;&lt;p&gt;Chlorobenzene can undergo reduction reactions to form different products, depending on the reducing agent used. These reactions typically involve the addition of hydrogen (H₂) or the use of other reducing agents in the presence of a catalyst.&lt;/p&gt;&#xA;&lt;h2 id=&#34;methods-of-reduction&#34;&gt;Methods of Reduction&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-hydrogenation-with-hydrogen-and-catalyst&#34;&gt;1. &lt;strong&gt;Hydrogenation with Hydrogen and Catalyst&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Chlorobenzene can be reduced to &lt;strong&gt;cyclohexane&lt;/strong&gt; by hydrogenation in the presence of a catalyst, such as &lt;strong&gt;nickel (Ni)&lt;/strong&gt; or &lt;strong&gt;platinum (Pt)&lt;/strong&gt;. This is an example of a &lt;strong&gt;reduction of an aromatic compound&lt;/strong&gt; to a saturated compound.&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Relationship Between Cell Potential and Free Energy</title>
       <link>http://localhost:1313/notes/neb/chemistry12/general-and-physical/electrochemistry/cell-potential-free-energy/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
@@ -308,6 +350,13 @@
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry12/general-and-physical/electrochemistry/types-of-electrodes/</guid>
       <description>&lt;h1 id=&#34;types-of-electrodes-standard-hydrogen-electrode-and-calomel-electrode&#34;&gt;Types of Electrodes: Standard Hydrogen Electrode and Calomel Electrode&lt;/h1&gt;&#xA;&lt;h2 id=&#34;introduction-to-electrodes&#34;&gt;Introduction to Electrodes&lt;/h2&gt;&#xA;&lt;p&gt;In electrochemistry, electrodes are essential components of electrochemical cells, where they serve as sites for oxidation and reduction reactions. Two important types of reference electrodes used in electrochemical measurements are the &lt;strong&gt;Standard Hydrogen Electrode (SHE)&lt;/strong&gt; and the &lt;strong&gt;Calomel Electrode&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;standard-hydrogen-electrode-she&#34;&gt;Standard Hydrogen Electrode (SHE)&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Standard Hydrogen Electrode (SHE)&lt;/strong&gt; is a universal reference electrode, commonly used to measure the standard electrode potential of other half-cells. It is the primary reference for determining the electrode potentials of all other electrodes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Uses of Haloarenes</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/uses/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/uses/</guid>
+      <description>&lt;h1 id=&#34;uses-of-haloarenes&#34;&gt;Uses of Haloarenes&lt;/h1&gt;&#xA;&lt;p&gt;Haloarenes are aromatic compounds that contain one or more halogen atoms (fluorine, chlorine, bromine, or iodine) attached to a benzene ring. These compounds have several important applications in various industries due to their unique chemical properties, including their stability, reactivity, and ability to participate in a wide range of chemical reactions.&lt;/p&gt;&#xA;&lt;h2 id=&#34;1-pharmaceutical-industry&#34;&gt;1. &lt;strong&gt;Pharmaceutical Industry&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Haloarenes are used extensively in the &lt;strong&gt;pharmaceutical industry&lt;/strong&gt; for the synthesis of a wide variety of drugs. The halogen atoms influence the biological activity of the compounds, making them effective as &lt;strong&gt;antibiotics&lt;/strong&gt;, &lt;strong&gt;antiviral agents&lt;/strong&gt;, and &lt;strong&gt;anti-inflammatory drugs&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Voltaic Cell: Zn-Cu Cell, Ag-Cu Cell</title>

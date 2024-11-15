@@ -6,7 +6,7 @@
     <title>Contact | Gyanpedia</title>
     <meta
       name="description"
-      content="Learn more about Notesfinity and our commitment to providing comprehensive study notes."
+      content="Get in touch with Gyanpedia for any questions, feedback, or inquiries."
     />
 
     <!-- Custom CSS -->
@@ -17,11 +17,77 @@
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
     />
     <link rel="stylesheet" href="/css/main.css" />
+
     <!-- Linking JavaScript files -->
     <script type="module" src="/js/results.js" defer></script>
     <script type="module" src="/js/search.js" defer></script>
     <!-- jQuery Library -->
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- EmailJS Library -->
+    <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+    <script>
+      // Initialize EmailJS with your public key
+      (function () {
+        emailjs.init("DgVYHaAfvVpiHHntC");
+      })();
+    </script>
+
+    <style>
+      .contact-form {
+        max-width: 600px;
+        margin: 40px auto;
+        padding: 20px;
+        border: 2px solid #ccc;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        background-color: #f9f9f9;
+      }
+      .contact-form h1 {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      .contact-form input,
+      .contact-form textarea,
+      .contact-form button {
+        width: 100%;
+        margin: 10px 0;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      .contact-form textarea {
+        resize: vertical;
+        min-height: 120px;
+      }
+      .contact-form button {
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+      .contact-form button:hover {
+        background-color: #45a049;
+      }
+      .error {
+        color: red;
+        font-size: 14px;
+        text-align: center; /* Align error messages to center */
+      }
+
+      #formResponse {
+        margin-top: 15px;
+        text-align: center; /* Center the response text */
+        width: 100%; /* Ensure it takes full width */
+      }
+
+      .contact-info {
+        margin: 20px 0;
+        text-align: center;
+      }
+    </style>
   </head>
   <body>
     <div class="wrapper">
@@ -39,38 +105,109 @@
           <button id="search-button"><i class="fas fa-search"></i></button>
         </div>
       </header>
-      <div class="wrapper">
-        <!-- Contact section -->
-        <main class="content">
-          <h1>Contact Us</h1>
-          <p>
-            If you have any questions or need assistance, feel free to reach out
-            to us using the contact details below.
-          </p>
 
-          <div class="contact-info">
-            <p>
-              <strong>Email:</strong>
-              <a href="mailto:contact@openkitab.com">contact@gyanpedia.com</a>
-            </p>
-            <p><strong>Address:</strong> Garangdi, Syangja, Nepal</p>
-          </div>
-        </main>
-        <!-- footer.html -->
-        <footer>
-          <div class="footer-row">
-            <ul class="footer-links">
-              <li><a href="/about.html">About</a></li>
-              <li><a href="/contact.html">Contact</a></li>
-              <li><a href="/privacy.html">Privacy</a></li>
-              <li><a href="/terms.html">Terms</a></li>
-            </ul>
-          </div>
-          <div class="footer-row copyright">
-            <p>&copy; Gyanpedia</p>
-          </div>
-        </footer>
-      </div>
+      <main class="content">
+        <!-- Contact Info Section -->
+        <section class="contact-info">
+          <h2>Get in Touch</h2>
+          <p>If you have any questions or need assistance, feel free to reach out to us. We are here to help!</p>
+          <p><strong>Email:</strong> <a href="mailto:contact@gyanpedia.com">contact@gyanpedia.com</a></p>
+          <p><strong>Phone:</strong> +977-9846187550</p>
+          <p><strong>Address:</strong> Garangdi, Syangja, Nepal</p>
+        </section>
+
+        <!-- Contact Form Section -->
+        <div class="contact-form">
+          <h1>Contact Us</h1>
+          <form id="contactForm">
+            <input
+              type="text"
+              name="name"
+              id="name"
+              placeholder="Your Name"
+              required
+            />
+            <input
+              type="email"
+              name="email"
+              id="email"
+              placeholder="Your Email"
+              required
+            />
+            <textarea
+              name="message"
+              id="message"
+              placeholder="Describe your message or issue..."
+              required
+            ></textarea>
+            <button type="submit">Submit</button>
+          </form>
+          <p id="formResponse"></p>
+        </div>
+      </main>
+
+      <!-- footer.html -->
+      <footer>
+        <div class="footer-row">
+          <ul class="footer-links">
+            <li><a href="/about.html">About</a></li>
+            <li><a href="/contact.html">Contact</a></li>
+            <li><a href="/privacy.html">Privacy</a></li>
+            <li><a href="/terms.html">Terms</a></li>
+          </ul>
+        </div>
+        <div class="footer-row copyright">
+          <p>&copy; Gyanpedia</p>
+        </div>
+      </footer>
     </div>
+
+    <script>
+      // Handle form submission using EmailJS
+      document
+        .getElementById("contactForm")
+        .addEventListener("submit", function (e) {
+          e.preventDefault(); // Prevent the default form submission
+
+          // Get form values
+          const name = document.getElementById("name").value.trim();
+          const email = document.getElementById("email").value.trim();
+          const message = document.getElementById("message").value.trim();
+          const formResponse = document.getElementById("formResponse");
+
+          // Validate email format
+          const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+          if (!emailRegex.test(email)) {
+            formResponse.textContent = "Please enter a valid email address.";
+            formResponse.classList.add("error");
+            return;
+          }
+
+          // Prepare the data to send
+          const templateParams = {
+            name: name,
+            email: email,
+            message: message,
+          };
+
+          formResponse.textContent = "Submitting...";
+
+          // Send email using EmailJS
+          emailjs
+            .send("service_e6im5rr", "template_wrvmq6k", templateParams)
+            .then((response) => {
+              formResponse.textContent = "Thank you for reaching out! We'll get back to you soon.";
+              formResponse.classList.remove("error");
+              document.getElementById("contactForm").reset(); // Reset the form
+              console.log("SUCCESS!", response.status, response.text);
+            })
+            .catch((error) => {
+              console.error("EmailJS Error:", error);
+              formResponse.textContent =
+                "An error occurred. Please try again later.";
+              formResponse.classList.add("error");
+            });
+        });
+    </script>
   </body>
 </html>

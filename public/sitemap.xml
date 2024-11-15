@@ -2,6 +2,12 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/chloral-reaction/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/fittig-reaction/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/copper/blue-vitriol/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -44,6 +50,9 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/electrochemistry/electrode-potential/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/electrophilic-substitution/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/elimination-reactions/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -56,10 +65,16 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/introduction/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/introduction/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/physical-properties/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/nucleophilic-substitution/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/heavy-metals/iron/steel-manufacture/</loc>
@@ -125,6 +140,9 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/inorganic/transition-metals/colour-of-compounds/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/chemical-properties/reduction-chlorobenzene/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/electrochemistry/cell-potential-free-energy/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
@@ -135,6 +153,9 @@
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/electrochemistry/types-of-electrodes/</loc>
+    <lastmod>2024-11-15T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/haloarenes/uses/</loc>
     <lastmod>2024-11-15T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/general-and-physical/electrochemistry/voltaic-cells/</loc>
