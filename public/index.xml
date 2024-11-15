@@ -184,6 +184,13 @@
       <description>&lt;h1 id=&#34;elimination-reaction-dehydrohalogenation---saytzeffs-rule-reduction-reactions-wurtz-reaction&#34;&gt;Elimination Reaction (Dehydrohalogenation - Saytzeff&amp;rsquo;s Rule), Reduction Reactions, Wurtz Reaction&lt;/h1&gt;&#xA;&lt;p&gt;In organic chemistry, elimination reactions involve the removal of a group (such as a halogen) from a molecule, resulting in the formation of a double bond. These reactions often lead to the formation of alkenes. Reduction reactions, on the other hand, involve the addition of hydrogen to a molecule, often converting functional groups like carbonyls to alcohols. The Wurtz reaction is a well-known reaction used to synthesize alkanes from alkyl halides.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>Esterification Reaction</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/esterification/</link>
+      <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/esterification/</guid>
+      <description>&lt;h1 id=&#34;esterification-reaction&#34;&gt;Esterification Reaction&lt;/h1&gt;&#xA;&lt;p&gt;Esterification is a &lt;strong&gt;reversible reaction&lt;/strong&gt; between a &lt;strong&gt;carboxylic acid&lt;/strong&gt; and an &lt;strong&gt;alcohol&lt;/strong&gt; that leads to the formation of an &lt;strong&gt;ester&lt;/strong&gt; and &lt;strong&gt;water&lt;/strong&gt;. It is typically catalyzed by an &lt;strong&gt;acid&lt;/strong&gt;, often &lt;strong&gt;sulfuric acid ($\ce{H_2SO_4}$)&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;general-esterification-reaction&#34;&gt;General Esterification Reaction&lt;/h2&gt;&#xA;&lt;p&gt;The general form of the esterification reaction is as follows:&lt;/p&gt;&#xA;$$ \ce{R-COOH + R&#39;-OH \xrightarrow{H^+} R-COOR&#39; + H_2O} $$&lt;p&gt;&lt;br&gt;&#xA;(Carboxylic acid + Alcohol → Ester + Water)&lt;/p&gt;&#xA;&lt;p&gt;Where:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;$\ce{R-COOH}$ is a &lt;strong&gt;carboxylic acid&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;$\ce{R&#39;-OH}$ is an &lt;strong&gt;alcohol&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;$\ce{R-COOR&#39;}$ is the &lt;strong&gt;ester&lt;/strong&gt; formed.&lt;/li&gt;&#xA;&lt;li&gt;$\ce{H_2O}$ is the &lt;strong&gt;water&lt;/strong&gt; produced as a byproduct.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;example-of-esterification-formation-of-ethyl-acetate&#34;&gt;Example of Esterification: Formation of Ethyl Acetate&lt;/h2&gt;&#xA;&lt;p&gt;One of the most common esterification reactions is the formation of &lt;strong&gt;ethyl acetate&lt;/strong&gt; (an ester) from &lt;strong&gt;acetic acid&lt;/strong&gt; (a carboxylic acid) and &lt;strong&gt;ethanol&lt;/strong&gt; (an alcohol). The reaction is as follows:&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Formation of Alcohol, Nitrile, Amine, Ether, Thioether, Carbylamines, Nitrite, and Nitroalkane Using Haloalkanes</title>
       <link>http://localhost:1313/notes/neb/chemistry12/organic/haloalkanes/formation/</link>
       <pubDate>Fri, 15 Nov 2024 00:00:00 +0000</pubDate>
@@ -4878,13 +4885,6 @@
       <link>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ring-test-nitrate-ion-test/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       <guid>http://localhost:1313/notes/neb/chemistry11/inorganic/non-metals/nitrogen/ring-test-nitrate-ion-test/</guid>
-      <description></description>
-    </item>
-    <item>
-      <title></title>
-      <link>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/esterification/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/esterification/</guid>
       <description></description>
     </item>
     <item>
