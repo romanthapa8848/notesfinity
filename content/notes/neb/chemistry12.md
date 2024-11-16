@@ -250,12 +250,12 @@ layout: "non_math_mode"
 
 ### 12. Ethers
 
-- [12.1 Introduction](./organic/ethers/introduction.html)
-- [12.2 Nomenclature, classification and isomerism of ethers](./organic/ethers/nomenclature.html)
-- [12.3 Preparation of aliphatic and aromatic ethers from Williamson's synthesis](./organic/ethers/preparation.html)
-- [12.4 Physical properties of ether](./organic/ethers/physical-properties.html)
-- [12.5 Chemical properties of ethoxyethane: action with HI, Conc. HCl, Conc. H<sub>2</sub>SO<sub>4</sub>, air and Cl<sub>2</sub>](./organic/ethers/chemical-properties.html)
-- [12.6 Uses of ethers](./organic/ethers/uses.html)
+- [12.1 Introduction](./organic/ethers/introduction/)
+- [12.2 Nomenclature, classification and isomerism of ethers](./organic/ethers/nomenclature/)
+- [12.3 Preparation of aliphatic and aromatic ethers from Williamson's synthesis](./organic/ethers/preparation/)
+- [12.4 Physical properties of ether](./organic/ethers/physical-properties/)
+- [12.5 Chemical properties of ethoxyethane: action with HI, Conc. HCl, Conc. H<sub>2</sub>SO<sub>4</sub>, air and Cl<sub>2</sub>](./organic/ethers/chemical-properties/)
+- [12.6 Uses of ethers](./organic/ethers/uses/)
 
 ---
 

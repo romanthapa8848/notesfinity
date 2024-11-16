@@ -47,6 +47,16 @@ The appearance of a blue or green color indicates a positive result for phenol.
 
 ---
 
+### Comparison Table of Phenol Tests
+
+| **Test**                   | **Reagent**                    | **Product(s)**                      | **Color Change**                       | **Reaction Type**                     | **Test Specificity**                     |
+|----------------------------|---------------------------------|--------------------------------------|----------------------------------------|----------------------------------------|------------------------------------------|
+| **FeCl₃ Test**              | Ferric chloride ($\ce{FeCl_3}$) | Violet complex ($\ce{[C_6H_5OH-FeCl_3]}$) | Violet or purple color                 | Complex formation                      | Specific for phenolic compounds          |
+| **Aqueous Bromine Test**    | Bromine ($\ce{Br_2}$)           | 2,4,6-tribromophenol ($\ce{C_6H_2Br_3OH}$) | White precipitate                      | Electrophilic aromatic substitution    | Specific for phenol (not other aromatics)|
+| **Libermann Test**          | Sulfuric acid ($\ce{H_2SO_4}$), Nitric acid ($\ce{HNO_3}$) | Blue or green color                  | Blue or green color                    | Reaction with sulfuric and nitric acids| Detects phenolic compounds               |
+
+---
+
 ## Summary
 
 Phenol can be identified by several characteristic tests:
