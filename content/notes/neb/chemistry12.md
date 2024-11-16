@@ -233,18 +233,18 @@ layout: "non_math_mode"
 
 ### 11. Phenols
 
-- [11.1 Introduction and nomenclature](./organic/phenols/introduction.html)
-- [11.2 Preparation of phenol from chlorobenzene, diazonium salt, and benzene sulphonic acid](./organic/phenols/preparation.html)
-- [11.3 Physical properties of phenol](./organic/phenols/physical-properties.html)
-- [11.4 Chemical properties](./organic/phenols/chemical-properties.html)
+- [11.1 Introduction and nomenclature](./organic/phenols/introduction/)
+- [11.2 Preparation of phenol from chlorobenzene, diazonium salt, and benzene sulphonic acid](./organic/phenols/preparation/)
+- [11.3 Physical properties of phenol](./organic/phenols/physical-properties/)
+- [11.4 Chemical properties](./organic/phenols/chemical-properties/)
 
-  - [11.4.1 Acidic nature of phenol (comparison with alcohol and water)](./organic/phenols/chemical-properties/acidic-nature.html)
-  - [11.4.2 Action with NH<sub>3</sub>, Zn, Na, benzene diazonium chloride, and phthalic anhydride](./organic/phenols/chemical-properties/reactions.html)
-  - [11.4.3 Acylation reaction, Kolbe's reaction, Reimer-Tiemann's reaction](./organic/phenols/chemical-properties/acylation.html)
-  - [11.4.4 Electrophilic substitution: nitration, sulphonation, bromination, and Friedal-Craft's alkylation](./organic/phenols/chemical-properties/electrophilic-substitution.html)
+  - [11.4.1 Acidic nature of phenol (comparison with alcohol and water)](./organic/phenols/chemical-properties/acidic-nature/)
+  - [11.4.2 Action with NH<sub>3</sub>, Zn, Na, benzene diazonium chloride, and phthalic anhydride](./organic/phenols/chemical-properties/action-nh3-zn-na/)
+  - [11.4.3 Acylation reaction, Kolbe's reaction, Reimer-Tiemann's reaction](./organic/phenols/chemical-properties/acylation/)
+  - [11.4.4 Electrophilic substitution: nitration, sulphonation, bromination, and Friedal-Craft's alkylation](./organic/phenols/chemical-properties/electrophilic-substitution/)
 
-- [11.5 Test of phenol: (FeCl<sub>3</sub> test, aq. Bromine test & Libermann test)](./organic/phenols/tests.html)
-- [11.6 Uses of phenol](./organic/phenols/uses.html)
+- [11.5 Test of phenol: (FeCl<sub>3</sub> test, aq. Bromine test & Libermann test)](./organic/phenols/tests/)
+- [11.6 Uses of phenol](./organic/phenols/uses/)
 
 ---
 

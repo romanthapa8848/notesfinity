@@ -6,8 +6,78 @@
     <description>Recent content in Notes on Gyanpedia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 15 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="http://localhost:1313/notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Acidic Nature of Phenol (Comparison with Alcohol and Water)</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/phenols/chemical-properties/acidic-nature/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/phenols/chemical-properties/acidic-nature/</guid>
+      <description>&lt;h1 id=&#34;acidic-nature-of-phenol-comparison-with-alcohol-and-water&#34;&gt;Acidic Nature of Phenol (Comparison with Alcohol and Water)&lt;/h1&gt;&#xA;&lt;p&gt;Phenol is acidic in nature due to its ability to donate a proton ($\ce{H+}$) from the hydroxyl group ($\ce{-OH}$), forming a phenoxide ion ($\ce{C6H5O^-}$). The acidic strength of phenol can be compared with alcohols and water to understand the relative effects of structure and resonance stabilization.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-acidity-of-phenol&#34;&gt;1. &lt;strong&gt;Acidity of Phenol&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Phenol behaves as a weak acid because it can partially ionize in water to release a proton:&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Action with NH₃, Zn, Na, Benzene Diazonium Chloride, and Phthalic Anhydride</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/phenols/chemical-properties/action-nh3-zn-na/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/phenols/chemical-properties/action-nh3-zn-na/</guid>
+      <description>&lt;h1 id=&#34;action-with-nh-zn-na-benzene-diazonium-chloride-and-phthalic-anhydride&#34;&gt;Action with NH₃, Zn, Na, Benzene Diazonium Chloride, and Phthalic Anhydride&lt;/h1&gt;&#xA;&lt;p&gt;Phenol undergoes various reactions with different reagents, each showing unique chemical properties. The reactions with ammonia (NH₃), zinc (Zn), sodium (Na), benzene diazonium chloride, and phthalic anhydride play an essential role in the preparation of various compounds.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-reaction-with-ammonia-nh&#34;&gt;1. &lt;strong&gt;Reaction with Ammonia (NH₃)&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;When phenol reacts with ammonia, it undergoes a substitution reaction, forming an amide group. This reaction occurs under basic conditions:&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Acylation Reaction, Kolbe&#39;s Reaction, Reimer-Tiemann&#39;s Reaction</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/phenols/chemical-properties/acylation/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/phenols/chemical-properties/acylation/</guid>
+      <description>&lt;h1 id=&#34;acylation-reaction-kolbes-reaction-reimer-tiemanns-reaction&#34;&gt;Acylation Reaction, Kolbe&amp;rsquo;s Reaction, Reimer-Tiemann&amp;rsquo;s Reaction&lt;/h1&gt;&#xA;&lt;p&gt;Phenol and other aromatic compounds undergo several important reactions that lead to the introduction of functional groups, such as acyl groups or halogens. Among these, the acylation reaction, Kolbe&amp;rsquo;s reaction, and Reimer-Tiemann&amp;rsquo;s reaction are widely used in organic synthesis.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-acylation-reaction&#34;&gt;1. &lt;strong&gt;Acylation Reaction&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The acylation reaction of phenol involves the substitution of a hydrogen atom on the aromatic ring by an acyl group ($\ce{RCO-}$). This reaction typically occurs in the presence of a catalyst such as aluminum chloride ($\ce{AlCl_3}$) and results in the formation of an aryl ester.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Chemical Properties of Phenol</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/phenols/chemical-properties/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/phenols/chemical-properties/</guid>
+      <description>&lt;h1 id=&#34;chemical-properties-of-phenol&#34;&gt;Chemical Properties of Phenol&lt;/h1&gt;&#xA;&lt;p&gt;Phenol exhibits unique chemical properties due to the presence of both a hydroxyl group ($\ce{-OH}$) and an aromatic ring ($\ce{C6H5}$). These properties make phenol reactive in a variety of ways, including acidic behavior, electrophilic substitution reactions, and oxidation.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-acidic-nature&#34;&gt;1. &lt;strong&gt;Acidic Nature&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Phenol is weakly acidic due to the ability of the hydroxyl group to donate a proton ($\ce{H+}$), forming a phenoxide ion ($\ce{C6H5O^-}$). The phenoxide ion is resonance-stabilized, which accounts for phenol’s acidity.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Electrophilic Substitution: Nitration, Sulphonation, Bromination, and Friedel-Craft&#39;s Alkylation</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/phenols/chemical-properties/electrophilic-substitution/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/phenols/chemical-properties/electrophilic-substitution/</guid>
+      <description>&lt;h1 id=&#34;electrophilic-substitution-nitration-sulphonation-bromination-and-friedel-crafts-alkylation&#34;&gt;Electrophilic Substitution: Nitration, Sulphonation, Bromination, and Friedel-Craft&amp;rsquo;s Alkylation&lt;/h1&gt;&#xA;&lt;p&gt;Electrophilic substitution reactions of phenol involve the substitution of a hydrogen atom on the aromatic ring by an electrophile. Phenol, due to its activating effect on the benzene ring, undergoes these reactions more readily than benzene itself. The key electrophilic substitution reactions of phenol are nitration, sulphonation, bromination, and Friedel-Crafts alkylation.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-nitration&#34;&gt;1. &lt;strong&gt;Nitration&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Nitration is the introduction of a nitro group ($\ce{NO_2}$) to the aromatic ring. In this reaction, phenol reacts with a nitrating mixture of concentrated sulfuric acid ($\ce{H_2SO_4}$) and concentrated nitric acid ($\ce{HNO_3}$) to form nitrophenol.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Phenols: Introduction and Nomenclature</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/phenols/introduction/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/phenols/introduction/</guid>
+      <description>&lt;h1 id=&#34;phenols-introduction-and-nomenclature&#34;&gt;Phenols: Introduction and Nomenclature&lt;/h1&gt;&#xA;&lt;p&gt;Phenols are a class of organic compounds that contain one or more hydroxyl groups ($\ce{-OH}$) directly bonded to an aromatic ring, such as benzene. This unique structure imparts distinct chemical and physical properties to phenols, differentiating them from alcohols.&lt;/p&gt;&#xA;&lt;h3 id=&#34;key-features-of-phenols&#34;&gt;Key Features of Phenols:&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&lt;strong&gt;Structure&lt;/strong&gt;: The hydroxyl group in phenols is attached to a benzene ring, which influences its reactivity and acidity.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Common Examples&lt;/strong&gt;: Phenol (C$_6$H$_5$OH), o-Cresol, and Catechol.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Applications&lt;/strong&gt;: Phenols are used in the production of antiseptics, resins, and as intermediates in chemical industries.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h3 id=&#34;nomenclature-of-phenols&#34;&gt;Nomenclature of Phenols:&lt;/h3&gt;&#xA;&lt;p&gt;Phenols are named systematically according to the IUPAC nomenclature rules:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Physical Properties of Phenol</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/phenols/physical-properties/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/phenols/physical-properties/</guid>
+      <description>&lt;h1 id=&#34;physical-properties-of-phenol&#34;&gt;Physical Properties of Phenol&lt;/h1&gt;&#xA;&lt;p&gt;Phenol, $\ce{C6H5OH}$, exhibits unique physical properties due to the presence of a hydroxyl group attached to an aromatic ring. Below are the key physical properties of phenol:&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-appearance&#34;&gt;1. Appearance&lt;/h3&gt;&#xA;&lt;p&gt;Phenol is a colorless crystalline solid under normal conditions. However, it may appear pink due to oxidation on exposure to air and light.&lt;/p&gt;&#xA;&lt;h3 id=&#34;2-melting-and-boiling-points&#34;&gt;2. Melting and Boiling Points&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Melting Point&lt;/strong&gt;: Phenol has a melting point of &lt;strong&gt;41°C&lt;/strong&gt;, which is relatively high for a compound of its size due to intermolecular hydrogen bonding.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Boiling Point&lt;/strong&gt;: Its boiling point is &lt;strong&gt;182°C&lt;/strong&gt;, which is significantly higher than that of benzene because of the presence of the hydroxyl group.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;3-solubility&#34;&gt;3. Solubility&lt;/h3&gt;&#xA;&lt;p&gt;Phenol is moderately soluble in water due to the formation of hydrogen bonds between the hydroxyl group of phenol and water molecules. Its solubility decreases as the size of the alkyl group increases in substituted phenols.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Preparation of Phenol from Chlorobenzene, Diazonium Salt, and Benzene Sulphonic Acid</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/phenols/preparation/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/phenols/preparation/</guid>
+      <description>&lt;h1 id=&#34;preparation-of-phenol-from-chlorobenzene-diazonium-salt-and-benzene-sulphonic-acid&#34;&gt;Preparation of Phenol from Chlorobenzene, Diazonium Salt, and Benzene Sulphonic Acid&lt;/h1&gt;&#xA;&lt;p&gt;Phenol can be synthesized through various methods, including starting from chlorobenzene, diazonium salts, and benzene sulphonic acid. These methods involve specific chemical reactions under controlled conditions.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-preparation-of-phenol-from-chlorobenzene&#34;&gt;1. Preparation of Phenol from Chlorobenzene&lt;/h3&gt;&#xA;&lt;p&gt;Chlorobenzene is treated with sodium hydroxide under high temperature and pressure to form phenol:&#xA;&lt;/p&gt;&#xA;$$&#xD;&#xA;\ce{C6H5Cl + NaOH -&gt;[573K, 300 atm] C6H5ONa + HCl}&#xD;&#xA;$$&lt;p&gt;&#xA;The resulting sodium phenoxide is then acidified to yield phenol:&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Tests of Phenol: FeCl₃ Test, Aqueous Bromine Test &amp; Libermann Test</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/phenols/tests/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/phenols/tests/</guid>
+      <description>&lt;h1 id=&#34;tests-of-phenol-fecl-test-aqueous-bromine-test--libermann-test&#34;&gt;Tests of Phenol: FeCl₃ Test, Aqueous Bromine Test &amp;amp; Libermann Test&lt;/h1&gt;&#xA;&lt;p&gt;Phenol can be identified through various simple chemical tests. These tests involve the reaction of phenol with certain reagents that lead to the formation of characteristic products. Here, we discuss three common tests: the &lt;strong&gt;FeCl₃ test&lt;/strong&gt;, the &lt;strong&gt;aqueous bromine test&lt;/strong&gt;, and the &lt;strong&gt;Libermann test&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-fecl-test-ferric-chloride-test&#34;&gt;1. &lt;strong&gt;FeCl₃ Test (Ferric Chloride Test)&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The FeCl₃ test is a simple test for phenols based on the formation of a colored complex with ferric chloride ($\ce{FeCl_3}$). When phenol reacts with ferric chloride solution, it forms a violet or purple complex. This reaction occurs due to the phenolic group ($\ce{-OH}$) that can donate electrons to the iron ion, forming the colored complex.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Uses of Phenol</title>
+      <link>http://localhost:1313/notes/neb/chemistry12/organic/phenols/uses/</link>
+      <pubDate>Sat, 16 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/notes/neb/chemistry12/organic/phenols/uses/</guid>
+      <description>&lt;h1 id=&#34;uses-of-phenol&#34;&gt;Uses of Phenol&lt;/h1&gt;&#xA;&lt;p&gt;Phenol is a versatile compound used in various industrial and chemical applications. Its chemical structure allows it to participate in a variety of reactions, making it useful in the production of several valuable compounds and materials. Below are some of the key uses of phenol:&lt;/p&gt;&#xA;&lt;h3 id=&#34;1-manufacture-of-plastics-and-resins&#34;&gt;1. &lt;strong&gt;Manufacture of Plastics and Resins&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;Phenol is a key ingredient in the production of plastics such as &lt;strong&gt;Bakelite&lt;/strong&gt; and &lt;strong&gt;Phenolic resins&lt;/strong&gt;. Bakelite is one of the first synthetic plastics and is widely used in electrical insulations, automotive parts, and household items. Phenolic resins are used in laminates, coatings, adhesives, and molded parts due to their strength and heat resistance.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Action of Alcohols with Reactive Metals (Na, K, Li)</title>
       <link>http://localhost:1313/notes/neb/chemistry12/organic/alcohols/chemical-properties/action-reactive-metals/</link>
