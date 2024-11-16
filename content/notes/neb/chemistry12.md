@@ -261,34 +261,35 @@ layout: "non_math_mode"
 
 ### 13. Aldehydes and Ketones
 
-- [13.1 Aliphatic Aldehydes and Ketones](./organic/aliphatic-aldehydes-ketones/introduction-nomenclature-isomerism.html)
+- [13.1 Aliphatic Aldehydes and Ketones](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/)
 
-  - [13.1.1 Introduction, Nomenclature and Isomerism](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/introduction-nomenclature-isomerism.html)
-  - [13.1.2 Preparation of Aldehydes and Ketones from: Dehydrogenation and Oxidation of Alcohol, Ozonolysis of Alkenes, Acid Chloride, Gem Dihaloalkane, Catalytic Hydration of Alkynes](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/preparation.html)
-  - [13.1.3 Physical Properties of Aldehydes and Ketones](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/physical-properties.html)
-  - [13.1.4 Chemical Properties](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties.html)
+  - [13.1.1 Introduction, Nomenclature and Isomerism](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/introduction-nomenclature-isomerism/)
+  - [13.1.2 Preparation of Aldehydes and Ketones from: Dehydrogenation and Oxidation of Alcohol, Ozonolysis of Alkenes, Acid Chloride, Gem Dihaloalkane, Catalytic Hydration of Alkynes](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/preparation/)
+  - [13.1.3 Physical Properties of Aldehydes and Ketones](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/physical-properties/)
+  - [13.1.4 Chemical Properties](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/)
 
-    - [13.1.4.1 Structure and Nature of Carbonyl Group](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/structure-carbonyl-group.html)
-    - [13.1.4.2 Distinction Between Aldehyde and Ketones by Using 2,4-DNP Reagent, Tollen's Reagent, Fehling's Solution](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/distinction-between-aldehyde-ketones.html)
-    - [13.1.4.3 Addition Reactions: Addition of H<sub>2</sub>, HCN, and NaHSO<sub>3</sub>](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/addition-reactions.html)
-    - [13.1.4.4 Action of Aldehyde and Ketone with Ammonia Derivatives; NH<sub>2</sub>OH, NH<sub>2</sub>-NH<sub>2</sub>, Phenyl Hydrazine, Semicarbazide](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/action-with-ammonia-derivatives.html)
-    - [13.1.4.5 Aldol Condensation](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/aldol-condensation.html)
-    - [13.1.4.6 Cannizzaro's Reaction](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/cannizzaros-reaction.html)
-    - [13.1.4.7 Clemmensen's Reduction](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/clemmensens-reduction.html)
-    - [13.1.4.8 Wolf-Kishner Reduction](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/wolf-kishner-reduction.html)
-    - [13.1.4.9 Action with PCl<sub>5</sub> and Action with LiAlH<sub>4</sub>](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/action-with-pcl5-lialh4.html)
-    - [13.1.4.10 Action of Methanal with Ammonia and Phenol](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/action-methanal-ammonia-phenol.html)
-    - [13.1.5 Formalin and Its Uses](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/formalin-uses.html)
+    - [13.1.4.1 Structure and Nature of Carbonyl Group](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/structure-carbonyl-group/)
+    - [13.1.4.2 Distinction Between Aldehyde and Ketones by Using 2,4-DNP Reagent, Tollen's Reagent, Fehling's Solution](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/distinction-between-aldehyde-ketones/)
+    - [13.1.4.3 Addition Reactions: Addition of H<sub>2</sub>, HCN, and NaHSO<sub>3</sub>](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/addition-reactions/)
+    - [13.1.4.4 Action of Aldehyde and Ketone with Ammonia Derivatives; NH<sub>2</sub>OH, NH<sub>2</sub>-NH<sub>2</sub>, Phenyl Hydrazine, Semicarbazide](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/action-with-ammonia-derivatives/)
+    - [13.1.4.5 Aldol Condensation](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/aldol-condensation/)
+    - [13.1.4.6 Cannizzaro's Reaction](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/cannizzaros-reaction/)
+    - [13.1.4.7 Clemmensen's Reduction](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/clemmensens-reduction/)
+    - [13.1.4.8 Wolf-Kishner Reduction](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/wolf-kishner-reduction/)
+    - [13.1.4.9 Action with PCl<sub>5</sub> and Action with LiAlH<sub>4</sub>](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/action-with-pcl5-lialh4/)
+    - [13.1.4.10 Action of Methanal with Ammonia and Phenol](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/action-methanal-ammonia-phenol/)
 
-- [13.2 Aromatic Aldehydes and Ketones](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/preparation.html)
+  - [13.1.5 Formalin and Its Uses](./organic/aldehydes-ketones/aliphatic-aldehydes-ketones/formalin-uses/)
 
-  - [13.2.1 Preparation of Benzaldehyde from Toluene and Acetophenone from Benzene](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/preparation-benzaldehyde.html)
-  - [13.2.2 Properties of Benzaldehyde](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties-benzaldehyde.html)
+- [13.2 Aromatic Aldehydes and Ketones](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/)
 
-    - [13.2.2.1 Perkin Condensation](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties/perkin-condensation.html)
-    - [13.2.2.2 Benzoin Condensation](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties/benzoin-condensation.html)
-    - [13.2.2.3 Cannizzaro's Reaction](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties/cannizzaros-reaction.html)
-    - [13.2.2.4 Electrophilic Substitution Reaction](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties/electrophilic-substitution.html)
+  - [13.2.1 Preparation of Benzaldehyde from Toluene and Acetophenone from Benzene](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/preparation-benzaldehyde/)
+  - [13.2.2 Properties of Benzaldehyde](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties-benzaldehyde/)
+
+    - [13.2.2.1 Perkin Condensation](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties-benzaldehyde/perkin-condensation/)
+    - [13.2.2.2 Benzoin Condensation](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties-benzaldehyde/benzoin-condensation/)
+    - [13.2.2.3 Cannizzaro's Reaction](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties-benzaldehyde/cannizzaros-reaction/)
+    - [13.2.2.4 Electrophilic Substitution Reaction](./organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties-benzaldehyde/electrophilic-substitution/)
 
 ---
 
