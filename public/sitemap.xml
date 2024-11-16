@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/abnormal-behaviour-methanoic-acid/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/phenols/chemical-properties/acidic-nature/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -29,6 +32,15 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aliphatic-aldehydes-ketones/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/introduction-nomenclature-isomerism/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/derivatives/amphoteric-nature-amide/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aromatic-aldehydes-ketones/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -36,6 +48,9 @@
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/cannizzaros-reaction/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/chemical-properties/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/ethers/chemical-properties/</loc>
@@ -47,10 +62,28 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/derivatives/claisen-condensation/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/clemmensens-reduction/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/derivatives/comparative-chemical-properties/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/derivatives/comparative-physical-properties/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/derivatives/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/distinction-between-aldehyde-ketones/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/effect-on-acidic-strength/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/electrophilic-substitution-reactions/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/phenols/chemical-properties/electrophilic-substitution/</loc>
@@ -63,6 +96,12 @@
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/hell-volhard-zelinsky-reaction/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/derivatives/hofmann-bromamide-reaction/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aliphatic-aldehydes-ketones/introduction-nomenclature-isomerism/</loc>
@@ -86,7 +125,13 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/ethers/physical-properties/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/physical-properties/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/phenols/physical-properties/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/derivatives/derivatives-preparation/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aliphatic-aldehydes-ketones/preparation/</loc>
@@ -96,6 +141,12 @@
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aromatic-aldehydes-ketones/preparation-benzaldehyde/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/preparation-benzoic-acid/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/preparation-monocarboxylic-acids/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/phenols/preparation/</loc>
@@ -108,6 +159,9 @@
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties-benzaldehyde/electrophilic-substitution/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/derivatives/relative-reactivity/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/structure-carbonyl-group/</loc>
