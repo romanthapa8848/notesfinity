@@ -376,26 +376,26 @@ layout: "non_math_mode"
 
 #### 18.1 Polymers
 
-- [18.1.1 Addition and condensation polymers](./applied/service-of-mankind/polymers/addition-condensation.html)
-- [18.1.2 Elastomers and fibres](./applied/service-of-mankind/polymers/elastomers-fibres.html)
-- [18.1.3 Natural and synthetic polymers](./applied/service-of-mankind/polymers/natural-synthetic.html)
-- [18.1.4 Some synthetic polymers (polythene, PVC, Teflon, polystyrene, nylon, and bakelite)](./applied/service-of-mankind/polymers/synthetic-polymers.html)
+- [18.1.1 Addition and condensation polymers](./applied/service-of-mankind/polymers/addition-condensation/)
+- [18.1.2 Elastomers and fibres](./applied/service-of-mankind/polymers/elastomers-fibres/)
+- [18.1.3 Natural and synthetic polymers](./applied/service-of-mankind/polymers/natural-synthetic/)
+- [18.1.4 Some synthetic polymers (polythene, PVC, Teflon, polystyrene, nylon, and bakelite)](./applied/service-of-mankind/polymers/synthetic-polymers/)
 
 #### 18.2 Dyes
 
-- [18.2.1 Introduction](./applied/service-of-mankind/dyes/introduction.html)
-- [18.2.2 Types of dyes on the basis of structure and method of application](./applied/service-of-mankind/dyes/types.html)
+- [18.2.1 Introduction](./applied/service-of-mankind/dyes/introduction/)
+- [18.2.2 Types of dyes on the basis of structure and method of application](./applied/service-of-mankind/dyes/types/)
 
 #### 18.3 Drugs
 
-- [18.3.1 Characteristics of drugs](./applied/service-of-mankind/drugs/characteristics.html)
-- [18.3.2 Natural and synthetic drugs](./applied/service-of-mankind/drugs/natural-synthetic.html)
-- [18.3.3 Classification of some common drugs](./applied/service-of-mankind/drugs/classification.html)
-- [18.3.4 Habit forming drugs and drug addiction](./applied/service-of-mankind/drugs/addiction.html)
+- [18.3.1 Characteristics of drugs](./applied/service-of-mankind/drugs/characteristics/)
+- [18.3.2 Natural and synthetic drugs](./applied/service-of-mankind/drugs/natural-synthetic/)
+- [18.3.3 Classification of some common drugs](./applied/service-of-mankind/drugs/classification/)
+- [18.3.4 Habit forming drugs and drug addiction](./applied/service-of-mankind/drugs/addiction/)
 
 #### 18.4 Pesticides
 
-- [18.4.1 Introduction to insecticides, herbicides, and fungicides](./applied/service-of-mankind/pesticides/introduction.html)
+- [18.4.1 Introduction to insecticides, herbicides, and fungicides](./applied/service-of-mankind/pesticides/introduction/)
 
 ---
 
