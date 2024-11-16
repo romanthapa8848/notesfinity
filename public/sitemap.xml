@@ -32,6 +32,9 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aliphatic-aldehydes-ketones/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/amines/aliphatic-amines/physical-properties/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
@@ -50,16 +53,28 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/cannizzaros-reaction/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/amines/aromatic-amines/chemical-properties/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/chemical-properties/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/ethers/chemical-properties/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/nitro-compounds/nitrobenzene/chemical-properties/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/phenols/chemical-properties/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/amines/aliphatic-amines/chemical-properties/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/nitro-compounds/nitroalkanes/chemical-properties-reduction/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/derivatives/claisen-condensation/</loc>
@@ -107,10 +122,25 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aliphatic-aldehydes-ketones/introduction-nomenclature-isomerism/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/nitro-compounds/nitroalkanes/introduction-nomenclature-isomerism/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/amines/aliphatic-amines/introduction-nomenclature-classification-isomerism/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/organometallic-compounds/nature-of-metal-carbon-bond/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/nitro-compounds/nitrobenzene/electrophilic-substitution-reactions/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/ethers/nomenclature/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/organometallic-compounds/introduction/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties-benzaldehyde/perkin-condensation/</loc>
@@ -122,10 +152,19 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aliphatic-aldehydes-ketones/physical-properties/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/amines/aromatic-amines/physical-properties/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/ethers/physical-properties/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/physical-properties/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/nitro-compounds/nitroalkanes/physical-properties/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/nitro-compounds/nitrobenzene/physical-properties/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/phenols/physical-properties/</loc>
@@ -140,16 +179,31 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/ethers/preparation/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/amines/aromatic-amines/preparation-aniline/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aromatic-aldehydes-ketones/preparation-benzaldehyde/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/preparation-benzoic-acid/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/organometallic-compounds/grignard-reagent/grignard-reagent-preparation/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/aliphatic-aromatic/preparation-monocarboxylic-acids/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/nitro-compounds/nitroalkanes/preparation-from-haloalkane-and-alkane/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/nitro-compounds/nitrobenzene/preparation-from-benzene/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/phenols/preparation/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/amines/aliphatic-amines/preparation-primary-amines/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties-benzaldehyde/</loc>
@@ -161,16 +215,37 @@
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aromatic-aldehydes-ketones/properties-benzaldehyde/electrophilic-substitution/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/amines/aliphatic-amines/reaction-primary-amines/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/organometallic-compounds/grignard-reagent/grignard-reagent-reactions/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/nitro-compounds/nitrobenzene/reduction-in-different-media/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/carboxylic-acids/derivatives/relative-reactivity/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/amines/aliphatic-amines/separation-primary-secondary-tertiary-amines/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/aldehydes-ketones/aliphatic-aldehydes-ketones/chemical-properties/structure-carbonyl-group/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/amines/aliphatic-amines/test-of-amines/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/phenols/tests/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/amines/aromatic-amines/uses-of-aniline/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/ethers/uses/</loc>
+    <lastmod>2024-11-16T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/chemistry12/organic/nitro-compounds/nitrobenzene/uses-of-nitro-compounds/</loc>
     <lastmod>2024-11-16T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/chemistry12/organic/phenols/uses/</loc>

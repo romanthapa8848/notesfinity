@@ -320,20 +320,20 @@ layout: "non_math_mode"
 
 ### 15. Nitro Compounds
 
-- [15.1 Nitroalkanes](./organic/nitro-compounds/nitroalkanes/introduction.html)
+- [15.1 Nitroalkanes](./organic/nitro-compounds/nitroalkanes/introduction/)
 
-  - [15.1.1 Introduction, Nomenclature and Isomerism](./organic/nitro-compounds/nitroalkanes/introduction-nomenclature-isomerism.html)
-  - [15.1.2 Preparation from Haloalkane and Alkane](./organic/nitro-compounds/nitroalkanes/preparation-from-haloalkane-and-alkane.html)
-  - [15.1.3 Physical Properties](./organic/nitro-compounds/nitroalkanes/physical-properties.html)
-  - [15.1.4 Chemical Properties: Reduction](./organic/nitro-compounds/nitroalkanes/chemical-properties-reduction.html)
+  - [15.1.1 Introduction, Nomenclature and Isomerism](./organic/nitro-compounds/nitroalkanes/introduction-nomenclature-isomerism/)
+  - [15.1.2 Preparation from Haloalkane and Alkane](./organic/nitro-compounds/nitroalkanes/preparation-from-haloalkane-and-alkane/)
+  - [15.1.3 Physical Properties](./organic/nitro-compounds/nitroalkanes/physical-properties/)
+  - [15.1.4 Chemical Properties: Reduction](./organic/nitro-compounds/nitroalkanes/chemical-properties-reduction/)
 
-- [15.2 Nitrobenzene](./organic/nitro-compounds/nitrobenzene/preparation-from-benzene.html)
-  - [15.2.1 Preparation from Benzene](./organic/nitro-compounds/nitrobenzene/preparation-from-benzene.html)
-  - [15.2.2 Physical Properties](./organic/nitro-compounds/nitrobenzene/physical-properties.html)
-  - [15.2.3 Chemical Properties](./organic/nitro-compounds/nitrobenzene/chemical-properties.html)
-  - [15.2.4 Reduction in Different Media](./organic/nitro-compounds/nitrobenzene/reduction-in-different-media.html)
-  - [15.2.5 Electrophilic Substitution Reactions (Nitration, Sulphonation & Bromination)](./organic/nitro-compounds/nitrobenzene/electrophilic-substitution-reactions.html)
-  - [15.2.6 Uses of Nitro-Compounds](./organic/nitro-compounds/nitrobenzene/uses-of-nitro-compounds.html)
+- [15.2 Nitrobenzene](./organic/nitro-compounds/nitrobenzene/preparation-from-benzene/)
+  - [15.2.1 Preparation from Benzene](./organic/nitro-compounds/nitrobenzene/preparation-from-benzene/)
+  - [15.2.2 Physical Properties](./organic/nitro-compounds/nitrobenzene/physical-properties/)
+  - [15.2.3 Chemical Properties](./organic/nitro-compounds/nitrobenzene/chemical-properties/)
+  - [15.2.4 Reduction in Different Media](./organic/nitro-compounds/nitrobenzene/reduction-in-different-media/)
+  - [15.2.5 Electrophilic Substitution Reactions (Nitration, Sulphonation & Bromination)](./organic/nitro-compounds/nitrobenzene/electrophilic-substitution-reactions/)
+  - [15.2.6 Uses of Nitro-Compounds](./organic/nitro-compounds/nitrobenzene/uses-of-nitro-compounds/)
 
 ---
 
@@ -341,30 +341,30 @@ layout: "non_math_mode"
 
 - [16.1 Aliphatic Amines](./organic/amines/aliphatic-amines/introduction.html)
 
-  - [16.1.1 Introduction, Nomenclature, Classification and Isomerism](./organic/amines/aliphatic-amines/introduction-nomenclature-classification-isomerism.html)
-  - [16.1.2 Separation of Primary, Secondary, and Tertiary Amines by Hoffmann's Method](./organic/amines/aliphatic-amines/separation-primary-secondary-tertiary-amines.html)
-  - [16.1.3 Preparation of Primary Amines from Haloalkane, Nitriles, Nitroalkanes, and Amides](./organic/amines/aliphatic-amines/preparation-primary-amines.html)
-  - [16.1.4 Physical Properties](./organic/amines/aliphatic-amines/physical-properties.html)
-  - [16.1.5 Chemical Properties: Basicity of Amines, Comparative Study of Basic Nature of 1<sup>o</sup>, 2<sup>o</sup>, and 3<sup>o</sup> Amines](./organic/amines/aliphatic-amines/chemical-properties-basicity-comparative-study.html)
-  - [16.1.6 Reaction of Primary Amines with Chloroform, Conc. HCl, R-X, RCOX, and Nitrous Acid (NaNO<sub>2</sub> / HCl)](./organic/amines/aliphatic-amines/reaction-primary-amines.html)
-  - [16.1.7 Test of 1<sup>o</sup>, 2<sup>o</sup>, and 3<sup>o</sup> Amines (Nitrous Acid Test)](./organic/amines/aliphatic-amines/test-of-amines.html)
+  - [16.1.1 Introduction, Nomenclature, Classification and Isomerism](./organic/amines/aliphatic-amines/introduction-nomenclature-classification-isomerism/)
+  - [16.1.2 Separation of Primary, Secondary, and Tertiary Amines by Hoffmann's Method](./organic/amines/aliphatic-amines/separation-primary-secondary-tertiary-amines/)
+  - [16.1.3 Preparation of Primary Amines from Haloalkane, Nitriles, Nitroalkanes, and Amides](./organic/amines/aliphatic-amines/preparation-primary-amines/)
+  - [16.1.4 Physical Properties](./organic/amines/aliphatic-amines/physical-properties/)
+  - [16.1.5 Chemical Properties: Basicity of Amines, Comparative Study of Basic Nature of 1<sup>o</sup>, 2<sup>o</sup>, and 3<sup>o</sup> Amines](./organic/amines/aliphatic-amines/chemical-properties/)
+  - [16.1.6 Reaction of Primary Amines with Chloroform, Conc. HCl, R-X, RCOX, and Nitrous Acid (NaNO<sub>2</sub> / HCl)](./organic/amines/aliphatic-amines/reaction-primary-amines/)
+  - [16.1.7 Test of 1<sup>o</sup>, 2<sup>o</sup>, and 3<sup>o</sup> Amines (Nitrous Acid Test)](./organic/amines/aliphatic-amines/test-of-amines/)
 
 - [16.2 Aromatic Amine (Aniline)](./organic/amines/aromatic-amines/aniline.html)
-  - [16.2.1 Preparation of Aniline from Nitrobenzene, Phenol](./organic/amines/aromatic-amines/preparation-aniline.html)
-  - [16.2.2 Physical Properties](./organic/amines/aromatic-amines/physical-properties.html)
-  - [16.2.3 Chemical Properties: Basicity of Aniline, Comparison of Basic Nature of Aniline with Aliphatic Amines and Ammonia, Alkylation, Acylation, Diazotization, Carbylamine and Coupling Reaction, Electrophilic Substitution: Nitration, Sulphonation, and Bromination](./organic/amines/aromatic-amines/chemical-properties.html)
-  - [16.2.4 Uses of Aniline](./organic/amines/aromatic-amines/uses-of-aniline.html)
+  - [16.2.1 Preparation of Aniline from Nitrobenzene, Phenol](./organic/amines/aromatic-amines/preparation-aniline/)
+  - [16.2.2 Physical Properties](./organic/amines/aromatic-amines/physical-properties/)
+  - [16.2.3 Chemical Properties: Basicity of Aniline, Comparison of Basic Nature of Aniline with Aliphatic Amines and Ammonia, Alkylation, Acylation, Diazotization, Carbylamine and Coupling Reaction, Electrophilic Substitution: Nitration, Sulphonation, and Bromination](./organic/amines/aromatic-amines/chemical-properties/)
+  - [16.2.4 Uses of Aniline](./organic/amines/aromatic-amines/uses-of-aniline/)
 
 ---
 
 ### 17. Organometallic Compounds
 
-- [17.1 Introduction, general formula and examples of organolithium, organocopper and organocadmium compounds](./organic/organometallic-compounds/introduction.html)
-- [17.2 Nature of Metal-Carbon bond](./organic/organometallic-compounds/nature-of-metal-carbon-bond.html)
-- [17.3 Grignard reagent](./organic/organometallic-compounds/grignard-reagent.html)
+- [17.1 Introduction, general formula and examples of organolithium, organocopper and organocadmium compounds](./organic/organometallic-compounds/introduction/)
+- [17.2 Nature of Metal-Carbon bond](./organic/organometallic-compounds/nature-of-metal-carbon-bond/)
+- [17.3 Grignard reagent](./organic/organometallic-compounds/grignard-reagent/)
 
-  - [17.3.1 Preparation (using haloalkane and haloarene)](./organic/organometallic-compounds/grignard-reagent/grignard-reagent-preparation.html)
-  - [17.3.2 Reaction of Grignard reagent with water, aldehydes and ketones (preparation of primary, secondary and tertiary alcohols), carbon dioxide, HCN, RCN, ester and acid chloride](./organic/organometallic-compounds/grignard-reagent/grignard-reagent-reactions.html)
+  - [17.3.1 Preparation (using haloalkane and haloarene)](./organic/organometallic-compounds/grignard-reagent/grignard-reagent-preparation/)
+  - [17.3.2 Reaction of Grignard reagent with water, aldehydes and ketones (preparation of primary, secondary and tertiary alcohols), carbon dioxide, HCN, RCN, ester and acid chloride](./organic/organometallic-compounds/grignard-reagent/grignard-reagent-reactions/)
 
 ---
 
