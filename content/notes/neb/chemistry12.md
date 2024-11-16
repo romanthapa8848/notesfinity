@@ -401,34 +401,34 @@ layout: "non_math_mode"
 
 ### 19. Cement
 
-- [19.1 Introduction](./applied/cement/introduction.html)
-- [19.2 Raw materials for cement production](./applied/cement/raw-materials.html)
-- [19.3 Main steps in cement production (crushing and grinding, strong heating, and final grinding)](./applied/cement/production-steps.html)
-- [19.4 Types of cement - OPC and PPC](./applied/cement/types.html)
-- [19.5 Portland cement process with flow-sheet diagram](./applied/cement/portland-process.html)
-- [19.6 Cement Industry in Nepal](./applied/cement/industry-nepal.html)
+- [19.1 Introduction](./applied/cement/introduction/)
+- [19.2 Raw materials for cement production](./applied/cement/raw-materials/)
+- [19.3 Main steps in cement production (crushing and grinding, strong heating, and final grinding)](./applied/cement/production-steps/)
+- [19.4 Types of cement - OPC and PPC](./applied/cement/types/)
+- [19.5 Portland cement process with flow-sheet diagram](./applied/cement/portland-process/)
+- [19.6 Cement Industry in Nepal](./applied/cement/industry-nepal/)
 
 ---
 
 ### 20. Paper and Pulp
 
-- [20.1 Introduction](./applied/paper-pulp/introduction.html)
-- [20.2 Raw materials](./applied/paper-pulp/raw-materials.html)
-- [20.3 Sources of raw materials](./applied/paper-pulp/sources.html)
-- [20.4 Stages in production of paper](./applied/paper-pulp/stages.html)
-- [20.5 Flow-sheet diagram for paper production](./applied/paper-pulp/flow-sheet.html)
-- [20.6 Quality of paper](applied-chemistry/paper-pulp/quality.html)
+- [20.1 Introduction](./applied/paper-pulp/introduction/)
+- [20.2 Raw materials](./applied/paper-pulp/raw-materials/)
+- [20.3 Sources of raw materials](./applied/paper-pulp/sources/)
+- [20.4 Stages in production of paper](./applied/paper-pulp/stages/)
+- [20.5 Flow-sheet diagram for paper production](./applied/paper-pulp/flow-sheet/)
+- [20.6 Quality of paper](./applied/paper-pulp/quality/)
 
 ---
 
 ### 21. Nuclear Chemistry and Applications of Radioactivity
 
-- [21.1 Natural and artificial radioactivity](./applied/nuclear-chemistry/natural-artificial.html)
-- [21.2 Units of radioactivity](./applied/nuclear-chemistry/units.html)
-- [21.3 Nuclear reactions](./applied/nuclear-chemistry/reactions.html)
-- [21.4 Nuclear fission and fusion reactions](./applied/nuclear-chemistry/fission-fusion.html)
-- [21.5 Nuclear power and nuclear weapons](./applied/nuclear-chemistry/power-weapons.html)
-- [21.6 Industrial uses of radioactivity](./applied/nuclear-chemistry/industrial-uses.html)
-- [21.7 Medical uses of radioactivity](./applied/nuclear-chemistry/medical-uses.html)
-- [21.8 Radiocarbon dating](./applied/nuclear-chemistry/radiocarbon-dating.html)
-- [21.9 Harmful effects of nuclear radiations](./applied/nuclear-chemistry/harmful-effects.html)
+- [21.1 Natural and artificial radioactivity](./applied/nuclear-chemistry/natural-artificial/)
+- [21.2 Units of radioactivity](./applied/nuclear-chemistry/units/)
+- [21.3 Nuclear reactions](./applied/nuclear-chemistry/reactions/)
+- [21.4 Nuclear fission and fusion reactions](./applied/nuclear-chemistry/fission-fusion/)
+- [21.5 Nuclear power and nuclear weapons](./applied/nuclear-chemistry/power-weapons/)
+- [21.6 Industrial uses of radioactivity](./applied/nuclear-chemistry/industrial-uses/)
+- [21.7 Medical uses of radioactivity](./applied/nuclear-chemistry/medical-uses/)
+- [21.8 Radiocarbon dating](./applied/nuclear-chemistry/radiocarbon-dating/)
+- [21.9 Harmful effects of nuclear radiations](./applied/nuclear-chemistry/harmful-effects/)
