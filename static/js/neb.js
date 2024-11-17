@@ -60,6 +60,12 @@ export const nebSubjects = [
     url: "/notes/neb/psychology11/",
     keywords: ["psychology", "class 11", "neb", "psy 119"],
   },
+  {
+    name: "Class 11 Child Development and Learning",
+    code: "CDL 115",
+    url: "/notes/neb/child-development-learning11/",
+    keywords: ["child development", "class 11", "neb", "cdl 115"],
+  },
   // Class 12 subjects
   {
     name: "Class 12 Maths",
