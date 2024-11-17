@@ -5,7 +5,12 @@ date: "2024-11-16"
 description: "This section covers the concept of time value of money, including the meaning of compounding, discounting, cash flow, annuities, and the calculations for present and future values of cash flows, along with loan repayment schedules."
 keywords:
   [
-    "time value of money", "compounding", "discounting", "cash flow", "annuity", "loan repayment schedule"
+    "time value of money",
+    "compounding",
+    "discounting",
+    "cash flow",
+    "annuity",
+    "loan repayment schedule",
   ]
 
 layout: "non_math_mode"
@@ -15,11 +20,11 @@ layout: "non_math_mode"
 
 ---
 
-| Course Code | Fin. 417                                               |
-| ----------- | ----------------------------------------------------- |
+| Course Code | FIN 417                                                  |
+| ----------- | -------------------------------------------------------- |
 | Theory      | Assessment Mark: XX; Final Exam: XX Marks (Duration: XX) |
-| Practical   | Assessment Mark: XX                                   |
-| Total Marks | XX Marks                                               |
+| Practical   | Assessment Mark: XX                                      |
+| Total Marks | XX Marks                                                 |
 
 ---
 
@@ -86,7 +91,7 @@ layout: "non_math_mode"
 - [5.4 Types of Accounts (Deposits)](./commercial-banks/types-accounts-deposits/)
 - [5.5 Categories of Loans (Credit)](./commercial-banks/categories-loans-credit/)
 - [5.6 Innovations in Banking Technology](./commercial-banks/innovations-banking-technology/)
-  
+
   - [5.6.1 Online Banking](./commercial-banks/online-banking/)
   - [5.6.2 Mobile Banking](./commercial-banks/mobile-banking/)
   - [5.6.3 Internet Banking](./commercial-banks/internet-banking/)
@@ -154,6 +159,7 @@ layout: "non_math_mode"
 - [9.8 Meaning and Role of Merchant Bankers](./mutual-fund-pension-fund-other-financial-services/meaning-role-merchant-bankers/)
 - [9.9 Functions of Merchant Bankers](./mutual-fund-pension-fund-other-financial-services/functions-merchant-bankers/)
 - [9.10 Credit Rating Agency, Deposit and Credit Guarantee Fund, Credit Information Bureau](./mutual-fund-pension-fund-other-financial-services/credit-rating-agency-deposit-credit-guarantee-fund-credit-information-bureau/)
+
 ---
 
 ## 10. Time Value of Money

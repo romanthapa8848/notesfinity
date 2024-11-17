@@ -20,7 +20,7 @@ layout: "non_math_mode"
 
 ---
 
-| Course Code | Bmt. 406                                                 |
+| Course Code | BMT 406                                                  |
 | ----------- | -------------------------------------------------------- |
 | Theory      | Assessment Mark: XX; Final Exam: XX Marks (Duration: XX) |
 | Practical   | Assessment Mark: XX                                      |

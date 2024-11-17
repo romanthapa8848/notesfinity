@@ -20,7 +20,7 @@ layout: "non_math_mode"
 
 ---
 
-| Course Code | Ens. 414                                                 |
+| Course Code | ENS 414                                                  |
 | ----------- | -------------------------------------------------------- |
 | Theory      | Assessment Mark: XX; Final Exam: XX Marks (Duration: XX) |
 | Practical   | Assessment Mark: XX                                      |
