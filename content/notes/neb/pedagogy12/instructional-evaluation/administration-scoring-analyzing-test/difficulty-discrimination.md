@@ -59,9 +59,11 @@ The discriminating index measures how effectively a question differentiates betw
 
 3. **Calculation Formula:**
 
-   $$
-   \text{Discriminating Index} = \frac{\text{Correct responses by top group} - \text{Correct responses by bottom group}}{\text{Total students in each group}}
-   $$
+   <div class="formula">
+    $$
+      \text{Discriminating Index} = \frac{\text{Correct responses by top group} - \text{Correct responses by bottom group}}{\text{Total students in each group}}
+    $$
+   </div>
 
 4. **Top and Bottom Groups:**
    - Typically, the top 27% and bottom 27% of students' scores are used for analysis.

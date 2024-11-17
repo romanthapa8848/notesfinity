@@ -225,3 +225,33 @@ video {
     height: auto; /* Maintain aspect ratio */
   }
 }
+
+/* Formulas */
+
+/* Default font size for larger screens (desktop) */
+.formula {
+  font-size: smaller; /* Adjust this as needed for desktop */
+  max-width: 100%; /* Ensures the formula does not overflow horizontally */
+  word-wrap: break-word; /* Forces the formula to wrap within its container */
+  white-space: normal; /* Prevents overflow by allowing wrapping */
+}
+
+/* Smaller font size for mobile screens */
+@media (max-width: 768px) {
+  .formula {
+    font-size: smaller; /* Adjust this for smaller screens */
+    max-width: 100%; /* Ensures it doesn't overflow */
+    word-wrap: break-word; /* Forces wrapping */
+    white-space: normal; /* Prevents overflow */
+  }
+}
+
+/* Optional: For very small screens like phones in portrait mode */
+@media (max-width: 480px) {
+  .formula {
+    font-size: smaller; /* Make it even smaller if needed */
+    max-width: 100%; /* Ensures it doesn't overflow */
+    word-wrap: break-word; /* Forces wrapping */
+    white-space: normal; /* Prevents overflow */
+  }
+}
