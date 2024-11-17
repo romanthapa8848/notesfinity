@@ -1,0 +1,216 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Contribute | Gyanpedia</title>
+    <meta
+      name="description"
+      content="Become a content creator at Gyanpedia! Fill out the form to contribute your knowledge."
+    />
+
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/css/header.css" />
+    <link rel="stylesheet" href="/css/footer.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="/css/main.css" />
+
+    <!-- Linking JavaScript files -->
+    <script type="module" src="/js/results.js" defer></script>
+    <script type="module" src="/js/search.js" defer></script>
+    <!-- jQuery Library -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.7.1/jquery.min.js"></script>
+
+    <!-- EmailJS Library -->
+    <script src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js"></script>
+    <script>
+      // Initialize EmailJS with your public key
+      (function () {
+        emailjs.init("DgVYHaAfvVpiHHntC");
+      })();
+    </script>
+
+    <style>
+      .contribute-form {
+        max-width: 600px;
+        margin: 40px auto;
+        padding: 20px;
+        border: 2px solid #ccc;
+        border-radius: 8px;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+        background-color: #f9f9f9;
+      }
+      .contribute-form h1 {
+        text-align: center;
+        margin-bottom: 20px;
+      }
+      .contribute-form input,
+      .contribute-form textarea,
+      .contribute-form button {
+        width: 100%;
+        margin: 10px 0;
+        padding: 10px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+      }
+      .contribute-form textarea {
+        resize: vertical;
+        min-height: 120px;
+      }
+      .contribute-form button {
+        background-color: #4caf50;
+        color: white;
+        border: none;
+        cursor: pointer;
+        transition: background-color 0.3s;
+      }
+      .contribute-form button:hover {
+        background-color: #45a049;
+      }
+      .error {
+        color: red;
+        font-size: 14px;
+        text-align: center;
+      }
+
+      #formResponse {
+        margin-top: 15px;
+        text-align: center;
+        width: 100%;
+      }
+
+      .contribute-info {
+        margin: 20px 0;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <div class="wrapper">
+      <!-- header.html -->
+      <header>
+        <a href="/index.html">
+          <img id="logo" src="/logo.png" alt="Logo" />
+        </a>
+        <div class="search-container">
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Enter your subject name or code"
+          />
+          <button id="search-button"><i class="fas fa-search"></i></button>
+        </div>
+      </header>
+
+      <main class="content">
+        <!-- Contribute Info Section -->
+        <section class="contribute-info">
+          <h2>Contribute to Gyanpedia</h2>
+          <p>
+            We are looking for passionate individuals to contribute educational
+            content to our platform. If you have knowledge in any subject and
+            would like to share it with the students of Nepal, fill out the form
+            below!
+          </p>
+        </section>
+
+        <!-- Contribute Form Section -->
+        <div class="contribute-form">
+          <h1>Contribute Now</h1>
+          <form id="contributeForm">
+            <input
+              type="text"
+              name="name"
+              id="name"
+              placeholder="Your Name"
+              required
+            />
+            <input
+              type="email"
+              name="email"
+              id="email"
+              placeholder="Your Email"
+              required
+            />
+            <textarea
+              name="message"
+              id="message"
+              placeholder="Describe your proposed contribution or idea..."
+              required
+            ></textarea>
+            <button type="submit">Submit</button>
+          </form>
+          <p id="formResponse"></p>
+        </div>
+      </main>
+
+      <!-- footer.html -->
+      <footer>
+        <div class="footer-row">
+          <ul class="footer-links">
+            <li><a href="/about.html">About</a></li>
+            <li><a href="/contact.html">Contact</a></li>
+            <li><a href="/privacy.html">Privacy</a></li>
+            <li><a href="/terms.html">Terms</a></li>
+          </ul>
+        </div>
+        <div class="footer-row copyright">
+          <p>&copy; Gyanpedia</p>
+        </div>
+      </footer>
+    </div>
+
+    <script>
+      // Handle form submission using EmailJS
+      document
+        .getElementById("contributeForm")
+        .addEventListener("submit", function (e) {
+          e.preventDefault(); // Prevent the default form submission
+
+          // Get form values
+          const name = document.getElementById("name").value.trim();
+          const email = document.getElementById("email").value.trim();
+          const message = document.getElementById("message").value.trim();
+          const formResponse = document.getElementById("formResponse");
+
+          // Validate email format
+          const emailRegex = /^[^\s@]+@[^\s@]+\.[^\s@]+$/;
+          if (!emailRegex.test(email)) {
+            formResponse.textContent = "Please enter a valid email address.";
+            formResponse.classList.add("error");
+            return;
+          }
+
+          // Prepare the data to send
+          const templateParams = {
+            name: name,
+            email: email,
+            message: message,
+          };
+
+          formResponse.textContent = "Submitting...";
+
+          // Send email using EmailJS
+          emailjs
+            .send("service_e6im5rr", "template_wrvmq6k", templateParams)
+            .then((response) => {
+              formResponse.textContent =
+                "Thank you for your interest in contributing! We'll get back to you soon.";
+              formResponse.classList.remove("error");
+              document.getElementById("contributeForm").reset(); // Reset the form
+              console.log("SUCCESS!", response.status, response.text);
+            })
+            .catch((error) => {
+              console.error("EmailJS Error:", error);
+              formResponse.textContent =
+                "An error occurred. Please try again later.";
+              formResponse.classList.add("error");
+            });
+        });
+    </script>
+  </body>
+</html>
