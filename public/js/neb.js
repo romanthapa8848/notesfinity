@@ -33,7 +33,7 @@ export const nebSubjects = [
   {
     name: "Class 11 Environmental Science",
     code: "ENS 413",
-    url: "/notes/neb/ens11/",
+    url: "/notes/neb/environmental-science11/",
     keywords: ["environmental science", "class 11", "neb", "ens 413"],
   },
   {
@@ -45,7 +45,7 @@ export const nebSubjects = [
   {
     name: "Class 11 Basic Business Finance",
     code: "FIN 417",
-    url: "/notes/neb/basic-business-finance11/",
+    url: "/notes/neb/finance11/",
     keywords: ["business finance", "class 11", "neb", "fin 417"],
   },
   {
@@ -89,7 +89,7 @@ export const nebSubjects = [
   {
     name: "Class 12 Environmental Science",
     code: "ENS 414",
-    url: "/notes/neb/ens12/",
+    url: "/notes/neb/environmental-science12/",
     keywords: ["environmental science", "class 12", "neb", "ens 414"],
   },
   {
@@ -101,7 +101,7 @@ export const nebSubjects = [
   {
     name: "Class 12 Basic Business Finance",
     code: "FIN 418",
-    url: "/notes/neb/basic-business-finance12/",
+    url: "/notes/neb/finance12/",
     keywords: ["business finance", "class 12", "neb", "fin 418"],
   },
   {
