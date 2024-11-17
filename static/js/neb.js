@@ -54,7 +54,12 @@ export const nebSubjects = [
     url: "/notes/neb/business-studies11/",
     keywords: ["business studies", "class 11", "neb", "bus 215"],
   },
-
+  {
+    name: "Class 11 Psychology",
+    code: "PSY 119",
+    url: "/notes/neb/psychology11/",
+    keywords: ["psychology", "class 11", "neb", "psy 119"],
+  },
   // Class 12 subjects
   {
     name: "Class 12 Maths",
@@ -109,5 +114,17 @@ export const nebSubjects = [
     code: "BUS 216",
     url: "/notes/neb/business-studies12/",
     keywords: ["business studies", "class 12", "neb", "bus 216"],
+  },
+  {
+    name: "Class 12 Instructional Pedagogy and Evaluation",
+    code: "IPE 118",
+    url: "/notes/neb/pedagogy12/",
+    keywords: ["pedagogy", "class 12", "neb", "ipe 118"],
+  },
+  {
+    name: "Class 12 Psychology",
+    code: "PSY 120",
+    url: "/notes/neb/psychology12/",
+    keywords: ["psychology", "class 12", "neb", "psy 120"],
   },
 ];
