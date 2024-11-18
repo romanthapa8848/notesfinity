@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-functions/distribution-function/marketing-intermediaries/agents/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/introduction-finance/an-overview-of-business-finance/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -12,6 +15,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/parental-education/approaches-involving-parent-instruction/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/introduction-to-marketing/approaches-to-study/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/theories-of-learning/behavioral-theories/</loc>
@@ -26,16 +32,40 @@
     <loc>http://localhost:1313/notes/neb/finance12/bond-and-stock-valuation/book-value-of-common-stock/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/product/branding/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/capital-structure/break-even-analysis/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/business-entity-financial-environment/business-and-taxes/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/components-of-marketing/customers/buying-motives/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/buyer-behaviour/organizational-buying-process/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/buyer-behaviour/individual-buying-process/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-functions/merchandizing-function/buying/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/capital-investment-decision/concept-features-and-importance/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/capital-structure/capital-structure-and-financial-structure/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-mix/case-exercise/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/evolution-of-marketing-concept/case-study-method/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/buyer-behaviour/case-study/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/working-capital-and-current-assets-management/cash-conversion-cycle/</loc>
@@ -45,6 +75,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/categories-loans-credit/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/distribution-place/channel-conflicts-resolution/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/early-childhood-development/characteristics-early-childhood/</loc>
@@ -57,6 +90,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/applications-of-child-centered-learning-approaches/child-centered-learning-at-school/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/product/classification-products/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/theories-of-learning/cognitive-learning-theory-piaget/</loc>
@@ -80,10 +116,19 @@
     <loc>http://localhost:1313/notes/neb/finance11/business-entity-financial-environment/forms-of-business-organization/company/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-functions/distribution-function/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-environment/components/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/international-finance/computation-of-cross-exchange-rate/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/life-nonlife-insurance/computation-life-insurance-premium/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/components-of-marketing/customers/concept-and-classifications/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/concept-evolution-insurance/</loc>
@@ -93,6 +138,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/life-nonlife-insurance/concept-importance-life-insurance/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/overview-marketing/concept-importance/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/microfinance-cooperatives/concept-importance-microfinance/</loc>
@@ -158,13 +206,28 @@
     <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/concept-time-value-of-money/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/components-of-marketing/concepts-of-market/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/introduction-to-marketing/core-concepts/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/credit-rating-agency-deposit-credit-guarantee-fund-credit-information-bureau/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/working-capital-and-current-assets-management/current-assets-management/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/components-of-marketing/customers/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/source-of-fund/debt/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-information-system/components-mis/decision-support/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/components-of-marketing/demand/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/demat-account-crn-number/</loc>
@@ -194,6 +257,9 @@
     <loc>http://localhost:1313/notes/neb/child-development11/concept-of-human-growth-development/different-stages-development/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/distribution-place/structure-consumer-industrial-products/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/dividends-and-dividend-payment-procedure/dividend-payment-procedure/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -203,10 +269,19 @@
     <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/du-pont-system/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-information-system/components-mis/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/distribution-place/elements-of-distribution/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/concept-of-learning/elements-of-learning/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/life-nonlife-insurance/elements-life-insurance-contract/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-mix/elements-components/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/early-childhood-development/emotional-pattern/</loc>
@@ -224,16 +299,40 @@
     <loc>http://localhost:1313/notes/neb/finance12/international-finance/exchange-rates-and-quotation/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-functions/facilitating-functions/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/early-childhood-development/factors-affecting-development/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/late-childhood-development/factors-affecting-development/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/pricing/factors-affecting/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/dividends-and-dividend-payment-procedure/factors-influencing-dividend-decision/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/features-insurance-contract/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-environment/features/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-information-system/features/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/components-of-marketing/features-of-nepalese-market/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-functions/field-visit-and-presentation/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/distribution-place/field-visit-presentation/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/product/field-visit-presentation/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/nrb-classification/finance-company/</loc>
@@ -260,6 +359,9 @@
     <loc>http://localhost:1313/notes/neb/finance11/business-entity-financial-environment/forms-of-business-organization/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/pricing/forms-of-price/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/functions-banks/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -281,6 +383,9 @@
     <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/future-value-ordinary-annuity-annuity-due/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-environment/impacts/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/introduction-finance/goals-of-the-firm/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -299,6 +404,30 @@
     <loc>http://localhost:1313/notes/neb/child-development11/late-childhood-development/hazards-late-childhood/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/introduction-to-marketing/historical-development/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/evolution-of-marketing-concept/types-of-marketing-concept/holistic-marketing-concept/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/introduction-to-marketing/importance/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-information-system/importance/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-mix/importance/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/pricing/importance/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/distribution-place/importance-transportation/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/distribution-place/importance-warehousing/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/working-capital-and-current-assets-management/importance-of-working-capital/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -311,7 +440,16 @@
     <loc>http://localhost:1313/notes/neb/child-development11/analysis-of-preschool-learning-approaches/integration-of-child-care-development-in-school/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-information-system/components-mis/internal-records/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/innovations-banking-technology/internet-banking/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/product/labeling/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/product/levels-of-product/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/types-of-ratios/leverage-ratios/</loc>
@@ -338,7 +476,46 @@
     <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/types-of-ratios/market-value-ratios/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/buyer-behaviour/market-visit-survey/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-environment/market-visit-survey/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-information-system/components-mis/marketing-intelligence/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/components-of-marketing/marketing-process/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-information-system/components-mis/marketing-research/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-assets/meaning-characteristics-financial-assets/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/distribution-place/meaning-definition/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/introduction-to-marketing/meaning-definition/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-environment/meaning-definition/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-information-system/meaning-definition/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-mix/meaning-definition/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/pricing/meaning-definition/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/product/meaning-definition/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/buyer-behaviour/meaning-features/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/capital-structure/optimal-capital-structure/</loc>
@@ -365,16 +542,28 @@
     <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/meaning-compounding-discounting/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-functions/distribution-function/methods-and-types/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/meaning-objectives-methods-reinsurance/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/concept-of-learning/memory/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-functions/merchandizing-function/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-functions/distribution-function/methods-of-distribution/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/nrb-classification/microfinance/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/innovations-banking-technology/mobile-banking/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/evolution-of-marketing-concept/types-of-marketing-concept/modern-marketing-concept/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/money-capital-markets/</loc>
@@ -398,6 +587,9 @@
     <loc>http://localhost:1313/notes/neb/finance12/financial-statements-and-reporting/need-for-financial-statements/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/buyer-behaviour/need-understanding/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/nepal-stock-exchange/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -408,6 +600,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/nrb-classification/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/pricing/objective-pricing/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/source-of-fund/sources-of-capital-fund/on-the-basis-of-ownership/</loc>
@@ -437,6 +632,9 @@
     <loc>http://localhost:1313/notes/neb/finance11/financial-assets/ownership-vs-creditorship-financial-assets/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/product/packaging/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/parental-education/parental-involvement-instruction/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -452,10 +650,22 @@
     <loc>http://localhost:1313/notes/neb/finance12/capital-investment-decision/payback-period-and-net-present-value/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-mix/elements-components/people-mix/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/early-childhood-development/physical-skill-development/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/late-childhood-development/physical-skill-development/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/distribution-place/physical-distribution-logistics/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-mix/elements-components/physical-evidence-mix/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-mix/elements-components/place-mix/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/applications-of-child-centered-learning-approaches/play-method-and-storytelling/</loc>
@@ -470,6 +680,12 @@
     <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/present-value-perpetuities/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-mix/elements-components/price-mix/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing12/pricing/allowances-discounts/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/primary-secondary-markets/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -479,13 +695,31 @@
     <loc>http://localhost:1313/notes/neb/finance11/life-nonlife-insurance/procedures-affecting-life-insurance-policy/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-mix/elements-components/process-mix/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/analysis-of-preschool-learning-approaches/process-of-child-care/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/evolution-of-marketing-concept/types-of-marketing-concept/product-concept/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-mix/elements-components/product-mix/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/evolution-of-marketing-concept/types-of-marketing-concept/production-concept/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/types-of-ratios/profitability-ratios/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-mix/elements-components/promotion-mix/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-assets/real-vs-financial-assets/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/evolution-of-marketing-concept/reasons-developing/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/regulator-banks-nrb/</loc>
@@ -498,6 +732,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/introduction-finance/relationship-of-finance-with-economics-and-accountancy/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-functions/distribution-function/marketing-intermediaries/retailers/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/risk-concept-types/</loc>
@@ -530,6 +767,12 @@
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/securities-board-nepal/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/evolution-of-marketing-concept/types-of-marketing-concept/selling-concept/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-functions/merchandizing-function/selling/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/semi-annual-other-compounding-periods/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -549,6 +792,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/late-childhood-development/socialization-family-relationship/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/evolution-of-marketing-concept/types-of-marketing-concept/societal-marketing-concept/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/theories-of-learning/socio-cultural-theory-vygotsky/</loc>
@@ -573,6 +819,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/child-development11/applications-of-child-centered-learning-approaches/status-of-learning-by-doing/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/introduction-to-marketing/status-position-customer/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/capital-investment-decision/steps-involved-in-evaluation/</loc>
@@ -602,6 +851,9 @@
     <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/types-of-ratios/turnover-ratios/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/components-of-marketing/types-and-features-of-market/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/types-accounts-deposits/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -615,6 +867,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/life-nonlife-insurance/types-life-insurance/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-functions/distribution-function/marketing-intermediaries/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/life-nonlife-insurance/types-non-life-insurance-procedures/</loc>
@@ -636,6 +891,12 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance12/bond-and-stock-valuation/valuation-of-bonds/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/evolution-of-marketing-concept/types-of-marketing-concept/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/marketing11/marketing-functions/distribution-function/marketing-intermediaries/wholesalers/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/pedagogy12/instructional-pedagogy/instructional-materials/classification/av-materials/</loc>

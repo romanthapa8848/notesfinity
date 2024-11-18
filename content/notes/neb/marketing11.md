@@ -20,11 +20,11 @@ layout: "non_math_mode"
 
 ---
 
-| Course Code | MAR 307                                                  |
-| ----------- | -------------------------------------------------------- |
-| Theory      | Assessment Mark: XX; Final Exam: XX Marks (Duration: XX) |
-| Practical   | Assessment Mark: XX                                      |
-| Total Marks | XX Marks                                                 |
+| Course Code | MAR 307                      |
+| ----------- | ---------------------------- |
+| Theory      | 75 Marks (Duration: 3 Hours) |
+| Practical   |                              |
+| Total Marks | 75 Marks                     |
 
 ---
 
@@ -59,6 +59,7 @@ layout: "non_math_mode"
 
 - [3.1 Meaning and definition of marketing mix](./marketing-mix/meaning-definition/)
 - [3.2 Elements or components of marketing mix](./marketing-mix/elements-components/)
+
   - [Product mix](./marketing-mix/elements-components/product-mix/)
   - [Price mix](./marketing-mix/elements-components/price-mix/)
   - [Promotion mix](./marketing-mix/elements-components/promotion-mix/)
@@ -66,6 +67,7 @@ layout: "non_math_mode"
   - [Process mix](./marketing-mix/elements-components/process-mix/)
   - [People mix](./marketing-mix/elements-components/people-mix/)
   - [Physical evidence mix](./marketing-mix/elements-components/physical-evidence-mix/)
+
 - [3.3 Importance of marketing mix](./marketing-mix/importance/)
 - [3.4 Case exercise on marketing mix](./marketing-mix/case-exercise/)
 
@@ -134,9 +136,9 @@ layout: "non_math_mode"
 - [8.1 Meaning and definition of marketing information system](./marketing-information-system/meaning-definition/)
 - [8.2 Features of marketing information system](./marketing-information-system/features/)
 - [8.3 Importance of marketing information](./marketing-information-system/importance/)
-- [8.4 Elements of components of marketing information system](./marketing-information-system/components/)
+- [8.4 Elements of components of marketing information system](./marketing-information-system/components-mis/)
 
-  - [Internal records system](./marketing-information-system/components/internal-records/)
-  - [Marketing intelligence system](./marketing-information-system/components/marketing-intelligence/)
-  - [Decision support system](./marketing-information-system/components/decision-support/)
-  - [Marketing research – Meaning, features, and process](./marketing-information-system/components/marketing-research/)
+  - [Internal records system](./marketing-information-system/components-mis/internal-records/)
+  - [Marketing intelligence system](./marketing-information-system/components-mis/marketing-intelligence/)
+  - [Decision support system](./marketing-information-system/components-mis/decision-support/)
+  - [Marketing research – Meaning, features, and process](./marketing-information-system/components-mis/marketing-research/)
