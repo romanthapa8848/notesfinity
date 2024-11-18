@@ -63,7 +63,7 @@ layout: "non_math_mode"
 - [3.5 Ownership vs. Creditorship in Financial Assets](./financial-assets/ownership-vs-creditorship-financial-assets/)
 - [3.6 Fixed Return vs. Variable Return Instruments](./financial-assets/fixed-return-vs-variable-return-instruments/)
 - [3.7 Derivatives](./financial-assets/derivatives/)
-- [3.8 Long-term Instruments: Common Stock, Preferred Stock, Bonds/Debentures](./financial-assets/long-term-instruments-common-stock-preferred-stock-bonds-debentures/)
+- [3.8 Long-term Instruments: Common Stock, Preferred Stock, Bonds/Debentures](./financial-assets/long-term-instruments/)
 - [3.9 Short-term Instruments: Treasury Bill, Bankers’ Acceptance, Commercial Paper, Promissory Notes, Bill of Exchange, Letter of Credit, Certificate of Deposits](./financial-assets/short-term-instruments/)
 
 ---
@@ -73,13 +73,13 @@ layout: "non_math_mode"
 - [4.1 Concept and Types of Financial Markets](./financial-markets/concept-types-financial-markets/)
 - [4.2 Primary and Secondary Markets](./financial-markets/primary-secondary-markets/)
 - [4.3 Money and Capital Markets](./financial-markets/money-capital-markets/)
-- [4.4 The Secondary Market: Organized Exchanges and Over-the-counter Market](./financial-markets/secondary-market-organized-exchanges-otc-market/)
+- [4.4 The Secondary Market: Organized Exchanges and Over-the-counter Market](./financial-markets/secondary-market/)
 - [4.5 Role of Financial Markets](./financial-markets/role-financial-markets/)
-- [4.6 Participation in Primary Markets: IPO, FPO, Rights Offering](./financial-markets/participation-primary-markets-ipo-fpo-rights-offering/)
+- [4.6 Participation in Primary Markets: IPO, FPO, Rights Offering](./financial-markets/participation-primary-markets/)
 - [4.7 Demat Account, CRN (Central-ASBA Registration Number) Number](./financial-markets/demat-account-crn-number/)
 - [4.8 Participation in Secondary Markets: Stock Broker, Dealer, Market Maker, KYC Form, Buy and Sell Order, Stock Quotations](./financial-markets/participation-secondary-markets/)
-- [4.9 Nepal Stock Exchange: Introduction and Functions](./financial-markets/nepal-stock-exchange-introduction-functions/)
-- [4.10 Securities Board of Nepal: Introduction and Functions](./financial-markets/securities-board-nepal-introduction-functions/)
+- [4.9 Nepal Stock Exchange: Introduction and Functions](./financial-markets/nepal-stock-exchange/)
+- [4.10 Securities Board of Nepal: Introduction and Functions](./financial-markets/securities-board-nepal/)
 
 ---
 
@@ -99,12 +99,12 @@ layout: "non_math_mode"
 
 - [5.7 Regulator of Banks: Nepal Rastra Bank (NRB)](./commercial-banks/regulator-banks-nrb/)
 - [5.8 Functions of NRB](./commercial-banks/functions-nrb/)
-- [5.9 NRB Classification of Financial Institutions](./commercial-banks/nrb-classification-financial-institutions/)
+- [5.9 NRB Classification of Financial Institutions](./commercial-banks/nrb-classification/)
 
-  - [5.9.1 Commercial Bank](./commercial-banks/commercial-bank/)
-  - [5.9.2 Development Bank](./commercial-banks/development-bank/)
-  - [5.9.3 Finance Company](./commercial-banks/finance-company/)
-  - [5.9.4 Microfinance](./commercial-banks/microfinance/)
+  - [5.9.1 Commercial Bank](./commercial-banks/nrb-classification/commercial-bank/)
+  - [5.9.2 Development Bank](./commercial-banks/nrb-classification/development-bank/)
+  - [5.9.3 Finance Company](./commercial-banks/nrb-classification/finance-company/)
+  - [5.9.4 Microfinance](./commercial-banks/nrb-classification/microfinance/)
 
 ---
 
@@ -129,7 +129,7 @@ layout: "non_math_mode"
 - [7.6 Types of Insurance](./risk-insurance/types-insurance/)
 - [7.7 Features of Insurance Contract](./risk-insurance/features-insurance-contract/)
 - [7.8 Meaning, Objectives, and Methods of Reinsurance](./risk-insurance/meaning-objectives-methods-reinsurance/)
-- [7.9 Regulator of Insurance Companies: Nepal Insurance Board](./risk-insurance/regulator-insurance-companies-nepal-insurance-board/)
+- [7.9 Regulator of Insurance Companies: Nepal Insurance Board](./risk-insurance/regulator-insurance-companies/)
 
 ---
 
