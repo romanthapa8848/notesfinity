@@ -54,11 +54,11 @@ layout: "non_math_mode"
 - [3.2 Concept of Index Analysis](./financial-analysis/concept-of-index-analysis/)
 - [3.3 Types of Ratios](./financial-analysis/types-of-ratios/)
 
-  - [Liquidity Ratios: Current Ratio, Quick Ratio](./financial-analysis/liquidity-ratios/)
-  - [Turnover Ratios: Inventory Turnover Ratio, Receivable Turnover Ratio, Fixed Assets Turnover Ratio, Total Assets Turnover Ratio](./financial-analysis/turnover-ratios/)
-  - [Leverage Ratios: Debt Ratio, Debt to Assets Ratio, Equity Multiplier](./financial-analysis/leverage-ratios/)
-  - [Profitability Ratios: Net Profit Margin, Gross Profit Margin, Return on Assets, Return on Equity](./financial-analysis/profitability-ratios/)
-  - [Market Value Ratios: Price-Earnings Ratio, Market to Book Ratio](./financial-analysis/market-value-ratios/)
+  - [Liquidity Ratios: Current Ratio, Quick Ratio](./financial-analysis/types-of-ratios/liquidity-ratios/)
+  - [Turnover Ratios: Inventory Turnover Ratio, Receivable Turnover Ratio, Fixed Assets Turnover Ratio, Total Assets Turnover Ratio](./financial-analysis/types-of-ratios/turnover-ratios/)
+  - [Leverage Ratios: Debt Ratio, Debt to Assets Ratio, Equity Multiplier](./financial-analysis/types-of-ratios/leverage-ratios/)
+  - [Profitability Ratios: Net Profit Margin, Gross Profit Margin, Return on Assets, Return on Equity](./financial-analysis/types-of-ratios/profitability-ratios/)
+  - [Market Value Ratios: Price-Earnings Ratio, Market to Book Ratio](./financial-analysis/types-of-ratios/market-value-ratios/)
 
 - [3.4 Du-Pont System](./financial-analysis/du-pont-system/)
 - [3.5 Limitations of Ratio Analysis](./financial-analysis/limitations-of-ratio-analysis/)
