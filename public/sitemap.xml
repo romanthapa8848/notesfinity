@@ -2,10 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/annuities-meaning-types/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/benefits-insurance/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/business-entity-financial-environment/business-and-taxes/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/cash-flow-timeline/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/categories-loans-credit/</loc>
@@ -38,6 +44,18 @@
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/concept-types-financial-markets/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/concept-cash-flow/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/concept-pension-fund-companies/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/concept-time-value-of-money/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/credit-rating-agency-deposit-credit-guarantee-fund-credit-information-bureau/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/demat-account-crn-number/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -48,6 +66,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/microfinance-cooperatives/difference-banks-microfinance/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/difference-open-end-closed-end-mutual-funds/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/life-nonlife-insurance/elements-life-insurance-contract/</loc>
@@ -83,13 +104,28 @@
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/functions-banks/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/functions-merchant-bankers/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/microfinance-cooperatives/functions-microfinance/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/functions-nrb/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/future-present-value-uneven-cash-flows/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/future-value-present-value-single-cash-flow/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/future-value-ordinary-annuity-annuity-due/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/introduction-finance/goals-of-the-firm/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/growth-mutual-funds-nepal/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -104,6 +140,9 @@
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/innovations-banking-technology/internet-banking/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/loan-installment-loan-repayment-schedule/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-assets/long-term-instruments/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -113,6 +152,9 @@
     <loc>http://localhost:1313/notes/neb/finance11/financial-assets/meaning-characteristics-financial-assets/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/meaning-role-merchant-bankers/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/meaning-types-banks/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -120,6 +162,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/introduction-finance/meaning-of-business-finance/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/meaning-compounding-discounting/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/meaning-objectives-methods-reinsurance/</loc>
@@ -134,10 +179,16 @@
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/money-capital-markets/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/concept-advantages-mutual-funds/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/nature-insurable-risks/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/nepal-stock-exchange/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/net-asset-value-nav-mutual-funds/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/</loc>
@@ -147,6 +198,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/innovations-banking-technology/online-banking/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/open-end-close-end-mutual-funds/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/microfinance-cooperatives/difference-microfinance-savings-credit-cooperatives/</loc>
@@ -171,6 +225,12 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/business-entity-financial-environment/forms-of-business-organization/partnership/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/present-value-ordinary-annuity-annuity-due/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/present-value-perpetuities/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/primary-secondary-markets/</loc>
@@ -200,7 +260,13 @@
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/role-financial-markets/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/role-pension-fund-companies/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/securities-board-nepal/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/semi-annual-other-compounding-periods/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/services-offered/</loc>
@@ -212,6 +278,12 @@
     <loc>http://localhost:1313/notes/neb/finance11/business-entity-financial-environment/forms-of-business-organization/sole-proprietorship/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/solving-for-annuity-payments-interest-rates-number-periods/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/solving-for-interest-rates-time-period/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/innovations-banking-technology/swift/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -219,6 +291,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/types-accounts-deposits/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/types-cash-flow/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/types-insurance/</loc>
