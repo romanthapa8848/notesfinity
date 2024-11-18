@@ -2,13 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/neb/finance12/introduction-finance/an-overview-of-business-finance/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-statements-and-reporting/annual-report-and-its-major-components/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/annuities-meaning-types/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/benefits-insurance/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/bond-and-stock-valuation/bonds-with-semiannual-coupons/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/bond-and-stock-valuation/book-value-of-common-stock/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/capital-structure/break-even-analysis/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/business-entity-financial-environment/business-and-taxes/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/capital-investment-decision/concept-features-and-importance/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/capital-structure/capital-structure-and-financial-structure/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/working-capital-and-current-assets-management/cash-conversion-cycle/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/cash-flow-timeline/</loc>
@@ -20,13 +44,28 @@
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/nrb-classification/commercial-bank/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-statements-and-reporting/common-size-statements/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/bond-and-stock-valuation/common-stock-valuation/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/source-of-fund/common-stock/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/business-entity-financial-environment/forms-of-business-organization/company/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/international-finance/computation-of-cross-exchange-rate/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/life-nonlife-insurance/computation-life-insurance-premium/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/concept-evolution-insurance/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/dividends-and-dividend-payment-procedure/concept-and-forms/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/life-nonlife-insurance/concept-importance-life-insurance/</loc>
@@ -44,7 +83,16 @@
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/concept-types-financial-markets/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/working-capital-and-current-assets-management/concept-and-types/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/capital-structure/business-risk-and-financial-risk/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/concept-cash-flow/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/concept-of-index-analysis/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/concept-pension-fund-companies/</loc>
@@ -56,10 +104,19 @@
     <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/credit-rating-agency-deposit-credit-guarantee-fund-credit-information-bureau/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/working-capital-and-current-assets-management/current-assets-management/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/source-of-fund/debt/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/demat-account-crn-number/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-assets/derivatives/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/working-capital-and-current-assets-management/determinants-of-working-capital/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/nrb-classification/development-bank/</loc>
@@ -71,7 +128,25 @@
     <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/difference-open-end-closed-end-mutual-funds/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/dividends-and-dividend-payment-procedure/dividend-payment-procedure/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/dividends-and-dividend-payment-procedure/dividend-payment-schemes/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/du-pont-system/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/life-nonlife-insurance/elements-life-insurance-contract/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/introduction-finance/ethical-concerns-in-financial-decision/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/international-finance/exchange-rates-and-quotation/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/dividends-and-dividend-payment-procedure/factors-influencing-dividend-decision/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/features-insurance-contract/</loc>
@@ -125,10 +200,16 @@
     <loc>http://localhost:1313/notes/neb/finance11/introduction-finance/goals-of-the-firm/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/working-capital-and-current-assets-management/gross-and-net-working-capital/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/growth-mutual-funds-nepal/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/working-capital-and-current-assets-management/importance-of-working-capital/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/innovations-banking-technology/</loc>
@@ -140,6 +221,15 @@
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/innovations-banking-technology/internet-banking/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/types-of-ratios/leverage-ratios/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/limitations-of-ratio-analysis/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/types-of-ratios/liquidity-ratios/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/loan-installment-loan-repayment-schedule/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -149,7 +239,22 @@
     <loc>http://localhost:1313/notes/neb/finance11/financial-assets/long-term-vs-short-term-financial-assets/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-statements-and-reporting/major-components-of-financial-statements/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/types-of-ratios/market-value-ratios/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-assets/meaning-characteristics-financial-assets/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/capital-structure/optimal-capital-structure/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/bond-and-stock-valuation/meaning-and-key-characteristics-of-bonds/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/bond-and-stock-valuation/meaning-and-key-features-of-common-stock/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/meaning-role-merchant-bankers/</loc>
@@ -179,10 +284,22 @@
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/money-capital-markets/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/international-finance/multinational-corporations/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/international-finance/multinational-versus-domestic-financial-management/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/concept-advantages-mutual-funds/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-statements-and-reporting/nature-of-financial-statements/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/nature-insurable-risks/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-statements-and-reporting/need-for-financial-statements/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/nepal-stock-exchange/</loc>
@@ -195,6 +312,12 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/nrb-classification/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/source-of-fund/sources-of-capital-fund/on-the-basis-of-ownership/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/source-of-fund/sources-of-capital-fund/on-the-basis-of-time/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/innovations-banking-technology/online-banking/</loc>
@@ -227,6 +350,12 @@
     <loc>http://localhost:1313/notes/neb/finance11/business-entity-financial-environment/forms-of-business-organization/partnership/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/capital-investment-decision/payback-period-and-net-present-value/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/source-of-fund/preferred-stock/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/present-value-ordinary-annuity-annuity-due/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -242,6 +371,9 @@
     <loc>http://localhost:1313/notes/neb/finance11/life-nonlife-insurance/procedures-affecting-life-insurance-policy/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/types-of-ratios/profitability-ratios/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-assets/real-vs-financial-assets/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -249,6 +381,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/regulator-insurance-companies/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/introduction-finance/relationship-of-finance-with-economics-and-accountancy/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/risk-concept-types/</loc>
@@ -263,6 +398,9 @@
     <loc>http://localhost:1313/notes/neb/finance11/mutual-fund-pension-fund-other-financial-services/role-pension-fund-companies/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/introduction-finance/roles-and-responsibilities-of-a-financial-manager/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/securities-board-nepal/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
@@ -270,6 +408,9 @@
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/services-offered/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/source-of-fund/short-term-sources/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-assets/short-term-instruments/</loc>
@@ -284,10 +425,25 @@
     <loc>http://localhost:1313/notes/neb/finance11/time-value-of-money/solving-for-interest-rates-time-period/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/source-of-fund/sources-of-capital-fund/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/capital-investment-decision/steps-involved-in-evaluation/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/innovations-banking-technology/swift/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/bond-and-stock-valuation/dividend-discount-model/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/financial-markets/secondary-market/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/international-finance/trading-in-foreign-exchange/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/types-of-ratios/turnover-ratios/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/commercial-banks/types-accounts-deposits/</loc>
@@ -299,10 +455,25 @@
     <loc>http://localhost:1313/notes/neb/finance11/risk-insurance/types-insurance/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/capital-investment-decision/types-of-investment-proposals/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/life-nonlife-insurance/types-life-insurance/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/finance11/life-nonlife-insurance/types-non-life-insurance-procedures/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/types-of-ratios/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-statements-and-reporting/users-of-financial-statements/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/financial-analysis/uses-and-importance-of-financial-ratio-analysis/</loc>
+    <lastmod>2024-11-18T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/finance12/bond-and-stock-valuation/valuation-of-bonds/</loc>
     <lastmod>2024-11-18T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/pedagogy12/instructional-pedagogy/instructional-materials/classification/av-materials/</loc>
