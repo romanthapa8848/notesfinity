@@ -91,18 +91,18 @@ layout: "non_math_mode"
     - [Company Meetings](./forms-of-business-ownership/forms-ownership/company/meetings/)
     - [Procedure of Winding-up of a Company](./forms-of-business-ownership/forms-ownership/company/winding-up/)
 
-  - [d) Co-operatives](./forms-of-business-ownership/co-operatives/)
+  - [d) Co-operatives](./forms-of-business-ownership/forms-ownership/co-operatives/)
 
-    - [Introduction to Co-operative Organizations in Nepal](./forms-of-business-ownership/co-operatives/introduction/)
-    - [Features of Co-operative Organizations](./forms-of-business-ownership/co-operatives/features/)
-    - [Common Forms of Co-operative Organizations](./forms-of-business-ownership/co-operatives/common-forms/)
-    - [Procedure of Registration and Renewal of Co-operatives in Nepal](./forms-of-business-ownership/co-operatives/registration-renewal/)
-    - [Role of Co-operatives in Economic Development of Nepal](./forms-of-business-ownership/co-operatives/role-economic-development/)
+    - [Introduction to Co-operative Organizations in Nepal](./forms-of-business-ownership/forms-ownership/co-operatives/introduction/)
+    - [Features of Co-operative Organizations](./forms-of-business-ownership/forms-ownership/co-operatives/features/)
+    - [Common Forms of Co-operative Organizations](./forms-of-business-ownership/forms-ownership/co-operatives/common-forms/)
+    - [Procedure of Registration and Renewal of Co-operatives in Nepal](./forms-of-business-ownership/forms-ownership/co-operatives/registration-renewal/)
+    - [Role of Co-operatives in Economic Development of Nepal](./forms-of-business-ownership/forms-ownership/co-operatives/role-economic-development/)
 
-  - [e) Other Forms of Ownership](./forms-of-business-ownership/other-forms-ownership/)
+  - [e) Other Forms of Ownership](./forms-of-business-ownership/forms-ownership/other-forms-ownership/)
 
-    - [Public Enterprises: Concept, Features and Roles](./forms-of-business-ownership/other-forms-ownership/public-enterprises/)
-    - [Multinational Company: Concept, Features and Roles](./forms-of-business-ownership/other-forms-ownership/multinational-company/)
+    - [Public Enterprises: Concept, Features and Roles](./forms-of-business-ownership/forms-ownership/other-forms-ownership/public-enterprises/)
+    - [Multinational Company: Concept, Features and Roles](./forms-of-business-ownership/forms-ownership/other-forms-ownership/multinational-company/)
 
 - [4.3 Factors Influencing the Choice of the Form](./forms-of-business-ownership/factors-influencing-choice/)
 
@@ -141,5 +141,5 @@ layout: "non_math_mode"
 - [8.2 Information Management: Meaning and Importance](./office-management/information-management-meaning-importance/)
 - [8.3 Principles of Information Management](./office-management/principles-of-information-management/)
 - [8.4 Role of Computer Applications in Record Management](./office-management/role-of-computer-applications-in-record-management/)
-- [8.5 Filing: Meaning, Purpose, Types, Management of Electronic File](./office-management/filing-meaning-purpose-types-management-of-electronic-file/)
-- [8.6 Indexing: Meaning, Purpose, Types, Management of Electronic Index](./office-management/indexing-meaning-purpose-types-management-of-electronic-index/)
+- [8.5 Filing: Meaning, Purpose, Types, Management of Electronic File](./office-management/filing/)
+- [8.6 Indexing: Meaning, Purpose, Types, Management of Electronic Index](./office-management/indexing/)
