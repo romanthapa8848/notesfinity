@@ -94,12 +94,12 @@ Managing electronic files has become an integral part of modern businesses. Unli
 
 1. **File Naming Conventions**: Establishing a clear and consistent naming convention is crucial for effective electronic file management. It should be intuitive and include important details such as dates, project names, and file versions.
 
-   **Example**: `ClientReport_2024-11-19_v2.docx`
+   **Example**: `ClientReport_YEAR-MONTH-DAY_v2.docx`
 
 2. **Folder Structure**: Create a logical and hierarchical folder structure to categorize files according to departments, projects, or clients. This helps keep files organized and easily accessible.
 
    **Example**: A folder structure could look like:
-   Company > Marketing > 2024 > Campaign Reports
+   Company > Marketing > Year > Campaign Reports
 
 3. **File Backup and Security**: Regularly back up electronic files to ensure data is not lost due to technical failures. Additionally, employ encryption and password protection to secure sensitive documents.
 
