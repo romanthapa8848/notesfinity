@@ -20,11 +20,11 @@ layout: "non_math_mode"
 
 ---
 
-| Course Code | MAR 308                                                  |
-| ----------- | -------------------------------------------------------- |
-| Theory      | Assessment Mark: XX; Final Exam: XX Marks (Duration: XX) |
-| Practical   | Assessment Mark: XX                                      |
-| Total Marks | XX Marks                                                 |
+| Course Code | MAR 308                      |
+| ----------- | ---------------------------- |
+| Theory      | 75 Marks (Duration: 3 Hours) |
+| Practical   |                              |
+| Total Marks | 75 Marks                     |
 
 ---
 
