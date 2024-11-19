@@ -101,7 +101,7 @@ Managing electronic indexes involves organizing digital records efficiently so t
 
 Naming conventions and categorization play a vital role in managing an electronic index. Standardized file names that include relevant details such as dates, project names, or document types can simplify the indexing process.
 
-**Example**: `Invoice_2024_07_01_ClientXYZ.pdf`
+**Example**: `Invoice_YEAR_MONTH_DAY_ClientXYZ.pdf`
 
 ### 2. **Indexing Software**
 
@@ -113,7 +113,7 @@ Indexing software automates the process of creating and managing electronic inde
 
 Metadata, or descriptive data about documents, plays a crucial role in electronic indexing. Metadata can include the document's title, author, keywords, creation date, and other relevant information that aids in efficient search and retrieval.
 
-**Example**: Metadata for a PDF might include the title "Q1 Financial Report," the author "John Doe," and keywords like "financial report," "quarter 1," and "2024."
+**Example**: Metadata for a PDF might include the title "Q1 Financial Report," the author "John Doe," and keywords like "financial report", "quarter 1", and "Year".
 
 ### 4. **Search Engine Optimization (SEO)**
 
