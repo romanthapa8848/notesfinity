@@ -1,4 +1,4 @@
-baseURL = 'https://gyanpedia.com/'
+baseURL = 'https://gyanpedia.com'
 languageCode = 'en-us'
 title = 'Gyanpedia'
 theme = 'gyanpedia'
