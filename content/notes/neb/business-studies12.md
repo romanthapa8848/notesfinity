@@ -32,15 +32,15 @@ layout: "non_math_mode"
 
 - [1.1 Management: Meaning and Essentials](./nature-of-management/management-meaning-essentials/)
 - [1.2 Management as Science, Art, and Profession](./nature-of-management/management-as-science-art-profession/)
-- [1.3 Key Management Functions: Planning, Organizing, Leading, and Controlling](./nature-of-management/key-management-functions-planning-organizing-leading-controlling/)
+- [1.3 Key Management Functions: Planning, Organizing, Leading, and Controlling](./nature-of-management/key-management-functions/)
 - [1.4 Levels of Management](./nature-of-management/levels-of-management/)
 
 ---
 
 ## 2. Classical Management Perspective
 
-- [2.1 Scientific Management: Principles and Limitations](./classical-management-perspective/scientific-management-principles-limitations/)
-- [2.2 Administrative Management: Principles and Limitations](./classical-management-perspective/administrative-management-principles-limitations/)
+- [2.1 Scientific Management: Principles and Limitations](./classical-management-perspective/scientific-management/)
+- [2.2 Administrative Management: Principles and Limitations](./classical-management-perspective/administrative-management/)
 
 ---
 
@@ -50,9 +50,9 @@ layout: "non_math_mode"
 - [3.2 Process of Planning](./planning-and-decision-making/process-of-planning/)
 - [3.3 Benefits and Pitfalls of Planning](./planning-and-decision-making/benefits-pitfalls-of-planning/)
 - [3.4 Types of Plans](./planning-and-decision-making/types-of-plans/)
-- [3.5 Decision Making: Meaning and Importance](./planning-and-decision-making/decision-making-meaning-importance/)
+- [3.5 Decision Making: Meaning and Importance](./planning-and-decision-making/decision-making/)
 - [3.6 Types of Managerial Decisions](./planning-and-decision-making/types-of-managerial-decisions/)
-- [3.7 Decision Making Conditions: Certainty, Risk, and Uncertainty](./planning-and-decision-making/decision-making-conditions-certainty-risk-uncertainty/)
+- [3.7 Decision Making Conditions: Certainty, Risk, and Uncertainty](./planning-and-decision-making/decision-making-conditions/)
 - [3.8 Decision Making Process](./planning-and-decision-making/decision-making-process/)
 
 ---
@@ -61,7 +61,7 @@ layout: "non_math_mode"
 
 - [4.1 Organizing: Concept and Principles](./organizing/concept-principles/)
 - [4.2 Organizing Process](./organizing/organizing-process/)
-- [4.3 Departmentalization: Meanings and Bases](./organizing/departmentalization-meanings-bases/)
+- [4.3 Departmentalization: Meanings and Bases](./organizing/departmentalization/)
 - [4.4 Types of Organizational Structure: Simple, Functional, Divisional, Matrix, and Committee](./organizing/types-of-organizational-structure/)
 - [4.5 Drivers of Organizing: Authority, Responsibility, and Accountability](./organizing/drivers-of-organizing/)
 - [4.6 Centralization and Decentralization](./organizing/centralization-decentralization/)
@@ -94,8 +94,10 @@ layout: "non_math_mode"
 - [7.1 Motivation: Meaning and Importance](./other-management-functions/motivation-meaning-importance/)
 - [7.2 Techniques of Motivation](./other-management-functions/techniques-of-motivation/)
 - [7.3 Theories of Motivation](./other-management-functions/theories-of-motivation/)
-  - Maslow’s Theory of Hierarchy of Needs
-  - Herzberg’s Dual Factors Theory
+
+  - [Maslow’s Theory of Hierarchy of Needs](./other-management-functions/theories-of-motivation/maslows-theory)
+  - [Herzberg’s Dual Factors Theory](./other-management-functions/theories-of-motivation/herzbergs-theory)
+
 - [7.4 Supervision: Meaning and Role](./other-management-functions/supervision-meaning-role/)
 - [7.5 Factors Influencing Supervision](./other-management-functions/factors-influencing-supervision/)
 - [7.6 Communication: Meaning and Importance](./other-management-functions/communication-meaning-importance/)
