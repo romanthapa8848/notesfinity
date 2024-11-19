@@ -91,10 +91,10 @@ layout: "non_math_mode"
 - [6.4 Telemarketing and Televised Marketing: Meaning and Features of Telephone and Televised Marketing; Problems and Prospects of Televised and Telemarketing in Nepal](./emerging-issues-modern-marketing/telemarketing-televised-marketing/)
 - [6.5 Other Special Fields of Marketing:](./emerging-issues-modern-marketing/other-special-fields-marketing/)
 
-  - [Services Marketing](./emerging-issues-modern-marketing/services-marketing/)
-  - [Export Marketing](./emerging-issues-modern-marketing/export-marketing/)
-  - [International Marketing](./emerging-issues-modern-marketing/international-marketing/)
-  - [Global Marketing](./emerging-issues-modern-marketing/global-marketing/)
+  - [Services Marketing](./emerging-issues-modern-marketing/other-special-fields-marketing/services-marketing/)
+  - [Export Marketing](./emerging-issues-modern-marketing/other-special-fields-marketing/export-marketing/)
+  - [International Marketing](./emerging-issues-modern-marketing/other-special-fields-marketing/international-marketing/)
+  - [Global Marketing](./emerging-issues-modern-marketing/other-special-fields-marketing/global-marketing/)
 
 - [6.6 Field Visits and Class Presentation](./emerging-issues-modern-marketing/field-visits-class-presentation/)
 
@@ -105,23 +105,23 @@ layout: "non_math_mode"
 - [7.1 Meaning of Marketing Ethics and Social Responsibility](./marketing-ethics-social-responsibility/meaning-ethics-social-responsibility/)
 - [7.2 Ethical Behaviour in Marketing](./marketing-ethics-social-responsibility/ethical-behaviour-marketing/)
 
-  - [Morality](./marketing-ethics-social-responsibility/morality/)
-  - [Ethical Decision Making](./marketing-ethics-social-responsibility/ethical-decision-making/)
-  - [Ethical Guidelines](./marketing-ethics-social-responsibility/ethical-guidelines/)
+  - [Morality](./marketing-ethics-social-responsibility/ethical-behaviour-marketing/morality/)
+  - [Ethical Decision Making](./marketing-ethics-social-responsibility/ethical-behaviour-marketing/ethical-decision-making/)
+  - [Ethical Guidelines](./marketing-ethics-social-responsibility/ethical-behaviour-marketing/ethical-guidelines/)
 
 - [7.3 Social Marketing Functions](./marketing-ethics-social-responsibility/social-marketing-functions/)
 
-  - [Survival](./marketing-ethics-social-responsibility/survival/)
-  - [Profitability](./marketing-ethics-social-responsibility/profitability/)
-  - [Services to Customers](./marketing-ethics-social-responsibility/services-customers/)
-  - [Obligations towards Employees, the Community, Customers, and the Public](./marketing-ethics-social-responsibility/obligations/)
-  - [Eco-friendly Activities](./marketing-ethics-social-responsibility/eco-friendly-activities/)
+  - [Survival](./marketing-ethics-social-responsibility/social-marketing-functions/survival/)
+  - [Profitability](./marketing-ethics-social-responsibility/social-marketing-functions/profitability/)
+  - [Services to Customers](./marketing-ethics-social-responsibility/social-marketing-functions/services-customers/)
+  - [Obligations towards Employees, the Community, Customers, and the Public](./marketing-ethics-social-responsibility/social-marketing-functions/obligations/)
+  - [Eco-friendly Activities](./marketing-ethics-social-responsibility/social-marketing-functions/eco-friendly-activities/)
 
 - [7.4 The Cost of Ignoring Social Responsibility](./marketing-ethics-social-responsibility/cost-ignoring-social-responsibility/)
 
-  - [Rejection of Company's Products by Customers and Society](./marketing-ethics-social-responsibility/rejection-products/)
-  - [Damage of Company Goodwill](./marketing-ethics-social-responsibility/damage-goodwill/)
-  - [Barriers to Organizational Growth](./marketing-ethics-social-responsibility/barriers-growth/)
+  - [Rejection of Company's Products by Customers and Society](./marketing-ethics-social-responsibility/cost-ignoring-social-responsibility/rejection-products/)
+  - [Damage of Company Goodwill](./marketing-ethics-social-responsibility/cost-ignoring-social-responsibility/damage-goodwill/)
+  - [Barriers to Organizational Growth](./marketing-ethics-social-responsibility/cost-ignoring-social-responsibility/barriers-growth/)
 
 ---
 
