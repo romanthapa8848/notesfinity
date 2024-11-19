@@ -80,16 +80,16 @@ layout: "non_math_mode"
     - [Procedure of Registration and Renewal of Partnership Firm in Nepal](./forms-of-business-ownership/forms-ownership/partnership-firm/registration-renewal/)
     - [Modes of Dissolution of Partnership Firm in Nepal](./forms-of-business-ownership/forms-ownership/partnership-firm/dissolution-modes/)
 
-  - [c) Company](./forms-of-business-ownership/company/)
+  - [c) Company](./forms-of-business-ownership/forms-ownership/company/)
 
-    - [Introduction to Public and Private Company](./forms-of-business-ownership/company/introduction/)
-    - [Features of Company Business](./forms-of-business-ownership/company/features/)
-    - [Reasons for Starting Company Business](./forms-of-business-ownership/company/reasons/)
-    - [Challenges to Company Business](./forms-of-business-ownership/company/challenges/)
-    - [Registration Process of a Company in Nepal](./forms-of-business-ownership/company/registration-process/)
-    - [Main Documents of Company in Nepal](./forms-of-business-ownership/company/main-documents/)
-    - [Company Meetings](./forms-of-business-ownership/company/meetings/)
-    - [Procedure of Winding-up of a Company](./forms-of-business-ownership/company/winding-up/)
+    - [Introduction to Public and Private Company](./forms-of-business-ownership/forms-ownership/company/introduction/)
+    - [Features of Company Business](./forms-of-business-ownership/forms-ownership/company/features/)
+    - [Reasons for Starting Company Business](./forms-of-business-ownership/forms-ownership/company/reasons/)
+    - [Challenges to Company Business](./forms-of-business-ownership/forms-ownership/company/challenges/)
+    - [Registration Process of a Company in Nepal](./forms-of-business-ownership/forms-ownership/company/registration-process/)
+    - [Main Documents of Company in Nepal](./forms-of-business-ownership/forms-ownership/company/main-documents/)
+    - [Company Meetings](./forms-of-business-ownership/forms-ownership/company/meetings/)
+    - [Procedure of Winding-up of a Company](./forms-of-business-ownership/forms-ownership/company/winding-up/)
 
   - [d) Co-operatives](./forms-of-business-ownership/co-operatives/)
 
