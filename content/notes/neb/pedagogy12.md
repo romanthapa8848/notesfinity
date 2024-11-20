@@ -153,10 +153,10 @@ layout: "non_math_mode"
 
 - [10.1 Meaning and Components of CAS](./instructional-evaluation/continuous-assessment-system/meaning-components/)
 
-  - [Class Work and Participation](./instructional-evaluation/continuous-assessment-system/class-work-participation/)
-  - [Project Work](./instructional-evaluation/continuous-assessment-system/project-work/)
-  - [Creative Work](./instructional-evaluation/continuous-assessment-system/creative-work/)
-  - [Change in Behavior](./instructional-evaluation/continuous-assessment-system/change-in-behavior/)
-  - [Attendance](./instructional-evaluation/continuous-assessment-system/attendance/)
+  - [Class Work and Participation](./instructional-evaluation/continuous-assessment-system/meaning-components/class-work-participation/)
+  - [Project Work](./instructional-evaluation/continuous-assessment-system/meaning-components/project-work/)
+  - [Creative Work](./instructional-evaluation/continuous-assessment-system/meaning-components/creative-work/)
+  - [Change in Behavior](./instructional-evaluation/continuous-assessment-system/meaning-components/change-in-behavior/)
+  - [Attendance](./instructional-evaluation/continuous-assessment-system/meaning-components/attendance/)
 
 - [10.2 Process of Applying CAS](./instructional-evaluation/continuous-assessment-system/process/)
