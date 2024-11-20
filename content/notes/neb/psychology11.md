@@ -123,12 +123,12 @@ layout: "non_math_mode"
 
 - [8.2 Motivation](./psychological-basis/motivation/)
 
-  - [Definition, Characteristics, Types: Primary, Secondary, Motivation Cycle](./psychological-basis/motivation-cycle/)
+  - [Definition, Characteristics, Types: Primary, Secondary, Motivation Cycle](./psychological-basis/motivation/motivation-cycle/)
 
 - [8.3 Intelligence](./psychological-basis/intelligence/)
 
-  - [Definition, Nature, Measurement of Intelligence, The Concept of IQ, Examples of Intelligence Test, Emotional Intelligence](./psychological-basis/intelligence-measurement/)
+  - [Definition, Nature, Measurement of Intelligence, The Concept of IQ, Examples of Intelligence Test, Emotional Intelligence](./psychological-basis/intelligence/intelligence-measurement/)
 
 - [8.4 Personality](./psychological-basis/personality/)
 
-  - [Definition, Determinants of Personality, Types of Personality Tests: Objective and Projective](./psychological-basis/personality-tests/)
+  - [Definition, Determinants of Personality, Types of Personality Tests: Objective and Projective](./psychological-basis/personality/personality-tests/)
