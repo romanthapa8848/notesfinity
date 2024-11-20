@@ -83,18 +83,18 @@ layout: "non_math_mode"
 - [6.1 Learning Psychology: Introduction, Definition, and Concept of Learning: What Learning Is and Is Not](./learning-and-behavior/learning-psychology/)
 - [6.2 S-R Learning Theories](./learning-and-behavior/sr-learning-theories/)
 
-  - [Classical Conditioning: Pavlov’s Experiment, Basic Elements - Unconditioned Stimuli, Unconditioned Response, Neutral Stimuli, Conditioned Stimuli, and Conditioned Response, Human Applications, Strengths, and Weaknesses](./learning-and-behavior/classical-conditioning/)
-  - [Operant Conditioning: Skinner’s Experiment, Basic Elements; Reinforcement - Positive and Negative, Punishment - Positive and Negative, Human Applications - Shaping, Strengths, and Weaknesses](./learning-and-behavior/operant-conditioning/)
+  - [Classical Conditioning: Pavlov’s Experiment, Basic Elements - Unconditioned Stimuli, Unconditioned Response, Neutral Stimuli, Conditioned Stimuli, and Conditioned Response, Human Applications, Strengths, and Weaknesses](./learning-and-behavior/sr-learning-theories/classical-conditioning/)
+  - [Operant Conditioning: Skinner’s Experiment, Basic Elements; Reinforcement - Positive and Negative, Punishment - Positive and Negative, Human Applications - Shaping, Strengths, and Weaknesses](./learning-and-behavior/sr-learning-theories/operant-conditioning/)
 
 - [6.3 Cognitive Learning Theories](./learning-and-behavior/cognitive-learning-theories/)
 
-  - [Insight Learning: Kohler’s Experiment, Basic Elements - Human Applications, Strengths and Weaknesses](./learning-and-behavior/insight-learning/)
-  - [Social Learning: Bandura’s Experiment, Basic Elements - Attention, Retention, Production of Behavior, Motivation and Reinforcement, Human Applications - Modeling, Learning by Observation, Strengths, and Weaknesses](./learning-and-behavior/social-learning/)
+  - [Insight Learning: Kohler’s Experiment, Basic Elements - Human Applications, Strengths and Weaknesses](./learning-and-behavior/cognitive-learning-theories/insight-learning/)
+  - [Social Learning: Bandura’s Experiment, Basic Elements - Attention, Retention, Production of Behavior, Motivation and Reinforcement, Human Applications - Modeling, Learning by Observation, Strengths, and Weaknesses](./learning-and-behavior/cognitive-learning-theories/social-learning/)
 
 - [6.4 Constructivist Learning Theories](./learning-and-behavior/constructivist-learning-theories/)
 
-  - [Cognitive Constructivism](./learning-and-behavior/cognitive-constructivism/)
-  - [Social Constructivism](./learning-and-behavior/social-constructivism/)
+  - [Cognitive Constructivism](./learning-and-behavior/constructivist-learning-theories/cognitive-constructivism/)
+  - [Social Constructivism](./learning-and-behavior/constructivist-learning-theories/social-constructivism/)
 
 ---
 
@@ -102,33 +102,33 @@ layout: "non_math_mode"
 
 - [7.1 Cognitive Approach to Behavior](./cognition-and-behavior/cognitive-approach/)
 
-  - [Introduction to Cognitive Approach (The Information Processing Model) to Psychology, Major Elements: S-O-R Paradigm, Strengths, and Weaknesses](./cognition-and-behavior/information-processing-model/)
+  - [Introduction to Cognitive Approach (The Information Processing Model) to Psychology, Major Elements: S-O-R Paradigm, Strengths, and Weaknesses](./cognition-and-behavior/cognitive-approach/information-processing-model/)
 
 - [7.2 Cognitive Processes](./cognition-and-behavior/cognitive-processes/)
 
-  - [Sensation: Meaning, Definition, The Concept of Sensory Threshold (Link to Sensory Organs)](./cognition-and-behavior/sensation/)
-  - [Perception: Meaning, Definition, Characteristics](./cognition-and-behavior/perception/)
-  - [Attention: Meaning, Definition, Characteristics, Factors Affecting Attention - Factors in the Person, Factors in the Object, and Factors in the Environment](./cognition-and-behavior/attention/)
-  - [Memory: Meaning, Definition, Characteristics, Stages of Memory - Sensory, Short Term, Long Term](./cognition-and-behavior/memory/)
-  - [Forgetting: Meaning, Definition, Characteristics, Causes - Trace Decay, Interference](./cognition-and-behavior/forgetting/)
-  - [Thinking: Meaning, Definition, Characteristics, Tools of Thought - Images, Symbols, Concepts; The Role of Language in Thought](./cognition-and-behavior/thinking/)
+  - [Sensation: Meaning, Definition, The Concept of Sensory Threshold (Link to Sensory Organs)](./cognition-and-behavior/cognitive-processes/sensation/)
+  - [Perception: Meaning, Definition, Characteristics](./cognition-and-behavior/cognitive-processes/perception/)
+  - [Attention: Meaning, Definition, Characteristics, Factors Affecting Attention - Factors in the Person, Factors in the Object, and Factors in the Environment](./cognition-and-behavior/cognitive-processes/attention/)
+  - [Memory: Meaning, Definition, Characteristics, Stages of Memory - Sensory, Short Term, Long Term](./cognition-and-behavior/cognitive-processes/memory/)
+  - [Forgetting: Meaning, Definition, Characteristics, Causes - Trace Decay, Interference](./cognition-and-behavior/cognitive-processes/forgetting/)
+  - [Thinking: Meaning, Definition, Characteristics, Tools of Thought - Images, Symbols, Concepts; The Role of Language in Thought](./cognition-and-behavior/cognitive-processes/thinking/)
 
 ---
 
 ## 8. Psychological Basis of Individual Difference
 
-- [8.1 Psychology of Individual Differences](./psychological-basis-individual-difference/psychology-of-individual-differences/)
+- [8.1 Psychology of Individual Differences](./psychological-basis/psychology-of-individual-differences/)
 
-  - [Introduction, Strengths, and Weaknesses of the Psychology of Individual Difference](./psychological-basis-individual-difference/introduction-individual-differences/)
+  - [Introduction, Strengths, and Weaknesses of the Psychology of Individual Difference](./psychological-basis/psychology-of-individual-differences/introduction-individual-differences/)
 
-- [8.2 Motivation](./psychological-basis-individual-difference/motivation/)
+- [8.2 Motivation](./psychological-basis/motivation/)
 
-  - [Definition, Characteristics, Types: Primary, Secondary, Motivation Cycle](./psychological-basis-individual-difference/motivation-cycle/)
+  - [Definition, Characteristics, Types: Primary, Secondary, Motivation Cycle](./psychological-basis/motivation-cycle/)
 
-- [8.3 Intelligence](./psychological-basis-individual-difference/intelligence/)
+- [8.3 Intelligence](./psychological-basis/intelligence/)
 
-  - [Definition, Nature, Measurement of Intelligence, The Concept of IQ, Examples of Intelligence Test, Emotional Intelligence](./psychological-basis-individual-difference/intelligence-measurement/)
+  - [Definition, Nature, Measurement of Intelligence, The Concept of IQ, Examples of Intelligence Test, Emotional Intelligence](./psychological-basis/intelligence-measurement/)
 
-- [8.4 Personality](./psychological-basis-individual-difference/personality/)
+- [8.4 Personality](./psychological-basis/personality/)
 
-  - [Definition, Determinants of Personality, Types of Personality Tests: Objective and Projective](./psychological-basis-individual-difference/personality-tests/)
+  - [Definition, Determinants of Personality, Types of Personality Tests: Objective and Projective](./psychological-basis/personality-tests/)

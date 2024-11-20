@@ -14,7 +14,13 @@
     <loc>http://localhost:1313/notes/neb/environmental-science12/lithospheric-environment/anthropogenic-activities-on-soil/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/application-psychology/global/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science12/atmospheric-environment/atmospheric-composition/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/cognition-and-behavior/cognitive-processes/attention/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science12/environmental-toxicology/bioaccumulation-biomagnification/</loc>
@@ -27,6 +33,9 @@
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science11/biodiversity-conservation/biodiversity-hotspots/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/biology-and-behavior/biological-approach-psychology/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science12/atmospheric-environment/brown-and-grey-air-smog/</loc>
@@ -47,6 +56,9 @@
     <loc>http://localhost:1313/notes/ioe/epp/case-studies-on-engineering-practices/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/basic-research-psychology/case-study/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-pollution/causes-and-sources-of-pollution/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -62,6 +74,9 @@
     <loc>http://localhost:1313/notes/neb/environmental-science11/quantitative-environmental-analysis/chemical-solutions/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/learning-and-behavior/sr-learning-theories/classical-conditioning/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/introduction/classification-projects/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -69,6 +84,18 @@
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science12/climate-science/climate-change-impacts-in-nepal/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/cognition-and-behavior/cognitive-approach/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/learning-and-behavior/constructivist-learning-theories/cognitive-constructivism/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/learning-and-behavior/cognitive-learning-theories/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/cognition-and-behavior/cognitive-processes/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/epp/regulatory-environment/company-registration/</loc>
@@ -149,16 +176,34 @@
     <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-degradation/consequences-of-environmental-degradation/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/learning-and-behavior/constructivist-learning-theories/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/epp/contract-management/contract-agreement/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/evolution-psychology/buddhist-philosophy/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/evolution-psychology/greek-philosophy/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/evolution-psychology/hindu-philosophy/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-degradation/control-measures-of-environmental-degradation/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/basic-research-psychology/correlational-research-methods/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-appraisal/techniques-project-formulation/cost-benefit-analysis/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/introduction/definition-project/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/basic-research-psychology/descriptive-research-methods/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/epp/profession-ethics/duties-engineer-architect/</loc>
@@ -203,6 +248,9 @@
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-implementation/elements-project-control/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/biology-and-behavior/emotion/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-resources/energy-resources/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -221,10 +269,16 @@
     <loc>http://localhost:1313/notes/neb/environmental-science12/environmental-policies/assessment-provisions/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/basic-research-psychology/ethical-guidelines/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/epp/profession-ethics/ethics-code-ethics-engineering-ethics/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science11/ecosystem-dynamics/evolution-of-ecosystem/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/basic-research-psychology/experimental-research-methods/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-appraisal/techniques-project-formulation/feasibility-analysis/</loc>
@@ -236,7 +290,16 @@
     <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-resources/forest-resources/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/cognition-and-behavior/cognitive-processes/forgetting/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/basic-research-psychology/scientific-inquiry/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/epp/professional-practices-nepal/job-descriptions-fresh-graduates/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/biology-and-behavior/genetics-behavior/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science12/environmental-tools-techniques/geo-coordinate-system/</loc>
@@ -246,6 +309,9 @@
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/epp/contemporary-issues/globalization-cross-cultural-issues/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/basic-research-psychology/goals-research/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science12/climate-science/greenhouse-and-global-warming-mechanism/</loc>
@@ -269,10 +335,16 @@
     <loc>http://localhost:1313/notes/ioe/epp/history-engineering/western-society-engineering/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/biology-and-behavior/hormones-behavior/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science11/chemical-environment/industrial-chemicals-environment/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-appraisal/techniques-project-formulation/input-analysis/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/learning-and-behavior/cognitive-learning-theories/insight-learning/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science12/climate-science/insolation-and-heat-budget/</loc>
@@ -282,6 +354,9 @@
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/epp/regulatory-environment/intellectual-property-right/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/cognition-and-behavior/cognitive-approach/information-processing-model/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-implementation/introduction-monitoring-evaluation-controlling/</loc>
@@ -296,10 +371,16 @@
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-risk/introduction-project-risk/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/basic-research-psychology/scientific-research-methods/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/epp/regulatory-environment/labor-law/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science12/environmental-tools-techniques/land-measurements-system/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/learning-and-behavior/learning-psychology/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science12/pollution-control-approaches/legal-approaches/</loc>
@@ -320,6 +401,12 @@
     <loc>http://localhost:1313/notes/ioe/epp/history-engineering/man-and-society/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/introduction-psychology/meaning-development/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/cognition-and-behavior/cognitive-processes/memory/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science12/atmospheric-environment/meteorological-parameters/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -332,7 +419,16 @@
     <loc>http://localhost:1313/notes/ioe/epp/profession-ethics/moral-dilemma-ethical-decision-making/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/psychological-basis/motivation/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/epp/regulatory-environment/nepal-engineering-council-act/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/application-psychology/nepalese-context/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/biology-and-behavior/nervous-system-behavior/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/</loc>
@@ -344,7 +440,16 @@
     <loc>http://localhost:1313/notes/neb/environmental-science11/population-dynamics/nutrients-as-limiting-factors/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/learning-and-behavior/sr-learning-theories/operant-conditioning/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/cognition-and-behavior/cognitive-processes/perception/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-resources/perspectives-of-resource-management/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/evolution-psychology/pioneers-modern-psychology/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-pollution/pollution-prevention-measures/</loc>
@@ -410,6 +515,15 @@
     <loc>http://localhost:1313/notes/neb/environmental-science12/lithospheric-environment/properties-of-soil/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/application-psychology/prospects-expansion/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/psychological-basis/psychology-of-individual-differences/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/psychological-basis/psychology-of-individual-differences/introduction-individual-differences/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/epp/contemporary-issues/public-private-partnership/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -443,13 +557,34 @@
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-risk/effective-management-project-risk/risk-response-planning/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/learning-and-behavior/sr-learning-theories/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/epp/contemporary-issues/safety-risk-benefit-analysis/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/basic-research-psychology/sample-sampling/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-science/scope-and-importance/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/introduction-psychology/scope/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science12/biodiversity-assessment/selection-of-sampling-sites/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/cognition-and-behavior/cognitive-processes/sensation/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/biology-and-behavior/sensory-systems/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/learning-and-behavior/constructivist-learning-theories/social-constructivism/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/learning-and-behavior/cognitive-learning-theories/social-learning/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science12/lithospheric-environment/soil-profile-and-pedogenic-processes/</loc>
@@ -488,6 +623,9 @@
     <loc>http://localhost:1313/notes/ioe/epp/contract-management/tendering-procedure/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/cognition-and-behavior/cognitive-processes/thinking/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science11/biodiversity-conservation/threats-to-biodiversity/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
@@ -498,6 +636,9 @@
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/epp/contract-management/types-contracts/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/basic-research-psychology/types-of-data/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science11/ecosystem-dynamics/types-of-ecosystem/</loc>
@@ -528,6 +669,9 @@
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-resources/water-resources/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/introduction-psychology/psychology-as-science/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-planning/work-breakdown-structure/</loc>
@@ -4578,6 +4722,8 @@
     <loc>http://localhost:1313/notes/neb/cs11/number-system/boolean-logic/logic-gates/</loc>
   </url><url>
     <loc>http://localhost:1313/notes/neb/cs11/programming-concepts-logics/programming-concepts/control-structures/</loc>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/psychology11/psychological-basis/psychology-of-individual-differences/motivation/motivation-cycle/</loc>
   </url><url>
     <loc>http://localhost:1313/categories/</loc>
   </url><url>
