@@ -108,7 +108,7 @@ layout: "non_math_mode"
 - [8.2 Source Inventory and Reduction](./pollution-control-approaches/source-inventory-reduction/)
 - [8.3 Technological Approaches (zero emission, waste treatment, energy efficient technologies, renewable energy, sustainable agriculture, 3R Principles, etc.) of pollution control](./pollution-control-approaches/technological-approaches/)
 - [8.4 Waste Water Treatment (primary and secondary)](./pollution-control-approaches/waste-water-treatment/)
-- [8.5 Legal Approaches (policies, laws, rules and regulations), role of local government ](./pollution-control-approaches/legal-approaches/)
+- [8.5 Legal Approaches (policies, laws, rules and regulations), role of local government](./pollution-control-approaches/legal-approaches/)
 
 ---
 
