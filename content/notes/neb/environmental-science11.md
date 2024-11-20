@@ -31,10 +31,10 @@ layout: "non_math_mode"
 ## 1. Fundamentals of Environmental Science
 
 - [1.1 Concept of Environment, Ecology, and Environmental Science](./environmental-science/concept-of-environment-ecology-and-environmental-science/)
-- [1.2 Scope and Importance of Environmental Science](./environmental-science/scope-and-importance-of-environmental-science/)
-- [1.3 Environment as Life-Supporting System (Four Spheres)](./environmental-science/environment-as-life-supporting-system-four-spheres/)
+- [1.2 Scope and Importance of Environmental Science](./environmental-science/scope-and-importance/)
+- [1.3 Environment as Life-Supporting System (Four Spheres)](./environmental-science/environment-as-life-supporting-system/)
 - [1.4 Earth as a Closed System](./environmental-science/earth-as-a-closed-system/)
-- [1.5 Relationship Between Natural Resources, Population, and Environment](./environmental-science/relationship-between-natural-resources-population-and-environment/)
+- [1.5 Relationship Between Natural Resources, Population, and Environment](./environmental-science/relationship/)
 
 ---
 
@@ -123,7 +123,7 @@ layout: "non_math_mode"
 
 - [10.1 Concept of Quantitative Analysis](./quantitative-environmental-analysis/concept-of-quantitative-analysis/)
 - [10.2 Calibration, Accuracy and Precision](./quantitative-environmental-analysis/calibration-accuracy-precision/)
-- [10.3 Chemical Solutions: Molarity, Molality, Normality, Buffer Solution, Standard Solutions](./quantitative-environmental-analysis/chemical-solutions-molarity-molality-normality-buffer-standard/)
+- [10.3 Chemical Solutions: Molarity, Molality, Normality, Buffer Solution, Standard Solutions](./quantitative-environmental-analysis/chemical-solutions/)
 - [10.4 Instruments in Environmental Analysis (pH Meter, EC Meter, TDS, DO, Weighing Machine, Desiccators, Soil Sampling Auger, Spectrophotometer, Colorimeter, AAS, Flame Photometer, Chromatograph)](./quantitative-environmental-analysis/instruments-in-environmental-analysis/)
-- [10.5 Volumetric, Gravimetric, Potentiometric, Conduct Metric, and Electrometric Methods](./quantitative-environmental-analysis/volumetric-gravimetric-potentiometric-conduct-metric-electrometric-methods/)
+- [10.5 Volumetric, Gravimetric, Potentiometric, Conduct Metric, and Electrometric Methods](./quantitative-environmental-analysis/methods/)
 - [10.6 Electrolytic and Colorimetric Analysis](./quantitative-environmental-analysis/electrolytic-colorimetric-analysis/)
