@@ -310,4 +310,10 @@ export const ioeSubjects = [
     url: "/notes/ioe/technology-environment-and-society/",
     keywords: ["technology, environment and society", "CE753", "ioe"],
   },
+  {
+    name: "Engineering Professional Practice",
+    code: "CE752",
+    url: "/notes/ioe/epp/",
+    keywords: ["engineering professional practice", "epp", "CE752", "ioe"],
+  },
 ];

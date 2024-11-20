@@ -39,84 +39,86 @@ layout: "non_math_mode"
 
 ---
 
-## 1. Introduction to Project and Project Management (6 hours)
+## 1. Introduction to Project and Project Management
 
-- [1.1 Definition of Project, Its Characteristics, and Examples of Projects](/path/to/subtopic1/)
-- [1.2 Classification of Projects](/path/to/subtopic2/)
-- [1.3 Project Objectives and Goals](/path/to/subtopic3/)
-- [1.4 Project Life Cycle Phases](/path/to/subtopic4/)
-- [1.5 Project Environment](/path/to/subtopic5/)
-- [1.6 Introduction to Project Management](/path/to/subtopic6/)
-
----
-
-## 2. Project Appraisal and Project Formulation (4 hours)
-
-- [2.1 Concept of Project Appraisal](/path/to/subtopic1/)
-- [2.2 Project Proposal (Technical and Financial)](/path/to/subtopic2/)
-- [2.3 Procedure for Developing Project Proposal](/path/to/subtopic3/)
-- [2.4 Techniques of Project Formulation](/path/to/subtopic4/)
-  - [Feasibility Analysis](/path/to/subtopic5/)
-  - [Cost-Benefit Analysis](/path/to/subtopic6/)
-  - [Input Analysis](/path/to/subtopic7/)
-  - [Environmental Analysis](/path/to/subtopic8/)
+- [1.1 Definition of Project, Its Characteristics, and Examples of Projects](./introduction/definition-project/)
+- [1.2 Classification of Projects](./introduction/classification-projects/)
+- [1.3 Project Objectives and Goals](./introduction/project-objectives-goals/)
+- [1.4 Project Life Cycle Phases](./introduction/project-life-cycle-phases/)
+- [1.5 Project Environment](./introduction/project-environment/)
+- [1.6 Introduction to Project Management](./introduction/introduction-project-management/)
 
 ---
 
-## 3. Project Planning and Scheduling (4 hours)
+## 2. Project Appraisal and Project Formulation
 
-- [3.1 Concept of Project Planning and its Importance](/path/to/subtopic1/)
-- [3.2 Project Planning Process](/path/to/subtopic2/)
-- [3.3 Work Breakdown Structure (WBS)](/path/to/subtopic3/)
-- [3.4 Project Scheduling with Bar Chart, CPM & PERT](/path/to/subtopic4/)
-- [3.5 Project Scheduling with Limited Resources (Resource Leveling and Smoothing)](/path/to/subtopic5/)
-- [3.6 Introduction to Planning Software - MS Project](/path/to/subtopic6/)
+- [2.1 Concept of Project Appraisal](./project-appraisal/concept-project-appraisal/)
+- [2.2 Project Proposal (Technical and Financial)](./project-appraisal/project-proposal/)
+- [2.3 Procedure for Developing Project Proposal](./project-appraisal/procedure-developing-proposal/)
+- [2.4 Techniques of Project Formulation](./project-appraisal/techniques-project-formulation/)
 
----
-
-## 4. Project Implementation and Controlling (7 hours)
-
-- [4.1 Introduction to Monitoring, Evaluation and Controlling](/path/to/subtopic1/)
-- [4.2 Project Control](/path/to/subtopic2/)
-- [4.3 Project Control Cycle](/path/to/subtopic3/)
-- [4.4 Elements of Project Control (Time, Cost and Quality)](/path/to/subtopic4/)
-- [4.5 Project Schedule Control](/path/to/subtopic5/)
-- [4.6 Project Cost Control: Methods and Procedure (Earned Value Analysis)](/path/to/subtopic6/)
-- [4.7 Project Quality Control](/path/to/subtopic7/)
-- [4.8 Introduction to Project Management Information System (PMIS)](/path/to/subtopic8/)
+  - [Feasibility Analysis](./project-appraisal/techniques-project-formulation/feasibility-analysis/)
+  - [Cost-Benefit Analysis](./project-appraisal/techniques-project-formulation/cost-benefit-analysis/)
+  - [Input Analysis](./project-appraisal/techniques-project-formulation/input-analysis/)
+  - [Environmental Analysis](./project-appraisal/techniques-project-formulation/environmental-analysis/)
 
 ---
 
-## 5. Project Risk Analysis and Management (4 hours)
+## 3. Project Planning and Scheduling
 
-- [5.1 Introduction to Project Risk](/path/to/subtopic1/)
-- [5.2 Types of Project Risk](/path/to/subtopic2/)
-- [5.3 Analysis of Major Sources of Risk](/path/to/subtopic3/)
-- [5.4 Effective Management of Project Risk](/path/to/subtopic4/)
-  - Risk Management Planning
-  - Risk Identification
-  - Qualitative and Quantitative Risk Analysis
-  - Risk Response Planning
-  - Risk Monitoring and Controlling
+- [3.1 Concept of Project Planning and its Importance](./project-planning/concept-project-planning/)
+- [3.2 Project Planning Process](./project-planning/project-planning-process/)
+- [3.3 Work Breakdown Structure (WBS)](./project-planning/work-breakdown-structure/)
+- [3.4 Project Scheduling with Bar Chart, CPM & PERT](./project-planning/project-scheduling-bar-chart-cpm-pert/)
+- [3.5 Project Scheduling with Limited Resources (Resource Leveling and Smoothing)](./project-planning/project-scheduling-limited-resources/)
+- [3.6 Introduction to Planning Software - MS Project](./project-planning/introduction-ms-project/)
 
 ---
 
-## 6. Introduction to Project Financing (4 hours)
+## 4. Project Implementation and Controlling
 
-- [6.1 Project Finance](/path/to/subtopic1/)
-- [6.2 Capital Structure Planning](/path/to/subtopic2/)
-- [6.3 Capital Budgeting Decision](/path/to/subtopic3/)
+- [4.1 Introduction to Monitoring, Evaluation and Controlling](./project-implementation/introduction-monitoring-evaluation-controlling/)
+- [4.2 Project Control](./project-implementation/project-control/)
+- [4.3 Project Control Cycle](./project-implementation/project-control-cycle/)
+- [4.4 Elements of Project Control (Time, Cost and Quality)](./project-implementation/elements-project-control/)
+- [4.5 Project Schedule Control](./project-implementation/project-schedule-control/)
+- [4.6 Project Cost Control: Methods and Procedure (Earned Value Analysis)](./project-implementation/project-cost-control/)
+- [4.7 Project Quality Control](./project-implementation/project-quality-control/)
+- [4.8 Introduction to Project Management Information System (PMIS)](./project-implementation/introduction-pmis/)
 
 ---
 
-## Tutorial (15 hours)
+## 5. Project Risk Analysis and Management
 
-1. Writing Project Proposal (2 hours)
-2. Scheduling Using Bar Chart & CPM (4 hours)
-3. Scheduling Using Planning Software (4 hours)
-4. Project Control Method (EVA) (1 hour)
-5. Capital Structure Planning Exercise (2 hours)
-6. Capital Budgeting Exercise (2 hours)
+- [5.1 Introduction to Project Risk](./project-risk/introduction-project-risk/)
+- [5.2 Types of Project Risk](./project-risk/types-project-risk/)
+- [5.3 Analysis of Major Sources of Risk](./project-risk/analysis-major-sources-risk/)
+- [5.4 Effective Management of Project Risk](./project-risk/effective-management-project-risk/)
+
+  - [Risk Management Planning](./project-risk/effective-management-project-risk/risk-management-planning/)
+  - [Risk Identification](./project-risk/effective-management-project-risk/risk-identification/)
+  - [Qualitative and Quantitative Risk Analysis](./project-risk/effective-management-project-risk/qualitative-quantitative-risk-analysis/)
+  - [Risk Response Planning](./project-risk/effective-management-project-risk/risk-response-planning/)
+  - [Risk Monitoring and Controlling](./project-risk/effective-management-project-risk/risk-monitoring-controlling/)
+
+---
+
+## 6. Introduction to Project Financing
+
+- [6.1 Project Finance](./project-financing/project-finance/)
+- [6.2 Capital Structure Planning](./project-financing/capital-structure-planning/)
+- [6.3 Capital Budgeting Decision](./project-financing/capital-budgeting-decision/)
+
+---
+
+## Tutorial
+
+1. [Writing Project Proposal](./tutorial/writing-project-proposal/)
+2. [Scheduling Using Bar Chart & CPM](./tutorial/scheduling-bar-chart-cpm/)
+3. [Scheduling Using Planning Software](./tutorial/scheduling-planning-software/)
+4. [Project Control Method (EVA)](./tutorial/project-control-method-eva/)
+5. [Capital Structure Planning Exercise](./tutorial/capital-structure-planning-exercise/)
+6. [Capital Budgeting Exercise](./tutorial/capital-budgeting-exercise/)
 
 ---
 
