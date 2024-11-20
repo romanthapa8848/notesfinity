@@ -2,7 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/chemical-environment/acid-base-ion-exchange-reactions-soil/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-risk/analysis-major-sources-risk/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/biodiversity-conservation/biodiversity-conservation-in-nepal/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/biodiversity-conservation/conservation-approaches/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/biodiversity-conservation/biodiversity-hotspots/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/regulatory-environment/building-codes-bylaws/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/quantitative-environmental-analysis/calibration-accuracy-precision/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-financing/capital-budgeting-decision/</loc>
@@ -11,7 +29,55 @@
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-financing/capital-structure-planning/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/case-studies-on-engineering-practices/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-pollution/causes-and-sources-of-pollution/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-degradation/causes-of-environmental-degradation/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/chemical-environment/chemical-photochemical-reactions-atmosphere/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/chemical-environment/chemical-reactions-natural-waste-water/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/quantitative-environmental-analysis/chemical-solutions/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/introduction/classification-projects/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/regulatory-environment/company-registration/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/ecosystem-dynamics/concept-and-components-of-ecosystem/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/biodiversity-conservation/concept-of-biodiversity/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/chemical-environment/concept-of-chemical-environment/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-science/concept-of-environment-ecology-and-environmental-science/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-degradation/concept-of-environmental-degradation/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/population-dynamics/concept-of-environmental-factors-and-population/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-resources/concept-of-environmental-resources/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-hazards/concept-of-hazard-vulnerability-risk-disaster/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-pollution/concept-of-pollution/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-appraisal/concept-project-appraisal/</loc>
@@ -20,28 +86,112 @@
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-planning/concept-project-planning/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/quantitative-environmental-analysis/concept-of-quantitative-analysis/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/contemporary-issues/conflict-dispute-management/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-degradation/consequences-of-environmental-degradation/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/contract-management/contract-agreement/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-degradation/control-measures-of-environmental-degradation/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-appraisal/techniques-project-formulation/cost-benefit-analysis/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/introduction/definition-project/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/profession-ethics/duties-engineer-architect/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/contemporary-issues/development-environment/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-hazards/disaster-risk-management-cycle/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-hazards/disaster-risk-reduction-approaches/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-hazards/disaster-risk-reduction-management-nepal/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-science/earth-as-a-closed-system/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-resources/ecosystem-services/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-risk/effective-management-project-risk/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-pollution/effects-of-pollution/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/quantitative-environmental-analysis/electrolytic-colorimetric-analysis/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-implementation/elements-project-control/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-resources/energy-resources/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/history-engineering/engineering-practices-nepal/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-science/environment-as-life-supporting-system/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-appraisal/techniques-project-formulation/environmental-analysis/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/profession-ethics/ethics-code-ethics-engineering-ethics/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/ecosystem-dynamics/evolution-of-ecosystem/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-appraisal/techniques-project-formulation/feasibility-analysis/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/ecosystem-dynamics/food-chain-food-web-and-trophic-level/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-resources/forest-resources/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/professional-practices-nepal/job-descriptions-fresh-graduates/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/contemporary-issues/globalization-cross-cultural-issues/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/history-engineering/eastern-society-engineering/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/history-engineering/western-society-engineering/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/chemical-environment/industrial-chemicals-environment/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-appraisal/techniques-project-formulation/input-analysis/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/quantitative-environmental-analysis/instruments-in-environmental-analysis/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/regulatory-environment/intellectual-property-right/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-implementation/introduction-monitoring-evaluation-controlling/</loc>
@@ -56,10 +206,58 @@
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-risk/introduction-project-risk/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/regulatory-environment/labor-law/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/profession-ethics/liability-negligence/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/history-engineering/man-and-society/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/contract-management/methods-work-execution-contracting/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-resources/mineral-resources/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/profession-ethics/moral-dilemma-ethical-decision-making/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/regulatory-environment/nepal-engineering-council-act/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/ecosystem-dynamics/nutrients-cycle-and-role-of-microorganism-and-energy-flow/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/population-dynamics/nutrients-as-limiting-factors/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-resources/perspectives-of-resource-management/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-pollution/pollution-prevention-measures/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-pollution/pollution-types/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/population-dynamics/population-and-community-characteristics/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/professional-practices-nepal/private-sector-practices/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-appraisal/procedure-developing-proposal/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/profession-ethics/profession-definition-characteristics/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/profession-ethics/professional-institutions/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-implementation/project-control/</loc>
@@ -101,7 +299,22 @@
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-planning/project-scheduling-limited-resources/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/contemporary-issues/public-private-partnership/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/professional-practices-nepal/public-sector-practices/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-risk/effective-management-project-risk/qualitative-quantitative-risk-analysis/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/population-dynamics/r-and-k-selected-growth/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/profession-ethics/engineer-client-contractor-relations/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-science/relationship/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-risk/effective-management-project-risk/risk-identification/</loc>
@@ -116,10 +329,43 @@
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-risk/effective-management-project-risk/risk-response-planning/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/contemporary-issues/safety-risk-benefit-analysis/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-science/scope-and-importance/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/population-dynamics/species-interactions-positive-negative-and-neutral/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-appraisal/techniques-project-formulation/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/history-engineering/technology-and-society/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/contract-management/tendering-procedure/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/biodiversity-conservation/threats-to-biodiversity/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/epp/contract-management/types-contracts/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/ecosystem-dynamics/types-of-ecosystem/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-hazards/types-of-hazard/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-risk/types-project-risk/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/quantitative-environmental-analysis/methods/</loc>
+    <lastmod>2024-11-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/neb/environmental-science11/environmental-resources/water-resources/</loc>
     <lastmod>2024-11-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/project-engineering/project-planning/work-breakdown-structure/</loc>
