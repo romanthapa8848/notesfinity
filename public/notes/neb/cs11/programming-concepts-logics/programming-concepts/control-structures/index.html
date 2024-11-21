@@ -1,14 +1,14 @@
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
-  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+  <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>
-       Control Structures: Sequence, Selection, and Iteration | OpenKitab 
+       Compiler, Interpreter, and Assembler | Gyanpedia 
     </title>
 
     
-     <meta name="keywords" content="Control Structures , Sequence , Selection , Iteration , Flow Control" /> 
+     <meta name="keywords" content="Compiler , Interpreter , Assembler , Programming Languages , Software Development" /> 
 
     
     <link rel="stylesheet" href="/css/header.css" />
@@ -51,144 +51,202 @@
 
       
       <main>
-         <h1 id="control-structures-sequence-selection-and-iteration">Control Structures: Sequence, Selection, and Iteration</h1>
-<p>Control structures are essential elements of programming, allowing developers to control the flow of program execution. These structures can be categorized into <strong>Sequence</strong>, <strong>Selection</strong>, and <strong>Iteration</strong>.</p>
-<h2 id="sequence">Sequence</h2>
-<p>The sequence control structure is the simplest form of flow control. It ensures that instructions are executed one after another in the order they appear. There are no decisions or loops in this structure; the program simply follows a linear path.</p>
-<h3 id="example">Example:</h3>
+         <h1 id="compiler-interpreter-and-assembler">Compiler, Interpreter, and Assembler</h1>
+<p>In programming, the processes of translating high-level programming code into machine code are fundamental. These processes are carried out by different tools, most commonly <strong>compilers</strong>, <strong>interpreters</strong>, and <strong>assemblers</strong>. These tools serve different purposes and operate in different ways to convert the human-readable code into executable machine instructions.</p>
+<h2 id="compiler">Compiler</h2>
+<p>A <strong>compiler</strong> is a special program that translates an entire high-level programming language source code into machine code (binary code or object code) all at once. It reads the entire program and then converts it into an executable file, which can then be run independently.</p>
+<h3 id="characteristics-of-a-compiler">Characteristics of a Compiler:</h3>
+<ul>
+<li><strong>Batch Process</strong>: The compiler translates the entire program into machine code at once before execution.</li>
+<li><strong>Error Detection</strong>: It performs a thorough analysis of the entire program to detect syntax errors, which must be corrected before the program is compiled.</li>
+<li><strong>Speed</strong>: Compiling takes longer because the entire program is analyzed before execution.</li>
+<li><strong>Output</strong>: The output is an independent executable file (e.g., <code>.exe</code> in Windows).</li>
+<li><strong>Examples</strong>: GCC (GNU Compiler Collection), Turbo C, Java Compiler (javac).</li>
+</ul>
+<h3 id="example-of-compilation-process">Example of Compilation Process:</h3>
 <ol>
-<li>Initialize program</li>
-<li>Perform calculations</li>
-<li>Display the result</li>
+<li>Source Code (high-level language) is input to the compiler.</li>
+<li>The compiler translates it into object code (machine code).</li>
+<li>The object code is then executed by the computer.</li>
 </ol>
-<h2 id="selection">Selection</h2>
-<p>The selection control structure is used to make decisions in a program. Based on certain conditions, different paths are chosen, allowing the program to respond to different situations.</p>
-<h3 id="example-1">Example:</h3>
-<p>If the condition is true:</p>
+<h2 id="interpreter">Interpreter</h2>
+<p>An <strong>interpreter</strong> translates high-level programming code into machine code line-by-line, executing each instruction immediately. Unlike a compiler, it does not produce an independent executable file.</p>
+<h3 id="characteristics-of-an-interpreter">Characteristics of an Interpreter:</h3>
 <ul>
-<li>Execute one block of code
-Else:</li>
-<li>Execute another block of code</li>
+<li><strong>Line-by-Line Translation</strong>: The interpreter reads and executes the program one line at a time.</li>
+<li><strong>No Separate Output</strong>: It does not generate an intermediate executable file; it directly executes the source code.</li>
+<li><strong>Error Detection</strong>: It stops as soon as it encounters an error in the program and displays the error message, requiring the programmer to fix it before continuing.</li>
+<li><strong>Execution Speed</strong>: Since it translates and executes code simultaneously, interpreters tend to be slower than compiled languages.</li>
+<li><strong>Examples</strong>: Python, Ruby, JavaScript.</li>
 </ul>
-<h3 id="common-forms">Common Forms:</h3>
+<h3 id="example-of-interpretation-process">Example of Interpretation Process:</h3>
+<ol>
+<li>Source Code (high-level language) is input to the interpreter.</li>
+<li>The interpreter translates each line and immediately executes it.</li>
+</ol>
+<h2 id="assembler">Assembler</h2>
+<p>An <strong>assembler</strong> is a tool that translates <strong>assembly language</strong> (a low-level programming language) into machine code. Assembly language is a human-readable representation of machine language, using mnemonics and symbolic codes.</p>
+<h3 id="characteristics-of-an-assembler">Characteristics of an Assembler:</h3>
 <ul>
-<li><code>if</code> statements</li>
-<li><code>else if</code> statements</li>
-<li><code>else</code> statements</li>
+<li><strong>Machine Code Translation</strong>: It translates assembly language instructions into machine code that the CPU can directly execute.</li>
+<li><strong>One-to-One Translation</strong>: Each line of assembly code typically corresponds to one machine code instruction.</li>
+<li><strong>Output</strong>: The output is usually an object file or executable file, similar to a compiled program.</li>
+<li><strong>Examples</strong>: MASM (Microsoft Macro Assembler), NASM (Netwide Assembler).</li>
 </ul>
-<h2 id="iteration">Iteration</h2>
-<p>The iteration control structure allows the program to repeat a set of instructions multiple times. This is essential for repetitive tasks, such as counting or looping through a list of items.</p>
-<h3 id="example-2">Example:</h3>
-<p>Repeat a set of instructions until a condition is met, or iterate a specific number of times.</p>
-<h3 id="common-forms-1">Common Forms:</h3>
-<ul>
-<li><code>for</code> loop</li>
-<li><code>while</code> loop</li>
-</ul>
+<h3 id="example-of-assembler-process">Example of Assembler Process:</h3>
+<ol>
+<li>Assembly language code is input to the assembler.</li>
+<li>The assembler translates the code into machine code.</li>
+</ol>
+<h2 id="comparison-of-compiler-interpreter-and-assembler">Comparison of Compiler, Interpreter, and Assembler</h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Feature</th>
+          <th style="text-align: left">Compiler</th>
+          <th style="text-align: left">Interpreter</th>
+          <th style="text-align: left">Assembler</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Translation Method</strong></td>
+          <td style="text-align: left">Translates the whole program at once</td>
+          <td style="text-align: left">Translates and executes line by line</td>
+          <td style="text-align: left">Translates assembly code to machine code</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Execution</strong></td>
+          <td style="text-align: left">Generates a separate executable file</td>
+          <td style="text-align: left">Executes the code directly</td>
+          <td style="text-align: left">Generates machine code from assembly code</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Error Detection</strong></td>
+          <td style="text-align: left">Detects all errors before execution</td>
+          <td style="text-align: left">Stops at the first error and reports it</td>
+          <td style="text-align: left">Detects errors during the translation process</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Speed</strong></td>
+          <td style="text-align: left">Faster execution (after compilation)</td>
+          <td style="text-align: left">Slower execution (since it works line by line)</td>
+          <td style="text-align: left">Fast execution, but dependent on assembly</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Output</strong></td>
+          <td style="text-align: left">Executable file</td>
+          <td style="text-align: left">None (executes directly)</td>
+          <td style="text-align: left">Object file or executable</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Examples</strong></td>
+          <td style="text-align: left">GCC, Turbo C, javac</td>
+          <td style="text-align: left">Python, Ruby, JavaScript</td>
+          <td style="text-align: left">MASM, NASM</td>
+      </tr>
+  </tbody>
+</table>
 <hr>
 <h2 id="summary">Summary</h2>
-<p>Control structures enable developers to manage the flow of execution within their programs.</p>
 <ul>
-<li><strong>Sequence</strong> ensures the code is executed line-by-line in order.</li>
-<li><strong>Selection</strong> allows decisions based on conditions.</li>
-<li><strong>Iteration</strong> helps automate repetitive tasks through loops.</li>
+<li><strong>Compilers</strong> convert high-level programming code into machine code before execution, creating an independent executable file.</li>
+<li><strong>Interpreters</strong> translate and execute the program line-by-line without producing an executable file.</li>
+<li><strong>Assemblers</strong> convert low-level assembly language code into machine code for the processor to execute.</li>
 </ul>
-<p>Each structure plays a vital role in building efficient, logical, and well-structured programs.</p>
 <hr>
 <h2 id="faqs">FAQs</h2>
-<h3 id="1-what-is-the-purpose-of-control-structures-in-programming">1. What is the purpose of control structures in programming?</h3>
-<p>Control structures manage the flow of execution, making programs flexible and responsive to different situations.</p>
-<h3 id="2-what-is-the-difference-between-sequence-and-selection-control-structures">2. What is the difference between Sequence and Selection control structures?</h3>
-<ul>
-<li><strong>Sequence</strong> executes statements in a straight line, whereas <strong>Selection</strong> decides which set of instructions to execute based on a condition.</li>
-</ul>
-<h3 id="3-how-does-an-iteration-control-structure-work">3. How does an Iteration control structure work?</h3>
-<p>Iteration repeats a set of instructions multiple times based on a condition or a counter, reducing repetitive code.</p>
-<h3 id="4-can-sequence-be-combined-with-other-control-structures">4. Can Sequence be combined with other control structures?</h3>
-<p>Yes, Sequence often works alongside Selection and Iteration to define more complex logic.</p>
-<h3 id="5-what-is-an-example-of-a-selection-structure">5. What is an example of a Selection structure?</h3>
-<p>An example would be using an <code>if-else</code> statement to check if a number is positive or negative.</p>
-<h3 id="6-when-would-you-use-iteration-in-a-program">6. When would you use Iteration in a program?</h3>
-<p>Iteration is useful when you need to perform a task multiple times, such as looping through an array or counting down from a number.</p>
-<h3 id="7-how-does-an-if-else-statement-work">7. How does an <code>if-else</code> statement work?</h3>
-<p>The <code>if-else</code> statement checks a condition, and if it&rsquo;s true, the first block of code is executed; otherwise, the <code>else</code> block is executed.</p>
-<h3 id="8-what-are-the-benefits-of-using-iteration-over-repeated-code">8. What are the benefits of using Iteration over repeated code?</h3>
-<p>Using Iteration makes the code more concise and easier to maintain, as you don&rsquo;t have to manually write the same code multiple times.</p>
-<h3 id="9-can-an-if-statement-contain-multiple-conditions">9. Can an <code>if</code> statement contain multiple conditions?</h3>
-<p>Yes, using <code>else if</code> or <code>elif</code>, you can check multiple conditions in a single <code>if</code> block.</p>
-<h3 id="10-how-do-you-stop-an-iteration-prematurely">10. How do you stop an iteration prematurely?</h3>
-<p>You can use the <code>break</code> statement to stop a loop immediately, regardless of the loop&rsquo;s condition.</p>
+<h3 id="1-what-is-the-difference-between-a-compiler-and-an-interpreter">1. What is the difference between a compiler and an interpreter?</h3>
+<p>A compiler translates the entire program at once into machine code, while an interpreter translates and executes the program line-by-line.</p>
+<h3 id="2-what-is-an-example-of-a-language-that-uses-a-compiler">2. What is an example of a language that uses a compiler?</h3>
+<p>Languages like <strong>C</strong>, <strong>C++</strong>, and <strong>Java</strong> use compilers to generate executable files.</p>
+<h3 id="3-can-a-program-written-in-an-interpreted-language-run-without-an-interpreter">3. Can a program written in an interpreted language run without an interpreter?</h3>
+<p>No, a program written in an interpreted language requires an interpreter to execute it.</p>
+<h3 id="4-what-is-assembly-language">4. What is assembly language?</h3>
+<p>Assembly language is a low-level programming language that uses mnemonics to represent machine code instructions, making it more readable to humans.</p>
+<h3 id="5-why-are-interpreters-slower-than-compilers">5. Why are interpreters slower than compilers?</h3>
+<p>Interpreters translate the program line-by-line, which causes them to be slower because they must continuously interpret the code during execution.</p>
+<h3 id="6-what-is-the-output-of-a-compiler">6. What is the output of a compiler?</h3>
+<p>The output of a compiler is an executable file that can be run independently of the source code.</p>
+<h3 id="7-which-tool-is-used-to-convert-assembly-code-into-machine-code">7. Which tool is used to convert assembly code into machine code?</h3>
+<p>An <strong>assembler</strong> is used to convert assembly code into machine code.</p>
+<h3 id="8-what-happens-if-there-is-an-error-in-the-source-code-while-using-an-interpreter">8. What happens if there is an error in the source code while using an interpreter?</h3>
+<p>The interpreter stops execution at the point of the error and reports it, requiring the programmer to fix the issue before continuing.</p>
+<h3 id="9-what-is-the-main-benefit-of-using-a-compiler-over-an-interpreter">9. What is the main benefit of using a compiler over an interpreter?</h3>
+<p>The main benefit of using a compiler is faster execution, as the entire program is translated into machine code beforehand.</p>
+<h3 id="10-can-a-program-compiled-with-a-compiler-run-on-different-computers">10. Can a program compiled with a compiler run on different computers?</h3>
+<p>Yes, compiled programs can run on different computers, but they must be compiled for the specific platform or architecture.</p>
 <hr>
 <h2 id="mcqs">MCQs</h2>
-<h3 id="1-what-does-the-sequence-control-structure-do">1. What does the Sequence control structure do?</h3>
+<h3 id="1-what-does-a-compiler-do">1. What does a compiler do?</h3>
 <ul>
-<li>A) <strong>Executes code one line after another (✓)</strong></li>
-<li>B) Executes code based on a condition</li>
-<li>C) Repeats code multiple times</li>
-<li>D) None of the above</li>
+<li>A) <strong>Translates the entire program into machine code at once (✓)</strong></li>
+<li>B) Translates and executes the program line by line</li>
+<li>C) Converts assembly language into machine code</li>
+<li>D) Executes the program directly without converting it</li>
 </ul>
-<h3 id="2-which-control-structure-is-used-for-decision-making">2. Which control structure is used for decision-making?</h3>
+<h3 id="2-which-of-the-following-languages-uses-an-interpreter">2. Which of the following languages uses an interpreter?</h3>
 <ul>
-<li>A) Sequence</li>
-<li>B) <strong>Selection (✓)</strong></li>
-<li>C) Iteration</li>
-<li>D) None of the above</li>
+<li>A) <strong>Python (✓)</strong></li>
+<li>B) C++</li>
+<li>C) Java</li>
+<li>D) C#</li>
 </ul>
-<h3 id="3-what-is-an-example-of-an-iteration-control-structure">3. What is an example of an Iteration control structure?</h3>
+<h3 id="3-what-is-the-main-advantage-of-using-an-interpreter-over-a-compiler">3. What is the main advantage of using an interpreter over a compiler?</h3>
 <ul>
-<li>A) <strong>for loop (✓)</strong></li>
-<li>B) if-else statement</li>
-<li>C) None of the above</li>
-<li>D) switch statement</li>
+<li>A) <strong>Error detection is immediate (✓)</strong></li>
+<li>B) Faster execution</li>
+<li>C) Generates an executable file</li>
+<li>D) Translates the entire program at once</li>
 </ul>
-<h3 id="4-how-does-an-if-else-statement-work">4. How does an <code>if-else</code> statement work?</h3>
+<h3 id="4-what-is-the-output-of-an-assembler">4. What is the output of an assembler?</h3>
 <ul>
-<li>A) Executes only one block of code</li>
-<li>B) <strong>Executes a block of code based on a condition (✓)</strong></li>
-<li>C) Repeats code</li>
-<li>D) None of the above</li>
+<li>A) <strong>Machine code (✓)</strong></li>
+<li>B) Source code</li>
+<li>C) Executable file</li>
+<li>D) Object file</li>
 </ul>
-<h3 id="5-what-does-a-for-loop-do">5. What does a <code>for</code> loop do?</h3>
+<h3 id="5-which-tool-is-used-to-convert-assembly-code-into-machine-code">5. Which tool is used to convert assembly code into machine code?</h3>
 <ul>
-<li>A) <strong>Repeats code for a specified number of times (✓)</strong></li>
-<li>B) Executes code based on a condition</li>
-<li>C) Stops execution of the program</li>
-<li>D) None of the above</li>
+<li>A) <strong>Assembler (✓)</strong></li>
+<li>B) Interpreter</li>
+<li>C) Compiler</li>
+<li>D) Preprocessor</li>
 </ul>
-<h3 id="6-what-happens-when-a-loop-encounters-a-break-statement">6. What happens when a loop encounters a <code>break</code> statement?</h3>
+<h3 id="6-what-is-a-key-feature-of-a-compiler">6. What is a key feature of a compiler?</h3>
 <ul>
-<li>A) The loop continues as normal</li>
-<li>B) <strong>The loop terminates immediately (✓)</strong></li>
-<li>C) The program ends</li>
-<li>D) None of the above</li>
+<li>A) <strong>Translates the entire program before execution (✓)</strong></li>
+<li>B) Executes code line by line</li>
+<li>C) Cannot detect errors</li>
+<li>D) Requires continuous user input</li>
 </ul>
-<h3 id="7-which-of-the-following-is-not-a-control-structure">7. Which of the following is NOT a control structure?</h3>
+<h3 id="7-which-of-the-following-is-true-about-an-interpreter">7. Which of the following is true about an interpreter?</h3>
 <ul>
-<li>A) Sequence</li>
-<li>B) <strong>Function (✓)</strong></li>
-<li>C) Selection</li>
-<li>D) Iteration</li>
+<li>A) It generates an independent executable file</li>
+<li>B) <strong>It executes code line by line (✓)</strong></li>
+<li>C) It translates the whole program before execution</li>
+<li>D) It translates assembly code</li>
 </ul>
-<h3 id="8-when-should-an-iteration-control-structure-be-used">8. When should an Iteration control structure be used?</h3>
+<h3 id="8-which-of-the-following-is-an-example-of-a-compiled-language">8. Which of the following is an example of a compiled language?</h3>
 <ul>
-<li>A) To make decisions based on conditions</li>
-<li>B) <strong>To repeat a block of code multiple times (✓)</strong></li>
-<li>C) To execute code line-by-line</li>
-<li>D) None of the above</li>
+<li>A) JavaScript</li>
+<li>B) Ruby</li>
+<li>C) <strong>C (✓)</strong></li>
+<li>D) Python</li>
 </ul>
-<h3 id="9-what-is-the-role-of-the-else-block-in-a-selection-structure">9. What is the role of the <code>else</code> block in a selection structure?</h3>
+<h3 id="9-what-happens-when-a-compiler-detects-an-error">9. What happens when a compiler detects an error?</h3>
 <ul>
-<li>A) Executes code based on a condition</li>
-<li>B) <strong>Executes code when the condition is false (✓)</strong></li>
-<li>C) Stops the program</li>
-<li>D) None of the above</li>
+<li>A) It stops execution at the point of error</li>
+<li>B) It continues execution with warnings</li>
+<li>C) <strong>It prevents the program from being executed (✓)</strong></li>
+<li>D) It automatically corrects the error</li>
 </ul>
-<h3 id="10-what-is-the-default-flow-of-control-in-a-program">10. What is the default flow of control in a program?</h3>
+<h3 id="10-which-programming-language-requires-an-interpreter-to-execute">10. Which programming language requires an interpreter to execute?</h3>
 <ul>
-<li>A) Selection</li>
-<li>B) Iteration</li>
-<li>C) <strong>Sequence (✓)</strong></li>
-<li>D) None of the above</li>
+<li>A) <strong>JavaScript (✓)</strong></li>
+<li>B) C++</li>
+<li>C) Assembly</li>
+<li>D) Java</li>
 </ul>
  
         
@@ -196,7 +254,7 @@ Else:</li>
   <p>Share this page:</p>
   <a
     class="whatsapp"
-    href="https://wa.me/?text=Control%20Structures%3a%20Sequence%2c%20Selection%2c%20and%20Iteration%20http%3a%2f%2flocalhost%3a1313%2fnotes%2fneb%2fcs11%2fprogramming-concepts-logics%2fprogramming-concepts%2fcontrol-structures%2f"
+    href="https://wa.me/?text=Compiler%2c%20Interpreter%2c%20and%20Assembler%20https%3a%2f%2fgyanpedia.com%2fnotes%2fneb%2fcs11%2fprogramming-concepts-logics%2fprogramming-concepts%2fcontrol-structures%2f"
     target="_blank"
     aria-label="Share on WhatsApp"
   >
@@ -204,7 +262,7 @@ Else:</li>
   </a>
   <a
     class="messenger"
-    href="fb-messenger://share?link=http%3a%2f%2flocalhost%3a1313%2fnotes%2fneb%2fcs11%2fprogramming-concepts-logics%2fprogramming-concepts%2fcontrol-structures%2f"
+    href="fb-messenger://share?link=https%3a%2f%2fgyanpedia.com%2fnotes%2fneb%2fcs11%2fprogramming-concepts-logics%2fprogramming-concepts%2fcontrol-structures%2f"
     target="_blank"
     aria-label="Share on Messenger"
   >
@@ -212,7 +270,7 @@ Else:</li>
   </a>
   <a
     class="viber"
-    href="viber://forward?text=Control%20Structures%3a%20Sequence%2c%20Selection%2c%20and%20Iteration%20http%3a%2f%2flocalhost%3a1313%2fnotes%2fneb%2fcs11%2fprogramming-concepts-logics%2fprogramming-concepts%2fcontrol-structures%2f"
+    href="viber://forward?text=Compiler%2c%20Interpreter%2c%20and%20Assembler%20https%3a%2f%2fgyanpedia.com%2fnotes%2fneb%2fcs11%2fprogramming-concepts-logics%2fprogramming-concepts%2fcontrol-structures%2f"
     target="_blank"
     aria-label="Share on Viber"
   >
@@ -220,7 +278,7 @@ Else:</li>
   </a>
   <a
     class="snapchat"
-    href="https://snapchat.com/share?text=Control%20Structures%3a%20Sequence%2c%20Selection%2c%20and%20Iteration%20http%3a%2f%2flocalhost%3a1313%2fnotes%2fneb%2fcs11%2fprogramming-concepts-logics%2fprogramming-concepts%2fcontrol-structures%2f"
+    href="https://snapchat.com/share?text=Compiler%2c%20Interpreter%2c%20and%20Assembler%20https%3a%2f%2fgyanpedia.com%2fnotes%2fneb%2fcs11%2fprogramming-concepts-logics%2fprogramming-concepts%2fcontrol-structures%2f"
     target="_blank"
     aria-label="Share on Snapchat"
   >
@@ -229,20 +287,20 @@ Else:</li>
 </div>
 
         
-        <div class="report-mistake">
-  <button id="reportMistakeButton" class="btn" onclick="openReportForm()">
-    Report mistake(s)
+        <div class="donate-website">
+  <button id="donateWebsiteButton" class="btn" onclick="openDonateForm()">
+    Donate
   </button>
 </div>
 
 <style>
-  .report-mistake {
+  .donate-website {
     display: flex;
     justify-content: center;  
     margin: 20px 0;  
   }
   .btn {
-    background-color: #ff4d4d;  
+    background-color: #4CAF50;  
     color: white;
     padding: 12px 20px;  
     border: none;
@@ -252,14 +310,14 @@ Else:</li>
     transition: background-color 0.3s;  
   }
   .btn:hover {
-    background-color: #cc0000;  
+    background-color: #45a049;  
   }
 </style>
 
 <script>
-  function openReportForm() {
+  function openDonateForm() {
     
-    window.location.href = "/report.html";
+    window.location.href = "/donate.html";
   }
 </script>
 
@@ -277,7 +335,7 @@ Else:</li>
     </ul>
   </div>
   <div class="footer-row copyright">
-    <p>&copy; OpenKitab</p>
+    <p>&copy; Gyanpedia</p>
   </div>
 </footer>
 
