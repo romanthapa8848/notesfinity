@@ -43,9 +43,8 @@ To provide concept, knowledge and practical information on concrete technology a
   - [1.2.1 Aggregates - Properties of aggregates and their gradation](./introduction-to-concrete-and-materials/concrete-materials/aggregates-properties-and-gradation/)
   - [1.2.2 Cement - Manufacturing of cement, Compound composition of Portland Cement, Structure and reactivity of compounds](./introduction-to-concrete-and-materials/concrete-materials/cement/)
   - [1.2.3 Introduction to special types of cement](./introduction-to-concrete-and-materials/concrete-materials/special-types-of-cement/)
-  - [1.2.4 Use of water in concrete](./introduction-to-concrete-and-materials/concrete-materials-role/use-of-water/)
-  - [1.2.5 Admixtures - Classification of admixtures, Introduction to commonly used admixtures (Super-plasticizer, Water proofing agent and Retarders), Use of Mineral admixtures in concrete](./introduction-to-concrete-and-materials/concrete-materials/admixtures-classification-usage/)
-
+  - [1.2.4 Use of water in concrete](./introduction-to-concrete-and-materials/concrete-materials/use-of-water/)
+  - [1.2.5 Admixtures - Classification of admixtures, Introduction to commonly used admixtures (Super-plasticizer, Water proofing agent and Retarders), Use of Mineral admixtures in concrete](./introduction-to-concrete-and-materials/concrete-materials/admixtures/)
 
 ---
 
