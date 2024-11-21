@@ -35,41 +35,45 @@ To provide concept, knowledge and practical information on concrete technology a
 
 ## Part I: Concrete Technology
 
-### 1. Introduction to Concrete and Concrete Materials (4 hours)
+### 1. Introduction to Concrete and Concrete Materials
 
-- [1.1 Use of concrete in structures and types of concrete](/path/to/subtopic1/)
-- [1.2 Concrete materials - Role of different materials (Aggregates, Cement, Water and Admixtures)](/path/to/subtopic2/)
-  - [1.2.1 Aggregates - Properties of aggregates and their gradation](/path/to/subtopic3/)
-  - [1.2.2 Cement - Manufacturing of cement, Compound composition of Portland Cement, Structure and reactivity of compounds](/path/to/subtopic4/)
-  - [1.2.3 Introduction to special types of cement](/path/to/subtopic5/)
-  - [1.2.4 Use of water in concrete](/path/to/subtopic6/)
-  - [1.2.5 Admixtures - Classification of admixtures, Introduction to commonly used admixtures (Super-plasticizer, Water proofing agent and Retarders), Use of Mineral admixtures in concrete](/path/to/subtopic7/)
+- [1.1 Use of concrete in structures and types of concrete](./introduction-to-concrete-and-materials/use-of-concrete-and-types/)
+- [1.2 Concrete materials - Role of different materials (Aggregates, Cement, Water and Admixtures)](./introduction-to-concrete-and-materials/concrete-materials/)
 
----
+  - [1.2.1 Aggregates - Properties of aggregates and their gradation](./introduction-to-concrete-and-materials/concrete-materials/aggregates-properties-and-gradation/)
+  - [1.2.2 Cement - Manufacturing of cement, Compound composition of Portland Cement, Structure and reactivity of compounds](./introduction-to-concrete-and-materials/concrete-materials/cement/)
+  - [1.2.3 Introduction to special types of cement](./introduction-to-concrete-and-materials/concrete-materials/special-types-of-cement/)
+  - [1.2.4 Use of water in concrete](./introduction-to-concrete-and-materials/concrete-materials-role/use-of-water/)
+  - [1.2.5 Admixtures - Classification of admixtures, Introduction to commonly used admixtures (Super-plasticizer, Water proofing agent and Retarders), Use of Mineral admixtures in concrete](./introduction-to-concrete-and-materials/concrete-materials/admixtures-classification-usage/)
 
-### 2. Structure of Concrete (3 hours)
-
-- [2.1 Concrete as a three-phase system](/path/to/subtopic1/)
-- [2.2 Structure of the aggregate phase](/path/to/subtopic2/)
-- [2.3 Structure of the hydrated cement paste phase](/path/to/subtopic3/)
-- [2.4 Transition zone in concrete](/path/to/subtopic4/)
 
 ---
 
-### 3. Mix Design of Concrete and Properties of Green Concrete (6 hours)
+### 2. Structure of Concrete
 
-- [3.1 Workability and its tests](/path/to/subtopic1/)
-- [3.2 Water-Cement (WC) ratio in concrete](/path/to/subtopic2/)
-- [3.3 Introduction to nominal mix](/path/to/subtopic3/)
-- [3.4 Probabilistic concept in mix design approach](/path/to/subtopic4/)
-- [3.5 Concrete mix design by DOE, ACI, and IS Method](/path/to/subtopic5/)
-- [3.6 Segregation and bleeding](/path/to/subtopic6/)
-- [3.7 Quality control on site: Mixing, handling, placing, compaction, and curing](/path/to/subtopic7/)
-- [3.8 Concrete in extreme temperatures](/path/to/subtopic8/)
+- [2.1 Concrete as a three-phase system](./structure-of-concrete/concrete-as-three-phase-system/)
+- [2.2 Structure of the aggregate phase](./structure-of-concrete/structure-of-aggregate-phase/)
+- [2.3 Structure of the hydrated cement paste phase](./structure-of-concrete/structure-of-hydrated-cement-paste-phase/)
+- [2.4 Transition zone in concrete](./structure-of-concrete/transition-zone-in-concrete/)
+
 
 ---
 
-### 4. Properties of Hardened Concrete (3 hours)
+### 3. Mix Design of Concrete and Properties of Green Concrete
+
+- [3.1 Workability and its tests](./mix-design-of-concrete-and-properties-of-green-concrete/workability-and-tests/)
+- [3.2 Water-Cement (WC) ratio in concrete](./mix-design-of-concrete-and-properties-of-green-concrete/water-cement-ratio/)
+- [3.3 Introduction to nominal mix](./mix-design-of-concrete-and-properties-of-green-concrete/introduction-to-nominal-mix/)
+- [3.4 Probabilistic concept in mix design approach](./mix-design-of-concrete-and-properties-of-green-concrete/probabilistic-concept-in-mix-design/)
+- [3.5 Concrete mix design by DOE, ACI, and IS Method](./mix-design-of-concrete-and-properties-of-green-concrete/concrete-mix-design-doe-aci-is-method/)
+- [3.6 Segregation and bleeding](./mix-design-of-concrete-and-properties-of-green-concrete/segregation-and-bleeding/)
+- [3.7 Quality control on site: Mixing, handling, placing, compaction, and curing](./mix-design-of-concrete-and-properties-of-green-concrete/quality-control-on-site/)
+- [3.8 Concrete in extreme temperatures](./mix-design-of-concrete-and-properties-of-green-concrete/concrete-in-extreme-temperatures/)
+
+
+---
+
+### 4. Properties of Hardened Concrete
 
 - [4.1 Deformation of hardened concrete, Moduli of elasticity](/path/to/subtopic1/)
 - [4.2 Shrinkage and creep](/path/to/subtopic2/)
