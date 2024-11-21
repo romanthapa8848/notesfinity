@@ -74,30 +74,30 @@ To provide concept, knowledge and practical information on concrete technology a
 
 ### 4. Properties of Hardened Concrete
 
-- [4.1 Deformation of hardened concrete, Moduli of elasticity](/path/to/subtopic1/)
-- [4.2 Shrinkage and creep](/path/to/subtopic2/)
-- [4.3 Fatigue, impact and dynamic loading](/path/to/subtopic3/)
-- [4.4 Effect of porosity, water-cement ratio, and aggregate size](/path/to/subtopic4/)
-- [4.5 Effect of gel/space ratio](/path/to/subtopic5/)
+- [4.1 Deformation of hardened concrete, Moduli of elasticity](./properties-of-hardened-concrete/deformation-moduli-of-elasticity/)
+- [4.2 Shrinkage and creep](./properties-of-hardened-concrete/shrinkage-and-creep/)
+- [4.3 Fatigue, impact and dynamic loading](./properties-of-hardened-concrete/fatigue-impact-dynamic-loading/)
+- [4.4 Effect of porosity, water-cement ratio, and aggregate size](./properties-of-hardened-concrete/porosity-water-cement-ratio-aggregate-size/)
+- [4.5 Effect of gel/space ratio](./properties-of-hardened-concrete/gel-space-ratio/)
 
 ---
 
-### 5. Testing of Concrete and Quality Control (5 hours)
+### 5. Testing of Concrete and Quality Control
 
-- [5.1 Various strength of concrete: Tensile, Compressive, Shear and Bond](/path/to/subtopic1/)
-- [5.2 Compressive strength test](/path/to/subtopic2/)
-- [5.3 Tensile strength test](/path/to/subtopic3/)
-- [5.4 Variability of concrete strength and acceptance criteria](/path/to/subtopic4/)
-- [5.5 Nondestructing testing of concrete](/path/to/subtopic5/)
+- [5.1 Various strength of concrete: Tensile, Compressive, Shear and Bond](./testing-of-concrete-and-quality-control/various-strengths/)
+- [5.2 Compressive strength test](./testing-of-concrete-and-quality-control/compressive-strength-test/)
+- [5.3 Tensile strength test](./testing-of-concrete-and-quality-control/tensile-strength-test/)
+- [5.4 Variability of concrete strength and acceptance criteria](./testing-of-concrete-and-quality-control/variability-strength-acceptance-criteria/)
+- [5.5 Nondestructive testing of concrete](./testing-of-concrete-and-quality-control/nondestructive-testing/)
 
 ---
 
-### 6. Concrete Durability (3 hours)
+### 6. Concrete Durability
 
-- [6.1 Effect of water and permeability on concrete durability](/path/to/subtopic1/)
-- [6.2 Physical and chemical causes of concrete deterioration](/path/to/subtopic2/)
-- [6.3 Carbonation](/path/to/subtopic3/)
-- [6.4 Corrosion of steel in concrete](/path/to/subtopic4/)
+- [6.1 Effect of water and permeability on concrete durability](./concrete-durability/effect-of-water-permeability/)
+- [6.2 Physical and chemical causes of concrete deterioration](./concrete-durability/physical-chemical-causes-deterioration/)
+- [6.3 Carbonation](./concrete-durability/carbonation/)
+- [6.4 Corrosion of steel in concrete](./concrete-durability/corrosion-of-steel/)
 
 ---
 
@@ -105,43 +105,44 @@ To provide concept, knowledge and practical information on concrete technology a
 
 ---
 
-### 7. Introduction to Masonry Structures (4 hours)
+### 7. Introduction to Masonry Structures
 
-- [7.1 Use of masonry structures](/path/to/subtopic1/)
-- [7.2 Construction technology - English bond, Flemish bond, Rat-trap bond](/path/to/subtopic2/)
-- [7.3 Hollow block and compressed earth block](/path/to/subtopic3/)
-- [7.4 Masonry as infill walls](/path/to/subtopic4/)
-- [7.5 Reinforced and un-reinforced masonry](/path/to/subtopic5/)
-
----
-
-### 8. Design of Masonry Walls for Gravity Loads (5 hours)
-
-- [8.1 Introduction to codal provisions](/path/to/subtopic1/)
-- [8.2 Design example for gravity loads on:](/path/to/subtopic2/)
-  - Solid wall
-  - Wall with openings
-  - Walls with eccentric loadings
-  - Walls acting as columns
+- [7.1 Use of masonry structures](./introduction-to-masonry-structures/use-of-masonry-structures/)
+- [7.2 Construction technology - English bond, Flemish bond, Rat-trap bond](./introduction-to-masonry-structures/construction-technology/)
+- [7.3 Hollow block and compressed earth block](./introduction-to-masonry-structures/hollow-block-and-compressed-earth-block/)
+- [7.4 Masonry as infill walls](./introduction-to-masonry-structures/masonry-as-infill-walls/)
+- [7.5 Reinforced and un-reinforced masonry](./introduction-to-masonry-structures/reinforced-and-un-reinforced-masonry/)
 
 ---
 
-### 9. Masonry Structures under Lateral Loads (5 hours)
+### 8. Design of Masonry Walls for Gravity Loads
 
-- [9.1 Performance of masonry structures in lateral loads](/path/to/subtopic1/)
-- [9.2 Failure behavior of masonry structures in lateral loads](/path/to/subtopic2/)
-- [9.3 In-plane and out-of-plane behavior of masonry structures](/path/to/subtopic3/)
-- [9.4 Ductile behavior of reinforced and unreinforced masonry structures](/path/to/subtopic4/)
-- [9.5 Calculation of stresses for lateral loads](/path/to/subtopic5/)
-- [9.6 Elements of lateral load resisting masonry system](/path/to/subtopic6/)
+- [8.1 Introduction to codal provisions](./design-of-masonry-walls-for-gravity-loads/introduction-to-codal-provisions/)
+- 8.2 Design example for gravity loads on:
+
+  - [Solid wall](./design-of-masonry-walls-for-gravity-loads/design-example-for-gravity-loads/solid-wall/)
+  - [Wall with openings](./design-of-masonry-walls-for-gravity-loads/design-example-for-gravity-loads/wall-with-openings/)
+  - [Walls with eccentric loadings](./design-of-masonry-walls-for-gravity-loads/design-example-for-gravity-loads/walls-with-eccentric-loadings/)
+  - [Walls acting as columns](./design-of-masonry-walls-for-gravity-loads/design-example-for-gravity-loads/walls-acting-as-columns/)
 
 ---
 
-### 10. Testing of Masonry Elements (3 hours)
+### 9. Masonry Structures under Lateral Loads
 
-- [10.1 Compressive strength of bricks and walls](/path/to/subtopic1/)
-- [10.2 Diagonal shear test](/path/to/subtopic2/)
-- [10.3 Nondestructive tests - Elastic wave tomography, Flat-jack, Push shear test and others](/path/to/subtopic3/)
+- [9.1 Performance of masonry structures in lateral loads](./masonry-structures-under-lateral-loads/performance-of-masonry-structures-in-lateral-loads/)
+- [9.2 Failure behavior of masonry structures in lateral loads](./masonry-structures-under-lateral-loads/failure-behavior-of-masonry-structures-in-lateral-loads/)
+- [9.3 In-plane and out-of-plane behavior of masonry structures](./masonry-structures-under-lateral-loads/in-plane-and-out-of-plane-behavior-of-masonry-structures/)
+- [9.4 Ductile behavior of reinforced and unreinforced masonry structures](./masonry-structures-under-lateral-loads/ductile-behavior-of-reinforced-and-unreinforced-masonry-structures/)
+- [9.5 Calculation of stresses for lateral loads](./masonry-structures-under-lateral-loads/calculation-of-stresses-for-lateral-loads/)
+- [9.6 Elements of lateral load resisting masonry system](./masonry-structures-under-lateral-loads/elements-of-lateral-load-resisting-masonry-system/)
+
+---
+
+### 10. Testing of Masonry Elements
+
+- [10.1 Compressive strength of bricks and walls](./testing-of-masonry-elements/compressive-strength-of-bricks-and-walls/)
+- [10.2 Diagonal shear test](./testing-of-masonry-elements/diagonal-shear-test/)
+- [10.3 Nondestructive tests - Elastic wave tomography, Flat-jack, Push shear test and others](./testing-of-masonry-elements/nondestructive-tests/)
 
 ---
 
