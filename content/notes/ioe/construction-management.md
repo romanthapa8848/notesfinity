@@ -173,14 +173,14 @@ layout: "non_math_mode"
 - [12.1 Purpose of Specifications](./specification/purpose-of-specifications/)
 - [12.2 Types of Specifications](./specification/types-of-specifications/)
 
-  - [General Specifications](./specification/general-specifications/)
-  - [Detailed Specifications](./specification/detailed-specifications/)
+  - [General Specifications](./specification/types-of-specifications/general-specifications/)
+  - [Detailed Specifications](./specification/types-of-specifications/detailed-specifications/)
 
 - [12.3 Specification Writing](./specification/specification-writing/)
 
-  - [Technique](./specification/technique/)
-  - [Use of International and Local Standards](./specification/international-local-standards/)
-  - [Codes of Practice](./specification/codes-of-practice/)
+  - [Technique](./specification/specification-writing/technique/)
+  - [Use of International and Local Standards](./specification/specification-writing/international-local-standards/)
+  - [Codes of Practice](./specification/specification-writing/codes-of-practice/)
 
 - [12.4 Importance of Specifications](./specification/importance-of-specifications/)
 
