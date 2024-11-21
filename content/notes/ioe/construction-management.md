@@ -74,13 +74,13 @@ layout: "non_math_mode"
 - [4.1 Advantages and Disadvantages of Using Equipment](./familiarization-with-construction-equipment/advantages-disadvantages-of-equipment/)
 - [4.2 Equipment for Various Construction Activities](./familiarization-with-construction-equipment/equipment-for-various-activities/)
 
-  - [Excavation, Transporting, and Compaction](./familiarization-with-construction-equipment/excavation-transporting-compaction/)
-  - [Aggregate Production and Handling](./familiarization-with-construction-equipment/aggregate-production-handling/)
-  - [Concrete Construction](./familiarization-with-construction-equipment/concrete-construction/)
-  - [Cranes for Lifting](./familiarization-with-construction-equipment/cranes-for-lifting/)
-  - [Tunnel Construction](./familiarization-with-construction-equipment/tunnel-construction/)
-  - [Highway and Pavement Construction](./familiarization-with-construction-equipment/highway-pavement-construction/)
-  - [Hydraulic Structure Construction](./familiarization-with-construction-equipment/hydraulic-structure-construction/)
+  - [Excavation, Transporting, and Compaction](./familiarization-with-construction-equipment/equipment-for-various-activities/excavation-transporting-compaction/)
+  - [Aggregate Production and Handling](./familiarization-with-construction-equipment/equipment-for-various-activities/aggregate-production-handling/)
+  - [Concrete Construction](./familiarization-with-construction-equipment/equipment-for-various-activities/concrete-construction/)
+  - [Cranes for Lifting](./familiarization-with-construction-equipment/equipment-for-various-activities/cranes-for-lifting/)
+  - [Tunnel Construction](./familiarization-with-construction-equipment/equipment-for-various-activities/tunnel-construction/)
+  - [Highway and Pavement Construction](./familiarization-with-construction-equipment/equipment-for-various-activities/highway-pavement-construction/)
+  - [Hydraulic Structure Construction](./familiarization-with-construction-equipment/equipment-for-various-activities/hydraulic-structure-construction/)
 
 - [4.3 Selection of Appropriate Equipment](./familiarization-with-construction-equipment/selection-of-appropriate-equipment/)
 
