@@ -17,6 +17,9 @@
     <loc>http://localhost:1313/notes/ioe/construction-management/planning-construction-materials/value-engineering-in-procurement/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/construction-process/arrangement-of-facilities-and-shop-job-layout/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/masonry-structures-under-lateral-loads/calculation-of-stresses-for-lateral-loads/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -42,6 +45,9 @@
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/mix-design-of-concrete-and-properties-of-green-concrete/concrete-mix-design-doe-aci-is-method/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/contract-management/tendering-process/conditions-of-contract/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/construction-management/construction-management-framework/construction-landmarks/</loc>
@@ -104,6 +110,12 @@
     <loc>http://localhost:1313/notes/ioe/construction-management/familiarization-with-construction-equipment/equipment-for-various-activities/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/controlling-project-integration-and-work/equipment-productivity-control/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/project-maintenance/estimating-maintenance-cost/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/construction-management/familiarization-with-construction-equipment/equipment-for-various-activities/excavation-transporting-compaction/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
@@ -111,6 +123,9 @@
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/properties-of-hardened-concrete/fatigue-impact-dynamic-loading/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/construction-process/financial-management-and-cash-flow-management/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/</loc>
@@ -140,16 +155,40 @@
     <loc>http://localhost:1313/notes/ioe/construction-management/planning-construction-materials/inventory-planning-process/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/controlling-project-integration-and-work/labor-productivity-control/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/project-maintenance/maintenance-basics/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/project-maintenance/management-of-maintenance-and-financing/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/introduction-to-masonry-structures/masonry-as-infill-walls/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/construction-process/material-handling-system/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/construction-management/planning-construction-materials/material-inventory-basics/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/controlling-project-integration-and-work/material-productivity-control/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/construction-management/planning-construction-materials/material-provisioning-process/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/construction-management/planning-construction-materials/material-wastage-standards/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/site-management/measurement-book/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/contract-management/method-of-work-execution/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/site-management/muster-roll/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/testing-of-concrete-and-quality-control/nondestructive-testing/</loc>
@@ -161,19 +200,37 @@
     <loc>http://localhost:1313/notes/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/controlling-project-integration-and-work/performance-control-using-earned-value-analysis/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/masonry-structures-under-lateral-loads/performance-of-masonry-structures-in-lateral-loads/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/concrete-durability/physical-chemical-causes-deterioration/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/project-maintenance/planning-scheduling-of-maintenance/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/construction-management/construction-planning-and-scheduling/planning-by-contractor-and-clients/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/contract-management/tendering-process/preparation-before-tendering/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/construction-management/construction-planning-and-scheduling/preparing-schedule/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/contract-management/tendering-process/prequalification/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/mix-design-of-concrete-and-properties-of-green-concrete/probabilistic-concept-in-mix-design/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/site-management/procedures-to-prepare-bills/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/controlling-project-integration-and-work/product-quality-control/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/introduction-to-concrete-and-materials/aggregates-properties-and-gradation/</loc>
@@ -185,10 +242,16 @@
     <loc>http://localhost:1313/notes/ioe/ct/mix-design-of-concrete-and-properties-of-green-concrete/quality-control-on-site/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/site-management/record-keeping/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/introduction-to-masonry-structures/reinforced-and-un-reinforced-masonry/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/construction-management/construction-management-framework/client-consultant-contractor-relationship/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/site-management/responsibility-of-site-engineer/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/introduction-to-concrete-and-materials/concrete-materials/</loc>
@@ -200,10 +263,19 @@
     <loc>http://localhost:1313/notes/ioe/ct/mix-design-of-concrete-and-properties-of-green-concrete/segregation-and-bleeding/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/contract-management/tendering-process/selection-and-award/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/notes/ioe/construction-management/familiarization-with-construction-equipment/selection-of-appropriate-equipment/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/properties-of-hardened-concrete/shrinkage-and-creep/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/site-management/site-order-book/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/construction-process/site-surveying-and-preparation/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/construction-management/construction-planning-and-scheduling/steps-and-stages-of-planning/</loc>
@@ -213,6 +285,21 @@
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/structure-of-concrete/structure-of-hydrated-cement-paste-phase/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/site-management/supervising-work-of-contractor/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/contract-management/tendering-process/tender-document/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/contract-management/tendering-process/tender-evaluation/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/contract-management/tendering-process/tender-notice/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/contract-management/tendering-process/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/testing-of-concrete-and-quality-control/tensile-strength-test/</loc>
@@ -225,6 +312,12 @@
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/construction-management/familiarization-with-construction-equipment/equipment-for-various-activities/tunnel-construction/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/contract-management/types-of-contract/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/project-maintenance/types-of-maintenance/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/introduction-to-concrete-and-materials/use-of-concrete-and-types/</loc>
@@ -243,6 +336,12 @@
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/mix-design-of-concrete-and-properties-of-green-concrete/water-cement-ratio/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/controlling-project-integration-and-work/work-schedule-control/</loc>
+    <lastmod>2024-11-21T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/notes/ioe/construction-management/controlling-project-integration-and-work/work-scope-control/</loc>
     <lastmod>2024-11-21T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/notes/ioe/ct/mix-design-of-concrete-and-properties-of-green-concrete/workability-and-tests/</loc>

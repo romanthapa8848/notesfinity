@@ -92,13 +92,13 @@ layout: "non_math_mode"
 - [5.2 Types of Contract](./contract-management/types-of-contract/)
 - [5.3 Tendering Process](./contract-management/tendering-process/)
 
-  - [Preparation before Tendering](./contract-management/preparation-before-tendering/)
-  - [Tender Notice](./contract-management/tender-notice/)
-  - [Tender Document](./contract-management/tender-document/)
-  - [Conditions of Contract](./contract-management/conditions-of-contract/)
-  - [Prequalification](./contract-management/prequalification/)
-  - [Tender Evaluation](./contract-management/tender-evaluation/)
-  - [Selection and Award](./contract-management/selection-and-award/)
+  - [Preparation before Tendering](./contract-management/tendering-process/preparation-before-tendering/)
+  - [Tender Notice](./contract-management/tendering-process/tender-notice/)
+  - [Tender Document](./contract-management/tendering-process/tender-document/)
+  - [Conditions of Contract](./contract-management/tendering-process/conditions-of-contract/)
+  - [Prequalification](./contract-management/tendering-process/prequalification/)
+  - [Tender Evaluation](./contract-management/tendering-process/tender-evaluation/)
+  - [Selection and Award](./contract-management/tendering-process/selection-and-award/)
 
 ---
 
