@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://www.notesfinity.com/sitemap.xml
+Sitemap: https://www.gyanpedia.com/sitemap.xml
