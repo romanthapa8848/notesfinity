@@ -1,0 +1,420 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+       Scalar and Vector Products | Gyanpedia 
+    </title>
+
+    
+     <meta name="keywords" content="Scalar Product , Vector Product , Dot Product , Cross Product , Physics Class 11 , Vector Algebra" /> 
+
+    
+    <link rel="stylesheet" href="/css/header.css" />
+    <link rel="stylesheet" href="/css/footer.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="/css/main.css" />
+
+    
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1728488366569054"
+      crossorigin="anonymous"
+    ></script>
+
+    
+    <script type="module" src="/js/search.js"></script>
+    <script type="module" src="/js/results.js"></script>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      
+      
+      <header>
+        <a href="/index.html">
+          <img id="logo" src="/logo.png" alt="Logo" />
+        </a>
+        <div class="search-container">
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Enter your subject name or code"
+          />
+          <button id="search-button"><i class="fas fa-search"></i></button>
+        </div>
+      </header>
+
+      
+      <main>
+        
+<article>
+  <div class="math-content"><h1 id="scalar-and-vector-products">Scalar and Vector Products</h1>
+<p>In vector algebra, <strong>scalar product</strong> (or dot product) and <strong>vector product</strong> (or cross product) are two important operations that involve vectors. These products have distinct properties and applications in physics, especially in mechanics and electromagnetism.</p>
+<hr>
+<h2 id="scalar-dot-product">Scalar (Dot) Product</h2>
+<p>The <strong>scalar product</strong> of two vectors <strong>$\vec{A}$</strong> and <strong>$\vec{B}$</strong> is defined as the product of their magnitudes and the cosine of the angle between them. The result of the scalar product is a <strong>scalar</strong> (a quantity with only magnitude, not direction).</p>
+<h3 id="formula-for-scalar-product">Formula for Scalar Product</h3>
+$$
+\vec{A} \cdot \vec{B} = A B \cos \theta
+$$<p>where:</p>
+<ul>
+<li><strong>$A$</strong> and <strong>$B$</strong> are the magnitudes of vectors <strong>$\vec{A}$</strong> and <strong>$\vec{B}$</strong>.</li>
+<li><strong>$\theta$</strong> is the angle between the two vectors.</li>
+</ul>
+<h3 id="properties-of-scalar-product">Properties of Scalar Product</h3>
+<ol>
+<li>
+<p><strong>Commutative</strong>:<br>
+</p>
+$$ \vec{A} \cdot \vec{B} = \vec{B} \cdot \vec{A} $$</li>
+<li>
+<p><strong>Distributive over addition</strong>:<br>
+</p>
+$$ \vec{A} \cdot (\vec{B} + \vec{C}) = \vec{A} \cdot \vec{B} + \vec{A} \cdot \vec{C} $$</li>
+<li>
+<p><strong>Associative with scalar multiplication</strong>:<br>
+</p>
+$$ (k \vec{A}) \cdot \vec{B} = k (\vec{A} \cdot \vec{B}) $$</li>
+</ol>
+<h3 id="example-of-scalar-product">Example of Scalar Product</h3>
+<p>For two vectors <strong>$\vec{A} = 3 \hat{i} + 4 \hat{j}$</strong> and <strong>$\vec{B} = 5 \hat{i} + 12 \hat{j}$</strong>:</p>
+<ul>
+<li>
+<p>Magnitudes of vectors:<br>
+</p>
+$$ A = \sqrt{3^2 + 4^2} = 5, \quad B = \sqrt{5^2 + 12^2} = 13 $$</li>
+<li>
+<p>The angle <strong>$\theta$</strong> between the vectors can be calculated using the formula:<br>
+</p>
+$$ \cos \theta = \frac{\vec{A} \cdot \vec{B}}{A B} $$<p>Substituting the values:<br>
+</p>
+$$ \vec{A} \cdot \vec{B} = (3 \times 5) + (4 \times 12) = 15 + 48 = 63 $$$$ \cos \theta = \frac{63}{5 \times 13} = \frac{63}{65} $$</li>
+</ul>
+<hr>
+<h2 id="vector-cross-product">Vector (Cross) Product</h2>
+<p>The <strong>vector product</strong> of two vectors <strong>$\vec{A}$</strong> and <strong>$\vec{B}$</strong> is defined as a vector whose magnitude is the product of the magnitudes of the two vectors and the sine of the angle between them. The direction of the resultant vector is perpendicular to the plane formed by <strong>$\vec{A}$</strong> and <strong>$\vec{B}$</strong>, following the right-hand rule.</p>
+<h3 id="formula-for-vector-product">Formula for Vector Product</h3>
+$$
+\vec{A} \times \vec{B} = AB \sin \theta \hat{n}
+$$<p>where:</p>
+<ul>
+<li><strong>$A$</strong> and <strong>$B$</strong> are the magnitudes of vectors <strong>$\vec{A}$</strong> and <strong>$\vec{B}$</strong>.</li>
+<li><strong>$\theta$</strong> is the angle between the vectors.</li>
+<li><strong>$\hat{n}$</strong> is the unit vector perpendicular to the plane formed by <strong>$\vec{A}$</strong> and <strong>$\vec{B}$</strong> (determined by the right-hand rule).</li>
+</ul>
+<h3 id="properties-of-vector-product">Properties of Vector Product</h3>
+<ol>
+<li>
+<p><strong>Non-Commutative</strong>:<br>
+</p>
+$$ \vec{A} \times \vec{B} = - \vec{B} \times \vec{A} $$</li>
+<li>
+<p><strong>Distributive over addition</strong>:<br>
+</p>
+$$ \vec{A} \times (\vec{B} + \vec{C}) = \vec{A} \times \vec{B} + \vec{A} \times \vec{C} $$</li>
+<li>
+<p><strong>Associative with scalar multiplication</strong>:<br>
+</p>
+$$ (k \vec{A}) \times \vec{B} = k (\vec{A} \times \vec{B}) $$</li>
+</ol>
+<h3 id="example-of-vector-product">Example of Vector Product</h3>
+<p>For two vectors <strong>$\vec{A} = 2 \hat{i} + 3 \hat{j} + \hat{k}$</strong> and <strong>$\vec{B} = \hat{i} - 4 \hat{j} + 2 \hat{k}$</strong>, the cross product is calculated using the determinant method:</p>
+$$
+\vec{A} \times \vec{B} = \begin{vmatrix}
+\hat{i} & \hat{j} & \hat{k} \\
+2 & 3 & 1 \\
+1 & -4 & 2
+\end{vmatrix}
+$$<p>Expanding the determinant:</p>
+$$
+\vec{A} \times \vec{B} = \hat{i} \begin{vmatrix} 3 & 1 \\ -4 & 2 \end{vmatrix} - \hat{j} \begin{vmatrix} 2 & 1 \\ 1 & 2 \end{vmatrix} + \hat{k} \begin{vmatrix} 2 & 3 \\ 1 & -4 \end{vmatrix}
+$$<p>Calculating the individual 2x2 determinants:</p>
+<ul>
+<li>
+<p>For <strong>$\hat{i}$</strong>:<br>
+</p>
+$$ \begin{vmatrix} 3 & 1 \\ -4 & 2 \end{vmatrix} = (3 \times 2) - (1 \times -4) = 6 + 4 = 10 $$</li>
+<li>
+<p>For <strong>$\hat{j}$</strong>:<br>
+</p>
+$$ \begin{vmatrix} 2 & 1 \\ 1 & 2 \end{vmatrix} = (2 \times 2) - (1 \times 1) = 4 - 1 = 3 $$</li>
+<li>
+<p>For <strong>$\hat{k}$</strong>:<br>
+</p>
+$$ \begin{vmatrix} 2 & 3 \\ 1 & -4 \end{vmatrix} = (2 \times -4) - (3 \times 1) = -8 - 3 = -11 $$</li>
+</ul>
+<p>Thus,<br>
+</p>
+$$
+\vec{A} \times \vec{B} = 10 \hat{i} - 3 \hat{j} - 11 \hat{k}
+$$<hr>
+<h2 id="comparison-table-scalar-product-vs-vector-product">Comparison Table: Scalar Product vs. Vector Product</h2>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">Property</th>
+          <th style="text-align: left">Scalar (Dot) Product</th>
+          <th style="text-align: left">Vector (Cross) Product</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left"><strong>Result</strong></td>
+          <td style="text-align: left">Scalar (a quantity with only magnitude)</td>
+          <td style="text-align: left">Vector (a quantity with magnitude and direction)</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Formula</strong></td>
+          <td style="text-align: left">$\vec{A} \cdot \vec{B} = A B \cos \theta$</td>
+          <td style="text-align: left">$\vec{A} \times \vec{B} = AB \sin \theta \hat{n}$</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Commutative</strong></td>
+          <td style="text-align: left">Yes</td>
+          <td style="text-align: left">No</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Magnitude</strong></td>
+          <td style="text-align: left">$A B \cos \theta$</td>
+          <td style="text-align: left">$A B \sin \theta$</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Direction</strong></td>
+          <td style="text-align: left">Does not have direction</td>
+          <td style="text-align: left">Perpendicular to the plane of the vectors (determined by right-hand rule)</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Resultant</strong></td>
+          <td style="text-align: left">Scalar</td>
+          <td style="text-align: left">Vector</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Example Use</strong></td>
+          <td style="text-align: left">Work done by a force, angle between vectors</td>
+          <td style="text-align: left">Torque, angular momentum, area of parallelogram formed by vectors</td>
+      </tr>
+      <tr>
+          <td style="text-align: left"><strong>Property with Addition</strong></td>
+          <td style="text-align: left">Distributive</td>
+          <td style="text-align: left">Distributive</td>
+      </tr>
+  </tbody>
+</table>
+<hr>
+<h2 id="summary">Summary</h2>
+<ul>
+<li>The <strong>scalar product</strong> (dot product) results in a scalar and is used to calculate the angle between two vectors and work done by a force.</li>
+<li>The <strong>vector product</strong> (cross product) results in a vector and is used to find torque and angular momentum, among other applications.</li>
+</ul>
+<hr>
+<h2 id="faqs">FAQs</h2>
+<p><strong>1. What is the scalar product of two vectors?</strong><br>
+The scalar product is the product of the magnitudes of two vectors and the cosine of the angle between them.</p>
+<p><strong>2. What is the vector product of two vectors?</strong><br>
+The vector product is a vector whose magnitude is the product of the magnitudes of the two vectors and the sine of the angle between them. Its direction is perpendicular to the plane containing the vectors.</p>
+<p><strong>3. What is the result of a scalar product?</strong><br>
+The result of a scalar product is a scalar (a quantity with only magnitude).</p>
+<p><strong>4. What is the result of a vector product?</strong><br>
+The result of a vector product is a vector.</p>
+<p><strong>5. Is the scalar product commutative?</strong><br>
+Yes, the scalar product is commutative, i.e., <strong>$\vec{A} \cdot \vec{B} = \vec{B} \cdot \vec{A}$</strong>.</p>
+<p><strong>6. Is the vector product commutative?</strong><br>
+No, the vector product is not commutative. It follows the rule: <strong>$\vec{A} \times \vec{B} = - \vec{B} \times \vec{A}$</strong>.</p>
+<p><strong>7. Can the scalar product be used to find the angle between two vectors?</strong><br>
+Yes, the scalar product can be used to find the angle between two vectors using the formula:<br>
+</p>
+$$ \cos \theta = \frac{\vec{A} \cdot \vec{B}}{A B} $$<p><strong>8. What is the direction of the vector product?</strong><br>
+The direction of the vector product is perpendicular to the plane formed by the two vectors, determined by the right-hand rule.</p>
+<p><strong>9. How do you calculate the cross product of two vectors?</strong><br>
+The cross product is calculated using the determinant of a matrix that includes the unit vectors <strong>$\hat{i}$</strong>, <strong>$\hat{j}$</strong>, and <strong>$\hat{k}$</strong>.</p>
+<p><strong>10. Can the scalar product be used to find the work done by a force?</strong><br>
+Yes, the work done by a force is the scalar product of the force vector and the displacement vector.</p>
+<hr>
+<h2 id="mcqs">MCQs</h2>
+<p><strong>1. The scalar product of two vectors is a:</strong></p>
+<ul>
+<li>A) Vector</li>
+<li>B) <strong>Scalar (✓)</strong></li>
+<li>C) Matrix</li>
+<li>D) Complex Number</li>
+</ul>
+<p><strong>2. The formula for the scalar product is:</strong></p>
+<ul>
+<li>A) <strong>$\vec{A} \cdot \vec{B} = AB \cos \theta$ (✓)</strong></li>
+<li>B) $\vec{A} \times \vec{B} = AB \cos \theta$</li>
+<li>C) $\vec{A} \times \vec{B} = AB \sin \theta$</li>
+<li>D) $\vec{A} \cdot \vec{B} = AB \sin \theta$</li>
+</ul>
+<p><strong>3. The result of the vector product is:</strong></p>
+<ul>
+<li>A) Scalar</li>
+<li>B) <strong>Vector (✓)</strong></li>
+<li>C) Matrix</li>
+<li>D) Complex Number</li>
+</ul>
+<p><strong>4. The vector product of two parallel vectors is:</strong></p>
+<ul>
+<li>A) <strong>Zero (✓)</strong></li>
+<li>B) A scalar</li>
+<li>C) A non-zero vector</li>
+<li>D) Undefined</li>
+</ul>
+<p><strong>5. The magnitude of the vector product is given by:</strong></p>
+<ul>
+<li>A) $AB \cos \theta$</li>
+<li>B) <strong>$AB \sin \theta$ (✓)</strong></li>
+<li>C) $A + B$</li>
+<li>D) $A - B$</li>
+</ul>
+<p><strong>6. The direction of the vector product is determined by:</strong></p>
+<ul>
+<li>A) Angle between vectors</li>
+<li>B) <strong>Right-hand rule (✓)</strong></li>
+<li>C) Magnitudes of the vectors</li>
+<li>D) None of the above</li>
+</ul>
+<p><strong>7. The vector product is commutative:</strong></p>
+<ul>
+<li>A) True</li>
+<li>B) <strong>False (✓)</strong></li>
+</ul>
+<p><strong>8. The scalar product of perpendicular vectors is:</strong></p>
+<ul>
+<li>A) One</li>
+<li>B) <strong>Zero (✓)</strong></li>
+<li>C) Infinity</li>
+<li>D) Undefined</li>
+</ul>
+<p><strong>9. The unit of the scalar product in SI is:</strong></p>
+<ul>
+<li>A) <strong>Joule (✓)</strong></li>
+<li>B) Newton</li>
+<li>C) Meter</li>
+<li>D) Watt</li>
+</ul>
+<p><strong>10. The vector product of two vectors is zero when:</strong></p>
+<ul>
+<li>A) <strong>They are parallel (✓)</strong></li>
+<li>B) They are perpendicular</li>
+<li>C) They are of equal magnitude</li>
+<li>D) They form a right angle</li>
+</ul>
+</div>
+  
+</article>
+
+
+<script
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+></script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [["$", "$"]],
+      displayMath: [["$$", "$$"]],
+    },
+  };
+</script>
+
+        
+        <div class="share-buttons">
+  <p>Share this page:</p>
+  <a
+    class="whatsapp"
+    href="https://wa.me/?text=Scalar%20and%20Vector%20Products%20https%3a%2f%2fgyanpedia.com%2fnotes%2fneb%2fphysics11%2fmechanics%2fvectors%2fscalar-vector-products%2f"
+    target="_blank"
+    aria-label="Share on WhatsApp"
+  >
+    <i class="fab fa-whatsapp"></i>
+  </a>
+  <a
+    class="messenger"
+    href="fb-messenger://share?link=https%3a%2f%2fgyanpedia.com%2fnotes%2fneb%2fphysics11%2fmechanics%2fvectors%2fscalar-vector-products%2f"
+    target="_blank"
+    aria-label="Share on Messenger"
+  >
+    <i class="fab fa-facebook-messenger"></i>
+  </a>
+  <a
+    class="viber"
+    href="viber://forward?text=Scalar%20and%20Vector%20Products%20https%3a%2f%2fgyanpedia.com%2fnotes%2fneb%2fphysics11%2fmechanics%2fvectors%2fscalar-vector-products%2f"
+    target="_blank"
+    aria-label="Share on Viber"
+  >
+    <i class="fab fa-viber"></i>
+  </a>
+  <a
+    class="snapchat"
+    href="https://snapchat.com/share?text=Scalar%20and%20Vector%20Products%20https%3a%2f%2fgyanpedia.com%2fnotes%2fneb%2fphysics11%2fmechanics%2fvectors%2fscalar-vector-products%2f"
+    target="_blank"
+    aria-label="Share on Snapchat"
+  >
+    <i class="fab fa-snapchat-ghost"></i>
+  </a>
+</div>
+
+        
+        <div class="donate-website">
+  <button id="donateWebsiteButton" class="btn" onclick="openDonateForm()">
+    Donate
+  </button>
+</div>
+
+<style>
+  .donate-website {
+    display: flex;
+    justify-content: center;  
+    margin: 20px 0;  
+  }
+  .btn {
+    background-color: #4CAF50;  
+    color: white;
+    padding: 12px 20px;  
+    border: none;
+    border-radius: 20px;  
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;  
+  }
+  .btn:hover {
+    background-color: #45a049;  
+  }
+</style>
+
+<script>
+  function openDonateForm() {
+    
+    window.location.href = "/donate.html";
+  }
+</script>
+
+      </main>
+
+      
+      
+<footer>
+  <div class="footer-row">
+    <ul class="footer-links">
+      <li><a href="/about.html">About</a></li>
+      <li><a href="/contact.html">Contact</a></li>
+      <li><a href="/privacy.html">Privacy</a></li>
+      <li><a href="/terms.html">Terms</a></li>
+    </ul>
+  </div>
+  <div class="footer-row copyright">
+    <p>&copy; Gyanpedia</p>
+  </div>
+</footer>
+
+      
+    </div>
+    
+  </body>
+</html>
