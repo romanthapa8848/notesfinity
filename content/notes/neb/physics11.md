@@ -48,7 +48,7 @@ layout: "non_math_mode"
 
 ### 2. Vectors
 
-- [2.1 Triangle, parallelogram and polygon laws of vectors](vectors/triangle-parallelogram-polygon.html)
+- 2.1 Triangle, parallelogram and polygon laws of vectors
 
   - [2.1.1 Triangle law of vectors](./mechanics/vectors/laws/triangle/)
   - [2.1.2 Parallelogram law of vectors](./mechanics/vectors/laws/parallelogram/)
@@ -61,44 +61,44 @@ layout: "non_math_mode"
 
 ### 3. Kinematics
 
-- [3.1 Instantaneous velocity and acceleration](kinematics/instantaneous-velocity-acceleration.html)
-- [3.2 Relative velocity](kinematics/relative-velocity.html)
-- [3.3 Equation of motion (graphical treatment)](kinematics/equation-motion.html)
-- [3.4 Motion of a freely falling body](kinematics/freely-falling-body.html)
-- [3.5 Projectile motion and its applications](kinematics/projectile-motion.html)
+- [3.1 Instantaneous velocity and acceleration](./mechanics/kinematics/instantaneous-velocity-acceleration/)
+- [3.2 Relative velocity](./mechanics/kinematics/relative-velocity/)
+- [3.3 Equation of motion (graphical treatment)](./mechanics/kinematics/equation-motion/)
+- [3.4 Motion of a freely falling body](./mechanics/kinematics/freely-falling-body/)
+- [3.5 Projectile motion and its applications](./mechanics/kinematics/projectile-motion/)
 
 ---
 
 ### 4. Dynamics
 
-- [4.1 Linear momentum, Impulse](dynamics/linear-momentum-impulse.html)
-- [4.2 Conservation of linear momentum](dynamics/conservation-linear-momentum.html)
-- [4.3 Application of Newton’s laws](dynamics/application-newton-laws.html)
-- [4.4 Moment, torque and equilibrium](dynamics/moment-torque-equilibrium.html)
-- [4.5 Solid friction: Laws of solid friction and their verifications](dynamics/solid-friction.html)
+- [4.1 Linear momentum, Impulse](./mechanics/dynamics/linear-momentum-impulse/)
+- [4.2 Conservation of linear momentum](./mechanics/dynamics/conservation-linear-momentum/)
+- [4.3 Application of Newton’s laws](./mechanics/dynamics/application-newton-laws/)
+- [4.4 Moment, torque and equilibrium](./mechanics/dynamics/moment-torque-equilibrium/)
+- [4.5 Solid friction: Laws of solid friction and their verifications](./mechanics/dynamics/solid-friction/)
 
 ---
 
 ### 5. Work, Energy and Power
 
-- [5.1 Work done by a constant force and a variable force](work-energy-power/work-done-constant-force.html)
-- [5.2 Power](work-energy-power/power.html)
-- [5.3 Work-energy theorem; Kinetic and potential energy](work-energy-power/work-energy-theorem.html)
-- [5.4 Conservation of Energy](work-energy-power/conservation-energy.html)
-- [5.5 Conservative and non-conservative forces](work-energy-power/conservative-non-conservative-forces.html)
-- [5.6 Elastic and inelastic collisions](work-energy-power/elastic-inelastic-collisions.html)
+- [5.1 Work done by a constant force and a variable force](./mechanics/work-energy-power/work-done-constant-force/)
+- [5.2 Power](./mechanics/work-energy-power/power/)
+- [5.3 Work-energy theorem; Kinetic and potential energy](./mechanics/work-energy-power/work-energy-theorem/)
+- [5.4 Conservation of Energy](./mechanics/work-energy-power/conservation-energy/)
+- [5.5 Conservative and non-conservative forces](./mechanics/work-energy-power/conservative-non-conservative-forces/)
+- [5.6 Elastic and inelastic collisions](./mechanics/work-energy-power/elastic-inelastic-collisions/)
 
 ---
 
 ### 6. Circular Motion
 
-- [6.1 Angular displacement, velocity and acceleration](circular-motion/angular-displacement-velocity-acceleration.html)
-- [6.2 Relation between angular and linear velocity and acceleration](circular-motion/angular-linear-velocity-acceleration.html)
-- [6.3 Centripetal acceleration](circular-motion/centripetal-acceleration.html)
-- [6.4 Centripetal force](circular-motion/centripetal-force.html)
-- [6.5 Conical pendulum](circular-motion/conical-pendulum.html)
-- [6.6 Motion in a vertical circle](circular-motion/vertical-circle.html)
-- [6.7 Applications of banking](circular-motion/applications-banking.html)
+- [6.1 Angular displacement, velocity and acceleration](./mechanics/circular-motion/angular-displacement-velocity-acceleration/)
+- [6.2 Relation between angular and linear velocity and acceleration](./mechanics/circular-motion/angular-linear-velocity-acceleration/)
+- [6.3 Centripetal acceleration](./mechanics/circular-motion/centripetal-acceleration/)
+- [6.4 Centripetal force](./mechanics/circular-motion/centripetal-force/)
+- [6.5 Conical pendulum](./mechanics/circular-motion/conical-pendulum/)
+- [6.6 Motion in a vertical circle](./mechanics/circular-motion/vertical-circle/)
+- [6.7 Applications of banking](./mechanics/circular-motion/applications-banking/)
 
 ---
 

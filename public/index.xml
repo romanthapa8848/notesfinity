@@ -6,8 +6,169 @@
     <description>Recent content on Gyanpedia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 02 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gyanpedia.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Angular Displacement, Velocity, and Acceleration</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/angular-displacement-velocity-acceleration/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/angular-displacement-velocity-acceleration/</guid>
+      <description>&lt;h1 id=&#34;angular-displacement-velocity-and-acceleration&#34;&gt;Angular Displacement, Velocity, and Acceleration&lt;/h1&gt;&#xA;&lt;p&gt;In circular motion, the motion of an object follows a circular path. To describe this motion, we use angular quantities like &lt;strong&gt;angular displacement&lt;/strong&gt;, &lt;strong&gt;angular velocity&lt;/strong&gt;, and &lt;strong&gt;angular acceleration&lt;/strong&gt;. These quantities are analogous to linear displacement, velocity, and acceleration but apply to rotating objects.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;angular-displacement&#34;&gt;Angular Displacement&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Angular displacement&lt;/strong&gt; refers to the angle through which an object moves along a circular path. It is the angle between the initial and final positions of a point on the rotating body, measured in radians.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Application of Newton’s Laws</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/dynamics/application-newton-laws/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/dynamics/application-newton-laws/</guid>
+      <description>&lt;h1 id=&#34;application-of-newtons-laws&#34;&gt;Application of Newton’s Laws&lt;/h1&gt;&#xA;&lt;p&gt;Newton’s laws of motion are fundamental principles in physics that describe the relationship between a body and the forces acting on it. These laws are widely used to explain the behavior of objects in various real-life situations.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;first-law-of-motion-law-of-inertia&#34;&gt;First Law of Motion: Law of Inertia&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;The first law states that an object remains at rest or in uniform motion unless acted upon by an external force. This is known as inertia, the tendency of objects to resist changes in their state of motion.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Applications of Banking in Roads</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/applications-banking/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/applications-banking/</guid>
+      <description>&lt;h1 id=&#34;applications-of-banking&#34;&gt;Applications of Banking&lt;/h1&gt;&#xA;&lt;p&gt;The term &lt;strong&gt;banking&lt;/strong&gt; refers to the technique of &lt;strong&gt;superelevation&lt;/strong&gt;, which is the tilting or banking of the roadway on curves. It helps in ensuring the safe and efficient movement of vehicles on curved roads. Below are the key applications of banking in roads:&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-superelevation-in-curved-roads&#34;&gt;1. &lt;strong&gt;Superelevation in Curved Roads&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Superelevation is the transverse slope provided to the roadway on curves to counteract the centrifugal force acting on a vehicle. The inward tilt helps maintain vehicle stability and reduce the risk of skidding. The banking angle of the road is designed based on:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Centripetal Acceleration</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/centripetal-acceleration/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/centripetal-acceleration/</guid>
+      <description>&lt;h1 id=&#34;centripetal-acceleration&#34;&gt;Centripetal Acceleration&lt;/h1&gt;&#xA;&lt;p&gt;Centripetal acceleration is the acceleration experienced by an object moving in a circular path, directed towards the center of the circle. It is responsible for changing the direction of the object&amp;rsquo;s velocity as it moves along the curve, ensuring that the object follows the circular path.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;formula-for-centripetal-acceleration&#34;&gt;Formula for Centripetal Acceleration&lt;/h2&gt;&#xA;&lt;p&gt;The formula for centripetal acceleration ($a_c$) is given by:&lt;/p&gt;&#xA;$$&#xD;&#xA;a_c = \frac{v^2}{r} = r\omega^2&#xD;&#xA;$$&lt;p&gt;Where:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;$a_c$ is the centripetal acceleration (in meters per second squared, m/s²),&lt;/li&gt;&#xA;&lt;li&gt;$v$ is the linear velocity (in meters per second, m/s),&lt;/li&gt;&#xA;&lt;li&gt;$r$ is the radius of the circular path (in meters, m),&lt;/li&gt;&#xA;&lt;li&gt;$\omega$ is the angular velocity (in radians per second, rad/s).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Both forms of the equation express the same relationship but are used depending on the available information.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Centripetal Force</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/centripetal-force/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/centripetal-force/</guid>
+      <description>&lt;h1 id=&#34;centripetal-force&#34;&gt;Centripetal Force&lt;/h1&gt;&#xA;&lt;p&gt;Centripetal force is the force that acts on an object moving in a circular path. It is directed towards the center of the circular path, keeping the object in motion along the curve. Without this force, the object would move in a straight line due to its inertia.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;formula-for-centripetal-force&#34;&gt;Formula for Centripetal Force&lt;/h2&gt;&#xA;&lt;p&gt;The formula for centripetal force ($F_c$) is given by:&lt;/p&gt;&#xA;$$&#xD;&#xA;F_c = \frac{mv^2}{r} = mr\omega^2&#xD;&#xA;$$&lt;p&gt;Where:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conical Pendulum</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/conical-pendulum/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/conical-pendulum/</guid>
+      <description>&lt;h1 id=&#34;conical-pendulum&#34;&gt;Conical Pendulum&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;conical pendulum&lt;/strong&gt; is a pendulum that moves in a horizontal circle, with the string tracing out a cone. The object attached to the string moves in a circular path while the string makes a constant angle with the vertical. This type of motion is a combination of both circular motion and simple pendulum motion.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;forces-acting-on-the-conical-pendulum&#34;&gt;Forces Acting on the Conical Pendulum&lt;/h2&gt;&#xA;&lt;p&gt;In the case of a conical pendulum, there are two forces acting on the object:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conservation of Energy</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/work-energy-power/conservation-energy/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/work-energy-power/conservation-energy/</guid>
+      <description>&lt;h1 id=&#34;conservation-of-energy&#34;&gt;Conservation of Energy&lt;/h1&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Conservation of Energy&lt;/strong&gt; principle states that energy cannot be created or destroyed; it can only be transferred from one form to another. In an isolated system, the total energy remains constant, though it may change between different forms, such as kinetic, potential, thermal, or other forms of energy.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;law-of-conservation-of-energy&#34;&gt;Law of Conservation of Energy&lt;/h2&gt;&#xA;&lt;p&gt;According to the law of conservation of energy, the total energy of an isolated system remains constant over time. This implies that:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conservation of Linear Momentum</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/dynamics/conservation-linear-momentum/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/dynamics/conservation-linear-momentum/</guid>
+      <description>&lt;h1 id=&#34;conservation-of-linear-momentum&#34;&gt;Conservation of Linear Momentum&lt;/h1&gt;&#xA;&lt;p&gt;The principle of conservation of linear momentum is a fundamental law of physics that states that the total momentum of an isolated system remains constant if no external forces act on it.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;statement&#34;&gt;Statement&lt;/h2&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;In an isolated system (no external forces), the total linear momentum before and after an event (e.g., collision or explosion) remains constant.&lt;/p&gt;&#xA;&lt;/blockquote&gt;&#xA;&lt;h3 id=&#34;mathematical-formulation&#34;&gt;Mathematical Formulation&lt;/h3&gt;&#xA;&lt;p&gt;For a system of two objects:&lt;/p&gt;&#xA;$$&#xD;&#xA;p_{\text{initial}} = p_{\text{final}}&#xD;&#xA;$$&lt;p&gt;If $m_1$ and $m_2$ are the masses and $v_1$, $v_2$ are the velocities:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Conservative and Non-Conservative Forces</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/work-energy-power/conservative-non-conservative-forces/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/work-energy-power/conservative-non-conservative-forces/</guid>
+      <description>&lt;h1 id=&#34;conservative-and-non-conservative-forces&#34;&gt;Conservative and Non-Conservative Forces&lt;/h1&gt;&#xA;&lt;p&gt;In physics, forces are classified based on how they affect the mechanical energy of a system. These forces are categorized into two types: &lt;strong&gt;conservative forces&lt;/strong&gt; and &lt;strong&gt;non-conservative forces&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;conservative-forces&#34;&gt;Conservative Forces&lt;/h2&gt;&#xA;&lt;p&gt;A &lt;strong&gt;conservative force&lt;/strong&gt; is one for which the work done by the force on an object moving between two points is independent of the path taken. The work done by a conservative force depends only on the initial and final positions of the object and not on the trajectory.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Elastic and Inelastic Collisions</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/work-energy-power/elastic-inelastic-collisions/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/work-energy-power/elastic-inelastic-collisions/</guid>
+      <description>&lt;h1 id=&#34;elastic-and-inelastic-collisions&#34;&gt;Elastic and Inelastic Collisions&lt;/h1&gt;&#xA;&lt;p&gt;In physics, collisions are events where two or more objects interact in a short period of time. Collisions can be broadly classified into two types: &lt;strong&gt;elastic collisions&lt;/strong&gt; and &lt;strong&gt;inelastic collisions&lt;/strong&gt;. The main difference between them lies in the conservation of kinetic energy during the collision.&lt;/p&gt;&#xA;&lt;h2 id=&#34;elastic-collisions&#34;&gt;Elastic Collisions&lt;/h2&gt;&#xA;&lt;p&gt;An &lt;strong&gt;elastic collision&lt;/strong&gt; is one in which both &lt;strong&gt;momentum&lt;/strong&gt; and &lt;strong&gt;kinetic energy&lt;/strong&gt; are conserved. This means that the total kinetic energy before and after the collision remains the same.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Equation of Motion (Graphical Treatment)</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/kinematics/equation-motion/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/kinematics/equation-motion/</guid>
+      <description>&lt;h1 id=&#34;equation-of-motion-graphical-treatment&#34;&gt;Equation of Motion (Graphical Treatment)&lt;/h1&gt;&#xA;&lt;p&gt;The equations of motion describe the relationship between displacement, velocity, acceleration, and time in uniformly accelerated motion. Graphical treatment provides an intuitive understanding of these equations using velocity-time graphs.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;1-first-equation-of-motion-v--u--at&#34;&gt;1. First Equation of Motion: $v = u + at$&lt;/h2&gt;&#xA;&lt;h3 id=&#34;graphical-derivation&#34;&gt;Graphical Derivation&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Consider a velocity-time graph where:&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Initial velocity = $u$ (at $t = 0$),&lt;/li&gt;&#xA;&lt;li&gt;Final velocity = $v$ (at time $t$),&lt;/li&gt;&#xA;&lt;li&gt;Acceleration = $a$.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The slope of the velocity-time graph represents acceleration:&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Instantaneous Velocity and Acceleration</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/kinematics/instantaneous-velocity-acceleration/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/kinematics/instantaneous-velocity-acceleration/</guid>
+      <description>&lt;h1 id=&#34;instantaneous-velocity-and-acceleration&#34;&gt;Instantaneous Velocity and Acceleration&lt;/h1&gt;&#xA;&lt;p&gt;In the study of motion (kinematics), instantaneous velocity and instantaneous acceleration are crucial concepts to analyze the motion of objects at specific moments in time.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;instantaneous-velocity&#34;&gt;Instantaneous Velocity&lt;/h2&gt;&#xA;&lt;p&gt;&lt;strong&gt;Definition&lt;/strong&gt;: Instantaneous velocity is the velocity of an object at a particular moment in time. It is a vector quantity that gives the rate of change of displacement with respect to time.&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Mathematical Expression&lt;/strong&gt;:&lt;br&gt;&#xA;If the position of a particle is given by $x(t)$, the instantaneous velocity $v(t)$ is the derivative of displacement with respect to time:&lt;br&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Linear Momentum and Impulse</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/dynamics/linear-momentum-impulse/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/dynamics/linear-momentum-impulse/</guid>
+      <description>&lt;h1 id=&#34;linear-momentum-and-impulse&#34;&gt;Linear Momentum and Impulse&lt;/h1&gt;&#xA;&lt;p&gt;Linear momentum and impulse are essential concepts in dynamics, helping explain how forces act on objects over time and how motion is influenced by external interactions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;linear-momentum&#34;&gt;Linear Momentum&lt;/h2&gt;&#xA;&lt;h3 id=&#34;definition&#34;&gt;Definition&lt;/h3&gt;&#xA;&lt;p&gt;Linear momentum ($p$) is the product of an object&amp;rsquo;s mass ($m$) and its velocity ($v$). It is a vector quantity, having both magnitude and direction.&lt;/p&gt;&#xA;$$&#xD;&#xA;p = mv&#xD;&#xA;$$&lt;h3 id=&#34;si-unit&#34;&gt;SI Unit&lt;/h3&gt;&#xA;&lt;p&gt;The SI unit of linear momentum is $\text{kg·m/s}$.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Moment, Torque, and Equilibrium</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/dynamics/moment-torque-equilibrium/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/dynamics/moment-torque-equilibrium/</guid>
+      <description>&lt;h1 id=&#34;moment-torque-and-equilibrium&#34;&gt;Moment, Torque, and Equilibrium&lt;/h1&gt;&#xA;&lt;p&gt;In rotational motion, the concepts of moment, torque, and equilibrium are essential in understanding how forces affect the rotation of objects. These concepts are widely used in mechanical engineering, physics, and everyday life.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;moment-of-a-force&#34;&gt;Moment of a Force&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;moment&lt;/strong&gt; (or &lt;strong&gt;torque&lt;/strong&gt;) of a force about a point is the measure of the force&amp;rsquo;s ability to cause rotation about that point. It is calculated as the product of the force and the perpendicular distance from the point of rotation to the line of action of the force.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Motion in a Vertical Circle</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/vertical-circle/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/vertical-circle/</guid>
+      <description>&lt;h1 id=&#34;motion-in-a-vertical-circle&#34;&gt;Motion in a Vertical Circle&lt;/h1&gt;&#xA;&lt;p&gt;In the case of &lt;strong&gt;motion in a vertical circle&lt;/strong&gt;, an object moves along a circular path under the influence of gravity and tension in the string (or any other force providing the centripetal force). The forces acting on the object in different parts of the circular path are crucial for understanding its motion.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;forces-acting-on-an-object-in-a-vertical-circle&#34;&gt;Forces Acting on an Object in a Vertical Circle&lt;/h2&gt;&#xA;&lt;p&gt;In vertical circular motion, there are two main forces acting on the object:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Motion of a Freely Falling Body</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/kinematics/freely-falling-body/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/kinematics/freely-falling-body/</guid>
+      <description>&lt;h1 id=&#34;motion-of-a-freely-falling-body&#34;&gt;Motion of a Freely Falling Body&lt;/h1&gt;&#xA;&lt;p&gt;A freely falling body is an object that moves under the influence of gravity alone, without air resistance. The motion is uniformly accelerated, with the acceleration equal to the acceleration due to gravity, $g$. On Earth, $g \approx 9.8 \, \text{m/s}^2$.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-concepts&#34;&gt;Key Concepts&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Initial Velocity ($u$):&lt;/strong&gt; If dropped from rest, $u = 0$.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Acceleration ($a$):&lt;/strong&gt; $a = g$ for a freely falling body.&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Direction of Motion:&lt;/strong&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Downward motion is positive ($g = +9.8 \, \text{m/s}^2$).&lt;/li&gt;&#xA;&lt;li&gt;Upward motion (against gravity) is negative ($g = -9.8 \, \text{m/s}^2$).&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;The equations of motion apply directly, with $a$ replaced by $g$.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Power</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/work-energy-power/power/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/work-energy-power/power/</guid>
+      <description>&lt;h1 id=&#34;power&#34;&gt;Power&lt;/h1&gt;&#xA;&lt;p&gt;In physics, &lt;strong&gt;power&lt;/strong&gt; is defined as the rate at which work is done or energy is transferred. It measures how quickly energy is used or produced. Power plays a crucial role in various physical processes, ranging from mechanical systems to electrical circuits.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;definition-of-power&#34;&gt;Definition of Power&lt;/h2&gt;&#xA;&lt;p&gt;Power is the amount of work done per unit of time. It quantifies how fast energy is transferred or converted. The mathematical expression for power is:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Projectile Motion and Its Applications</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/kinematics/projectile-motion/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/kinematics/projectile-motion/</guid>
+      <description>&lt;h1 id=&#34;projectile-motion-and-its-applications&#34;&gt;Projectile Motion and Its Applications&lt;/h1&gt;&#xA;&lt;p&gt;Projectile motion is the motion of an object that is launched into the air and moves under the influence of gravity. It follows a curved trajectory, called a parabola, resulting from the combination of horizontal and vertical motions.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;key-features-of-projectile-motion&#34;&gt;Key Features of Projectile Motion&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Initial Velocity ($u$):&lt;/strong&gt; The velocity with which the projectile is launched. It has two components:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Horizontal component ($u_x$):&lt;/strong&gt; $u_x = u \cos \theta$&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Vertical component ($u_y$):&lt;/strong&gt; $u_y = u \sin \theta$&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Acceleration:&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Relation between Angular and Linear Velocity and Acceleration</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/angular-linear-velocity-acceleration/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/angular-linear-velocity-acceleration/</guid>
+      <description>&lt;h1 id=&#34;relation-between-angular-and-linear-velocity-and-acceleration&#34;&gt;Relation between Angular and Linear Velocity and Acceleration&lt;/h1&gt;&#xA;&lt;p&gt;In circular motion, the motion of an object can be described using both &lt;strong&gt;angular&lt;/strong&gt; and &lt;strong&gt;linear&lt;/strong&gt; quantities. Angular quantities (like angular displacement, angular velocity, and angular acceleration) describe the motion in terms of angles and rotation, while linear quantities (like displacement, velocity, and acceleration) describe the motion in terms of straight-line movement.&lt;/p&gt;&#xA;&lt;p&gt;There is a direct relationship between the angular and linear quantities, and these relationships are essential for understanding the motion of an object in a circular path.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Relative Velocity</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/kinematics/relative-velocity/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/kinematics/relative-velocity/</guid>
+      <description>&lt;h1 id=&#34;relative-velocity&#34;&gt;Relative Velocity&lt;/h1&gt;&#xA;&lt;p&gt;Relative velocity is a measure of the velocity of one object as observed from another moving object. It helps us understand how the motion of one object appears relative to another.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;concept-of-relative-velocity&#34;&gt;Concept of Relative Velocity&lt;/h2&gt;&#xA;&lt;h3 id=&#34;1-definition&#34;&gt;1. &lt;strong&gt;Definition&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;p&gt;The relative velocity of an object $A$ with respect to another object $B$ is given by:&#xA;&lt;/p&gt;&#xA;$$&#xD;&#xA;\vec{v}_{AB} = \vec{v}_A - \vec{v}_B&#xD;&#xA;$$&lt;p&gt;&#xA;where:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;$\vec{v}_A$ is the velocity of object $A$,&lt;/li&gt;&#xA;&lt;li&gt;$\vec{v}_B$ is the velocity of object $B$.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;2-key-points&#34;&gt;2. &lt;strong&gt;Key Points&lt;/strong&gt;&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Relative velocity is a &lt;strong&gt;vector quantity&lt;/strong&gt;.&lt;/li&gt;&#xA;&lt;li&gt;It depends on both the &lt;strong&gt;magnitude&lt;/strong&gt; and &lt;strong&gt;direction&lt;/strong&gt; of velocities.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;cases-of-relative-velocity&#34;&gt;Cases of Relative Velocity&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Objects Moving in the Same Direction&lt;/strong&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Solid Friction: Laws of Solid Friction and Their Verifications</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/dynamics/solid-friction/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/dynamics/solid-friction/</guid>
+      <description>&lt;h1 id=&#34;solid-friction-laws-of-solid-friction-and-their-verifications&#34;&gt;Solid Friction: Laws of Solid Friction and Their Verifications&lt;/h1&gt;&#xA;&lt;p&gt;Friction is the resistive force that opposes the relative motion or tendency of motion between two surfaces in contact. Solid friction plays a significant role in everyday life, such as in walking, driving, and the working of machines. It is essential to understand the laws of friction and how they can be verified experimentally.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;laws-of-solid-friction&#34;&gt;Laws of Solid Friction&lt;/h2&gt;&#xA;&lt;p&gt;There are two primary laws of solid friction that describe the relationship between the frictional force and other physical quantities:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Work Done by a Constant Force and a Variable Force</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/work-energy-power/work-done-constant-force/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/work-energy-power/work-done-constant-force/</guid>
+      <description>&lt;h1 id=&#34;work-done-by-a-constant-force-and-a-variable-force&#34;&gt;Work Done by a Constant Force and a Variable Force&lt;/h1&gt;&#xA;&lt;p&gt;In physics, &lt;strong&gt;work&lt;/strong&gt; is done when a force is applied to an object, and the object moves in the direction of the applied force. The work-energy principle states that work done is related to the change in energy of an object. The calculation of work varies depending on whether the force applied is constant or variable.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;work-done-by-a-constant-force&#34;&gt;Work Done by a Constant Force&lt;/h2&gt;&#xA;&lt;p&gt;When a constant force is applied to an object, the work done is calculated using the following formula:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Work-Energy Theorem; Kinetic and Potential Energy</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/work-energy-power/work-energy-theorem/</link>
+      <pubDate>Tue, 03 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/work-energy-power/work-energy-theorem/</guid>
+      <description>&lt;h1 id=&#34;work-energy-theorem-kinetic-and-potential-energy&#34;&gt;Work-Energy Theorem; Kinetic and Potential Energy&lt;/h1&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Work-Energy Theorem&lt;/strong&gt; states that the work done on an object is equal to the change in its kinetic energy. This theorem forms the foundation for understanding the relationship between work and energy.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;work-energy-theorem&#34;&gt;Work-Energy Theorem&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Work-Energy Theorem&lt;/strong&gt; expresses the connection between work and kinetic energy. It states that the total work done on an object is equal to the change in its kinetic energy. Mathematically, the work-energy theorem is expressed as:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Dimensions and Uses of Dimensional Analysis</title>
       <link>https://gyanpedia.com/notes/neb/physics11/mechanics/physical-quantities/dimensional-analysis/</link>
@@ -11192,7 +11353,7 @@
       <link>https://gyanpedia.com/notes/neb/physics11/</link>
       <pubDate>Thu, 17 Oct 2024 00:00:00 +0000</pubDate>
       <guid>https://gyanpedia.com/notes/neb/physics11/</guid>
-      <description>&lt;h1 id=&#34;class-11-physics&#34;&gt;Class 11 Physics&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Subject Code&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;PHY 101&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Theory&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;75 Marks (Duration: 2.5 Hours)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Practical&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;25 Marks&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Total Marks&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;100 Marks&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;part-i-mechanics&#34;&gt;Part I: Mechanics&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-physical-quantities&#34;&gt;1. Physical Quantities&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./mechanics/physical-quantities/precision-significant-figures/&#34;&gt;1.1 Precision and significant figures&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./mechanics/physical-quantities/dimensional-analysis/&#34;&gt;1.2 Dimensions and uses of dimensional analysis&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;2-vectors&#34;&gt;2. Vectors&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;vectors/triangle-parallelogram-polygon.html&#34;&gt;2.1 Triangle, parallelogram and polygon laws of vectors&lt;/a&gt;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./mechanics/vectors/laws/triangle/&#34;&gt;2.1.1 Triangle law of vectors&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./mechanics/vectors/laws/parallelogram/&#34;&gt;2.1.2 Parallelogram law of vectors&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./mechanics/vectors/laws/polygon/&#34;&gt;2.1.3 Polygon law of vectors&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./mechanics/vectors/resolution-unit-vectors/&#34;&gt;2.2 Resolution of vectors; Unit vectors&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./mechanics/vectors/scalar-vector-products/&#34;&gt;2.3 Scalar and vector products&lt;/a&gt;&lt;/p&gt;</description>
+      <description>&lt;h1 id=&#34;class-11-physics&#34;&gt;Class 11 Physics&lt;/h1&gt;&#xA;&lt;hr&gt;&#xA;&lt;table&gt;&#xA;  &lt;thead&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;Subject Code&lt;/th&gt;&#xA;          &lt;th style=&#34;text-align: left&#34;&gt;PHY 101&lt;/th&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/thead&gt;&#xA;  &lt;tbody&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Theory&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;75 Marks (Duration: 2.5 Hours)&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Practical&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;25 Marks&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;      &lt;tr&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;Total Marks&lt;/td&gt;&#xA;          &lt;td style=&#34;text-align: left&#34;&gt;100 Marks&lt;/td&gt;&#xA;      &lt;/tr&gt;&#xA;  &lt;/tbody&gt;&#xA;&lt;/table&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;part-i-mechanics&#34;&gt;Part I: Mechanics&lt;/h2&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;1-physical-quantities&#34;&gt;1. Physical Quantities&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./mechanics/physical-quantities/precision-significant-figures/&#34;&gt;1.1 Precision and significant figures&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./mechanics/physical-quantities/dimensional-analysis/&#34;&gt;1.2 Dimensions and uses of dimensional analysis&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h3 id=&#34;2-vectors&#34;&gt;2. Vectors&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;2.1 Triangle, parallelogram and polygon laws of vectors&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./mechanics/vectors/laws/triangle/&#34;&gt;2.1.1 Triangle law of vectors&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./mechanics/vectors/laws/parallelogram/&#34;&gt;2.1.2 Parallelogram law of vectors&lt;/a&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;./mechanics/vectors/laws/polygon/&#34;&gt;2.1.3 Polygon law of vectors&lt;/a&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./mechanics/vectors/resolution-unit-vectors/&#34;&gt;2.2 Resolution of vectors; Unit vectors&lt;/a&gt;&lt;/p&gt;&#xA;&lt;/li&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;a href=&#34;./mechanics/vectors/scalar-vector-products/&#34;&gt;2.3 Scalar and vector products&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Class 12 Biology</title>
