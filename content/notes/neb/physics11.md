@@ -104,16 +104,16 @@ layout: "non_math_mode"
 
 ### 7. Gravitation
 
-- [7.1 Newton’s law of gravitation](gravitation/newton-law-gravitation.html)
-- [7.2 Gravitational field strength](gravitation/gravitational-field-strength.html)
-- [7.3 Gravitational potential; Gravitational potential energy](gravitation/gravitational-potential-energy.html)
-- [7.4 Variation in value of ‘g’ due to altitude and depth](gravitation/variation-g-altitude-depth.html)
-- [7.5 Centre of mass and center of gravity](gravitation/center-of-mass-gravity.html)
-- [7.6 Motion of a satellite: Orbital velocity and time period of the satellite](gravitation/motion-of-satellite.html)
-- [7.7 Escape velocity](gravitation/escape-velocity.html)
-- [7.8 Potential and kinetic energy of the satellite](gravitation/potential-kinetic-energy-satellite.html)
-- [7.9 Geostationary satellite](gravitation/geostationary-satellite.html)
-- [7.10 GPS](gravitation/gps.html)
+- [7.1 Newton’s law of gravitation](./mechanics/gravitation/newton-law-gravitation/)
+- [7.2 Gravitational field strength](./mechanics/gravitation/gravitational-field-strength/)
+- [7.3 Gravitational potential; Gravitational potential energy](./mechanics/gravitation/gravitational-potential-energy/)
+- [7.4 Variation in value of ‘g’ due to altitude and depth](./mechanics/gravitation/variation-g-altitude-depth/)
+- [7.5 Centre of mass and center of gravity](./mechanics/gravitation/center-of-mass-gravity/)
+- [7.6 Motion of a satellite: Orbital velocity and time period of the satellite](./mechanics/gravitation/motion-of-satellite/)
+- [7.7 Escape velocity](./mechanics/gravitation/escape-velocity/)
+- [7.8 Potential and kinetic energy of the satellite](./mechanics/gravitation/potential-kinetic-energy-satellite/)
+- [7.9 Geostationary satellite](./mechanics/gravitation/geostationary-satellite/)
+- [7.10 GPS](./mechanics/gravitation/gps/)
 
 ---
 

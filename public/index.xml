@@ -6,8 +6,78 @@
     <description>Recent content on Gyanpedia</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 03 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Dec 2024 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://gyanpedia.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Centre of Mass and Centre of Gravity</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/center-of-mass-gravity/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/center-of-mass-gravity/</guid>
+      <description>&lt;h1 id=&#34;centre-of-mass-and-centre-of-gravity&#34;&gt;Centre of Mass and Centre of Gravity&lt;/h1&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Centre of Mass (COM)&lt;/strong&gt; and &lt;strong&gt;Centre of Gravity (COG)&lt;/strong&gt; are two key points in a body that simplify its motion and interaction with gravitational fields.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;centre-of-mass-com&#34;&gt;Centre of Mass (COM)&lt;/h2&gt;&#xA;&lt;h3 id=&#34;definition&#34;&gt;Definition&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;centre of mass&lt;/strong&gt; is the point at which the entire mass of a system or body can be considered to be concentrated for analyzing its motion.&lt;/p&gt;&#xA;&lt;h3 id=&#34;formula&#34;&gt;Formula&lt;/h3&gt;&#xA;&lt;p&gt;For a system of particles:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Escape Velocity</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/escape-velocity/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/escape-velocity/</guid>
+      <description>&lt;h1 id=&#34;escape-velocity&#34;&gt;Escape Velocity&lt;/h1&gt;&#xA;&lt;p&gt;&lt;strong&gt;Escape velocity&lt;/strong&gt; is the minimum velocity required for an object to overcome a planet&amp;rsquo;s gravitational pull and move away into space without falling back.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;derivation-of-escape-velocity&#34;&gt;Derivation of Escape Velocity&lt;/h2&gt;&#xA;&lt;p&gt;The escape velocity is derived using the principle of energy conservation.&lt;/p&gt;&#xA;&lt;h3 id=&#34;concept&#34;&gt;Concept&lt;/h3&gt;&#xA;&lt;p&gt;For an object of mass $m$ to escape from the gravitational field of a planet of mass $M$, its total mechanical energy (kinetic + potential) must be zero or greater.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Geostationary Satellite</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/geostationary-satellite/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/geostationary-satellite/</guid>
+      <description>&lt;h1 id=&#34;geostationary-satellite&#34;&gt;Geostationary Satellite&lt;/h1&gt;&#xA;&lt;p&gt;A &lt;strong&gt;geostationary satellite&lt;/strong&gt; is a satellite that orbits the Earth at the same rotational speed as the Earth&amp;rsquo;s rotation. This results in the satellite remaining in a fixed position relative to a specific point on the Earth&amp;rsquo;s surface. These satellites are primarily used for communication, weather forecasting, and surveillance.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;characteristics-of-geostationary-satellites&#34;&gt;Characteristics of Geostationary Satellites&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Orbital Period&lt;/strong&gt;: A geostationary satellite orbits the Earth once every 24 hours, which matches the Earth&amp;rsquo;s rotational period. This ensures that the satellite stays above the same point on the Earth&amp;rsquo;s surface.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Global Positioning System (GPS)</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/gps/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/gps/</guid>
+      <description>&lt;h1 id=&#34;global-positioning-system-gps&#34;&gt;Global Positioning System (GPS)&lt;/h1&gt;&#xA;&lt;p&gt;The &lt;strong&gt;Global Positioning System (GPS)&lt;/strong&gt; is a satellite-based navigation system that provides location and time information in all weather conditions, anywhere on or near the Earth’s surface. GPS is widely used in applications such as navigation, mapping, and geophysical studies.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;components-of-gps&#34;&gt;Components of GPS&lt;/h2&gt;&#xA;&lt;p&gt;GPS is made up of three major components:&lt;/p&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;&#xA;&lt;p&gt;&lt;strong&gt;Space Segment&lt;/strong&gt;:&lt;br&gt;&#xA;This consists of a constellation of about 24 to 30 satellites orbiting the Earth at an altitude of approximately 20,000 km. These satellites transmit signals to the Earth&amp;rsquo;s surface.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gravitational Field Strength</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/gravitational-field-strength/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/gravitational-field-strength/</guid>
+      <description>&lt;h1 id=&#34;gravitational-field-strength&#34;&gt;Gravitational Field Strength&lt;/h1&gt;&#xA;&lt;p&gt;The gravitational field strength at a point is the gravitational force per unit mass experienced by an object placed at that point. It is a vector quantity that represents the intensity of the gravitational field.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;definition&#34;&gt;Definition&lt;/h2&gt;&#xA;&lt;p&gt;Gravitational field strength ($g$) is defined as:&lt;br&gt;&#xA;&lt;/p&gt;&#xA;$$ g = \frac{F}{m} $$&lt;p&gt;where:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;$g$ = gravitational field strength (N/kg)&lt;/li&gt;&#xA;&lt;li&gt;$F$ = gravitational force acting on a mass (N)&lt;/li&gt;&#xA;&lt;li&gt;$m$ = mass of the object experiencing the force (kg)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;formula-for-gravitational-field-strength&#34;&gt;Formula for Gravitational Field Strength&lt;/h2&gt;&#xA;&lt;p&gt;Using Newton&amp;rsquo;s law of gravitation, the force between two masses $M$ (source mass) and $m$ (test mass) separated by a distance $r$ is:&lt;br&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Gravitational Potential and Gravitational Potential Energy</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/gravitational-potential-energy/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/gravitational-potential-energy/</guid>
+      <description>&lt;h1 id=&#34;gravitational-potential-and-gravitational-potential-energy&#34;&gt;Gravitational Potential and Gravitational Potential Energy&lt;/h1&gt;&#xA;&lt;p&gt;Gravitational potential and potential energy are concepts related to the work done by gravity. They are crucial for understanding energy transformations in gravitational fields.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;gravitational-potential&#34;&gt;Gravitational Potential&lt;/h2&gt;&#xA;&lt;h3 id=&#34;definition&#34;&gt;Definition&lt;/h3&gt;&#xA;&lt;p&gt;Gravitational potential ($V$) at a point is defined as the work done in bringing a unit mass from infinity to that point in a gravitational field.&lt;/p&gt;&#xA;&lt;h3 id=&#34;formula&#34;&gt;Formula&lt;/h3&gt;&#xA;$$ V = - \frac{GM}{r} $$&lt;p&gt;where:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;$V$ = gravitational potential (J/kg)&lt;/li&gt;&#xA;&lt;li&gt;$G$ = gravitational constant ($6.674 \times 10^{-11} \, \text{Nm}^2/\text{kg}^2$)&lt;/li&gt;&#xA;&lt;li&gt;$M$ = mass of the source (kg)&lt;/li&gt;&#xA;&lt;li&gt;$r$ = distance from the source mass to the point (m)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;key-points&#34;&gt;Key Points&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Gravitational potential is scalar and always negative due to the attractive nature of gravity.&lt;/li&gt;&#xA;&lt;li&gt;Its value increases (becomes less negative) as the distance from the source mass increases.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;gravitational-potential-energy&#34;&gt;Gravitational Potential Energy&lt;/h2&gt;&#xA;&lt;h3 id=&#34;definition-1&#34;&gt;Definition&lt;/h3&gt;&#xA;&lt;p&gt;Gravitational potential energy ($U$) of a system is the energy stored due to the gravitational attraction between two masses.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Motion of a Satellite: Orbital Velocity and Time Period</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/motion-of-satellite/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/motion-of-satellite/</guid>
+      <description>&lt;h1 id=&#34;motion-of-a-satellite-orbital-velocity-and-time-period&#34;&gt;Motion of a Satellite: Orbital Velocity and Time Period&lt;/h1&gt;&#xA;&lt;p&gt;Satellites revolve around planets due to the gravitational force acting as the centripetal force. The motion of a satellite is determined by its &lt;strong&gt;orbital velocity&lt;/strong&gt; and &lt;strong&gt;time period&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;orbital-velocity&#34;&gt;Orbital Velocity&lt;/h2&gt;&#xA;&lt;h3 id=&#34;definition&#34;&gt;Definition&lt;/h3&gt;&#xA;&lt;p&gt;The &lt;strong&gt;orbital velocity&lt;/strong&gt; is the minimum velocity required by a satellite to maintain its orbit around a planet.&lt;/p&gt;&#xA;&lt;h3 id=&#34;derivation&#34;&gt;Derivation&lt;/h3&gt;&#xA;&lt;p&gt;For a satellite of mass $m$ orbiting a planet of mass $M$ at a distance $r$ (from the center of the planet):&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Newton’s Law of Gravitation</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/newton-law-gravitation/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/newton-law-gravitation/</guid>
+      <description>&lt;h1 id=&#34;newtons-law-of-gravitation&#34;&gt;Newton’s Law of Gravitation&lt;/h1&gt;&#xA;&lt;p&gt;Newton’s law of gravitation explains the universal force of attraction between any two bodies in the universe. It is fundamental to understanding planetary motion, tides, and satellite dynamics.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;the-law&#34;&gt;The Law&lt;/h2&gt;&#xA;&lt;p&gt;Newton’s law of gravitation states:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Every particle in the universe attracts every other particle with a force that is directly proportional to the product of their masses and inversely proportional to the square of the distance between them.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Potential and Kinetic Energy of the Satellite</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/potential-kinetic-energy-satellite/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/potential-kinetic-energy-satellite/</guid>
+      <description>&lt;h1 id=&#34;potential-and-kinetic-energy-of-the-satellite&#34;&gt;Potential and Kinetic Energy of the Satellite&lt;/h1&gt;&#xA;&lt;p&gt;When a satellite orbits a planet, its total energy is the sum of its kinetic energy and potential energy. The nature of these energies depends on the satellite&amp;rsquo;s position and velocity in orbit.&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;potential-energy-of-the-satellite&#34;&gt;Potential Energy of the Satellite&lt;/h2&gt;&#xA;&lt;p&gt;The &lt;strong&gt;gravitational potential energy&lt;/strong&gt; ($P.E.$) of a satellite is the energy due to its position in the gravitational field of the planet. The gravitational potential energy is given by:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Variation in the Value of &#39;g&#39; Due to Altitude and Depth</title>
+      <link>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/variation-g-altitude-depth/</link>
+      <pubDate>Wed, 04 Dec 2024 00:00:00 +0000</pubDate>
+      <guid>https://gyanpedia.com/notes/neb/physics11/mechanics/gravitation/variation-g-altitude-depth/</guid>
+      <description>&lt;h1 id=&#34;variation-in-the-value-of-g-due-to-altitude-and-depth&#34;&gt;Variation in the Value of &amp;lsquo;g&amp;rsquo; Due to Altitude and Depth&lt;/h1&gt;&#xA;&lt;p&gt;The acceleration due to gravity, $g$, is not constant across the Earth&amp;rsquo;s surface. It varies with altitude (height above Earth&amp;rsquo;s surface) and depth (distance below Earth&amp;rsquo;s surface).&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;variation-in-g-due-to-altitude&#34;&gt;Variation in $g$ Due to Altitude&lt;/h2&gt;&#xA;&lt;h3 id=&#34;formula&#34;&gt;Formula&lt;/h3&gt;&#xA;&lt;p&gt;For an object at altitude $h$ above the Earth&amp;rsquo;s surface:&lt;/p&gt;&#xA;$$ g_h = g \left( \frac{R}{R + h} \right)^2 $$&lt;p&gt;where:&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;$g_h$ = value of $g$ at height $h$&lt;/li&gt;&#xA;&lt;li&gt;$g$ = value of $g$ on Earth&amp;rsquo;s surface&lt;/li&gt;&#xA;&lt;li&gt;$R$ = Earth&amp;rsquo;s radius&lt;/li&gt;&#xA;&lt;li&gt;$h$ = altitude above Earth&amp;rsquo;s surface&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;key-points&#34;&gt;Key Points&lt;/h3&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;As $h$ increases, $g_h$ decreases.&lt;/li&gt;&#xA;&lt;li&gt;For $h \ll R$ (small height compared to Earth&amp;rsquo;s radius), the change can be approximated as:&lt;br&gt;&#xA;$$ \frac{\Delta g}{g} \approx \frac{-2h}{R} $$&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;variation-in-g-due-to-depth&#34;&gt;Variation in $g$ Due to Depth&lt;/h2&gt;&#xA;&lt;h3 id=&#34;formula-1&#34;&gt;Formula&lt;/h3&gt;&#xA;&lt;p&gt;For an object at depth $d$ below the Earth&amp;rsquo;s surface:&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Angular Displacement, Velocity, and Acceleration</title>
       <link>https://gyanpedia.com/notes/neb/physics11/mechanics/circular-motion/angular-displacement-velocity-acceleration/</link>
