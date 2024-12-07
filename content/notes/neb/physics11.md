@@ -123,17 +123,18 @@ layout: "non_math_mode"
 
 ### 9. Heat and Temperature
 
-- [9.1 Molecular concept of thermal energy, heat and temperature, and cause and direction of heat flow](heat-thermodynamics/molecular-concept-thermal-energy.html)
-- [9.2 Meaning of thermal equilibrium and Zeroth law of thermodynamics](heat-thermodynamics/thermal-equilibrium-zeroth-law.html)
-- [9.3 Thermal equilibrium as a working principle of mercury thermometer](heat-thermodynamics/thermal-equilibrium-mercury-thermometer.html)
+- [9.1 Molecular concept of thermal energy, heat and temperature, and cause and direction of heat flow](./heat-thermodynamics/heat-temperature/molecular-concept-thermal-energy/)
+- [9.2 Meaning of thermal equilibrium and Zeroth law of thermodynamics](./heat-thermodynamics/heat-temperature/thermal-equilibrium-zeroth-law/)
+- [9.3 Thermal equilibrium as a working principle of mercury thermometer](./heat-thermodynamics/heat-temperature/mercury-thermometer/)
 
 ---
 
-### 9. Heat and Temperature
+### 10. Thermal Expansion
 
-- [9.1 Molecular concept of thermal energy, heat and temperature, and cause and direction of heat flow](heat-thermodynamics/molecular-concept-thermal-energy.html)
-- [9.2 Meaning of thermal equilibrium and Zeroth law of thermodynamics](heat-thermodynamics/thermal-equilibrium-zeroth-law.html)
-- [9.3 Thermal equilibrium as a working principle of mercury thermometer](heat-thermodynamics/thermal-equilibrium-mercury-thermometer.html)
+- [10.1 Linear expansion and its measurement](./heat-thermodynamics/thermal-expansion/linear-expansion-measurement/)
+- [10.2 Cubical expansion, superficial expansion, and its relation with linear expansion](./heat-thermodynamics/thermal-expansion/cubical-superficial-linear-relation/)
+- [10.3 Liquid expansion: Absolute and apparent](./heat-thermodynamics/thermal-expansion/liquid-expansion-absolute-apparent/)
+- [10.4 Dulong and Petit method of determining expansivity of liquid](./heat-thermodynamics/thermal-expansion/dulong-petit-method-liquid-expansivity/)
 
 ---
 
