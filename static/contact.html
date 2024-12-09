@@ -93,7 +93,7 @@
     <div class="wrapper">
       <!-- header.html -->
       <header>
-        <a href="/index.html">
+        <a href="/index">
           <img id="logo" src="/logo.png" alt="Logo" />
         </a>
         <div class="search-container">
@@ -110,8 +110,14 @@
         <!-- Contact Info Section -->
         <section class="contact-info">
           <h2>Get in Touch</h2>
-          <p>If you have any questions or need assistance, feel free to reach out to us. We are here to help!</p>
-          <p><strong>Email:</strong> <a href="mailto:contact@gyanpedia.com">contact@gyanpedia.com</a></p>
+          <p>
+            If you have any questions or need assistance, feel free to reach out
+            to us. We are here to help!
+          </p>
+          <p>
+            <strong>Email:</strong>
+            <a href="mailto:contact@gyanpedia.com">contact@gyanpedia.com</a>
+          </p>
           <p><strong>Phone:</strong> +977-9846187550</p>
           <p><strong>Address:</strong> Garangdi, Syangja, Nepal</p>
         </section>
@@ -150,10 +156,10 @@
       <footer>
         <div class="footer-row">
           <ul class="footer-links">
-            <li><a href="/about.html">About</a></li>
-            <li><a href="/contact.html">Contact</a></li>
-            <li><a href="/privacy.html">Privacy</a></li>
-            <li><a href="/terms.html">Terms</a></li>
+            <li><a href="/about">About</a></li>
+            <li><a href="/contact">Contact</a></li>
+            <li><a href="/privacy">Privacy</a></li>
+            <li><a href="/terms">Terms</a></li>
           </ul>
         </div>
         <div class="footer-row copyright">
@@ -196,7 +202,8 @@
           emailjs
             .send("service_e6im5rr", "template_wrvmq6k", templateParams)
             .then((response) => {
-              formResponse.textContent = "Thank you for reaching out! We'll get back to you soon.";
+              formResponse.textContent =
+                "Thank you for reaching out! We'll get back to you soon.";
               formResponse.classList.remove("error");
               document.getElementById("contactForm").reset(); // Reset the form
               console.log("SUCCESS!", response.status, response.text);
