@@ -1,0 +1,252 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+       Design Example for Gravity Loads on Solid Wall | Gyanpedia 
+    </title>
+
+    
+     <meta name="keywords" content="Design Example , Masonry Wall , Gravity Loads , Solid Wall , Structural Design" /> 
+
+    
+    <link rel="stylesheet" href="/css/header.css" />
+    <link rel="stylesheet" href="/css/footer.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="/css/main.css" />
+
+    
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1728488366569054"
+      crossorigin="anonymous"
+    ></script>
+
+    
+    <script type="module" src="/js/search.js"></script>
+    <script type="module" src="/js/results.js"></script>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      
+      
+      <header>
+        <a href="/index.html">
+          <img id="logo" src="/logo.png" alt="Logo" />
+        </a>
+        <div class="search-container">
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Enter your subject name or code"
+          />
+          <button id="search-button"><i class="fas fa-search"></i></button>
+        </div>
+      </header>
+
+      
+      <main>
+        
+<article>
+  <div class="math-content"><h1 id="design-example-for-gravity-loads-on-solid-wall">Design Example for Gravity Loads on Solid Wall</h1>
+<p>In this design example, we will calculate the design of a <strong>solid masonry wall</strong> subjected to <strong>gravity loads</strong> using codal provisions. We will follow the <strong>IS 1905:1987</strong> for unreinforced masonry design. This example includes calculations for determining the wall thickness, material strength, and safety factors.</p>
+<hr>
+<h2 id="problem-statement">Problem Statement</h2>
+<p>Consider a <strong>solid masonry wall</strong> in a building subjected to gravity loads. The wall is part of a load-bearing structure, supporting the <strong>roof load</strong> and its own <strong>self-weight</strong>.</p>
+<ul>
+<li><strong>Height of the wall</strong>: 4.5 m</li>
+<li><strong>Length of the wall</strong>: 6 m</li>
+<li><strong>Thickness of the wall (initial guess)</strong>: 250 mm</li>
+<li><strong>Compressive strength of masonry</strong>: 7 MPa (7000 kN/m²)</li>
+<li><strong>Density of masonry (bricks)</strong>: 20 kN/m³</li>
+<li><strong>Unit weight of the wall</strong>: 20 kN/m³</li>
+<li><strong>Total imposed load on the wall (roof load)</strong>: 30 kN/m² (uniformly distributed load)</li>
+</ul>
+<hr>
+<h2 id="step-1-calculate-the-self-weight-of-the-wall">Step 1: Calculate the Self-weight of the Wall</h2>
+<p>The self-weight of the wall is the weight per unit area, which depends on the thickness of the wall and the unit weight of the masonry.</p>
+$$
+W_{\text{self}} = \text{Unit weight of masonry} \times \text{Wall thickness} \times \text{Length of the wall}
+$$$$
+W_{\text{self}} = 20 \, \text{kN/m}^3 \times 0.25 \, \text{m} \times 6 \, \text{m} = 30 \, \text{kN/m}
+$$<p>So, the <strong>self-weight of the wall</strong> is <strong>30 kN/m</strong>.</p>
+<hr>
+<h2 id="step-2-calculate-the-total-gravity-load-on-the-wall">Step 2: Calculate the Total Gravity Load on the Wall</h2>
+<p>The total gravity load on the wall includes both the self-weight of the wall and the roof load imposed on it.</p>
+$$
+W_{\text{total}} = W_{\text{self}} + \text{Imposed load}
+$$$$
+W_{\text{total}} = 30 \, \text{kN/m} + 30 \, \text{kN/m}^2 \times 6 \, \text{m} = 30 \, \text{kN/m} + 180 \, \text{kN/m}
+$$<p>Thus, the <strong>total gravity load</strong> is <strong>210 kN/m</strong>.</p>
+<hr>
+<h2 id="step-3-check-the-wall-thickness-using-is-19051987">Step 3: Check the Wall Thickness Using IS 1905:1987</h2>
+<p>From the codal provisions, the minimum thickness of a wall under gravity loads is influenced by the material strength and the type of load. We will assume that the wall is unreinforced and calculate the minimum thickness using a basic formula provided in <strong>IS 1905:1987</strong> for <strong>unreinforced masonry</strong>.</p>
+$$
+t_{\text{min}} = \frac{W_{\text{total}}}{f_{\text{m}}}
+$$<p>Where:</p>
+<ul>
+<li>$f_{\text{m}}$ is the compressive strength of masonry (7 MPa or 7000 kN/m²).</li>
+</ul>
+$$
+t_{\text{min}} = \frac{210}{7000} = 0.03 \, \text{m} \quad (\text{30 mm})
+$$<p>This is just the minimum thickness. The actual thickness of the wall would be higher depending on additional design requirements, such as safety factors and wall stability, but this gives a baseline.</p>
+<hr>
+<h2 id="step-4-check-the-slenderness-ratio">Step 4: Check the Slenderness Ratio</h2>
+<p>According to codal provisions, the slenderness ratio (the ratio of the height of the wall to its thickness) should not exceed a specific limit to prevent instability and buckling.</p>
+<p>The <strong>slenderness ratio</strong> is given by:</p>
+$$
+\text{Slenderness ratio} = \frac{\text{Height of the wall}}{\text{Thickness of the wall}}
+$$<p>Assuming a wall thickness of 250 mm (0.25 m), the slenderness ratio is:</p>
+$$
+\text{Slenderness ratio} = \frac{4.5}{0.25} = 18
+$$<p>According to <strong>IS 1905</strong>, the slenderness ratio should typically not exceed <strong>20</strong> for masonry walls. Since the ratio is below the limit, the wall is safe in terms of slenderness.</p>
+<hr>
+<h2 id="step-5-check-for-stability">Step 5: Check for Stability</h2>
+<p>To ensure the stability of the wall under gravity loads, we also need to check for lateral stability, taking into account factors like lateral support, wind loads, and other lateral forces. In this case, we are primarily concerned with vertical gravity loads, and the wall is stable based on the slenderness ratio and other provisions.</p>
+<hr>
+<h2 id="step-6-final-design-and-wall-thickness">Step 6: Final Design and Wall Thickness</h2>
+<p>After considering all factors (self-weight, imposed loads, material strength, slenderness ratio), we conclude that a <strong>wall thickness of 250 mm</strong> is adequate for this design under the given gravity loads.</p>
+<hr>
+<h2 id="summary">Summary</h2>
+<p>In this design example, we calculated the gravity loads acting on a solid masonry wall, checked the wall thickness based on codal provisions, and verified the slenderness ratio and overall stability. The wall thickness required for the given loads is <strong>250 mm</strong>, which ensures that the wall is stable and can safely carry the gravity loads.</p>
+<hr>
+<h2 id="faqs">FAQs</h2>
+<h3 id="1-how-is-the-self-weight-of-the-wall-calculated">1. How is the self-weight of the wall calculated?</h3>
+<p>The self-weight is calculated by multiplying the unit weight of the masonry material, the thickness of the wall, and the length of the wall.</p>
+<h3 id="2-what-is-the-slenderness-ratio-in-masonry-design">2. What is the slenderness ratio in masonry design?</h3>
+<p>The slenderness ratio is the ratio of the height of the wall to its thickness. A higher ratio indicates a taller and thinner wall, which may be more susceptible to buckling.</p>
+<h3 id="3-what-does-is-19051987-provide-for-masonry-design">3. What does IS 1905:1987 provide for masonry design?</h3>
+<p>IS 1905:1987 provides guidelines for designing unreinforced masonry, including material properties, load considerations, and safety factors for wall thickness and stability.</p>
+<h3 id="4-why-is-a-minimum-wall-thickness-necessary">4. Why is a minimum wall thickness necessary?</h3>
+<p>The minimum wall thickness ensures that the wall can safely carry vertical loads without failure due to insufficient material strength.</p>
+<h3 id="5-how-do-you-calculate-the-total-gravity-load-on-the-wall">5. How do you calculate the total gravity load on the wall?</h3>
+<p>The total gravity load is the sum of the self-weight of the wall and the imposed loads from floors or roofs.</p>
+<h3 id="6-what-factors-influence-the-wall-thickness-design">6. What factors influence the wall thickness design?</h3>
+<p>Wall thickness is influenced by material strength, gravity loads, safety factors, and the required stability of the wall under vertical and lateral forces.</p>
+<h3 id="7-can-the-slenderness-ratio-exceed-the-specified-limit-in-masonry-design">7. Can the slenderness ratio exceed the specified limit in masonry design?</h3>
+<p>No, the slenderness ratio should not exceed the codal limit to prevent instability and ensure the wall does not buckle under vertical loads.</p>
+<h3 id="8-how-does-material-strength-affect-the-masonry-wall-design">8. How does material strength affect the masonry wall design?</h3>
+<p>Material strength affects the load-carrying capacity and the minimum required thickness of the wall to ensure safety and stability.</p>
+<h3 id="9-what-is-the-role-of-safety-factors-in-wall-design">9. What is the role of safety factors in wall design?</h3>
+<p>Safety factors account for uncertainties in material properties, construction quality, and other factors, ensuring that the wall is designed with an adequate margin of safety.</p>
+<h3 id="10-is-the-thickness-of-the-wall-the-only-consideration-in-design">10. Is the thickness of the wall the only consideration in design?</h3>
+<p>No, other factors such as the wall&rsquo;s slenderness ratio, reinforcement (if applicable), and lateral stability also need to be considered in the design.</p>
+</div>
+  
+</article>
+
+
+<script
+  id="MathJax-script"
+  async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"
+></script>
+<script>
+  window.MathJax = {
+    tex: {
+      inlineMath: [["$", "$"]],
+      displayMath: [["$$", "$$"]],
+    },
+  };
+</script>
+
+        
+        <div class="share-buttons">
+  <p>Share this page:</p>
+  <a
+    class="whatsapp"
+    href="https://wa.me/?text=Design%20Example%20for%20Gravity%20Loads%20on%20Solid%20Wall%20https%3a%2f%2fgyanpedia.com%2fioe%2fct%2fdesign-of-masonry-walls-for-gravity-loads%2fdesign-example-for-gravity-loads%2fsolid-wall%2f"
+    target="_blank"
+    aria-label="Share on WhatsApp"
+  >
+    <i class="fab fa-whatsapp"></i>
+  </a>
+  <a
+    class="messenger"
+    href="fb-messenger://share?link=https%3a%2f%2fgyanpedia.com%2fioe%2fct%2fdesign-of-masonry-walls-for-gravity-loads%2fdesign-example-for-gravity-loads%2fsolid-wall%2f"
+    target="_blank"
+    aria-label="Share on Messenger"
+  >
+    <i class="fab fa-facebook-messenger"></i>
+  </a>
+  <a
+    class="viber"
+    href="viber://forward?text=Design%20Example%20for%20Gravity%20Loads%20on%20Solid%20Wall%20https%3a%2f%2fgyanpedia.com%2fioe%2fct%2fdesign-of-masonry-walls-for-gravity-loads%2fdesign-example-for-gravity-loads%2fsolid-wall%2f"
+    target="_blank"
+    aria-label="Share on Viber"
+  >
+    <i class="fab fa-viber"></i>
+  </a>
+  <a
+    class="snapchat"
+    href="https://snapchat.com/share?text=Design%20Example%20for%20Gravity%20Loads%20on%20Solid%20Wall%20https%3a%2f%2fgyanpedia.com%2fioe%2fct%2fdesign-of-masonry-walls-for-gravity-loads%2fdesign-example-for-gravity-loads%2fsolid-wall%2f"
+    target="_blank"
+    aria-label="Share on Snapchat"
+  >
+    <i class="fab fa-snapchat-ghost"></i>
+  </a>
+</div>
+
+        
+        <div class="donate-website">
+  <button id="donateWebsiteButton" class="btn" onclick="openDonateForm()">
+    Donate
+  </button>
+</div>
+
+<style>
+  .donate-website {
+    display: flex;
+    justify-content: center;  
+    margin: 20px 0;  
+  }
+  .btn {
+    background-color: #4CAF50;  
+    color: white;
+    padding: 12px 20px;  
+    border: none;
+    border-radius: 20px;  
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;  
+  }
+  .btn:hover {
+    background-color: #45a049;  
+  }
+</style>
+
+<script>
+  function openDonateForm() {
+    
+    window.location.href = "/donate.html";
+  }
+</script>
+
+      </main>
+
+      
+      
+<footer>
+  <div class="footer-row">
+    <ul class="footer-links">
+      <li><a href="/about.html">About</a></li>
+      <li><a href="/contact.html">Contact</a></li>
+      <li><a href="/privacy.html">Privacy</a></li>
+      <li><a href="/terms.html">Terms</a></li>
+    </ul>
+  </div>
+  <div class="footer-row copyright">
+    <p>&copy; Gyanpedia</p>
+  </div>
+</footer>
+
+      
+    </div>
+    
+  </body>
+</html>

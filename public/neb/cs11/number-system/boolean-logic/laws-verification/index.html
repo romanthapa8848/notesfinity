@@ -1,0 +1,782 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>
+       Statement and Verification of Laws of Boolean Algebra using Truth Table | Gyanpedia 
+    </title>
+
+    
+     <meta name="keywords" content="Boolean algebra , Boolean laws , truth table , Boolean identities , verification , Boolean simplification" /> 
+
+    
+    <link rel="stylesheet" href="/css/header.css" />
+    <link rel="stylesheet" href="/css/footer.css" />
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
+    />
+    <link rel="stylesheet" href="/css/main.css" />
+
+    
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1728488366569054"
+      crossorigin="anonymous"
+    ></script>
+
+    
+    <script type="module" src="/js/search.js"></script>
+    <script type="module" src="/js/results.js"></script>
+  </head>
+
+  <body>
+    <div class="wrapper">
+      
+      
+      <header>
+        <a href="/index.html">
+          <img id="logo" src="/logo.png" alt="Logo" />
+        </a>
+        <div class="search-container">
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Enter your subject name or code"
+          />
+          <button id="search-button"><i class="fas fa-search"></i></button>
+        </div>
+      </header>
+
+      
+      <main>
+         <h1 id="statement-and-verification-of-laws-of-boolean-algebra-using-truth-table">Statement and Verification of Laws of Boolean Algebra using Truth Table</h1>
+<p>Boolean algebra is a mathematical structure used for the manipulation of logical statements. In Boolean algebra, different laws help simplify logical expressions. The verification of these laws is often done using truth tables.</p>
+<h2 id="1-complement-laws">1. <strong>Complement Laws</strong></h2>
+<h3 id="statement">Statement:</h3>
+<ul>
+<li><strong>A + A&rsquo; = 1</strong></li>
+<li><strong>A . A&rsquo; = 0</strong></li>
+</ul>
+<h3 id="truth-table">Truth Table:</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">A</th>
+          <th style="text-align: left">A'</th>
+          <th style="text-align: left">A + A'</th>
+          <th style="text-align: left">A . A'</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Verification:</strong></p>
+<ul>
+<li><strong>A + A&rsquo;</strong> is always 1, regardless of whether A is 0 or 1.</li>
+<li><strong>A . A&rsquo;</strong> is always 0, as A and its complement (A&rsquo;) can never both be true.</li>
+</ul>
+<hr>
+<h2 id="2-identity-laws">2. <strong>Identity Laws</strong></h2>
+<h3 id="statement-1">Statement:</h3>
+<ul>
+<li><strong>A + 0 = A</strong></li>
+<li><strong>A . 1 = A</strong></li>
+</ul>
+<h3 id="truth-table-1">Truth Table:</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">A</th>
+          <th style="text-align: left">0</th>
+          <th style="text-align: left">A + 0</th>
+          <th style="text-align: left">A . 1</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Verification:</strong></p>
+<ul>
+<li><strong>A + 0</strong> gives the value of A, whether A is 0 or 1.</li>
+<li><strong>A . 1</strong> also gives the value of A, whether A is 0 or 1.</li>
+</ul>
+<hr>
+<h2 id="3-null-laws">3. <strong>Null Laws</strong></h2>
+<h3 id="statement-2">Statement:</h3>
+<ul>
+<li><strong>A + 1 = 1</strong></li>
+<li><strong>A . 0 = 0</strong></li>
+</ul>
+<h3 id="truth-table-2">Truth Table:</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">A</th>
+          <th style="text-align: left">1</th>
+          <th style="text-align: left">A + 1</th>
+          <th style="text-align: left">A . 0</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Verification:</strong></p>
+<ul>
+<li><strong>A + 1</strong> is always 1, as adding 1 to any value results in 1.</li>
+<li><strong>A . 0</strong> is always 0, as multiplying any value by 0 results in 0.</li>
+</ul>
+<hr>
+<h2 id="4-idempotent-laws">4. <strong>Idempotent Laws</strong></h2>
+<h3 id="statement-3">Statement:</h3>
+<ul>
+<li><strong>A + A = A</strong></li>
+<li><strong>A . A = A</strong></li>
+</ul>
+<h3 id="truth-table-3">Truth Table:</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">A</th>
+          <th style="text-align: left">A + A</th>
+          <th style="text-align: left">A . A</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Verification:</strong></p>
+<ul>
+<li><strong>A + A</strong> is always equal to A, whether A is 0 or 1.</li>
+<li><strong>A . A</strong> is also always equal to A, whether A is 0 or 1.</li>
+</ul>
+<hr>
+<h2 id="5-commutative-laws">5. <strong>Commutative Laws</strong></h2>
+<h3 id="statement-4">Statement:</h3>
+<ul>
+<li><strong>A + B = B + A</strong></li>
+<li><strong>A . B = B . A</strong></li>
+</ul>
+<h3 id="truth-table-for-a--b--b--a">Truth Table for <strong>A + B = B + A</strong>:</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">A</th>
+          <th style="text-align: left">B</th>
+          <th style="text-align: left">A + B</th>
+          <th style="text-align: left">B + A</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="truth-table-for-a--b--b--a-1">Truth Table for <strong>A . B = B . A</strong>:</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">A</th>
+          <th style="text-align: left">B</th>
+          <th style="text-align: left">A . B</th>
+          <th style="text-align: left">B . A</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Verification:</strong></p>
+<ul>
+<li><strong>A + B = B + A</strong>: The sum is the same regardless of the order of A and B.</li>
+<li><strong>A . B = B . A</strong>: The product is the same regardless of the order of A and B.</li>
+</ul>
+<hr>
+<h2 id="6-associative-laws">6. <strong>Associative Laws</strong></h2>
+<h3 id="statement-5">Statement:</h3>
+<ul>
+<li><strong>(A + B) + C = A + (B + C)</strong></li>
+<li><strong>(A . B) . C = A . (B . C)</strong></li>
+</ul>
+<h3 id="truth-table-for-a--b--c--a--b--c">Truth Table for <strong>(A + B) + C = A + (B + C)</strong>:</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">A</th>
+          <th style="text-align: left">B</th>
+          <th style="text-align: left">C</th>
+          <th style="text-align: left">(A + B) + C</th>
+          <th style="text-align: left">A + (B + C)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="truth-table-for-a--b--c--a--b--c-1">Truth Table for <strong>(A . B) . C = A . (B . C)</strong>:</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">A</th>
+          <th style="text-align: left">B</th>
+          <th style="text-align: left">C</th>
+          <th style="text-align: left">(A . B) . C</th>
+          <th style="text-align: left">A . (B . C)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Verification:</strong></p>
+<ul>
+<li><strong>(A + B) + C = A + (B + C)</strong>: The result is the same regardless of the parentheses, meaning addition is associative.</li>
+<li><strong>(A . B) . C = A . (B . C)</strong>: The result is the same regardless of the parentheses, meaning multiplication is associative.</li>
+</ul>
+<hr>
+<h2 id="7-distributive-laws">7. <strong>Distributive Laws</strong></h2>
+<h3 id="statement-6">Statement:</h3>
+<ul>
+<li><strong>A . (B + C) = (A . B) + (A . C)</strong></li>
+<li><strong>A + (B . C) = (A + B) . (A + C)</strong></li>
+</ul>
+<h3 id="truth-table-for-a--b--c--a--b--a--c">Truth Table for <strong>A . (B + C) = (A . B) + (A . C)</strong>:</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">A</th>
+          <th style="text-align: left">B</th>
+          <th style="text-align: left">C</th>
+          <th style="text-align: left">A . (B + C)</th>
+          <th style="text-align: left">(A . B) + (A . C)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+  </tbody>
+</table>
+<h3 id="truth-table-for-a--b--c--a--b--a--c-1">Truth Table for <strong>A + (B . C) = (A + B) . (A + C)</strong>:</h3>
+<table>
+  <thead>
+      <tr>
+          <th style="text-align: left">A</th>
+          <th style="text-align: left">B</th>
+          <th style="text-align: left">C</th>
+          <th style="text-align: left">A + (B . C)</th>
+          <th style="text-align: left">(A + B) . (A + C)</th>
+      </tr>
+  </thead>
+  <tbody>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">0</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+      <tr>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+          <td style="text-align: left">1</td>
+      </tr>
+  </tbody>
+</table>
+<p><strong>Verification:</strong></p>
+<ul>
+<li><strong>A . (B + C) = (A . B) + (A . C)</strong>: The result confirms the distributive property for multiplication over addition.</li>
+<li><strong>A + (B . C) = (A + B) . (A + C)</strong>: The result confirms the distributive property for addition over multiplication.</li>
+</ul>
+<hr>
+<h2 id="summary">Summary</h2>
+<p>These laws form the foundation of Boolean algebra and are essential for simplifying Boolean expressions used in digital logic design. Truth tables provide a clear method for verifying the validity of these laws.</p>
+<hr>
+<h2 id="faqs">FAQs</h2>
+<h3 id="1-what-is-the-purpose-of-using-boolean-algebra">1. What is the purpose of using Boolean algebra?</h3>
+<p>Boolean algebra is used for simplifying and analyzing logical expressions, especially in the design of digital circuits and systems.</p>
+<h3 id="2-how-can-boolean-laws-help-simplify-logical-expressions">2. How can Boolean laws help simplify logical expressions?</h3>
+<p>By applying the Boolean laws, one can reduce complex logical expressions to simpler forms, making them easier to implement in digital circuits.</p>
+<h3 id="3-what-is-a-truth-table">3. What is a truth table?</h3>
+<p>A truth table is a table used to show all possible values of inputs and their corresponding output in a logical expression or circuit.</p>
+<h3 id="4-why-is-the-distributive-law-important-in-boolean-algebra">4. Why is the distributive law important in Boolean algebra?</h3>
+<p>The distributive law allows us to expand or factor logical expressions in a way that simplifies their implementation in circuits.</p>
+<h3 id="5-can-boolean-algebra-be-used-in-programming">5. Can Boolean algebra be used in programming?</h3>
+<p>Yes, Boolean algebra is widely used in programming, particularly in conditional statements and logical operations.</p>
+<h3 id="6-what-is-the-difference-between-and-and-or-operations-in-boolean-algebra">6. What is the difference between AND and OR operations in Boolean algebra?</h3>
+<p>AND gives a result of 1 only when all inputs are 1, whereas OR gives a result of 1 if at least one input is 1.</p>
+<h3 id="7-how-do-the-complement-laws-work-in-boolean-algebra">7. How do the complement laws work in Boolean algebra?</h3>
+<p>The complement laws state that a variable ANDed with its complement is 0, and ORed with its complement is 1.</p>
+<h3 id="8-what-is-the-role-of-the-identity-law-in-boolean-algebra">8. What is the role of the identity law in Boolean algebra?</h3>
+<p>The identity law states that any variable ORed with 0 remains the same, and any variable ANDed with 1 remains the same.</p>
+<h3 id="9-how-can-we-simplify-a-boolean-expression-using-the-commutative-law">9. How can we simplify a Boolean expression using the commutative law?</h3>
+<p>The commutative law allows us to rearrange the order of variables in an expression without changing its result.</p>
+<h3 id="10-can-boolean-laws-be-applied-to-digital-circuits">10. Can Boolean laws be applied to digital circuits?</h3>
+<p>Yes, Boolean laws are essential in designing and simplifying digital circuits like adders, multiplexers, and flip-flops.</p>
+<hr>
+<h2 id="mcqs">MCQs</h2>
+<h3 id="1-what-is-the-result-of-a--a-in-boolean-algebra">1. What is the result of <strong>A + A&rsquo;</strong> in Boolean algebra?</h3>
+<ul>
+<li>A) <strong>1 (✓)</strong></li>
+<li>B) 0</li>
+<li>C) Undefined</li>
+<li>D) None of the above</li>
+</ul>
+<h3 id="2-which-law-states-a--b--c--a--b--a--c">2. Which law states <strong>A . (B + C) = (A . B) + (A . C)</strong>?</h3>
+<ul>
+<li>A) <strong>Distributive Law (✓)</strong></li>
+<li>B) Commutative Law</li>
+<li>C) Identity Law</li>
+<li>D) Complement Law</li>
+</ul>
+<h3 id="3-which-of-the-following-is-true-about-the-complement-law">3. Which of the following is true about the <strong>Complement Law</strong>?</h3>
+<ul>
+<li>A) <strong>A + A&rsquo; = 1 (✓)</strong></li>
+<li>B) A . A = 1</li>
+<li>C) A + 0 = A</li>
+<li>D) A . 1 = A</li>
+</ul>
+<h3 id="4-which-of-the-following-is-the-correct-result-of-a--a-in-boolean-algebra">4. Which of the following is the correct result of <strong>A . A</strong> in Boolean algebra?</h3>
+<ul>
+<li>A) 0</li>
+<li>B) 1</li>
+<li>C) <strong>A (✓)</strong></li>
+<li>D) None of the above</li>
+</ul>
+<h3 id="5-which-law-simplifies-a--0-to-a">5. Which law simplifies <strong>A + 0</strong> to <strong>A</strong>?</h3>
+<ul>
+<li>A) <strong>Identity Law (✓)</strong></li>
+<li>B) Complement Law</li>
+<li>C) Distributive Law</li>
+<li>D) Associative Law</li>
+</ul>
+<h3 id="6-which-law-states-a--a--a">6. Which law states <strong>A + A = A</strong>?</h3>
+<ul>
+<li>A) Idempotent Law</li>
+<li>B) <strong>Idempotent Law (✓)</strong></li>
+<li>C) Commutative Law</li>
+<li>D) Distributive Law</li>
+</ul>
+<h3 id="7-which-law-states-a--b--c--a--b--a--c">7. Which law states <strong>A + (B . C) = (A + B) . (A + C)</strong>?</h3>
+<ul>
+<li>A) Distributive Law</li>
+<li>B) Complement Law</li>
+<li>C) <strong>Distributive Law (✓)</strong></li>
+<li>D) Identity Law</li>
+</ul>
+<h3 id="8-what-is-the-result-of-a--a-in-boolean-algebra">8. What is the result of <strong>A + A&rsquo;</strong> in Boolean algebra?</h3>
+<ul>
+<li>A) 1</li>
+<li>B) <strong>1 (✓)</strong></li>
+<li>C) 0</li>
+<li>D) Undefined</li>
+</ul>
+<h3 id="9-which-law-is-used-to-simplify-a--b--c--a--b--c">9. Which law is used to simplify <strong>(A + B) + C = A + (B + C)</strong>?</h3>
+<ul>
+<li>A) Commutative Law</li>
+<li>B) <strong>Associative Law (✓)</strong></li>
+<li>C) Distributive Law</li>
+<li>D) Identity Law</li>
+</ul>
+<h3 id="10-which-of-the-following-is-true-about-a--a--a-in-boolean-algebra">10. Which of the following is true about <strong>A . A = A</strong> in Boolean algebra?</h3>
+<ul>
+<li>A) <strong>True (✓)</strong></li>
+<li>B) False</li>
+<li>C) Undefined</li>
+<li>D) None of the above</li>
+</ul>
+ 
+        
+        <div class="share-buttons">
+  <p>Share this page:</p>
+  <a
+    class="whatsapp"
+    href="https://wa.me/?text=Statement%20and%20Verification%20of%20Laws%20of%20Boolean%20Algebra%20using%20Truth%20Table%20https%3a%2f%2fgyanpedia.com%2fneb%2fcs11%2fnumber-system%2fboolean-logic%2flaws-verification%2f"
+    target="_blank"
+    aria-label="Share on WhatsApp"
+  >
+    <i class="fab fa-whatsapp"></i>
+  </a>
+  <a
+    class="messenger"
+    href="fb-messenger://share?link=https%3a%2f%2fgyanpedia.com%2fneb%2fcs11%2fnumber-system%2fboolean-logic%2flaws-verification%2f"
+    target="_blank"
+    aria-label="Share on Messenger"
+  >
+    <i class="fab fa-facebook-messenger"></i>
+  </a>
+  <a
+    class="viber"
+    href="viber://forward?text=Statement%20and%20Verification%20of%20Laws%20of%20Boolean%20Algebra%20using%20Truth%20Table%20https%3a%2f%2fgyanpedia.com%2fneb%2fcs11%2fnumber-system%2fboolean-logic%2flaws-verification%2f"
+    target="_blank"
+    aria-label="Share on Viber"
+  >
+    <i class="fab fa-viber"></i>
+  </a>
+  <a
+    class="snapchat"
+    href="https://snapchat.com/share?text=Statement%20and%20Verification%20of%20Laws%20of%20Boolean%20Algebra%20using%20Truth%20Table%20https%3a%2f%2fgyanpedia.com%2fneb%2fcs11%2fnumber-system%2fboolean-logic%2flaws-verification%2f"
+    target="_blank"
+    aria-label="Share on Snapchat"
+  >
+    <i class="fab fa-snapchat-ghost"></i>
+  </a>
+</div>
+
+        
+        <div class="donate-website">
+  <button id="donateWebsiteButton" class="btn" onclick="openDonateForm()">
+    Donate
+  </button>
+</div>
+
+<style>
+  .donate-website {
+    display: flex;
+    justify-content: center;  
+    margin: 20px 0;  
+  }
+  .btn {
+    background-color: #4CAF50;  
+    color: white;
+    padding: 12px 20px;  
+    border: none;
+    border-radius: 20px;  
+    cursor: pointer;
+    font-size: 16px;
+    transition: background-color 0.3s;  
+  }
+  .btn:hover {
+    background-color: #45a049;  
+  }
+</style>
+
+<script>
+  function openDonateForm() {
+    
+    window.location.href = "/donate.html";
+  }
+</script>
+
+      </main>
+
+      
+      
+<footer>
+  <div class="footer-row">
+    <ul class="footer-links">
+      <li><a href="/about.html">About</a></li>
+      <li><a href="/contact.html">Contact</a></li>
+      <li><a href="/privacy.html">Privacy</a></li>
+      <li><a href="/terms.html">Terms</a></li>
+    </ul>
+  </div>
+  <div class="footer-row copyright">
+    <p>&copy; Gyanpedia</p>
+  </div>
+</footer>
+
+      
+    </div>
+    
+  </body>
+</html>
