@@ -16,7 +16,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# Class 12 Business Mathematics
+# NEB Class 12 Business Mathematics
 
 ---
 

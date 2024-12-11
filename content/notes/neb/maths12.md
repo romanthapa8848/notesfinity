@@ -31,7 +31,7 @@ keywords:
 layout: "math_mode"
 ---
 
-# Class 12 Maths
+# NEB Class 12 Maths
 
 ---
 

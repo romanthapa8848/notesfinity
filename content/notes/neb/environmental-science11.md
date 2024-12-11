@@ -16,7 +16,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# Class 11 Environmental Science
+# NEB Class 11 Environmental Science
 
 ---
 

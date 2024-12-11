@@ -15,7 +15,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# Class 11 Child Development and Learning
+# NEB Class 11 Child Development and Learning
 
 ---
 

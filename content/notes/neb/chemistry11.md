@@ -23,7 +23,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# Class 11 Chemistry
+# NEB Class 11 Chemistry
 
 ---
 
@@ -374,9 +374,9 @@ layout: "non_math_mode"
 ### 17. Modern Chemical Manufactures
 
 - [17.1 Modern Chemical Manufactures (principle and flow sheet diagram only)](/notes/neb/chemistry11/applied/mcm/mcm/)
- - [17.1.1 Manufacture of ammonia by Haber's process](/notes/neb/chemistry11/applied/mcm/mcm/habers/)
- - [17.1.2 Manufacture of nitric acid by Ostwald's process](/notes/neb/chemistry11/applied/mcm/mcm/ostwalds/)
- - [17.1.3 Manufacture of sulphuric acid by contact process](/notes/neb/chemistry11/applied/mcm/mcm/contact/)
- - [17.1.4 Manufacture of sodium hydroxide by Diaphragm Cell](/notes/neb/chemistry11/applied/mcm/mcm/diaphragm/)
- - [17.1.5 Manufacture of sodium carbonate by ammonia soda or Solvay process](/notes/neb/chemistry11/applied/mcm/mcm/solvay/)
+- [17.1.1 Manufacture of ammonia by Haber's process](/notes/neb/chemistry11/applied/mcm/mcm/habers/)
+- [17.1.2 Manufacture of nitric acid by Ostwald's process](/notes/neb/chemistry11/applied/mcm/mcm/ostwalds/)
+- [17.1.3 Manufacture of sulphuric acid by contact process](/notes/neb/chemistry11/applied/mcm/mcm/contact/)
+- [17.1.4 Manufacture of sodium hydroxide by Diaphragm Cell](/notes/neb/chemistry11/applied/mcm/mcm/diaphragm/)
+- [17.1.5 Manufacture of sodium carbonate by ammonia soda or Solvay process](/notes/neb/chemistry11/applied/mcm/mcm/solvay/)
 - [17.2 Fertilizers (Chemical fertilizers, types of chemical fertilizers, production of urea with flow-sheet diagram)](./applied/mcm/mcm/fertilizers/)

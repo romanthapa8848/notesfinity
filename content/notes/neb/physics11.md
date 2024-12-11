@@ -23,7 +23,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# Class 11 Physics
+# NEB Class 11 Physics
 
 ---
 

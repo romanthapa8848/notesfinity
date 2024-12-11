@@ -16,7 +16,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# Class 11 Business Studies
+# NEB Class 11 Business Studies
 
 ---
 

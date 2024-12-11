@@ -30,7 +30,7 @@ keywords:
 layout: "math_mode"
 ---
 
-# Class 11 Maths
+# NEB Class 11 Maths
 
 ---
 

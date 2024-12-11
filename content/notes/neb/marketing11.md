@@ -16,7 +16,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# Class 11 Marketing
+# NEB Class 11 Marketing
 
 ---
 

@@ -24,7 +24,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# Class 12 Biology
+# NEB Class 12 Biology
 
 ---
 
