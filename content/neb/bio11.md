@@ -281,17 +281,17 @@ layout: "non_math_mode"
 - [8.2.9 Echinodermata: Diagnostic Features and Classification Up to Class with Examples](./zoology/faunal-diversity/animalia/echinodermata/)
 - [8.2.10 Chordata: Diagnostic Features and Classification Up to Class with Examples](./zoology/faunal-diversity/animalia/chordata/)
 
-#### [8.2.1 Earthworm (Pheretima posthuma): Habit and habitat, External features; Digestive system (alimentary canal & physiology of digestion), Excretory system (types of nephridia, structure and arrangement of septal nephridia), Nervous system (central & peripheral nervous system, working mechanism) & Reproductive systems (male & female reproductive organs), Copulation, Cocoon formation and Economic importance.](./zoology/faunal-diversity/animalia/earthworm.html)
+#### 8.2.1 Earthworm (Pheretima posthuma): Habit and habitat, External features; Digestive system (alimentary canal & physiology of digestion), Excretory system (types of nephridia, structure and arrangement of septal nephridia), Nervous system (central & peripheral nervous system, working mechanism) & Reproductive systems (male & female reproductive organs), Copulation, Cocoon formation and Economic importance.
 
-- [8.2.1.1 Habit and Habitat](.zoology/faunal-diversity/animalia/earthworm/habit-and-habitat/)
-- [8.2.1.2 External Features](.zoology/faunal-diversity/animalia/earthworm/external-features/)
+- [8.2.1.1 Habit and Habitat](./zoology/faunal-diversity/animalia/earthworm/habit-and-habitat/)
+- [8.2.1.2 External Features](./zoology/faunal-diversity/animalia/earthworm/external-features/)
 - [8.2.1.3 Digestive System: Alimentary Canal & Physiology of Digestion](./zoology/faunal-diversity/animalia/earthworm/digestive-system/)
 - [8.2.1.4 Excretory System: Types of Nephridia, Structure and Arrangement of Septal Nephridia](./zoology/faunal-diversity/animalia/earthworm/excretory-system/)
 - [8.2.1.5 Nervous System: Central & Peripheral Nervous System, Working Mechanism](./zoology/faunal-diversity/animalia/earthworm/nervous-system/)
 - [8.2.1.6 Reproductive Systems: Male & Female Reproductive Organs, Copulation, Cocoon Formation](./zoology/faunal-diversity/animalia/earthworm/reproductive-systems/)
 - [8.2.1.7 Economic Importance](./zoology/faunal-diversity/animalia/earthworm/economic-importance/)
 
-#### [8.2.2 Frog (Rana tigrina): Habit and habitat, External features, Digestive system (alimentary canal, digestive glands & physiology of digestion), Blood vascular system (structure & working mechanism of heart), Respiratory system (respiratory organs & physiology of respiration) and Reproductive system (male & female reproductive organs).](./zoology/faunal-diversity/animalia/frog.html)
+#### 8.2.2 Frog (Rana tigrina): Habit and habitat, External features, Digestive system (alimentary canal, digestive glands & physiology of digestion), Blood vascular system (structure & working mechanism of heart), Respiratory system (respiratory organs & physiology of respiration) and Reproductive system (male & female reproductive organs).
 
 - [8.2.2.1 Habit and Habitat](./zoology/faunal-diversity/animalia/frog/habit-and-habitat/)
 - [8.2.2.2 External Features](./zoology/faunal-diversity/animalia/frog/external-features/)
