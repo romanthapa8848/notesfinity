@@ -138,7 +138,7 @@ layout: "non_math_mode"
 
 ### 7. States of Matter
 
-- [7.1 Gaseous state](general-physical-chemistry/states-of-matter/gaseous-state/)
+- 7.1 Gaseous state
 
   - [7.1.1 Kinetic theory of gas and its postulates](./general-and-physical/states-of-matter/gaseous-state/kinetic-theory/)
 
@@ -322,7 +322,7 @@ layout: "non_math_mode"
 
 ### 14. Hydrocarbons
 
-- [14.1 Saturated Hydrocarbons (Alkanes)](./organic/hydrocarbons/saturated-hydrocarbons/)
+- [14.1 Saturated Hydrocarbons (Alkanes)](./hydrocarbons/saturated-hydrocarbons/)
 
   - [14.1.1 Alkanes: Preparation from haloalkanes (Reduction and Wurtz reaction), Decarboxylation, Catalytic hydrogenation of alkene and alkyne](./organic/hydrocarbons/saturated-hydrocarbons/alkanes/)
   - [14.1.2 Chemical properties: Substitution reactions (halogenation, nitration & sulphonation only), oxidation of ethane](./organic/hydrocarbons/saturated-hydrocarbons/chemical-properties-of-alkanes/)
