@@ -89,7 +89,7 @@ layout: "non_math_mode"
 - [4.1 Modern periodic law and modern periodic table](./general-and-physical/periodic-table/classification-modern-periodic-law/)
   - [4.1.1 Classification of elements into different groups, periods and blocks](./general-and-physical/periodic-table/modern/classification-of-elements/)
 - [4.2 IUPAC classification of elements](./general-and-physical/periodic-table/iupac-classification/)
-- [4.3 Nuclear charge and effective nuclear charge](./chemistry11/general-and-physical/periodic-table/nuclear-charge/)
+- [4.3 Nuclear charge and effective nuclear charge](./general-and-physical/periodic-table/nuclear-charge/)
 - [4.4 Periodic trend and periodicity](./general-and-physical/periodic-table/periodic-trends/)
 
   - [4.4.1 Atomic radii](./general-and-physical/periodic-table/periodic-trends/atomic-radii/)
