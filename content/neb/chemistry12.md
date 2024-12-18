@@ -41,84 +41,84 @@ layout: "non_math_mode"
 
 ### 1. Volumetric Analysis
 
-- [1.1 Introduction to gravimetric analysis, volumetric analysis and equivalent weight](/notes/neb/chemistry12/general-and-physical/volumetric-analysis/introduction/)
-- [1.2 Relationship between equivalent weight, atomic weight and valency](/notes/neb/chemistry12/general-and-physical/volumetric-analysis/equivalent-weight/)
-- [1.3 Equivalent weight of compounds (acid, base, salt, oxidizing and reducing agents)](/notes/neb/chemistry12/general-and-physical/volumetric-analysis/equivalent-weight-compounds/)
-- [1.4 Concentration of solution and its units in terms of: Percentage, g/L, molarity, molality, normality and formality, ppm and ppb](/notes/neb/chemistry12/general-and-physical/volumetric-analysis/concentration/)
-- [1.5 Primary and secondary standard substances](/notes/neb/chemistry12/general-and-physical/volumetric-analysis/standards/)
-- [1.6 Law of equivalence and normality equation](/notes/neb/chemistry12/general-and-physical/volumetric-analysis/law-normality/)
-- [1.7 Titration and its types: Acid-base titration, redox titration (related numerical problems)](/notes/neb/chemistry12/general-and-physical/volumetric-analysis/titration-types/)
+- [1.1 Introduction to gravimetric analysis, volumetric analysis and equivalent weight](./general-and-physical/volumetric-analysis/introduction/)
+- [1.2 Relationship between equivalent weight, atomic weight and valency](./general-and-physical/volumetric-analysis/equivalent-weight/)
+- [1.3 Equivalent weight of compounds (acid, base, salt, oxidizing and reducing agents)](./general-and-physical/volumetric-analysis/equivalent-weight-compounds/)
+- [1.4 Concentration of solution and its units in terms of: Percentage, g/L, molarity, molality, normality and formality, ppm and ppb](./general-and-physical/volumetric-analysis/concentration/)
+- [1.5 Primary and secondary standard substances](./general-and-physical/volumetric-analysis/standards/)
+- [1.6 Law of equivalence and normality equation](./general-and-physical/volumetric-analysis/law-normality/)
+- [1.7 Titration and its types: Acid-base titration, redox titration (related numerical problems)](./general-and-physical/volumetric-analysis/titration-types/)
 
 ---
 
 ### 2. Ionic Equilibrium
 
-- [2.1 Introduction to Acids and Bases](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/introduction-acids-bases/)
-- [2.2 Limitation of Arrhenius concepts of acids and bases](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/limitation-arrhenius/)
-- [2.3 Brønsted–Lowry definition of acids and bases](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/bronsted-lowry-definition/)
-- [2.4 Relative strength of acids and bases](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/relative-strength-acids-bases/)
-- [2.5 Conjugate acid–base pairs](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/conjugate-acid-base-pairs/)
-- [2.6 Lewis definition of acids and bases](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/lewis-definition/)
-- [2.7 Ionization of weak electrolyte (Ostwald's dilution law)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/ionization-weak-electrolyte/)
-- [2.8 Ionic product of water (K<sub>w</sub>)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/ionic-product-water/)
-- [2.9 Dissociation constant of acid and base (K<sub>a</sub> & K<sub>b</sub>)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/dissociation-constant/)
-- [2.10 Concept of pK<sub>a</sub> and pK<sub>b</sub>](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/concept-pKa-pKb/)
-- [2.11 pH value: pH of strong and weak acids, pH of strong and weak bases](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/pH-value/)
-- [2.12 Solubility and solubility product principle](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/solubility-solubility-product/)
-- [2.13 Common Ion effect](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/common-ion-effect/)
-- [2.14 Application of solubility product principle and common ion effect in precipitation reactions](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/application-solubility-product/)
-- [2.15 Buffer solution and its application](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/buffer-solution/)
-- [2.16 Indicators and selection of indicators in acid-base titration](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/indicators-selection/)
-- [2.17 Types of salts: Acidic salts, basic salts, simple salts, complex salts (introduction and examples)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/types-of-salts/)
-- [2.18 Hydrolysis of salts](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis-of-salts/)
+- [2.1 Introduction to Acids and Bases](./general-and-physical/ionic-equilibrium/introduction-acids-bases/)
+- [2.2 Limitation of Arrhenius concepts of acids and bases](./general-and-physical/ionic-equilibrium/limitation-arrhenius/)
+- [2.3 Brønsted–Lowry definition of acids and bases](./general-and-physical/ionic-equilibrium/bronsted-lowry-definition/)
+- [2.4 Relative strength of acids and bases](./general-and-physical/ionic-equilibrium/relative-strength-acids-bases/)
+- [2.5 Conjugate acid–base pairs](./general-and-physical/ionic-equilibrium/conjugate-acid-base-pairs/)
+- [2.6 Lewis definition of acids and bases](./general-and-physical/ionic-equilibrium/lewis-definition/)
+- [2.7 Ionization of weak electrolyte (Ostwald's dilution law)](./general-and-physical/ionic-equilibrium/ionization-weak-electrolyte/)
+- [2.8 Ionic product of water (K<sub>w</sub>)](./general-and-physical/ionic-equilibrium/ionic-product-water/)
+- [2.9 Dissociation constant of acid and base (K<sub>a</sub> & K<sub>b</sub>)](./general-and-physical/ionic-equilibrium/dissociation-constant/)
+- [2.10 Concept of pK<sub>a</sub> and pK<sub>b</sub>](./general-and-physical/ionic-equilibrium/concept-pKa-pKb/)
+- [2.11 pH value: pH of strong and weak acids, pH of strong and weak bases](./general-and-physical/ionic-equilibrium/pH-value/)
+- [2.12 Solubility and solubility product principle](./general-and-physical/ionic-equilibrium/solubility-solubility-product/)
+- [2.13 Common Ion effect](./general-and-physical/ionic-equilibrium/common-ion-effect/)
+- [2.14 Application of solubility product principle and common ion effect in precipitation reactions](./general-and-physical/ionic-equilibrium/application-solubility-product/)
+- [2.15 Buffer solution and its application](./general-and-physical/ionic-equilibrium/buffer-solution/)
+- [2.16 Indicators and selection of indicators in acid-base titration](./general-and-physical/ionic-equilibrium/indicators-selection/)
+- [2.17 Types of salts: Acidic salts, basic salts, simple salts, complex salts (introduction and examples)](./general-and-physical/ionic-equilibrium/types-of-salts/)
+- [2.18 Hydrolysis of salts](./general-and-physical/ionic-equilibrium/hydrolysis-of-salts/)
 
-  - [2.18.1 Salts of strong acid and strong base (solving related numerical problems)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-strong-acid-strong-base/)
-  - [2.18.2 Salts of weak acid and strong base (solving related numerical problems)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-acid-strong-base/)
-  - [2.18.3 Salts of weak base and strong acid (solving related numerical problems)](/notes/neb/chemistry12/general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-base-strong-acid/)
+  - [2.18.1 Salts of strong acid and strong base (solving related numerical problems)](./general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-strong-acid-strong-base/)
+  - [2.18.2 Salts of weak acid and strong base (solving related numerical problems)](./general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-acid-strong-base/)
+  - [2.18.3 Salts of weak base and strong acid (solving related numerical problems)](./general-and-physical/ionic-equilibrium/hydrolysis/hydrolysis-salts-weak-base-strong-acid/)
 
 ---
 
 ### 3. Chemical Kinetics
 
-- [3.1 Introduction](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/introduction/)
-- [3.2 Rate of reactions: Average and instantaneous rate of reactions](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/rate-of-reactions/)
-- [3.3 Rate law and its expressions](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/rate-law-expressions/)
-- [3.4 Rate constant and its unit and significance](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/rate-constant-significance/)
-- [3.5 Order and molecularity](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/order-and-molecularity/)
-- [3.6 Integrated rate equation for zero and first order reaction](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/integrated-rate-equation/)
-- [3.7 Half-life of zero and first order reactions](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/half-life-zero-first-order/)
-- [3.8 Collision theory, concept of activation energy and activated complex](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/collision-theory-activation-energy/)
-- [3.9 Factors affecting rate of reactions: Effect of concentration, temperature (Arrhenius Equation) and effect of catalyst (energy profile diagram)](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/factors-affecting-rate/)
-- [3.10 Catalysis and types of catalysis: homogeneous, heterogeneous and enzyme catalysis](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/catalysis-types/)
-- [3.11 Solving related numerical problems based on rate, rate constant and order of zero and first order reactions](/notes/neb/chemistry12/general-and-physical/chemical-kinetics/numerical-problems/)
+- [3.1 Introduction](./general-and-physical/chemical-kinetics/introduction/)
+- [3.2 Rate of reactions: Average and instantaneous rate of reactions](./general-and-physical/chemical-kinetics/rate-of-reactions/)
+- [3.3 Rate law and its expressions](./general-and-physical/chemical-kinetics/rate-law-expressions/)
+- [3.4 Rate constant and its unit and significance](./general-and-physical/chemical-kinetics/rate-constant-significance/)
+- [3.5 Order and molecularity](./general-and-physical/chemical-kinetics/order-and-molecularity/)
+- [3.6 Integrated rate equation for zero and first order reaction](./general-and-physical/chemical-kinetics/integrated-rate-equation/)
+- [3.7 Half-life of zero and first order reactions](./general-and-physical/chemical-kinetics/half-life-zero-first-order/)
+- [3.8 Collision theory, concept of activation energy and activated complex](./general-and-physical/chemical-kinetics/collision-theory-activation-energy/)
+- [3.9 Factors affecting rate of reactions: Effect of concentration, temperature (Arrhenius Equation) and effect of catalyst (energy profile diagram)](./general-and-physical/chemical-kinetics/factors-affecting-rate/)
+- [3.10 Catalysis and types of catalysis: homogeneous, heterogeneous and enzyme catalysis](./general-and-physical/chemical-kinetics/catalysis-types/)
+- [3.11 Solving related numerical problems based on rate, rate constant and order of zero and first order reactions](./general-and-physical/chemical-kinetics/numerical-problems/)
 
 ---
 
 ### 4. Thermodynamics
 
-- [4.1 Introduction](/notes/neb/chemistry12/general-and-physical/thermodynamics/introduction/)
-- [4.2 Energy in chemical reactions](/notes/neb/chemistry12/general-and-physical/thermodynamics/energy-in-reactions/)
-- [4.3 Internal energy](/notes/neb/chemistry12/general-and-physical/thermodynamics/internal-energy/)
-- [4.4 First law of thermodynamics](/notes/neb/chemistry12/general-and-physical/thermodynamics/first-law/)
-- [4.5 Enthalpy and enthalpy changes: Endothermic and exothermic processes](/notes/neb/chemistry12/general-and-physical/thermodynamics/enthalpy-changes/)
-- [4.6 Enthalpy of reaction, enthalpy of solution, enthalpy of formation, enthalpy of combustion](/notes/neb/chemistry12/general-and-physical/thermodynamics/enthalpy-reaction-formation-combustion/)
-- [4.7 Laws of thermochemistry (Laplace Law’s and Hess’s law)](/notes/neb/chemistry12/general-and-physical/thermodynamics/laws-thermochemistry/)
-- [4.8 Entropy and spontaneity](/notes/neb/chemistry12/general-and-physical/thermodynamics/entropy-spontaneity/)
-- [4.9 Second law of thermodynamics](/notes/neb/chemistry12/general-and-physical/thermodynamics/second-law/)
-- [4.10 Gibbs' free energy and prediction of spontaneity](/notes/neb/chemistry12/general-and-physical/thermodynamics/gibbs-free-energy/)
-- [4.11 Relationship between ∆G and equilibrium constant (Solving related numerical problems)](/notes/neb/chemistry12/general-and-physical/thermodynamics/delta-g-equilibrium/)
+- [4.1 Introduction](./general-and-physical/thermodynamics/introduction/)
+- [4.2 Energy in chemical reactions](./general-and-physical/thermodynamics/energy-in-reactions/)
+- [4.3 Internal energy](./general-and-physical/thermodynamics/internal-energy/)
+- [4.4 First law of thermodynamics](./general-and-physical/thermodynamics/first-law/)
+- [4.5 Enthalpy and enthalpy changes: Endothermic and exothermic processes](./general-and-physical/thermodynamics/enthalpy-changes/)
+- [4.6 Enthalpy of reaction, enthalpy of solution, enthalpy of formation, enthalpy of combustion](./general-and-physical/thermodynamics/enthalpy-reaction-formation-combustion/)
+- [4.7 Laws of thermochemistry (Laplace Law’s and Hess’s law)](./general-and-physical/thermodynamics/laws-thermochemistry/)
+- [4.8 Entropy and spontaneity](./general-and-physical/thermodynamics/entropy-spontaneity/)
+- [4.9 Second law of thermodynamics](./general-and-physical/thermodynamics/second-law/)
+- [4.10 Gibbs' free energy and prediction of spontaneity](./general-and-physical/thermodynamics/gibbs-free-energy/)
+- [4.11 Relationship between ∆G and equilibrium constant (Solving related numerical problems)](./general-and-physical/thermodynamics/delta-g-equilibrium/)
 
 ---
 
 ### 5. Electrochemistry
 
-- [5.1 Electrode potential and standard electrode potential](/notes/neb/chemistry12/general-and-physical/electrochemistry/electrode-potential/)
-- [5.2 Types of electrodes: Standard hydrogen electrode and calomel electrodes](/notes/neb/chemistry12/general-and-physical/electrochemistry/types-of-electrodes/)
-- [5.3 Electrochemical series and its applications](/notes/neb/chemistry12/general-and-physical/electrochemistry/electrochemical-series/)
-- [5.4 Voltaic cell: Zn-Cu cell, Ag-Cu cell](/notes/neb/chemistry12/general-and-physical/electrochemistry/voltaic-cells/)
-- [5.5 Cell potential and standard cell potential](/notes/neb/chemistry12/general-and-physical/electrochemistry/cell-potential/)
-- [5.6 Relationship between cell potential and free energy](/notes/neb/chemistry12/general-and-physical/electrochemistry/cell-potential-free-energy/)
-- [5.7 Commercial batteries and fuel cells (hydrogen/oxygen)](/notes/neb/chemistry12/general-and-physical/electrochemistry/commercial-batteries-fuel-cells/)
+- [5.1 Electrode potential and standard electrode potential](./general-and-physical/electrochemistry/electrode-potential/)
+- [5.2 Types of electrodes: Standard hydrogen electrode and calomel electrodes](./general-and-physical/electrochemistry/types-of-electrodes/)
+- [5.3 Electrochemical series and its applications](./general-and-physical/electrochemistry/electrochemical-series/)
+- [5.4 Voltaic cell: Zn-Cu cell, Ag-Cu cell](./general-and-physical/electrochemistry/voltaic-cells/)
+- [5.5 Cell potential and standard cell potential](./general-and-physical/electrochemistry/cell-potential/)
+- [5.6 Relationship between cell potential and free energy](./general-and-physical/electrochemistry/cell-potential-free-energy/)
+- [5.7 Commercial batteries and fuel cells (hydrogen/oxygen)](./general-and-physical/electrochemistry/commercial-batteries-fuel-cells/)
 
 ---
 
@@ -128,14 +128,14 @@ layout: "non_math_mode"
 
 ### 6. Transition Metals
 
-- [6.1 Introduction](/notes/neb/chemistry12/inorganic/transition-metals/introduction/)
-- [6.2 Characteristics of transition metals](/notes/neb/chemistry12/inorganic/transition-metals/characteristics/)
-- [6.3 Oxidation states of transition metals](/notes/neb/chemistry12/inorganic/transition-metals/oxidation-states/)
-- [6.4 Complex ions and metal complexes](/notes/neb/chemistry12/inorganic/transition-metals/complex-ions/)
-- [6.5 Shapes of complex ions](/notes/neb/chemistry12/inorganic/transition-metals/shapes-complex-ions/)
-- [6.6 d-orbitals in complex ions (simple explanation by crystal field theory) for octahedral complex](/notes/neb/chemistry12/inorganic/transition-metals/d-orbitals/)
-- [6.7 Reasons for the colour of transition metal compounds](/notes/neb/chemistry12/inorganic/transition-metals/colour-of-compounds/)
-- [6.8 Catalytic properties of transition metals](/notes/neb/chemistry12/inorganic/transition-metals/catalytic-properties/)
+- [6.1 Introduction](./chemistry12/inorganic/transition-metals/introduction/)
+- [6.2 Characteristics of transition metals](./inorganic/transition-metals/characteristics/)
+- [6.3 Oxidation states of transition metals](./inorganic/transition-metals/oxidation-states/)
+- [6.4 Complex ions and metal complexes](./inorganic/transition-metals/complex-ions/)
+- [6.5 Shapes of complex ions](./inorganic/transition-metals/shapes-complex-ions/)
+- [6.6 d-orbitals in complex ions (simple explanation by crystal field theory) for octahedral complex](./inorganic/transition-metals/d-orbitals/)
+- [6.7 Reasons for the colour of transition metal compounds](./inorganic/transition-metals/colour-of-compounds/)
+- [6.8 Catalytic properties of transition metals](./inorganic/transition-metals/catalytic-properties/)
 
 ---
 
@@ -143,34 +143,34 @@ layout: "non_math_mode"
 
 #### 7.1 Copper
 
-- [7.1.1 Occurrence and extraction of copper from copper pyrite](/notes/neb/chemistry12/inorganic/heavy-metals/copper/copper-occurrence-extraction/)
-- [7.1.2 Properties (with air, acids, aqueous ammonia and metal ions) and uses of copper](/notes/neb/chemistry12/inorganic/heavy-metals/copper/copper-properties-uses/)
-- [7.1.3 Chemistry (preparation, properties and uses) of blue vitriol](/notes/neb/chemistry12/inorganic/heavy-metals/copper/blue-vitriol/)
-- [7.1.4 Other compounds of copper (red oxide and black oxide) - formula and uses](/notes/neb/chemistry12/inorganic/heavy-metals/copper/copper-compounds/)
+- [7.1.1 Occurrence and extraction of copper from copper pyrite](./inorganic/heavy-metals/copper/copper-occurrence-extraction/)
+- [7.1.2 Properties (with air, acids, aqueous ammonia and metal ions) and uses of copper](./inorganic/heavy-metals/copper/copper-properties-uses/)
+- [7.1.3 Chemistry (preparation, properties and uses) of blue vitriol](./inorganic/heavy-metals/copper/blue-vitriol/)
+- [7.1.4 Other compounds of copper (red oxide and black oxide) - formula and uses](./inorganic/heavy-metals/copper/copper-compounds/)
 
 #### 7.2 Zinc
 
-- [7.2.1 Occurrence and extraction of zinc from zinc blende](/notes/neb/chemistry12/inorganic/heavy-metals/zinc/zinc-occurrence-extraction/)
-- [7.2.2 Properties (with air, acid, alkali, displacement reaction) and uses of zinc](/notes/neb/chemistry12/inorganic/heavy-metals/zinc/zinc-properties-uses/)
-- [7.2.3 Chemistry (preparation, properties and uses) of white vitriol](/notes/neb/chemistry12/inorganic/heavy-metals/zinc/white-vitriol/)
+- [7.2.1 Occurrence and extraction of zinc from zinc blende](./inorganic/heavy-metals/zinc/zinc-occurrence-extraction/)
+- [7.2.2 Properties (with air, acid, alkali, displacement reaction) and uses of zinc](./inorganic/heavy-metals/zinc/zinc-properties-uses/)
+- [7.2.3 Chemistry (preparation, properties and uses) of white vitriol](./inorganic/heavy-metals/zinc/white-vitriol/)
 
 #### 7.3 Mercury
 
-- [7.3.1 Occurrence and extraction of mercury from cinnabar](/notes/neb/chemistry12/inorganic/heavy-metals/mercury/mercury-occurrence-extraction/)
-- [7.3.2 Properties of mercury](/notes/neb/chemistry12/inorganic/heavy-metals/mercury/mercury-properties/)
-- [7.3.3 Chemistry (preparation, properties and uses) of calomel and corrosive sublimate](/notes/neb/chemistry12/inorganic/heavy-metals/mercury/mercury-calomel-corrosive-sublimate/)
+- [7.3.1 Occurrence and extraction of mercury from cinnabar](./inorganic/heavy-metals/mercury/mercury-occurrence-extraction/)
+- [7.3.2 Properties of mercury](./inorganic/heavy-metals/mercury/mercury-properties/)
+- [7.3.3 Chemistry (preparation, properties and uses) of calomel and corrosive sublimate](./inorganic/heavy-metals/mercury/mercury-calomel-corrosive-sublimate/)
 
 #### 7.4 Iron
 
-- [7.4.1 Occurrence and extraction of iron](/notes/neb/chemistry12/inorganic/heavy-metals/iron/iron-occurrence-extraction/)
-- [7.4.2 Properties and uses of iron](/notes/neb/chemistry12/inorganic/heavy-metals/iron/iron-properties-uses/)
-- [7.4.3 Manufacture of steel by Basic Oxygen Method and Open Hearth Process](/notes/neb/chemistry12/inorganic/heavy-metals/iron/steel-manufacture/)
-- [7.4.4 Corrosion of iron and its prevention](/notes/neb/chemistry12/inorganic/heavy-metals/iron/iron-corrosion-prevention/)
+- [7.4.1 Occurrence and extraction of iron](./inorganic/heavy-metals/iron/iron-occurrence-extraction/)
+- [7.4.2 Properties and uses of iron](./inorganic/heavy-metals/iron/iron-properties-uses/)
+- [7.4.3 Manufacture of steel by Basic Oxygen Method and Open Hearth Process](./inorganic/heavy-metals/iron/steel-manufacture/)
+- [7.4.4 Corrosion of iron and its prevention](./inorganic/heavy-metals/iron/iron-corrosion-prevention/)
 
 #### 7.5 Silver
 
-- [7.5.1 Occurrence and extraction of silver by cyanide process](/notes/neb/chemistry12/inorganic/heavy-metals/silver/silver-occurrence-extraction/)
-- [7.5.2 Preparation and uses of silver chloride and silver nitrate](/notes/neb/chemistry12/inorganic/heavy-metals/silver/silver-chloride-nitrate/)
+- [7.5.1 Occurrence and extraction of silver by cyanide process](./inorganic/heavy-metals/silver/silver-occurrence-extraction/)
+- [7.5.2 Preparation and uses of silver chloride and silver nitrate](./inorganic/heavy-metals/silver/silver-chloride-nitrate/)
 
 ---
 
@@ -180,33 +180,33 @@ layout: "non_math_mode"
 
 ### 8. Haloalkanes
 
-- [8.1 Introduction](/notes/neb/chemistry12/organic/haloalkanes/introduction/)
-- [8.2 Nomenclature, isomerism, and classification of monohaloalkanes](/notes/neb/chemistry12/organic/haloalkanes/nomenclature/)
-- [8.3 Preparation of monohaloalkanes from alkanes, alkenes, and alcohols](/notes/neb/chemistry12/organic/haloalkanes/preparation/)
-- [8.4 Physical properties of monohaloalkanes](/notes/neb/chemistry12/organic/haloalkanes/physical-properties/)
-- [8.5 Chemical properties, substitution reactions SN1 and SN2 reactions (basic concept only)](/notes/neb/chemistry12/organic/haloalkanes/chemical-properties/)
-- [8.6 Formation of alcohol, nitrile, amine, ether, thioether, carbylamines, nitrite, and nitro alkane using haloalkanes](/notes/neb/chemistry12/organic/haloalkanes/formation/)
-- [8.7 Elimination reaction (dehydrohalogenation - Saytzeff's rule), Reduction reactions, Wurtz reaction](/notes/neb/chemistry12/organic/haloalkanes/elimination-reactions/)
-- [8.8 Preparation of trichloromethane from ethanol and propanone](/notes/neb/chemistry12/organic/haloalkanes/trichloromethane-preparation/)
-- [8.9 Chemical properties of trichloromethane: oxidation, reduction, action on silver powder, conc. nitric acid, propanone, and aqueous alkali](/notes/neb/chemistry12/organic/haloalkanes/trichloromethane-properties/)
+- [8.1 Introduction](./organic/haloalkanes/introduction/)
+- [8.2 Nomenclature, isomerism, and classification of monohaloalkanes](./organic/haloalkanes/nomenclature/)
+- [8.3 Preparation of monohaloalkanes from alkanes, alkenes, and alcohols](./organic/haloalkanes/preparation/)
+- [8.4 Physical properties of monohaloalkanes](./organic/haloalkanes/physical-properties/)
+- [8.5 Chemical properties, substitution reactions SN1 and SN2 reactions (basic concept only)](./organic/haloalkanes/chemical-properties/)
+- [8.6 Formation of alcohol, nitrile, amine, ether, thioether, carbylamines, nitrite, and nitro alkane using haloalkanes](./organic/haloalkanes/formation/)
+- [8.7 Elimination reaction (dehydrohalogenation - Saytzeff's rule), Reduction reactions, Wurtz reaction](./organic/haloalkanes/elimination-reactions/)
+- [8.8 Preparation of trichloromethane from ethanol and propanone](./organic/haloalkanes/trichloromethane-preparation/)
+- [8.9 Chemical properties of trichloromethane: oxidation, reduction, action on silver powder, conc. nitric acid, propanone, and aqueous alkali](./organic/haloalkanes/trichloromethane-properties/)
 
 ---
 
 ### 9. Haloarenes
 
-- [9.1 Introduction](/notes/neb/chemistry12/organic/haloarenes/introduction/)
-- [9.2 Nomenclature and isomerism of haloarenes](/notes/neb/chemistry12/organic/haloarenes/nomenclature/)
-- [9.3 Preparation of chlorobenzene from benzene and benzene diazonium chloride](/notes/neb/chemistry12/organic/haloarenes/preparation-chlorobenzene/)
-- [9.4 Physical properties](/notes/neb/chemistry12/organic/haloarenes/physical-properties/)
-- [9.5 Chemical properties](/notes/neb/chemistry12/organic/haloarenes/chemical-properties/)
+- [9.1 Introduction](./organic/haloarenes/introduction/)
+- [9.2 Nomenclature and isomerism of haloarenes](./organic/haloarenes/nomenclature/)
+- [9.3 Preparation of chlorobenzene from benzene and benzene diazonium chloride](./organic/haloarenes/preparation-chlorobenzene/)
+- [9.4 Physical properties](./organic/haloarenes/physical-properties/)
+- [9.5 Chemical properties](./organic/haloarenes/chemical-properties/)
 
-  - [9.5.1 Low reactivity of haloarenes as compared to haloalkanes in terms of nucleophilic substitution reaction](/notes/neb/chemistry12/organic/haloarenes/chemical-properties/nucleophilic-substitution/)
-  - [9.5.2 Reduction of chlorobenzene](/notes/neb/chemistry12/organic/haloarenes/chemical-properties/reduction-chlorobenzene/)
-  - [9.5.3 Electrophilic substitution reactions](/notes/neb/chemistry12/organic/haloarenes/chemical-properties/electrophilic-substitution/)
-  - [9.5.4 Action with Na (Fittig and Wurtz-Fittig reaction)](/notes/neb/chemistry12/organic/haloarenes/chemical-properties/fittig-reaction/)
-  - [9.5.5 Action with chloral](/notes/neb/chemistry12/organic/haloarenes/chemical-properties/chloral-reaction/)
+  - [9.5.1 Low reactivity of haloarenes as compared to haloalkanes in terms of nucleophilic substitution reaction](./organic/haloarenes/chemical-properties/nucleophilic-substitution/)
+  - [9.5.2 Reduction of chlorobenzene](./organic/haloarenes/chemical-properties/reduction-chlorobenzene/)
+  - [9.5.3 Electrophilic substitution reactions](./organic/haloarenes/chemical-properties/electrophilic-substitution/)
+  - [9.5.4 Action with Na (Fittig and Wurtz-Fittig reaction)](./organic/haloarenes/chemical-properties/fittig-reaction/)
+  - [9.5.5 Action with chloral](./organic/haloarenes/chemical-properties/chloral-reaction/)
 
-- [9.6 Uses of haloarenes](/notes/neb/chemistry12/organic/haloarenes/uses/)
+- [9.6 Uses of haloarenes](./organic/haloarenes/uses/)
 
 ---
 
