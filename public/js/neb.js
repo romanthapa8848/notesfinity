@@ -50,12 +50,6 @@ export const nebSubjects = [
   },
   // Class 12 subjects
   {
-    name: "Class 12 Physics",
-    code: "PHY 102",
-    url: "/neb/physics12/",
-    keywords: ["physics", "class 12", "neb", "phy 102"],
-  },
-  {
     name: "Class 12 Biology",
     code: "BIO 302",
     url: "/neb/bio12/",
