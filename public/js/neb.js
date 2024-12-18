@@ -1,18 +1,6 @@
 export const nebSubjects = [
   // Class 11 subjects
   {
-    name: "Class 11 Maths",
-    code: "MAT 007",
-    url: "/neb/maths11/",
-    keywords: ["mathematics", "class 11", "neb", "mat 007"],
-  },
-  {
-    name: "Class 11 Physics",
-    code: "PHY 101",
-    url: "/neb/physics11/",
-    keywords: ["physics", "class 11", "neb", "phy 101"],
-  },
-  {
     name: "Class 11 Biology",
     code: "BIO 301",
     url: "/neb/bio11/",
@@ -23,12 +11,6 @@ export const nebSubjects = [
     code: "CHE 201",
     url: "/neb/chemistry11/",
     keywords: ["chemistry", "class 11", "neb", "che 201"],
-  },
-  {
-    name: "Class 11 Computer Science",
-    code: "COM 331",
-    url: "/neb/cs11/",
-    keywords: ["computer science", "class 11", "neb", "com 331"],
   },
   {
     name: "Class 11 Environmental Science",
@@ -68,12 +50,6 @@ export const nebSubjects = [
   },
   // Class 12 subjects
   {
-    name: "Class 12 Maths",
-    code: "MAT 008",
-    url: "/neb/maths12/",
-    keywords: ["mathematics", "class 12", "neb", "mat 008"],
-  },
-  {
     name: "Class 12 Physics",
     code: "PHY 102",
     url: "/neb/physics12/",
@@ -90,12 +66,6 @@ export const nebSubjects = [
     code: "CHE 202",
     url: "/neb/chemistry12/",
     keywords: ["chemistry", "class 12", "neb", "che 202"],
-  },
-  {
-    name: "Class 12 Computer Science",
-    code: "COM 332",
-    url: "/neb/cs12/",
-    keywords: ["computer science", "class 12", "neb", "com 332"],
   },
   {
     name: "Class 12 Environmental Science",
