@@ -1,45 +1,34 @@
-/* General body styling for the results page */
-body {
-  font-family: Arial, sans-serif;
-  margin: 0;
-  padding: 0;
-  background-color: #fff;
+/* Wrapper Styles */
+.wrapper {
+  display: flex;
+  flex-direction: column;
+  min-height: 100vh; /* Make the wrapper span the full viewport height */
 }
 
-/* Center the h1 horizontally */
-main h1 {
+/* Ensure the main content grows as needed */
+main {
+  flex-grow: 1; /* Allow the main section to expand */
+}
+
+/* Google Search Results Styling */
+.gcse-searchresults-only {
+  max-width: 100%; /* Make it responsive */
+  height: calc(100vh - 180px); /* Adjust height dynamically */
+  overflow-y: auto; /* Add scroll for overflow */
+  margin: 20px auto; /* Center align results if needed */
+  box-sizing: border-box;
+}
+
+/* Ensure header and footer remain visible */
+header {
+  z-index: 10; /* Ensure it's above other content */
+  background-color: #fff; /* Ensure background is visible */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Add a subtle shadow */
+}
+
+footer {
+  background-color: #f9f9f9;
   text-align: center;
-  margin: 40px auto 20px auto; /* Adds vertical spacing above and below */
-  font-size: 24px;
-  font-weight: bold;
-  color: #333;
-}
-
-/* Results container styling */
-#results-container {
-  margin: 20px auto;
-  max-width: 600px;
-  text-align: center; /* Centering the content inside the container */
-}
-
-/* Styling for the list and links */
-#results-container ul {
-  list-style: none; /* Removing bullet points from the list */
-  padding: 0;
-  margin: 0;
-}
-
-#results-container li {
-  margin: 10px 0; /* Adds spacing between each result */
-}
-
-.result-link {
-  display: inline-block; /* Allows horizontal centering of links */
-  color: #007bff;
-  text-decoration: none;
-  font-size: 18px;
-}
-
-.result-link:hover {
-  text-decoration: underline;
+  padding: 20px;
+  border-top: 1px solid #ddd;
 }
