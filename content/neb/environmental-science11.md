@@ -20,11 +20,11 @@ layout: "non_math_mode"
 
 ---
 
-| Course Code | ENS 413                                                  |
-| ----------- | -------------------------------------------------------- |
-| Theory      | Assessment Mark: XX; Final Exam: XX Marks (Duration: XX) |
-| Practical   | Assessment Mark: XX                                      |
-| Total Marks | XX Marks                                                 |
+| Course Code | ENS 413                      |
+| ----------- | ---------------------------- |
+| Theory      | 75 Marks (Duration: 3 Hours) |
+| Practical   | 25 Marks                     |
+| Total Marks | 100 Marks                    |
 
 ---
 
