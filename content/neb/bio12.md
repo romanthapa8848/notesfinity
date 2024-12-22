@@ -1,5 +1,5 @@
 ---
-title: "Class 12 Biology"
+title: "NEB Class 12 Biology"
 author: "Roman Thapa"
 date: "2024-10-17"
 description: "Explore detailed NEB Class 12 Biology notes covering Botany and Zoology. Comprehensive study material for students preparing for NEB exams, including key topics and in-depth explanations."
@@ -59,7 +59,7 @@ layout: "non_math_mode"
 - [2.1.2 Ascent of Sap](./botany/plant-physiology/water-relation/ascent-of-sap/)
 - [2.1.3 Transpiration and Guttation](./botany/plant-physiology/water-relation/transpiration-and-guttation/)
 
-2.2 Photosynthesis: Introduction and significance of photosynthesis, photosynthetic pigments, mechanism of photosynthesis (photochemical phase and Calvin-Benson cycle), C3 and C4 plants, photorespiration, factors affecting photosynthesis.
+  2.2 Photosynthesis: Introduction and significance of photosynthesis, photosynthetic pigments, mechanism of photosynthesis (photochemical phase and Calvin-Benson cycle), C3 and C4 plants, photorespiration, factors affecting photosynthesis.
 
 - [2.2.1 Introduction and Significance of Photosynthesis](./botany/plant-physiology/photosynthesis/introduction-significance/)
 - [2.2.2 Photosynthetic Pigments](./botany/plant-physiology/photosynthesis/photosynthetic-pigments/)
@@ -68,19 +68,19 @@ layout: "non_math_mode"
 - [2.2.5 Photorespiration](./botany/plant-physiology/photosynthesis/photorespiration/)
 - [2.2.6 Factors Affecting Photosynthesis](./botany/plant-physiology/photosynthesis/factors-affecting/)
 
-2.3 Respiration: Introduction and significance of respiration, types of respiration, mechanism of respiration (glycolysis, Kreb cycle, electron transport system), factors affecting respiration.
+  2.3 Respiration: Introduction and significance of respiration, types of respiration, mechanism of respiration (glycolysis, Kreb cycle, electron transport system), factors affecting respiration.
 
 - [2.3.1 Introduction and Significance of Respiration](./botany/plant-physiology/respiration/introduction-significance/)
 - [2.3.2 Types of Respiration](./botany/plant-physiology/respiration/types-of-respiration/)
 - [2.3.3 Mechanism of Respiration (Glycolysis, Krebs Cycle, Electron Transport System)](./botany/plant-physiology/respiration/mechanism/)
 - [2.3.4 Factors Affecting Respiration](./botany/plant-physiology/respiration/factors-affecting/)
 
-2.4 Plant hormones: Introduction, physiological effects of auxins, gibberellins and Cytokinins.
+  2.4 Plant hormones: Introduction, physiological effects of auxins, gibberellins and Cytokinins.
 
 - [2.4.1 Introduction](./botany/plant-physiology/plant-hormones/introduction/)
 - [2.4.2 Physiological Effects of Auxins, Gibberellins, and Cytokinins](./botany/plant-physiology/plant-hormones/physiological-effects/)
 
-2.5 Plant growth and movement: Concept on seed germination, dormancy, photoperiodism, vernalization, senescence; plant movements (tropic and nastic).
+  2.5 Plant growth and movement: Concept on seed germination, dormancy, photoperiodism, vernalization, senescence; plant movements (tropic and nastic).
 
 - [2.5.1 Concept on seed germination, dormancy, photoperiodism, vernalization, senescence](./botany/plant-physiology/plant-growth-movement/concept/)
 - [2.5.2 Plant Movements (Tropic and Nastic)](./botany/plant-physiology/plant-growth-movement/plant-movements/)
@@ -97,19 +97,19 @@ layout: "non_math_mode"
 - [3.1.4 DNA Replication](./botany/genetics/genetic-materials/dna-replication/)
 - [3.1.5 Introduction of Genetic Code](./botany/genetics/genetic-materials/genetic-code/)
 
-3.2 Mendelian genetics: General terminology, Mendel’s experiment and laws of inheritance, gene interactions (incomplete dominance, co-dominance).
+  3.2 Mendelian genetics: General terminology, Mendel’s experiment and laws of inheritance, gene interactions (incomplete dominance, co-dominance).
 
 - [3.2.1 General Terminology](./botany/genetics/mendelian-genetics/general-terminology/)
 - [3.2.2 Mendel’s Experiment and Laws of Inheritance](./botany/genetics/mendelian-genetics/mendels-experiment-laws/)
 - [3.2.3 Gene Interactions (Incomplete Dominance, Co-dominance)](./botany/genetics/mendelian-genetics/gene-interactions/)
 
-3.3 Linkage and crossing over: Concept and types of linkage (complete and incomplete), sex-linked inheritance (colour blindness in man and eye colour of Drosophila), concept and significances of crossing over.
+  3.3 Linkage and crossing over: Concept and types of linkage (complete and incomplete), sex-linked inheritance (colour blindness in man and eye colour of Drosophila), concept and significances of crossing over.
 
 - [3.3.1 Concept and Types of Linkage (Complete and Incomplete)](./botany/genetics/linkage-crossing-over/concept-types-linkage/)
 - [3.3.2 Sex-Linked Inheritance (Color Blindness in Man and Eye Color of Drosophila)](./botany/genetics/linkage-crossing-over/sex-linked-inheritance/)
 - [3.3.3 Concept and Significances of Crossing Over](./botany/genetics/linkage-crossing-over/crossing-over/)
 
-3.4 Mutation and polyploidy: Concept, type (gene and chromosomal mutation), importance of mutation (positive and negative), polyploidy (origin and significance).
+  3.4 Mutation and polyploidy: Concept, type (gene and chromosomal mutation), importance of mutation (positive and negative), polyploidy (origin and significance).
 
 - [3.4.1 Concept and Types of Mutation (Gene and Chromosomal Mutation)](./botany/genetics/mutation-polyploidy/concept-types-mutation/)
 - [3.4.2 Importance of Mutation (Positive and Negative)](./botany/genetics/mutation-polyploidy/importance-of-mutation/)

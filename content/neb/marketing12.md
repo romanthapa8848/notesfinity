@@ -1,5 +1,5 @@
 ---
-title: "Class 12 Marketing"
+title: "NEB Class 12 Marketing"
 author: "Roman Thapa"
 date: "2024-11-17"
 description: "This course introduces the fundamental concepts of marketing, including the marketing mix, product life cycle, market research, and consumer behavior, aimed at building a strong understanding of how businesses develop and execute marketing strategies."

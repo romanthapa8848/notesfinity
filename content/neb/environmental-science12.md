@@ -1,5 +1,5 @@
 ---
-title: "Class 12 Environmental Science"
+title: "NEB Class 12 Environmental Science"
 author: "Roman Thapa"
 date: "2024-11-16"
 description: "This course covers fundamental concepts in environmental science, including the relationship between humans and the environment, ecosystems, biodiversity, pollution, and conservation efforts."

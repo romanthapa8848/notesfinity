@@ -1,5 +1,5 @@
 ---
-title: "Class 11 Biology"
+title: "NEB Class 11 Biology"
 author: "Roman Thapa"
 date: "2024-10-04"
 description: "Comprehensive syllabus for NEB Class 11 Biology covering Biomolecules, Cell Biology, and Botany."

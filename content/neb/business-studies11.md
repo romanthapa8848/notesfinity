@@ -1,5 +1,5 @@
 ---
-title: "Class 11 Business Studies"
+title: "NEB Class 11 Business Studies"
 author: "Roman Thapa"
 date: "2024-11-17"
 description: "This course introduces students to the fundamentals of business, covering areas such as business organization, management functions, marketing, human resources, and financial management. The goal is to develop an understanding of business environments and management strategies."
