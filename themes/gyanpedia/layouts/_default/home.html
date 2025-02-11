@@ -6,7 +6,7 @@
     <title>Gyanpedia</title>
     <meta
       name="description"
-      content="Gyanpedia is a digital encyclopedia designed for Nepalese and Indian students, offering digital educational resources such as guides, notes, old question solutions, and syllabus coverage for NEB, CBSE, and more."
+      content="AI-powered digital encyclopedia."
     />
     <meta
       name="keywords"
@@ -62,14 +62,14 @@
         <div>
           <img id="logo" src="/logo.png" alt="Logo" />
         </div>
-        <script
-          async
-          src="https://cse.google.com/cse.js?cx=23becb6179af04ccb"
-        ></script>
         <div class="search-container">
-          <div class="gcse-searchbox-only"></div>
+          <input
+            type="text"
+            id="search-input"
+            placeholder="Enter your subject name or code"
+          />
+          <button id="search-button"><i class="fas fa-search"></i></button>
         </div>
-
         <div>
           <a href="/contribute">
             <button id="blog-button" class="blog-btn">Contribute</button>

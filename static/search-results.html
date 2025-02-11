@@ -20,6 +20,12 @@
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css"
     />
+    <!-- Google AdSense Script -->
+    <script
+      async
+      src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1728488366569054"
+      crossorigin="anonymous"
+    ></script>
     <!-- JS -->
     <script type="module" src="/js/results.js" defer></script>
     <script type="module" src="/js/search.js" defer></script>
@@ -44,11 +50,8 @@
         </div>
       </header>
       <main>
-        <script
-          async
-          src="https://cse.google.com/cse.js?cx=23becb6179af04ccb"
-        ></script>
-        <div class="gcse-searchresults-only"></div>
+        <h1>Search Results for: <span id="search-query"></span></h1>
+        <div id="results-container"></div>
       </main>
       <!-- Footer section -->
       <footer>
