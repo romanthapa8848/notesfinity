@@ -1,5 +1,5 @@
 ---
-title: "NEB Class 12 Chemistry"
+title: "NEB Class 12 Chemistry Guide"
 author: "Roman Thapa"
 date: "2024-10-17"
 description: "Explore detailed NEB Class 12 Chemistry notes with comprehensive coverage on key topics such as Physical Chemistry, Organic Chemistry, Inorganic Chemistry, and Environmental Chemistry. Perfect for students preparing for NEB exams."

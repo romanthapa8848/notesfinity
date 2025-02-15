@@ -1,5 +1,5 @@
 ---
-title: "NEB Class 11 Basic Business Finance"
+title: "NEB Class 11 Basic Business Finance Guide"
 author: "Roman Thapa"
 date: "2024-11-16"
 description: "This section covers the concept of time value of money, including the meaning of compounding, discounting, cash flow, annuities, and the calculations for present and future values of cash flows, along with loan repayment schedules."

@@ -1,5 +1,5 @@
 ---
-title: "NEB Class 12 Instructional Pedagogy and Evaluation"
+title: "NEB Class 12 Instructional Pedagogy and Evaluation Guide"
 author: "Roman Thapa"
 date: "2024-11-17"
 description: "This course focuses on the principles of instructional pedagogy, teaching methods, and evaluation techniques to enhance the teaching-learning process. It includes effective lesson planning, teaching strategies, classroom management, and evaluation of student performance."

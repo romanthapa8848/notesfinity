@@ -1,5 +1,5 @@
 ---
-title: "NEB Class 11 Child Development and Learning"
+title: "NEB Class 11 Child Development and Learning Guide"
 author: "Roman Thapa"
 date: "2024-11-17"
 description: "This course explores the key concepts in child development and learning processes, emphasizing the physical, cognitive, and emotional aspects of child growth and development."

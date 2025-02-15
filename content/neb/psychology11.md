@@ -1,5 +1,5 @@
 ---
-title: "NEB Class 11 Psychology"
+title: "NEB Class 11 Psychology Guide"
 author: "Roman Thapa"
 date: "2024-11-17"
 description: "This course introduces students to the basic concepts of psychology, including the study of human behavior, psychological processes, and the biological basis of behavior."
