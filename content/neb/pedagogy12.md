@@ -16,7 +16,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# NEB Class 12 Instructional Pedagogy and Evaluation
+# NEB Class 12 Instructional Pedagogy and Evaluation Guide
 
 ---
 

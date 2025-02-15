@@ -23,7 +23,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# NEB Class 12 Chemistry
+# NEB Class 12 Chemistry Guide
 
 ---
 

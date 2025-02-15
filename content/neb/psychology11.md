@@ -15,7 +15,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# NEB Class 11 Psychology
+# NEB Class 11 Psychology Guide
 
 ---
 

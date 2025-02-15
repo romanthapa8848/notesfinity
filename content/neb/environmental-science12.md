@@ -16,7 +16,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# NEB Class 12 Environmental Science
+# NEB Class 12 Environmental Science Guide
 
 ---
 

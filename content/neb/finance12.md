@@ -16,7 +16,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# NEB Class 12 Basic Business Finance
+# NEB Class 12 Basic Business Finance Guide
 
 ---
 

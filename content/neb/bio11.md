@@ -26,7 +26,7 @@ keywords:
 layout: "non_math_mode"
 ---
 
-# NEB Class 11 Biology
+# NEB Class 11 Biology Guide
 
 ---
 
